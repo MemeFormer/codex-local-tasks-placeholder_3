@@ -1,0 +1,276 @@
+# 📖 Fachbegriffe Deutsch ↔ Englisch
+
+Nachschlagewerk. Wenn du am Rad stehst und nicht weißt, wie etwas heißt: hier suchen.
+Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdrucke englisch** sind.
+
+> Benutzung: `Strg+F` im Editor / Browser und nach dem suchen, was du siehst
+> (z. B. „das Ding mit den Kugeln“ → Kugelkäfig → ball cage).
+
+---
+
+## Lenkkopf, Gabel, Lenker
+
+| Deutsch | Englisch | Erklärung / woran erkennbar |
+|---|---|---|
+| Steuerkopf / Steuerrohr | head tube | das kurze Rohr am Rahmen, durch das der Gabelschaft geht |
+| Steuersatz | headset | Gesamtheit der Lagerung: Schalen, Konen, Mutter |
+| Gabel | fork | |
+| Gabelschaft / Schaftrohr | steerer (tube) | das Rohr, das durchs Steuerrohr geht |
+| Gewindeschaft | threaded steerer | außen Gewinde, für Mutter + Kontermutter |
+| Gewindesteuersatz | threaded headset | 1" oder 1⅛" |
+| Ahead-Steuersatz | threadless / AheadSet | Schaft glatt, Vorbau klemmt außen, Kappe spannt vor |
+| Gabelkrone | fork crown | unteres Ende des Schafts, wo die Gabelscheiden zusammenlaufen |
+| Gabelscheiden / Gabelbeine | fork blades | |
+| Gabelvorlauf / Offset | fork rake / offset | |
+| Einbauhöhe | axle-to-crown length | Achse bis Krone – **bestimmt die Geometrie** |
+| Ausfallende (Gabel) | fork dropout / fork end | |
+| Lagerschale (im Rahmen eingepresst) | headset cup | |
+| Lagerkonus / Lagerschale (auf dem Schaft) | race / cone | das schräge Teil, auf dem die Kugeln laufen |
+| Kugeln / Kugelkäfig | balls / ball cage / bearing cage | |
+| **Kontermutter** | **locknut** | ⚠️ die fehlt dir wegen zu kurzem Schaft |
+| Einstellmutter / Mutter | adjustable nut / nut | |
+| Zahn-/Zackenring | toothed washer / lock washer | |
+| Vorbau | stem | |
+| **Quill-Vorbau / Schaftvorbau** | **quill stem** | wird **in** den Schaft gesteckt |
+| Innenkeil / Expander / Klemmkeil | wedge / expander bolt | zieht den Vorbau im Schaft fest |
+| Ahead-Vorbau | threadless stem | klemmt **außen** auf den Schaft |
+| Vorbaukappe / Spannschraube | top cap | nur bei Ahead |
+| winkelverstellbarer Vorbau | adjustable-angle stem | |
+| Faceplate / Lenkerklemmplatte | faceplate | die 2-/4-Schrauben-Platte vorne am Vorbau |
+| Lenker | handlebar | |
+| Lenker-Klemmdurchmesser | bar clamp diameter | 25,4 mm (alt/Standard) oder 31,8 mm (oversize) |
+| Lenkerbreite | bar width | |
+| Kröpfung / Biegung | sweep / bend | Backsweep (nach hinten), Upsweep (nach oben) |
+| Rise / Erhöhung | rise | Höhenversatz Lenkermitte → Griffbereich |
+| Griffe | grips | |
+| Lenkerendstopfen | bar end plugs | |
+| Lenkerenden (Hörnchen) | bar ends | |
+| Klemmung / Schelle | clamp | |
+
+## Antrieb & Schaltung
+
+| Deutsch | Englisch | Erklärung |
+|---|---|---|
+| Tretlager / Innenlager | bottom bracket (BB) | das Lager, in dem die Kurbelwelle läuft |
+| Tretlagergehäuse | BB shell | der Rahmenbereich |
+| Vierkant-Innenlager | square taper BB | |
+| Octalink / ISIS | Octalink / ISIS | verzahnte Wellen-Standards |
+| Hollowtech II | Hollowtech II | Shimano, außenliegende Lagerschalen, 24-mm-Welle |
+| Kurbel / Kurbelgarnitur | crank / crankset | |
+| Kurbelarm | crank arm | Länge: 165 / 170 / 175 mm |
+| Kettenblatt | chainring | Zähnezahl z. B. 48-38-28 |
+| Kettenblattschrauben | chainring bolts | |
+| Kurbelabzieher | crank puller / crank extractor | Werkzeug |
+| Tretkurbel-Keil | cotter pin | nur bei sehr alten Rädern |
+| Kette | chain | |
+| Kettenschloss / Kettengelenk | master link / quick link / connecting link | KMC MissingLink, SRAM PowerLock |
+| Kettennieter / Kettennietstift | chain pin / connecting pin | |
+| Kettennietdrücker | chain tool | Werkzeug |
+| Außenlasche / Innenlasche | outer plate / inner plate | |
+| Kettenlehre / Verschleißmesslehre | chain wear checker | 0,75 % / 1,0 % Verschleiß |
+| Kassette / Zahnkranzpaket | cassette | gesteckt, mit Lockring gesichert |
+| **Schraubkranz / Freilauf mit Schraubkranz** | **freewheel** | ⚠️ **wird aufgeschraubt** – braucht anderes Werkzeug als eine Kassette! |
+| Kassettenverschlussring | cassette lockring | wird **gegen** den Uhrzeigersinn gelöst |
+| Freilaufkörper | freehub body | das klickende Teil, auf das die Kassette gesteckt wird |
+| Freilaufklinken | pawls | |
+| Freilauf-Fett | freehub grease | spezielles, zähes Fett (sonst „klebt“ der Freilauf) |
+| HG-Spline | HG spline | Shimano-Verzahnung, 8/9/10-fach gleich |
+| Schalthebel | shifter | |
+| Drehgriffschalter | twist shifter / grip shift | |
+| Triggerhebel | trigger shifter / rapidfire | |
+| Brems-Schalthebel kombiniert | STI / brifter | nur Rennrad |
+| Schaltwerk | rear derailleur | hinten |
+| Umwerfer | front derailleur | vorne |
+| Schaltkäfig | cage | am Schaltwerk |
+| Schaltrollen / Leitrollen | jockey wheels / pulleys | obere = Leitrolle, untere = Spannrolle |
+| Schaltzug | shift cable / inner wire | |
+| Zughülle / Außenhülle | housing / outer cable | |
+| Zugendhülse | housing ferrule | |
+| Zugeinstellschraube / Barrel Adjuster | barrel adjuster | |
+| Zuganschlag am Rahmen | cable stop | |
+| Schaltwerk-Aufnahme / Schaltauge | derailleur hanger | **Verschleißteil!** |
+| Schaltauge richten | hanger alignment | |
+| B-Schraube / Abstützschraube | B-tension screw | Abstand Leitrolle → Ritzel |
+| H/L-Anschlagsschraube | limit screw (high / low) | |
+| Zugspannung | cable tension | |
+| Indexierung | indexing | |
+| Kettenspannung (bei Nabenschaltung) | chain tension | |
+| Pedale | pedals | Gewinde 9/16" Standard |
+| Klickpedale | clipless pedals | |
+| Pedalschlüssel | pedal wrench | 15 mm |
+| Kettenschutz / Hosenring | chainguard / chainring guard | |
+
+## Laufrad, Nabe, Reifen
+
+| Deutsch | Englisch | Erklärung |
+|---|---|---|
+| Laufrad | wheel | |
+| Nabe | hub | |
+| Nabendynamo | dynamo hub / hub dynamo | 6 V / 3 W |
+| Achse | axle | |
+| **Schnellspanner** | **quick release (QR)** | Hebel mit Spannmutter – 9 mm vorne, 10 mm hinten |
+| **Steckachse** | **thru axle** | ⚠️ **etwas anderes!** dicker, wird durch Gabel/Rahmen geschraubt |
+| Vollachse mit Muttern | solid axle with nuts | |
+| Konus | cone | einstellbare Lagerlauffläche, mit **Konusschlüssel** |
+| Konusschlüssel | cone wrench | dünner Maulschlüssel: 13/14/15/16/17 mm |
+| Kontermutter (Nabe) | locknut | |
+| Konuslager / Kugellager | cup-and-cone / loose ball bearing | |
+| Industrielager / Rillenkugellager | cartridge bearing / sealed bearing | |
+| Wellensicherung / Sprengring | circlip / snap ring / retaining ring | |
+| Distanzhülse | spacer / sleeve | |
+| Wellenscheibe / Federscheibe | wave washer / Belleville washer | ⚠️ **möglicherweise deine „kleine verlorene Feder“** |
+| Lagerfett | bearing grease | |
+| Kugelkäfig | ball cage / ball retainer | |
+| Staubkappe / Dichtung | dust cap / seal | |
+| Freilauf-Kontaktfeder | contact spring | bei Nabendynamo |
+| Speiche | spoke | |
+| Speichennippel | nipple | |
+| Speichenschlüssel | spoke wrench | Größen: 3,2 / 3,3 / 3,45 mm |
+| Einspeichung | lacing pattern | z. B. 3-fach gekreuzt |
+| Rundlauf / Seitenschlag | trueness / lateral truing | |
+| Höhen-/Seitenschlag | radial / lateral runout | |
+| Felge | rim | |
+| Felgenflanke / Bremsflanke | braking surface / sidewall | ⚠️ Verschleiß prüfen |
+| Felgenverschleißindikator | wear indicator | Rille oder Bohrloch im Felgenboden |
+| Felgenband | rim tape / rim strip | Breite = innere Felgenbreite |
+| Felgeninnenbreite | inner width | bestimmt mögliche Reifenbreite |
+| Felgenöse | eyelet | |
+| Reifen | tire | |
+| ETRTO-Größe | ETRTO size | z. B. **37-622** = 37 mm breit, 622 mm Felgendurchmesser |
+| Schlauch | inner tube | |
+| Ventil | valve | |
+| Sclaverand-Ventil / Presta | Presta / Sclaverand / French valve | dünn, mit Rändelmutter |
+| Autoventil / Schrader | Schrader / AV | dick, wie beim Auto |
+| Dunlop-Ventil / Blitzventil | Dunlop / DV | klassisch deutsch, Einsätze austauschbar |
+| Ventilverlängerung | valve extender | bei Hochprofilfelgen |
+| Felgenbremse | rim brake | |
+| Reifenheber | tire lever | |
+
+## Bremsen
+
+| Deutsch | Englisch | Erklärung |
+|---|---|---|
+| Bremshebel | brake lever | |
+| Bremsgriff | brake lever | umgangssprachlich |
+| Hebelgehäuse | lever body | |
+| **Pivot-Bolzen / Drehpunkt-Bolzen** | **pivot pin / pivot bolt** | ⚠️ dein Thema: Bolzen zwischen Hebeln tauschen |
+| **Rückholfeder (im Hebel)** | **return spring** | |
+| Griffweiten-Einstellung | reach adjustment | kleine Schraube/Inbus am Hebel |
+| Druckpunkt-Einstellung | bite point adjustment | |
+| Zugführung / Nocke | cable cam / noodle | bei V-Brake |
+| Bremszug | brake cable | |
+| Bremszughülle | brake housing | ⚠️ **gewickelte Spirale**, nicht wie Schaltzug-Hülle |
+| Bremskörper / Bremszange | brake caliper | |
+| **V-Brake** | **V-brake / linear pull** | lange Arme, direkter Zuganschluss |
+| Cantilever-Bremse | cantilever brake | kurze Arme, Mittelzug |
+| Seitenzugbremse | caliper brake / side pull | Rennrad |
+| Scheibenbremse | disc brake | |
+| Bremssockel / Sockel | brake boss / stud | M6-Gewindebolzen am Rahmen |
+| Federspannschraube | spring tension screw | kleine Schraube am Bremsarm |
+| Rückholfeder (am Bremsarm) | return spring | |
+| Bremsbelag / Bremsklotz | brake pad / brake shoe | |
+| Belagträger | pad holder | |
+| Bremsschuh-Einsatz | cartridge insert | |
+| Kugelgelenk / Konkav-Konvex-Scheiben | concave/convex washers | für die Belagsausrichtung |
+| Spur / Sturz (Belageinstellung) | toe-in | ⚠️ vorderer Belagsrand 0,5–1 mm näher an der Felge |
+| Schnellspanner an der Bremse | quick release (brake) | zum Laufradausbau |
+| Bremszug-Quetschhülse | cable end cap / Donut | |
+| Bowdenzug | Bowden cable | |
+
+## Licht / Elektrik
+
+| Deutsch | Englisch | Erklärung |
+|---|---|---|
+| Nabendynamo | hub dynamo | |
+| Seitenläufer-Dynamo | bottle dynamo / sidewall dynamo | |
+| Scheinwerfer / Frontlicht | headlight / front light | |
+| Rücklicht | tail light / rear light | |
+| Standlicht | standlight / capacitor backup | Kondensator hält Licht im Stand |
+| Flachstecker | spade connector / flat terminal | meist **6,3 × 0,8 mm** |
+| Rundstecker / Quetschverbinder | ring terminal / crimp connector | |
+| Kabelschuh | crimp terminal | |
+| Schrumpfschlauch | heat shrink tubing | |
+| Lötzinn | solder | |
+| Litze / Ader | stranded wire | |
+| Masse / Rahmenmasse | ground / frame ground | |
+| Kurzschluss | short circuit | |
+| Durchgangsprüfer / Multimeter | multimeter | |
+| Kabeldurchführung | cable guide | |
+| Kabelclip / Kabelbinder | cable clip / zip tie | |
+| Licht-Kabeldurchführung im Schutzblech | integrated cable channel | |
+
+## Rahmen, Anbauteile, Kleinteile
+
+| Deutsch | Englisch | Erklärung |
+|---|---|---|
+| Rahmen | frame | |
+| Ausfallende | dropout | dort sitzt die Achse |
+| Schaltauge | derailleur hanger | |
+| Kettenstrebe | chainstay | |
+| Sitzstrebe | seatstay | |
+| Unterrohr / Oberrohr / Sitzrohr | down tube / top tube / seat tube | |
+| Steuerrohr | head tube | |
+| Zuganschlag / Zugführung | cable stop / cable guide | |
+| Öse / Gewindeöse | eyelet / braze-on | |
+| Schutzblech / Kotflügel | fender (US) / mudguard (UK) | |
+| Schutzblechstreben | fender stays | |
+| **V-Streben** | **V-stays / R-stays** | zwei Streben, die sich V-förmig treffen |
+| Schutzblechschelle / Universal-Schelle | fender clamp / universal bracket | |
+| Sicherheits-Auslösekupplung | safety break-away | Sollbruchstelle vorne am Kotflügel |
+| Strebenhalter / Winkelhalter | strut bracket / angle bracket | |
+| Ständer | kickstand | |
+| Ständeraufnahme | kickstand mount | |
+| **KSA 40** | **KSA 40** | Standard: Aufnahme am Ausfallende, **40 mm** Lochabstand |
+| Pletscher-Platte | Pletscher plate | verstellbare Ständerplatte an der Kettenstrebe |
+| Hinterbauständer | rear/center stand | an den Sitzstreben |
+| Gepäckträger | rear rack / carrier | |
+| Sattel | saddle | |
+| Sattelstütze | seatpost | |
+| Sattelklemme | seat clamp | |
+| Sattelgestell | saddle rails | |
+| Distanzscheibe / Unterlegscheibe | washer / spacer | |
+| Federring / Zahnscheibe | spring washer / toothed washer | |
+| Sicherungsmutter | locknut | |
+| Inbus / Innensechskant | Allen / hex | |
+| Schraubensicherung | threadlocker | Loctite **243 blau** = mittelfest/lösbar, **270 rot** = permanent |
+| Anti-Seize / Montagepaste | anti-seize compound | für Alu/Gewinde, **nicht** für Carbon |
+| Carbon-Montagepaste | carbon assembly paste | erhöht Reibung |
+
+## Werkzeug
+
+| Deutsch | Englisch | wofür |
+|---|---|---|
+| Konusschlüssel | cone wrench | Nabenlager einstellen (13/14/15/16/17 mm) |
+| Steuersatzschlüssel | headset wrench | dünne Mutter am Gewindesteuersatz (26/30/32/36 mm) |
+| Kassettenabzieher | cassette lockring tool | Shimano HG: 12-Spline, Ø ca. 23 mm |
+| **Kettenpeitsche** | **chain whip** | ⚠️ **hält die Kassette fest** – ohne die dreht sich alles mit! |
+| Schraubkranzabzieher | freewheel remover | nur für Freewheel (nicht Kassette!) |
+| Innenlager-Werkzeug | BB tool | z. B. Shimano Splined 20 mm, Hollowtech, 3-Loch-Schlüssel |
+| Kurbelabzieher | crank puller | |
+| Kettennieter | chain tool | |
+| Pedalschlüssel | pedal wrench | 15 mm |
+| Speichenschlüssel | spoke wrench | |
+| Drehmomentschlüssel | torque wrench | für Alu/Vorbau/Sattelstütze wichtig |
+| Reifenheber | tire lever | |
+| Standpumpe / Standluftpumpe | floor pump | mit Manometer |
+| Messschieber | caliper | das wichtigste Messwerkzeug überhaupt |
+| Standluftpumpe mit Manometer | gauge | |
+| Zentrierständer | truing stand | |
+| Entgrater / Feile | file / deburring tool | für geschnittene Zughüllen |
+| Lötkolben | soldering iron | |
+| Crimpzange | crimping tool | für Flachstecker |
+
+## „Was ist das?“ – schnelle Zuordnung
+
+| Du siehst … | Das ist … |
+|---|---|
+| dünnes Rohr mit Gewinde außen, Kugeln laufen drauf | Gabelschaft mit Lagerkonus (threaded steerer + race) |
+| zwei dünne Muttern übereinander | Mutter + Kontermutter (nut + locknut) |
+| runde, dünne Scheibe mit Wellenform | Wellenscheibe (wave washer) – Lager-Vorspannung |
+| kleiner Metallring, der in eine Nut eingerastet ist | Sprengring / Sicherungsring (circlip) |
+| Teil mit Klickgeräusch, auf das Zahnkränze gesteckt werden | Freilaufkörper (freehub body) |
+| aufgeschraubter Zahnkranzblock mit Ratsche **in einem Stück** | Schraubkranz (freewheel) – **keine** Kassette! |
+| dünne Blechstreifen, die sich V-förmig treffen | Schutzblechstreben (V-stays) |
+| Bolzen mit kleinem Hebel und Rändelmutter | Schnellspanner (quick release) |
+| kleine Schraube am Bremsarm, die in den Rahmen ragt | Federspannschraube (spring tension screw) |
+| Blechstück am Ausfallende, an dem das Schaltwerk hängt | Schaltauge (derailleur hanger) |

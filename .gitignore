@@ -1,0 +1,26 @@
+# Fotos / Scans: lokal behalten, nicht ins Repo (Datenvolumen)
+fotos/
+bilder/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic
+*.pdf
+
+# generierte Druckausgabe
+PRINT-ALLES.md
+druck/
+
+# Betriebssystem / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
