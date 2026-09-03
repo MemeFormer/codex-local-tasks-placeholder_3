@@ -160,11 +160,30 @@ Machbar, aber: Kronen-Auspresswerkzeug + Presswerkzeug nötig, Schaft muss exakt
 Lohnt sich nur bei einer sehr guten/teuren Gabel. Deine ursprüngliche Entscheidung
 („nicht gemacht – unnötig und riskant“) war richtig.
 
+### 💡 Variante B ist besser als sie klingt – sie löst zwei Baustellen gleichzeitig
+
+Wenn die **weiße Original-Gabel** noch vorhanden ist, passt nicht nur der Schaft wieder
+(sie war ja original in diesem Rahmen), sondern **auch der Bremssockel** – die guten weißen
+Bremsarme vorne würden wieder passen.
+
+| Baustelle | mit schwarzer Gabel | mit weißer Original-Gabel |
+|---|---|---|
+| Zu wenig Gewinde für die Kontermutter | ⚠️ Provisorium mit Loctite | ✅ original passend |
+| Weiße Bremsarme passen nicht auf den Sockel | ⚠️ schwarze Arme (zu weich) | ✅ original passend |
+| Schutzblech-Befestigung vorne | ✅ passte „easy“ (Ösen der schwarzen Gabel) | ⚠️ neu lösen: Universal-/P-Schellen, 💰 3–8 € |
+| Lenkgeometrie | ⚠️ evtl. verändert (nervös) | ✅ original |
+
+**🔴 Erste Frage also: Wo ist die alte weiße Gabel?**
+
 ### Empfehlung
 
-**Kurzfristig: Variante A** (flache Steuersatz-Mutter aus dem Fachhandel + Loctite + Kontrollroutine).
-**Mittelfristig: Variante C** (gebrauchte Gabel mit passendem, langem Gewindeschaft).
-**Variante A + C kombinieren**, weil die neue Gabel sowieso eine Kontermutter braucht.
+1. **Sofort (0 €):** Kontrollroutine + Loctite auf **entfettetem** Gewinde neu auftragen
+   + Lackstift-Markierung + 🔴 **Vorbau-Einstecktiefe prüfen**
+2. **Kurzfristig (💰 3–10 €): Variante A** – flache Steuersatz-Mutter aus dem Fachhandel
+   ⚠️ **1" × 24 tpi bzw. 1⅛" × 24 tpi – kein Metrik-Gewinde, nicht aus dem Baumarkt!**
+3. **Mittelfristig: Variante B** (alte weiße Gabel zurück, falls vorhanden) –
+   **löst auch Baustelle #5 (Bremsarme vorne)**
+4. **Sonst Variante C** (gebrauchte Gabel mit passendem, langem Gewindeschaft)
 
 ---
 

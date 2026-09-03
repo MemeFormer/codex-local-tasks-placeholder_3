@@ -6,12 +6,70 @@
 von der Felge weg. Die Bremse schleift, der Hebel fühlt sich „klebrig“ an.
 
 **Besonderheit:** Zange, Federn **und** Zug wurden **original** übernommen – die Zange war
-vorher also vermutlich okay. → **Wahrscheinlichste Ursache: Reibung im Zug/Hüllensystem
-durch die neue Verlegung**, oder eine Belag/Felgen-Kante, an der es hakt.
+vorher also vermutlich okay. **ABER: die Bremsbeläge wurden gegen die (gebrauchten) Beläge vom
+Spenderrad getauscht**, weil die weißen „ziemlich runter“ waren.
+
+> 🔴 **Korrigierte Hauptaussage: Die Beläge sind der Hauptverdächtige**, nicht der Zug.
+> Sie sind das Einzige an der hinteren Bremse, was sich geändert hat. Deshalb: **erst
+> Abschnitt 0 (Beläge) prüfen**, dann die Binärsuche unten.
 
 > ⚠️ **Sicherheitsrelevant:** Eine nicht zurückkehrende Bremse wird bei längerer Bergabfahrt
 > heiß → Felge erhitzt → Reifen kann platzen, Beläge verglasen. Bis zur Reparatur:
 > vorausschauend fahren, keine langen Abfahrten mit schleifender Bremse.
+
+---
+
+## 0. 🔴 Zuerst: die getauschten Beläge prüfen (10 min, 0 €)
+
+Was bei einem Belagwechsel schiefgehen kann – und genau dieses Symptom erzeugt:
+
+| # | Fehler | Warum die Bremse dann nicht zurückkehrt | Test |
+|---|---|---|---|
+| 0.1 | **Konvex-/Konkavscheiben falsch herum oder vertauscht** | Der Belag kann nicht richtig schwenken, steht schräg zur Felge und **verkantet** beim Rückstellen | Belagträger zerlegen, Reihenfolge prüfen (unten) |
+| 0.2 | **Beläge zu kurz** (Canti-Beläge ~55–65 mm statt V-Brake ~70 mm) | Sie liegen nicht voll auf der Bremsflanke, die Kante gräbt sich ein und bleibt hängen | Länge messen |
+| 0.3 | **Belag zu dick / falsche Form** | zu wenig Freigängigkeit, schleift an der Felgenkante | Sichtprüfung |
+| 0.4 | **Belag steht zu hoch oder zu tief** | trifft die Felgenoberkante oder die **scharfe Kante der abgefahrenen Bremsflanke** → hakt beim Rückstellen | Belag **komplett** auf die Bremsflanke setzen |
+| 0.5 | **Belag verhärtet / verglast** (lange Standzeit am Spenderrad) | kein Grip, und die Kante bleibt an der Felge kleben | Belag ansehen: glänzend, hart, rissig? |
+| 0.6 | **Belag berührt den Reifen** | Gummi reibt, der Arm wird gebremst | Sichtprüfung bei drehendem Rad |
+| 0.7 | Belagschraube zu fest / Belagträger verdreht | Belag kann sich nicht ausrichten | lösen, neu positionieren |
+
+### Korrekte Scheiben-Reihenfolge am V-Brake-Belagbolzen
+
+```
+Bremsarm
+  |  Konkavscheibe (nach außen gewölbt)
+  |  Konvexscheibe  - DÜNN   <- gehört auf die Arm-Seite
+  |  -- Belagträger mit Belag --
+  |  Konvexscheibe  - DICK   <- gehört nach außen
+  |  Konkavscheibe
+  |  Unterlegscheibe
+  +  Mutter
+```
+
+⚠️ Dünn und dick vertauscht = der Belag kann nicht schwenken = verkantet = **Bremse kehrt
+nicht zurück**. Das ist einer der häufigsten Fehler nach einem Belagwechsel.
+
+### Prüf-Protokoll Beläge
+
+| ☐ | Prüfung | Ergebnis |
+|---|---|---|
+| ☐ | Länge der Spenderrad-Beläge | ❓ ____ mm (V-Brake ≈ 70 mm) |
+| ☐ | Konvex/Konkav-Reihenfolge: dünn am Arm, dick außen? | ❓ |
+| ☐ | Belag liegt **komplett** auf der Bremsflanke? | ❓ |
+| ☐ | Belag berührt den Reifen? | ❓ 🔴 |
+| ☐ | Belag berührt die Felgenober-/unterkante? | ❓ 🔴 |
+| ☐ | Belag steht senkrecht zur Felge (nicht verdreht)? | ❓ |
+| ☐ | Belagmaterial weich/griffig oder hart/glänzend? | ❓ |
+| ☐ | Felgenkante scharfkantig (abgefahrene Bremsflanke)? | ❓ 🔴 |
+| ☐ | Abstand Belag → Felge = 1 mm? | ❓ ____ mm |
+
+**Wenn hier etwas nicht stimmt → erst das beheben, dann erneut testen.** Sehr wahrscheinlich
+ist die Baustelle damit schon erledigt.
+
+💡 **Zusatz-These:** Falls die Felgen-Bremsflanke abgefahren ist (Baustelle #9), hat sie eine
+**scharfe Kante**. Die neuen (ungebrauchten, weichen) Spenderrad-Beläge graben sich an dieser
+Kante fest – die alten, eingelaufenen Beläge hatten sich an die Kante „angepasst“. Das passt
+zeitlich exakt zum Auftreten des Problems.
 
 ---
 
@@ -65,6 +123,7 @@ Hebel drücken und loslassen: schnappt er kräftig und vollständig zurück?
 | A3 | **Pivot-Bolzen der Zange trocken/rostig** | Zange vom Sockel abschrauben, Bolzen ansehen | Bolzen raus, Rost entfernen, **dünn fetten**, wieder montieren (nicht zu fest!) |
 | A4 | Zange zu fest am Bremssockel angezogen | Zange dreht sich schwergängig auf dem Sockel | Schraube lösen, Sockel + Zange reinigen/fetten, mit 6–8 Nm anziehen |
 | A5 | **Beläge haken an der Felgenkante** | 🔴 Bei **abgefahrener Bremsflanke** entsteht eine scharfe Kante, an der der Belag hängen bleibt | Belag tiefer setzen / Felge tauschen |
+| A5b | 🔴 **Fremde Beläge** (vom Spenderrad): Konvex/Konkav vertauscht, zu kurz, verhärtet | → **siehe Abschnitt 0** | Beläge korrekt montieren oder neue V-Brake-Beläge (💰 6–15 €) |
 | A6 | Belag sitzt zu nah an der Felge | Abstand < 0,5 mm | auf **1 mm** einstellen |
 | A7 | Belag verbogen / Träger ausgeschlagen | Sichtprüfung | Beläge tauschen |
 | A8 | Felge hat Seitenschlag | Felge beobachten | zentrieren |
@@ -82,12 +141,13 @@ typisch ±2–3 Umdrehungen. Ist er am Ende → Feder in ein anderes Loch / neue
 
 ---
 
-## B. Wenn Zug oder Hülle das Problem sind (wahrscheinlichster Fall!)
+## B. Wenn Zug oder Hülle das Problem sind (zweithäufigster Fall)
 
 ### B1. Ursachen-Ranking
 
 | # | Ursache | Warum bei deinem Umbau wahrscheinlich |
 |---|---|---|
+| B0 | 🔴 **Beläge vom Spenderrad** – Konvex/Konkav vertauscht, zu kurz, verhärtet | **einzige Änderung an der hinteren Bremse!** → Abschnitt 0 |
 | B1 | **Hülle zu lang** → enger Bogen → Reibung | neue Verlegung am weißen Rad, andere Geometrie |
 | B2 | **Hülle zu kurz** → straffer Zug → Knick | dito |
 | B3 | **Hüllenende verquetscht / nicht entgratet** | beim Neuverlegen geschnitten, Enden nicht gefeilt |
@@ -165,11 +225,13 @@ typisch ±2–3 Umdrehungen. Ist er am Ende → Feder in ein anderes Loch / neue
 | C5 | Hebelgehäuse ausgeschlagen | neue Hebel |
 | C6 | Zug-Klemmung am Hebel verquetscht | Zug neu |
 
-> 💡 **Zusammenhang mit Baustelle #4:** Deine schwarzen Hebel sind „weicher und die Federn
-> zu schwach“. Wenn **derselbe Hebel** auch für die Rückstellung der hinteren Bremse
-> verantwortlich ist, dann ist Baustelle #3 und #4 **vermutlich dieselbe Ursache**!
-> → Prüfe: Ist der hintere Bremshebel einer der schwarzen? Wenn ja: **Hebel tauschen**
-> löst evtl. beide Probleme auf einmal.
+> ✅ **Geklärt:** Am Lenker sind **beide Bremshebel vom weißen Rad** (die guten). Die
+> „weichen schwarzen Hebel“ aus der Ursprungs-Zusammenfassung sind die **Bremsarme vorne**,
+> nicht die Bremshebel. Baustelle #4 ist damit ein anderes Thema:
+> [`vordere-bremsarme-sockel.md`](vordere-bremsarme-sockel.md)
+>
+> **Falls der Hebel trotzdem nicht richtig zurückkommt** (Abschnitt C), liegt es an Hebel,
+> Pivot-Bolzen, Griffweitenschraube oder Zug – aber **nicht** an der Federspannschraube der Zange.
 
 ---
 
@@ -188,6 +250,7 @@ typisch ±2–3 Umdrehungen. Ist er am Ende → Feder in ein anderes Loch / neue
 | 9 | Federspannschrauben: Verstellweg noch vorhanden? | ❓ |
 | 10 | Belagabstand eingestellt auf 1 mm? | ❓ |
 | 11 | Hakt der Belag an der Felgenkante (abgefahrene Flanke)? | ❓ 🔴 |
+| 11b | **Spenderrad-Beläge: Länge, Konvex/Konkav-Reihenfolge, Härte?** (Abschnitt 0) | ❓ 🔴 |
 | 12 | Rückholfeder der Zange korrekt eingehängt (kurzes Ende im Sockel)? | ❓ |
 
 **Ursache:** ____________________________

@@ -8,7 +8,7 @@
 
 | Feld | Wert |
 |---|---|
-| Hersteller | ❓ TODO |
+| Hersteller | ❓ TODO – „irgendwas Deutsches“, muss noch nachgeschaut werden |
 | Modell | ❓ TODO |
 | Baujahr | ❓ TODO |
 | Rahmennummer | ❓ TODO |
@@ -35,7 +35,9 @@
 | Gabel | Gewindegabel, Schaft ❓ Ø ____ mm | Weiß (Rahmen) | ⚠️ Schaft zu kurz für weißen Steuerkopf |
 | Vorbau | **Quill-Vorbau** (Schaftvorbau mit Innenkeil/Expander), winkelverstellbar, Faceplate | Weiß | ✅ montiert |
 | Lenker | ❓ City-/Trekkinglenker, Breite ____ mm, Klemm-Ø ____ mm | Weiß | ✅ montiert, Ergonomie offen |
-| Bremshebel | ❓ Modell ____ | Weiß? ❓ prüfen | ⚠️ zu weich, Federn zu schwach |
+| **Bremsarme vorne** (V-Brake) | ❓ Modell ____ | ✅ **ins weiße Rad, vorne** | ⚠️ zu weich, Federn schwach |
+| **Bremsbeläge** | ❓ Länge/Form ____ | ✅ **ins weiße Rad, hinten** | 🔴 Hauptverdacht: hintere Bremse kehrt nicht zurück |
+| Bremshebel (am Lenker) | ❓ | ❌ **nicht** übernommen – die weißen blieben | ✅ |
 | Schutzbleche (vorne + hinten) | Metall, mit **V-Streben**, verstellbare Halter, integrierte Kabelführung Rücklicht | Weiß | ✅ montiert |
 | Rücklicht-Kabel mit Flachsteckern | 2-adrige Leitung, **Flachstecker 6,3 mm** | Weiß | ✅ Stecker entfernt, neu gelötet |
 | Hinterrad (Felge + City-Reifen + Nabe) | ❓ Felge ____ / Nabe ____ | ❌ **nicht** übernommen | Kassette saß fest |
@@ -51,7 +53,9 @@
 | Umwerfer | ❓ | ❓ | |
 | Schaltwerk 8-fach | ❓ | ❌ (9-fach-Schaltung bleibt) | |
 | Schalthebel 3×8 | ❓ | ❌ | |
-| Bremskörper vorne/hinten | ❓ Typ: V-Brake? | ❓ | |
+| Bremsarme vorne | ✅ **V-Brake** | ✅ im weißen Rad verbaut | |
+| Bremsarme hinten | ❓ V-Brake | ❌ nicht übernommen | |
+| Bremsbeläge (Reserve) | ✅ vorhanden | ✅ hinten im weißen Rad verbaut | ⚠️ Länge/Form prüfen: V-Brake ≈ 70 mm |
 | Bremszüge + Hüllen | ❓ Zustand | ✅ als Ersatz | |
 | Sattel + Sattelstütze | ❓ | ✅ als Ersatz | |
 | Pedale | ❓ | ✅ als Ersatz | |

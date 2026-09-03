@@ -39,6 +39,8 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 | ☐ | Reifenheber | 2–3 Stück | Reifen |
 | ☐ | Standpumpe mit Manometer | | Reifen |
 | ☐ | Zughüllenschneider | – | saubere Hüllenenden |
+| ☐ | Schleifleinen 400/600 | – | 💡 Bremssockel entlacken (Baustelle 5) |
+| ☐ | Gabelschlüssel | ❓ Größe | nur falls der Bremssockel eingeschraubt ist (Alugabel) |
 | ☐ | Kettenlehre | 0,5 / 0,75 / 1,0 % | Verschleiß |
 | ☐ | Drehmomentschlüssel | 2–25 Nm | Alu-Teile |
 | ☐ | Zentrierständer | – | optional |
@@ -88,11 +90,12 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 
 | Baustelle | Fehlendes Werkzeug | Fehlendes Material | Fehlende Information |
 |---|---|---|---|
-| 1 – Vorderrad | ❓ Konusschlüssel ____ mm | Fett | ❓ Nabentyp (Dynamo?) |
-| 2 – Hinterrad | ❓ Konusschlüssel ____ mm | Fett, Ersatzfeder | ❓ Was war die Feder? |
-| 3 – Bremse hinten | Zughüllenschneider | Bremszug + Hülle + Endhülsen | ❓ Zug-Ø 1,2 oder 1,5 mm |
-| 4 – Bremshebel | Messschieber | ggf. neue Hebel | ❓ Modellnummern + Zugweg |
-| 5 – Steuersatz | Steuersatzschlüssel | flache Mutter, Loctite | ❓ 1" oder 1⅛", Gewindesteigung |
+| ~~1 – Vorderrad~~ | ✅ **entfällt** – Nabendynamo, Verhalten ist normal | – | ✅ geklärt |
+| 2 – Vorderrad-Verifikation | – | – | nur Drehen/Fühlen, kein Werkzeug |
+| 3 – Bremse hinten | Inbus 4/5, Zughüllenschneider | ggf. neue V-Brake-Beläge, ggf. Bremszug 1,5 mm + Hülle 5 mm | ❓ Belaglänge, Scheiben-Reihenfolge |
+| 4 – Bremsarme vorne | Inbus 4/5, 400er Schleifleinen | Fett, ggf. neue V-Brake | ❓ Magnet-Test Gabel (Stahl/Alu), Sockelhöhe |
+| 5 – Hinterrad-Lager | Konusschlüssel ❓ Größe | Fett, QR-Feder | ❓ Was war die Feder? |
+| 6 – Steuersatz | Steuersatzschlüssel | flache Mutter, Loctite, Bremsenreiniger | ❓ 1" oder 1⅛", Gewindesteigung |
 | 6 – Ständer | | Distanzscheiben | ❓ Lochabstand, Kipprichtung |
 | 8 – Kette | Kettennieter | 9-fach-Kette | ❓ Kettenstrebenlänge, Zähnezahlen |
 | 9 – Felge | Messschieber | | ❓ Verschleißindikator |
@@ -104,7 +107,9 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 
 | Teil | Wo gelagert | Notiz |
 |---|---|---|
-| Alte Gabel vom weißen Rad | ❓ | 💡 evtl. Schaft lang genug → Lösung für Baustelle 5! |
+| 🔴 **Alte Gabel vom weißen Rad** | ❓ **WO IST SIE?** | 💡💡 **löst Baustelle 5 (Bremssockel) UND 6 (Gewinde) gleichzeitig!** Schaftlänge + Bremssockel wären wieder original passend |
+| Ausgebaute weiße Bremsarme vorne | ❓ | 💡 Federn als Spender für die schwarzen Arme; Bremsarme selbst wieder verwendbar, falls die Originalgabel zurückkommt |
+| Alte weiße Bremsbeläge („ziemlich runter“) | ❓ | Vergleichsmaß für die Spenderrad-Beläge (Länge/Form) |
 | Ausgebaute Bremshebel | ❓ | Ersatz / Spender für Bolzen + Federn |
 | Alte Kette | ❓ | als Maß für spätere Kettenlänge (nach Neukauf wegwerfen) |
 | Flachstecker-Reste | ❓ | |

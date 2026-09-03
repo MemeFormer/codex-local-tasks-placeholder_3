@@ -195,7 +195,36 @@ Steht sie zu weit rein, arbeitet der Hebel in einem ungünstigen Bereich der Rü
 4. Passende Feder einsetzen – **gleiche Einbaulage**
 5. Funktion prüfen: Hebel muss **von selbst komplett zurück**
 
-### 4.4 Feder nachbiegen (Notlösung)
+### 4.4 Federspannschrauben vs. Federraste – der entscheidende Unterschied
+
+> 🔴 **Das wird fast immer verwechselt.** Wenn „die kleinen Stellschrauben wirklich nur
+> wenig ändern“, ist das **konstruktiv normal** und kein Defekt.
+
+| Stellgröße | Wo | Verstellweg | Zweck |
+|---|---|---|---|
+| **Federspannschraube** | kleine Schraube am Bremsarm | ca. **±2–3 Umdrehungen** | **Zentrierung** – beide Arme gleich weit von der Felge |
+| **Federraste** | Federstift am Bremsarm → **eine von 3 Bohrungen** im Bremssockel | **3 Positionen** | 🔴 **echte Federvorspannung / Rückstellkraft** |
+
+**Die Federraste ist die Maßnahme, die bei „Federn zu schwach“ wirklich etwas bringt.**
+Aufwand 10 min, Kosten 0 €.
+
+**Ablauf:**
+
+1. Bremsbefestigungsschraube (M6-Inbus) lösen, Bremsarm vom Sockel abziehen
+2. Federspannschraube ganz herausdrehen (damit sie nicht im Weg ist)
+3. Bremsarm wieder aufsetzen, **Federstift in ein anderes der 3 Löcher** setzen
+4. ⚠️ **Beide Arme in dasselbe Loch** – sonst zieht die Bremse einseitig
+5. Federspannschraube wieder auf Mittelstellung, danach fein zentrieren
+6. Test: Arme von Hand zusammendrücken und loslassen → müssen **kräftig und komplett**
+   zurückschnappen
+
+**Zusätzlich immer machen:** Bremssockel und Bremsarm-Buchse **reinigen und dünn fetten**.
+Ein trockener, angerosteter Sockel ist eine der häufigsten Ursachen für schwergängige
+Bremsarme – und dafür, dass ein Bremsarm „nicht auf die Aufnahme passt“.
+
+→ Details inkl. Bremssockel-Tausch: [`../04-diagnose/vordere-bremsarme-sockel.md`](../04-diagnose/vordere-bremsarme-sockel.md)
+
+### 4.5 Feder nachbiegen (Notlösung)
 
 | Regel | Detail |
 |---|---|
@@ -211,7 +240,11 @@ Steht sie zu weit rein, arbeitet der Hebel in einem ungünstigen Bereich der Rü
 
 ---
 
-## 5. 🔴 Zugweg-Prüfung (warum „weiche Hebel“ oft ein Systemfehler sind)
+## 5. Zugweg-Prüfung (warum „weiche Hebel“ oft ein Systemfehler sind)
+
+> ✅ **Bei diesem Rad bereits geklärt:** Es sind **V-Brakes** und die **Bremshebel am Lenker
+> sind die originalen weißen** (long pull). Die Zugweg-Falle entfällt damit.
+> Der Abschnitt bleibt als Referenz stehen, falls später Hebel oder Zangen getauscht werden.
 
 | Hebel-Typ | Zugweg pro Hebelbewegung | passt zu |
 |---|---|---|

@@ -18,54 +18,95 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 | Ein Maß am Rad ablesen und eintragen | [`04-messdaten/messdatenblatt.md`](04-messdaten/messdatenblatt.md) |
 | Eine konkrete Anleitung (Lager einstellen, Bremse …) | [`05-anleitungen/`](05-anleitungen/) |
 | Nachlesen, was ich wann gemacht habe | [`06-logbuch/`](06-logbuch/) |
-| Alles auf einmal ausdrucken | [`tools/generate-print-sheet.py`](tools/generate-print-sheet.py) |
+| Alles auf einmal ausdrucken | `python3 tools/generate-print-sheet.py` |
 
 ---
 
-## 🚴 Die beiden Räder (Arbeitsnamen)
+## 🚴 Die beiden Räder
 
 | Arbeitsname | Beschreibung | Rolle | Stammdaten |
 |---|---|---|---|
-| **Weißes Trekkingbike** | 3×9 (27 Gänge), Shimano, Gewindesteuersatz → jetzt mit schwarzer Gabel | **Hauptbike / Zielrad** | [`01-bikes/weisses-trekkingbike.md`](01-bikes/weisses-trekkingbike.md) |
-| **Schwarzes Spenderrad** | 3×8, Metall-Schutzbleche, winkelverstellbarer Vorbau, breiterer Lenker | **Teileträger** | [`01-bikes/schwarzes-spenderrad.md`](01-bikes/schwarzes-spenderrad.md) |
+| **Weißes Trekkingbike** | ✅ **STAIGER** (Stuttgart/Gerlingen, später Winora-Staiger) · 3×9 (27 Gänge), Shimano · **V-Brake** · **Nabendynamo** · Gewindesteuersatz → jetzt mit schwarzer Gabel | **Hauptbike / Zielrad** | [`01-bikes/weisses-trekkingbike.md`](01-bikes/weisses-trekkingbike.md) |
+| **Schwarzes Spenderrad** | ❓ deutsche Marke (muss noch nachgeschaut werden) · 3×8 · Metall-Schutzbleche · winkelverstellbarer Vorbau · Felge + City-Reifen · Gabel · Bremsarme vorne | **Teileträger** | [`01-bikes/schwarzes-spenderrad.md`](01-bikes/schwarzes-spenderrad.md) |
 
-> **TODO ganz am Anfang:** echte Hersteller / Modell / Baujahr / Rahmennummer eintragen
-> (steht meist unter dem Tretlagergehäuse eingestanzt). Danach sind viele Maße online
-> recherchierbar statt mühsam messbar. Siehe [`01-bikes/README.md`](01-bikes/README.md).
+> Modell + Baujahr noch eintragen (Typenschild, Rahmennummer unter dem Tretlagergehäuse).
+> Über die Komponenten grob eingrenzbar: 3×9 Shimano + Nabendynamo + V-Brake → **ca. 2000–2008**.
+> Siehe [`01-bikes/README.md`](01-bikes/README.md).
+
+### Was von welchem Rad stammt (aktuelle Mischkonfiguration)
+
+| Position | Bauteil | Herkunft |
+|---|---|---|
+| Lenker | **Bremshebel** (die „Armaturen“) | ✅ **weiß** (original, gut) |
+| Lenker | Lenker + Griffe | ⚠️ **schwarz** (breiter, geschwungener) |
+| Lenker | Vorbau | ⚠️ **schwarz** (Quill, winkelverstellbar, Faceplate) |
+| Vorne | Gabel | ⚠️ **schwarz** (Schaft zu kurz → Gewinde-Problem) |
+| Vorne | Laufrad | ✅ **weiß** (**Nabendynamo**) |
+| Vorne | **Bremsarme** | ⚠️ **schwarz** (zu weich – weiße passten nicht auf den Sockel) |
+| Hinten | Laufrad + Kassette | ✅ **weiß** (original, 9-fach) |
+| Hinten | **Bremsarme** | ✅ **weiß** (original, gut) |
+| Hinten | **Bremsbeläge** | ⚠️ **schwarz** (weiße waren runter) 🔴 |
+| Beide | Schutzbleche (Metall, V-Streben) | ⚠️ **schwarz** |
+| Beide | Lichtkabel | ✅ neu gelötet, am weißen Rad verlegt |
 
 ---
 
 ## 🔴 Sicherheitsrelevant (bitte zuerst prüfen)
 
-1. **Steuersatz-Gewinde** – oben stehen nur noch 1–2 Gewindegänge über, es gibt aktuell
+1. **Quill-Vorbau-Einstecktiefe** 🔴 Wenn der Gabelschaft nur 1–2 Gewindegänge übersteht,
+   könnte der Schaftvorbau **nicht tief genug** eingesteckt sein. Die
+   „MIN INSERTION“-Markierung darf **nicht sichtbar** sein – sonst bricht bei Belastung der
+   Gabelschaft. → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md)
+2. **Steuersatz-Gewinde** – oben stehen nur noch 1–2 Gewindegänge über, es gibt aktuell
    **keine echte Kontermutter**, nur Mutter + Loctite. Das ist ein **Provisorium**.
    → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md)
-2. **Felgen-Bremsflanken** – am weißen Rad waren sie abgefahren; das **Original-Hinterrad
+3. **Felgen-Bremsflanken** – am weißen Rad waren sie abgefahren; das **Original-Hinterrad
    wurde wieder eingebaut**. Abgefahrene Bremsflanke = Risiko Felgenbruch/Platzer beim Bremsen.
-   → [`02-teile/30-laufrad-reifen-nabe.md`](02-teile/30-laufrad-reifen-nabe.md)
-3. **Kette ist ~½–1 Glied kürzer** als Soll. Große Gänge vorne + hinten (**Big-Big**) können
+   **Und:** eine scharfe Felgenkante ist ein Hauptverdächtiger für die nicht zurückkehrende
+   hintere Bremse. → [`02-teile/30-laufrad-reifen-nabe.md`](02-teile/30-laufrad-reifen-nabe.md)
+4. **Bremsfunktion hinten** kehrt nicht selbstständig zurück. Solange das so ist:
+   defensive Fahrweise, vorausschauend bremsen, keine langen Bergabfahrten.
+   → [`04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md)
+5. **Kette ist ~½–1 Glied kürzer** als Soll. Große Gänge vorne + hinten (**Big-Big**) können
    das Schaltwerk überstrecken → **diese Kombination vermeiden**, bis neue Kette da ist.
    → [`02-teile/10-antrieb-schaltung-kette.md`](02-teile/10-antrieb-schaltung-kette.md)
-4. **Bremsfunktion hinten**: kehrt nicht selbstständig zurück. Solange das so ist:
-   defensive Fahrweise, vorausschauend bremsen.
-   → [`05-anleitungen/bremsen-einstellen.md`](05-anleitungen/bremsen-einstellen.md)
 
 ---
 
-## 📋 Offene Baustellen (Priorität)
+## 📋 Offene Baustellen (Priorität – korrigiert nach Rückfrage)
 
 | # | Baustelle | Prio | Diagnose-Status |
 |---|---|---|---|
-| 1 | Vorderrad dreht nicht frei | 🔴 hoch | Ursache noch nicht eingegrenzt → Schnelltest in [`04-diagnose/vorderrad-schwergaengig.md`](04-diagnose/vorderrad-schwergaengig.md) |
-| 2 | Hinterrad schwerer laufend (Lager zu fest + verlorene Feder) | 🔴 hoch | [`04-diagnose/hinterrad-lager-feder.md`](04-diagnose/hinterrad-lager-feder.md) |
-| 3 | Hintere Bremse kehrt nicht zurück | 🔴 hoch | [`04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md) |
-| 4 | Bremshebel zu weich / Federn zu schwach | 🟡 mittel | [`02-teile/40-bremsen.md`](02-teile/40-bremsen.md) |
-| 5 | Steuersatz-Gewinde: dauerhafte Lösung statt Loctite-Provisorium | 🟡 mittel (aber sicherheitsrelevant) | [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
-| 6 | Ständer-Winkel zu schräg | 🟢 niedrig | [`02-teile/70-staender-gepaecktraeger.md`](02-teile/70-staender-gepaecktraeger.md) |
-| 7 | Lenker-Ergonomie / Sitzposition | 🟢 niedrig – erst nach ein paar Fahrten bewerten | [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
-| 8 | Neue Kette (Provisorium ablösen) | 🟡 mittel | [`02-teile/10-antrieb-schaltung-kette.md`](02-teile/10-antrieb-schaltung-kette.md) |
+| 1 | **Quill-Vorbau-Einstecktiefe prüfen** (Bruchgefahr) | 🔴 hoch | ungeprüft → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
+| 2 | **Felgen-Bremsflanken-Verschleiß prüfen** (v + h) | 🔴 hoch | [`02-teile/30-laufrad-reifen-nabe.md`](02-teile/30-laufrad-reifen-nabe.md) Abs. 2.3 |
+| 3 | **Hintere Bremse kehrt nicht zurück** – 🔴 **neue Beläge sind Hauptverdacht** | 🔴 hoch | [`04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md) **Abschnitt 0 zuerst!** |
+| 4 | Hinterrad schwerer laufend (Lager zu fest + verlorene Feder) | 🔴 hoch | [`04-diagnose/hinterrad-lager-feder.md`](04-diagnose/hinterrad-lager-feder.md) |
+| 5 | **Vordere Bremsarme zu weich** + passen nicht auf den Sockel | 🟡 mittel | [`04-diagnose/vordere-bremsarme-sockel.md`](04-diagnose/vordere-bremsarme-sockel.md) – 💡 **Federraste!** |
+| 6 | Steuersatz-Gewinde: dauerhafte Lösung statt Loctite | 🟡 mittel (sicherheitsrelevant) | [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
+| 7 | Neue Kette (Provisorium ablösen) | 🟡 mittel | [`02-teile/10-antrieb-schaltung-kette.md`](02-teile/10-antrieb-schaltung-kette.md) |
+| 8 | Ständer-Winkel zu schräg | 🟢 niedrig | [`02-teile/70-staender-gepaecktraeger.md`](02-teile/70-staender-gepaecktraeger.md) |
+| 9 | Lenker-Ergonomie / Sitzposition | 🟢 niedrig – erst nach 3–5 Fahrten bewerten | [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
+| 10 | Teile identifizieren + Stammdaten ausfüllen | 🟡 mittel | [`04-messdaten/messdatenblatt.md`](04-messdaten/messdatenblatt.md) |
+| 11 | Kassette vom Spenderrad lösen (optional) | 🟢 niedrig | 💡 **Kettenpeitsche fehlte vermutlich** – [`02-teile/10-antrieb-schaltung-kette.md`](02-teile/10-antrieb-schaltung-kette.md) Abs. 4 |
+| ~~12~~ | ~~Vorderrad dreht nicht frei~~ | 🟢 **ENTWARNT** | ✅ **Nabendynamo!** Von Hand nur 1–2 Umdrehungen = **normal, kein Defekt.** Nur Verifikationstest → [`04-diagnose/vorderrad-schwergaengig.md`](04-diagnose/vorderrad-schwergaengig.md) |
 
 Vollständige Liste inkl. Zwischenstatus: [`03-todos/offene-baustellen.md`](03-todos/offene-baustellen.md)
+
+### 💡 Eine Maßnahme löst zwei Baustellen
+
+Baustelle **5** (Bremsarme vorne passen nicht auf den Sockel) und Baustelle **6**
+(zu wenig Gewinde für die Kontermutter) haben dieselbe Wurzel: **die fremde Gabel**.
+Kommt die weiße Original-Gabel zurück, sind beide Probleme weg – neu lösen müsste man dann
+nur die Schutzblech-Befestigung vorne (Universal-Schellen, 💰 3–8 €).
+→ **Erst klären: Ist die alte weiße Gabel noch vorhanden?**
+
+### 💡 Die 0-€-Maßnahme für Baustelle 5
+
+Die „kleinen Stellschrauben“ (Federspannschrauben) haben konstruktiv nur ±2–3 Umdrehungen
+Verstellweg und dienen der **Zentrierung**, nicht der Rückstellkraft. Die **echte**
+Federvorspannung stellt man über die **Federraste** ein: der kleine Federstift am Bremsarm
+kann in **eine von drei Bohrungen** im Bremssockel gesetzt werden.
+→ 10 Minuten, 0 €, und das ist der Punkt, der „wirklich etwas ändert“.
 
 ---
 
@@ -79,6 +120,7 @@ Vollständige Liste inkl. Zwischenstatus: [`03-todos/offene-baustellen.md`](03-t
 - Rücklicht-Kabel: Flachstecker waren in den Rahmen gerutscht → **neu gelötet**, am weißen Rad verlegt
 - Nabendynamo + Vorder-/Rücklicht funktionieren
 - Hinterrad: **Kassette ließ sich nicht lösen** → komplettes Original-Hinterrad wieder eingebaut
+- Bremsbeläge hinten getauscht (weiße waren runter) → ⚠️ **danach trat Baustelle 3 auf**
 
 Details & Datumsangaben: [`06-logbuch/`](06-logbuch/)
 
@@ -103,8 +145,24 @@ Details & Datumsangaben: [`06-logbuch/`](06-logbuch/)
 - `❓ TODO` = Wert fehlt noch, muss am Rad gemessen/abgelesen werden
 - `⚠️` = sicherheitsrelevant oder Provisorium
 - `💰` = es wird etwas bestellt werden müssen
+- `💡` = Erkenntnis/Tipp, der Zeit oder Geld spart
 - Maße immer in **mm**, Gewinde immer als **Nenndurchmesser × Steigung** (z. B. M10 × 1,0)
 - Bei Kaufteilen immer angeben: **Hersteller + Modell + Größe** (z. B. „Shimano HG40 9-fach 11-32“)
+
+### ⚠️ Begriffe, die hier sauber getrennt werden
+
+Am Fahrrad mit Felgenbremse gibt es **zwei verschiedene „Hebel“** – das war in der
+Ursprungs-Zusammenfassung vermischt:
+
+| Umgangssprachlich | Korrekt | Wo |
+|---|---|---|
+| „Bremshebel“, „Armatur“ | **Bremshebel** (brake lever) | **am Lenker** |
+| „die zwei Hebel unten an der Bremse“ | **Bremsarme** (brake arms) | an Gabel / Hinterbau |
+| „der Stahlstift, auf den man das aufsteckt“ | **Bremssockel / Cantisockel** (brake boss) | an Gabel / Hinterbau |
+| „die kleine Stellschraube“ | **Federspannschraube** (spring tension screw) | am Bremsarm |
+| „der kleine Stift hinten am Arm“ | **Federraste / Federstift** (spring retainer pin) | Bremsarm → Sockel |
+
+→ Komplettes Glossar: [`02-teile/00-fachbegriffe-glossar.md`](02-teile/00-fachbegriffe-glossar.md)
 
 ---
 
@@ -115,11 +173,11 @@ Details & Datumsangaben: [`06-logbuch/`](06-logbuch/)
 ├── README.md                     ← du bist hier
 ├── 01-bikes/                     Stammdaten der beiden Räder + Vorlage für weitere
 ├── 02-teile/                     Teileträger: eine Datei pro Baugruppe (mit Fachbegriffen)
-├── 03-todos/                     offene Baustellen, Einkaufsliste, Werkzeug & Material
+├── 03-todos/                     offene Baustellen, Einkaufsliste, Werkzeug & Material, Sicherheitscheck
 ├── 04-diagnose/                  Fehlersuche: Symptom → Test → Ursache → Maßnahme
 ├── 04-messdaten/                 Messdatenblatt: alles, was noch am Rad abgelesen werden muss
 ├── 05-anleitungen/               Schritt-für-Schritt-Anleitungen + Referenzwerte
 ├── 06-logbuch/                   was wurde wann gemacht
-├── templates/                    Vorlagen (Baugruppe, Messung, Logbuch)
+├── templates/                    Vorlagen (Baugruppe, Diagnose, Messung, Logbuch)
 └── tools/                        generate-print-sheet.py (alles in eine Druckdatei)
 ```

@@ -2,7 +2,7 @@
 
 **Baugruppe:** Nabe (vorne/hinten) · Achse · Schnellspanner · Lager (Konus/Kugel/Kontermutter) ·
 Freilaufkörper · Speichen · Felge · Felgenband · Reifen · Schlauch · Ventil
-**Zustand:** ⚠️ Vorderrad dreht nicht frei · ⚠️ Hinterrad schwerer laufend als vorher
+**Zustand:** 🟢 Vorderrad „dreht nicht frei“ = ✅ **Nabendynamo, normal!** · ⚠️ Hinterrad schwerer laufend als vorher (Lager zu fest + eine Feder verloren)
 (Konus zu fest + eine Feder verloren)
 
 ---
@@ -43,7 +43,7 @@ Freilaufkörper · Speichen · Felge · Felgenband · Reifen · Schlauch · Vent
 | Feld | Wert |
 |---|---|
 | Verbaut | ❓ Original vom weißen Rad **oder** Felge vom Spenderrad? |
-| Nabe | ❓ **Nabendynamo?** (dann 6 V / 3 W) oder normale Nabe |
+| Nabe | ✅ **Nabendynamo** (6 V / 3 W) – bestätigt |
 | Naben-Modellnummer | ❓ TODO |
 | Lagertyp | ❓ Konuslager / Industrielager |
 | Achs-Ø | 9 mm (Schnellspanner-Standard) |
@@ -54,13 +54,18 @@ Freilaufkörper · Speichen · Felge · Felgenband · Reifen · Schlauch · Vent
 | Felgenband | ❓ Zustand |
 | Reifen | ❓ ETRTO ____-____ |
 | Schlauch / Ventil | ❓ |
-| **Zustand** | ⚠️ **dreht nicht frei** |
+| **Zustand** | 🟢 „dreht nicht frei“ – ✅ **Nabendynamo, das ist normal!** Nur Verifikationstest |
 
-> **Wichtig zu wissen:** Ein **Nabendynamo** hat konstruktionsbedingt **immer** spürbaren
-> Widerstand beim Drehen von Hand – das ist normal und kostet auf der Straße fast nichts
-> (ca. 1–3 W). Ein Nabendynamo-Rad dreht von Hand typischerweise nur **1–2 Umdrehungen**
-> weiter. Falls vorne ein Nabendynamo sitzt, ist „dreht nicht frei“ evtl. **gar kein Defekt**!
-> → Das ist der **erste Punkt, den du klären musst.**
+> ✅ **GEKLÄRT: Es ist ein Nabendynamo.** Damit ist „dreht nicht frei“ mit hoher
+> Wahrscheinlichkeit **kein Defekt**. Ein Nabendynamo hat konstruktionsbedingt immer
+> spürbaren Widerstand beim Drehen von Hand – das kostet auf der Straße nur ca. **1–3 W**
+> Rollwiderstand und ist messtechnisch kaum nachweisbar. Von Hand dreht ein
+> Nabendynamo-Rad typischerweise nur **1–2 Umdrehungen** weiter.
+>
+> **Es bleibt nur ein Verifikationstest**, damit kein echter Lagerschaden übersehen wird:
+> Kabel abziehen · seitliches Spiel prüfen · Widerstand fühlt sich **„samtig-rastend“**
+> (normal) oder **„rau/sandig“** (defekt) an.
+> → [`../04-diagnose/vorderrad-schwergaengig.md`](../04-diagnose/vorderrad-schwergaengig.md)
 
 ### 2.2 Hinterrad
 
@@ -260,7 +265,7 @@ Rad drehen, beobachten wo es schleift) oder Kabelbinder an der Gabel/Stay befest
 
 | # | Messung | Wert |
 |---|---|---|
-| 1 | Ist das Vorderrad ein **Nabendynamo**? | ja/nein |
+| 1 | ~~Ist das Vorderrad ein Nabendynamo?~~ | ✅ **ja – geklärt** |
 | 2 | Konusschlüssel-Größe vorne | ____ mm |
 | 3 | Kontermutter-Größe vorne | ____ mm |
 | 4 | Naben-Modellnummer vorne | |

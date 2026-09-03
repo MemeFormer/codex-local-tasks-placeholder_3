@@ -6,9 +6,18 @@
 **Bereits ausgeschlossen:** Lenkkopf / Steuersatz (korrekt erkannt – der beeinflusst die
 Radrotation nicht).
 
+> ✅ **GEKLÄRT: Das Vorderrad ist ein Nabendynamo.**
+> **Damit ist dieses „Problem“ mit hoher Wahrscheinlichkeit KEIN Defekt.**
+> Ein Nabendynamo dreht von Hand konstruktionsbedingt nur **1–2 Umdrehungen** weiter.
+> Das ist völlig normal und kostet auf der Straße nur ca. **1–3 W** Rollwiderstand –
+> messtechnisch kaum nachweisbar. **Ein Nabendynamo-Rad dreht von Hand nie „ewig“.**
+>
+> **Priorität deshalb von 🔴 auf 🟢 herabgestuft.** Es bleibt ein kurzer Verifikationstest
+> (unten), damit kein echter Lagerschaden übersehen wird.
+
 ---
 
-## 🎯 Der Schnelltest (5 Minuten) – zuerst machen!
+## 🎯 Der Verifikationstest (5 Minuten) – Nabendynamo von echtem Defekt unterscheiden
 
 ```
 Rad komplett ausbauen (Schnellspanner öffnen + entfernen)
@@ -29,11 +38,25 @@ am Rad/Gabel:                     Bremsanlage selbst
 - Gabel (Rad sitzt schief)
 ```
 
-> ⚠️ **Vorher klären: Ist es ein Nabendynamo?**
-> Ein Nabendynamo-Rad dreht **von Haus aus nur 1–2 Umdrehungen** weiter – das ist
-> **normal** und kein Defekt. Der Rollwiderstand auf der Straße ist minimal (ca. 1–3 W).
-> **Prüfung:** Kabel am Dynamo abziehen, dann nochmal drehen. Dreht es dann deutlich
-> freier → Nabendynamo ist die „Ursache“ und alles ist in Ordnung.
+### ✅ So trennst du „normaler Dynamo-Widerstand“ von „echtem Lagerschaden“
+
+| # | Test | Normal beim Nabendynamo | 🔴 Echter Defekt |
+|---|---|---|---|
+| 1 | Rad ausbauen, **Kabel am Dynamo abziehen**, Achse in der Hand drehen | 2–4 Umdrehungen, gleichmäßig | < 1 Umdrehung, oder rau/knirschend |
+| 2 | Achse mit zwei Fingern **seitlich wackeln** | **kein** Spiel | Spiel spürbar |
+| 3 | Achse drehen und **fühlen** | gleichmäßiger, magnetischer Widerstand („samtig-rastend“) | rau, sandig, knirschend, unrund |
+| 4 | Schnellspanner **entfernen**, erneut drehen | kaum Unterschied | wird deutlich leichter → Lager war geklemmt |
+| 5 | Rad eingebaut, Bremse ausgehängt, drehen | kaum Unterschied zum ausgebauten Zustand | deutlich schlechter → es klemmt etwas (Bremse/Schutzblech/Reifen) |
+| 6 | **Licht einschalten** und bei Fahrt vergleichen | Widerstand minimal höher | – |
+| 7 | Dynamo-Gehäuse: warm geworden nach 10 min Fahrt? | handwarm = normal | heiß = Kurzschluss im Lichtsystem oder Lagerschaden |
+
+**Wichtig:** Der charakteristische Nabendynamo-Widerstand fühlt sich **„samtig-rastend“** an
+(die Magnete ziehen an den Spulen) – das ist etwas anderes als das **„raue, sandige“**
+Gefühl eines eingelaufenen Konuslagers.
+
+**Faustregel:** Wenn das Rad **im Fahrbetrieb** frei rollt und kein Schleifgeräusch macht,
+ist alles in Ordnung. Der Hand-Drehtest ist bei einem Nabendynamo **kein** aussagekräftiges
+Kriterium für den Rollwiderstand.
 
 ---
 
@@ -79,8 +102,9 @@ am Rad/Gabel:                     Bremsanlage selbst
 
 | Schritt | Test | Ergebnis |
 |---|---|---|
-| 1 | Ist das Vorderrad ein Nabendynamo? | ❓ ja / nein |
-| 2 | Wenn ja: dreht es mit abgezogenem Kabel frei? | ❓ ja / nein |
+| 1 | Ist das Vorderrad ein Nabendynamo? | ✅ **ja – geklärt** |
+| 2 | Dreht es mit abgezogenem Kabel 2–4 Umdrehungen? | ❓ |
+| 2b | Fühlt sich der Widerstand „samtig-rastend“ (normal) oder „rau/sandig“ (defekt) an? | ❓ |
 | 3 | Rad eingebaut drehen – wie viele Umdrehungen? | ❓ ____ |
 | 4 | Rad ausgebaut, Achse in der Hand – wie viele Umdrehungen? | ❓ ____ |
 | 5 | Mit gelöstem Schnellspanner – wie viele Umdrehungen? | ❓ ____ |

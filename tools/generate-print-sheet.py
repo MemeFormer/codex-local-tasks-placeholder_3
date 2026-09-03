@@ -50,6 +50,7 @@ ORDNUNG = [
     "04-diagnose/vorderrad-schwergaengig.md",
     "04-diagnose/hinterrad-lager-feder.md",
     "04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md",
+    "04-diagnose/vordere-bremsarme-sockel.md",
     "04-messdaten/messdatenblatt.md",
     "05-anleitungen/README.md",
     "05-anleitungen/lager-einstellen.md",
@@ -58,6 +59,7 @@ ORDNUNG = [
     "05-anleitungen/referenzwerte.md",
     "06-logbuch/README.md",
     "06-logbuch/2026-09-02-bestandsaufnahme.md",
+    "06-logbuch/2026-09-03-rueckfrage-korrekturen.md",
 ]
 
 AUSGESCHLOSSEN = {"templates", "tools", "fotos", ".git", ".arena"}

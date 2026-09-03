@@ -1,14 +1,21 @@
 # 🚲 Weißes Trekkingbike – Hauptbike / Zielrad
 
-> Arbeitsname: **„Weiß“**. Echte Bezeichnung bitte eintragen, sobald abgelesen.
+> Arbeitsname: **„Weiß“** · **Hersteller: STAIGER** · Modell/Baujahr noch offen.
+>
+> **Zur Marke STAIGER:** gegründet 1898/99 von Paul Staiger (1897 württembergischer
+> Radrennmeister) in Stuttgart, ab 1982 Gerlingen, 1988 Übernahme durch die E. Wiener GmbH
+> (Winora) in Schweinfurt, 1997 Winora-Staiger GmbH, seit 2002 Accell Group (NL).
+> Staiger stand für **solide deutsche Tourenräder**.
+> → **Baujahr über die Komponenten eingrenzen:** 3×9 Shimano + Nabendynamo + V-Brake
+> deutet grob auf **ca. 2000–2008**.
 
 ## 1. Identifikation
 
 | Feld | Wert |
 |---|---|
-| Hersteller | ❓ TODO |
-| Modell | ❓ TODO |
-| Baujahr | ❓ TODO |
+| **Hersteller** | ✅ **STAIGER** (Stuttgart / Gerlingen / später Winora-Staiger) |
+| Modell | ❓ TODO – Typenschild/Aufdruck am Rahmen suchen |
+| Baujahr | ❓ TODO – grob ca. 2000–2008 (über Komponenten geschätzt) |
 | Rahmennummer (unter Tretlagergehäuse) | ❓ TODO |
 | Rahmenmaterial | ❓ TODO (Stahl / Alu – prüfen: Magnet haftet = Stahl) |
 | Rahmenfarbe | weiß |
@@ -75,11 +82,15 @@ Details & Kettenlängen-Check: [`../02-teile/10-antrieb-schaltung-kette.md`](../
 
 | Komponente | Verbaut | Modell / Aufdruck | Zustand |
 |---|---|---|---|
-| Bremshebel | ❓ Original weiß **oder** schwarze (weiche) Hebel montiert? | ❓ TODO | siehe ⚠️ |
-| Bremsentyp | ❓ **V-Brake** (Linearpullzug) / Cantilever / Felgenbremse seitenzug / hydraulische Felgenbremse | ❓ TODO – Foto! | wichtig für Zugweg |
-| Bremskörper vorne | ❓ | ❓ | |
-| Bremskörper hinten | **Original-Zangen vom weißen Rad** (behalten) | ❓ TODO Aufdruck | ⚠️ kehrt nicht selbstständig zurück |
-| Bremsbeläge | ❓ verschlissen? Mindeststärke 1 mm Belag über der Trägerplatte | | |
+| Bremshebel am Lenker | ✅ **beide original weiß** | ✅ | bestätigt |
+| **Bremsentyp** | ✅ **V-Brake** (Linearpullzug, long pull) | – | bestätigt |
+| **Bremshebel am Lenker** | ✅ **beide original weiß** (die guten) | ❓ Modellnummer TODO | ✅ in Ordnung |
+| **Bremsarme vorne** | ⚠️ **vom Spenderrad (schwarz)** | ❓ Modellnummer TODO | ⚠️ zu weich, Federn schwach. Die weißen Arme passten nicht auf den Bremssockel der schwarzen Gabel |
+| **Bremsarme hinten** | ✅ **original weiß** (die guten, behalten) | ❓ Modellnummer TODO | ⚠️ kehrt nicht selbstständig zurück |
+| **Bremsbeläge hinten** | ⚠️ **vom Spenderrad (schwarz)** | ❓ Länge/Form TODO | 🔴 **Hauptverdacht für Baustelle #3** – die weißen waren „ziemlich runter“ |
+| Bremsbeläge vorne | ❓ welche? | ❓ | |
+| Innenzug-Ø | ❓ 1,5 mm (V-Brake-Standard) | | messen |
+| Bremssockel an der Gabel | ❓ **Stahl (geschweißt)** oder **Alu (eingeschraubt)**? | | 🔴 Magnet-Test! Entscheidet, ob der Sockel tauschbar ist |
 | Felgen-Bremsflanke | ⚠️ **abgefahren** – bitte Verschleißindikator prüfen! | | 🔴 sicherheitsrelevant |
 | Bowdenzüge | ❓ rostig/ausgefranst? | | |
 | Zuganschlag hinten (Rahmen) | ❓ Zustand Hülle | | |
@@ -89,14 +100,14 @@ Details & Kettenlängen-Check: [`../02-teile/10-antrieb-schaltung-kette.md`](../
 | | Vorne | Hinten |
 |---|---|---|
 | Verbautes Rad | ❓ Original weiß **oder** Felge vom Spenderrad? | **Original-Hinterrad vom weißen Rad** (Kassette ließ sich nicht lösen) |
-| Nabe / Modell | ❓ Nabendynamo? Aufdruck ablesen | ❓ Aufdruck ablesen |
+| Nabe / Modell | ✅ **Nabendynamo** – Aufdruck ablesen | ❓ Aufdruck ablesen |
 | Lagertyp | ❓ Konuslager (Kugelkäfig/Konusschlüssel) oder Industrielager | Konuslager (wurde geöffnet + wieder montiert) |
 | Speichenzahl | ❓ ____ (32 / 36 typisch) | ❓ ____ |
 | Felge | ❓ Aufdruck | ⚠️ Bremsflanke verschlissen? |
 | Felgenband | ❓ Zustand / Breite ____ mm | |
 | Ventil | ❓ Sclaverand (Presta) / Schrader / Dunlop | |
 | Reifengröße | ❓ ETRTO | ❓ ETRTO |
-| Laufzustand | ⚠️ **dreht nicht frei** | ⚠️ **schwerer laufend als vorher** |
+| Laufzustand | 🟢 „dreht nicht frei“ – **aber: Nabendynamo!** Von Hand nur 1–2 Umdrehungen = **normal**, kein Defekt. Nur noch Verifikationstest nötig. | ⚠️ **schwerer laufend als vorher** |
 
 → Diagnose: [`../04-diagnose/vorderrad-schwergaengig.md`](../04-diagnose/vorderrad-schwergaengig.md) · [`../04-diagnose/hinterrad-lager-feder.md`](../04-diagnose/hinterrad-lager-feder.md)
 
@@ -139,7 +150,7 @@ Mögliche dauerhafte Lösungen (Reihenfolge = Aufwand):
 
 | Komponente | Verbaut | Modell / Aufdruck | Zustand |
 |---|---|---|---|
-| Dynamo | **Nabendynamo** | ❓ TODO Aufdruck (z. B. „Shimano DH-3N31“) | ✅ funktioniert |
+| Dynamo | ✅ **Nabendynamo – sitzt im Vorderrad** (bestätigt) | ❓ TODO Aufdruck (z. B. „Shimano DH-3N31“) | ✅ funktioniert |
 | Nennwerte | 6 V / 3 W (Standard Nabendynamo) ❓ prüfen | | |
 | Scheinwerfer | ❓ | ❓ mit Schalter? Standlicht? | ✅ funktioniert |
 | Rücklicht | ❓ | ❓ mit **Standlicht** (Kondensator)? | ✅ funktioniert |
@@ -167,7 +178,9 @@ Mögliche dauerhafte Lösungen (Reihenfolge = Aufwand):
 | Gabel (Gewindeschaft) | ✅ ja | ⚠️ ja, wegen zu kurzem Schaft |
 | Quill-Vorbau (winkelverstellbar) | ✅ ja | ❓ – Lenkerwechsel ohne Griffabbau ist ein Vorteil |
 | Lenker | ✅ ja | ❓ Ergonomie erst nach mehreren Fahrten bewerten |
-| Bremshebel | ❓ unklar – prüfen, welche montiert sind | siehe [`../02-teile/40-bremsen.md`](../02-teile/40-bremsen.md) |
+| Bremshebel (am Lenker) | ❌ **nein** – die weißen Originalhebel blieben | ✅ gut so |
+| **Bremsarme vorne** | ✅ **ja** (schwarz) | ⚠️ zu weich, Federn schwach |
+| **Bremsbeläge hinten** | ✅ **ja** (schwarz) | 🔴 Hauptverdacht Baustelle #3 |
 | Metall-Schutzbleche | ✅ ja | – |
 | Hinterrad (Felge + City-Reifen) | ❌ **nein** – Kassette ließ sich nicht lösen, Originalrad zurück | 💡 später ggf. erneut versuchen |
 | 8-fach-Kassette | ❌ nein (9-fach vom weißen Rad bleibt) | – |

@@ -160,7 +160,14 @@ Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdru
 | Zugführung / Nocke | cable cam / noodle | bei V-Brake |
 | Bremszug | brake cable | |
 | Bremszughülle | brake housing | ⚠️ **gewickelte Spirale**, nicht wie Schaltzug-Hülle |
-| Bremskörper / Bremszange | brake caliper | |
+| Bremskörper / Bremszange | brake caliper | Gesamtheit der Bremse |
+| **Bremsarme / Bremsschenkel** | **brake arms** | ⚠️ die zwei „Hebel“ **unten an der Bremse** – nicht mit den Bremshebeln am Lenker verwechseln! |
+| **Bremssockel / Cantisockel** | **brake boss / canti stud** | der Stahlstift an Gabel/Hinterbau, auf den die Bremsarme aufgeschoben werden (M6-Innengewinde) |
+| **Federraste / Federstift** | **spring retainer pin** | kleiner Stift am Bremsarm, greift in eine von **3 Bohrungen** im Sockel = echte Federvorspannung |
+| Federrasten-Bohrungen | spring tension holes | die 3 Löcher im Bremssockel |
+| Zugführungs-Röhrchen / „Nudel“ | cable noodle | gebogenes Röhrchen zwischen den V-Brake-Armen (Länge beeinflusst Übersetzung) |
+| Faltenbalg | bellows / boot | Gummischutz über der Nudel |
+| Bremsbefestigungsschraube | brake mounting bolt | M6, schraubt den Bremsarm am Sockel fest |
 | **V-Brake** | **V-brake / linear pull** | lange Arme, direkter Zuganschluss |
 | Cantilever-Bremse | cantilever brake | kurze Arme, Mittelzug |
 | Seitenzugbremse | caliper brake / side pull | Rennrad |
@@ -271,6 +278,8 @@ Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdru
 | Teil mit Klickgeräusch, auf das Zahnkränze gesteckt werden | Freilaufkörper (freehub body) |
 | aufgeschraubter Zahnkranzblock mit Ratsche **in einem Stück** | Schraubkranz (freewheel) – **keine** Kassette! |
 | dünne Blechstreifen, die sich V-förmig treffen | Schutzblechstreben (V-stays) |
+| zwei Arme, die auf einen Stahlstift an der Gabel gesteckt sind | **Bremsarme** auf dem **Bremssockel** (V-Brake) |
+| Stahlstift an der Gabel mit 3 kleinen Bohrungen | **Bremssockel / Cantisockel** mit Federrasten-Bohrungen |
 | Bolzen mit kleinem Hebel und Rändelmutter | Schnellspanner (quick release) |
 | kleine Schraube am Bremsarm, die in den Rahmen ragt | Federspannschraube (spring tension screw) |
 | Blechstück am Ausfallende, an dem das Schaltwerk hängt | Schaltauge (derailleur hanger) |

@@ -11,13 +11,16 @@ bevor du längere Strecken fährst.** Dauer: 3 Minuten.
 |---|---|---|---|
 | ☐ | **Steuersatz-Mutter sitzt fest** | Vorderbremse ziehen, Rad vor/zurück wackeln → **kein** Knacken, **kein** Spiel. Lackstift-Markierung vergleichen | ⚠️ nur Loctite, keine Kontermutter |
 | ☐ | **Vorbau sitzt fest** | Lenker gegen das Vorderrad drücken → Vorbau darf sich **nicht** im Schaft verdrehen | |
-| ☐ | **Vorbau tief genug eingesteckt** | Mindesteinsteck-Markierung („MIN INSERTION“) darf **nicht** sichtbar sein | 🔴 noch ungeprüft! |
+| ☐ | **Vorbau tief genug eingesteckt** | Mindesteinsteck-Markierung („MIN INSERTION“) darf **nicht** sichtbar sein | 🔴 **noch ungeprüft – höchste Priorität!** |
 | ☐ | **Lenkerklemmung fest** | Lenker in der Klemmung verdrehen versuchen | |
 | ☐ | **Vorderrad-Befestigung** | Schnellspanner mit Handkraft fest, Hebel steht nicht ab, keine losen Muttern | |
 | ☐ | **Hinterrad-Befestigung** | dito + Rad sitzt mittig in den Ausfallenden | |
 | ☐ | **Bremsfunktion vorne** | Hebel ziehen: Bremspunkt **vor** 1/2 Hebelweg, Beläge treffen die Felge, Rad blockiert bei Kraft | |
 | ☐ | **Bremsfunktion hinten** | dito + ⚠️ **Kehrt der Hebel selbstständig zurück?** | 🔴 aktuelles Problem |
-| ☐ | **Bremsbeläge auf der Bremsflanke** | Belag berührt **nicht** den Reifen und **nicht** die Felgenunterkante | |
+| ☐ | **Bremsbeläge auf der Bremsflanke** | Belag berührt **nicht** den Reifen und **nicht** die Felgenunterkante | ⚠️ hinten sind **fremde Beläge** verbaut |
+| ☐ | **Bremsbelag-Länge** | V-Brake-Beläge ≈ 70 mm, liegen **voll** auf der Flanke auf | ⚠️ Spenderrad-Beläge prüfen |
+| ☐ | **Federraste der Bremsarme** | Federstift sitzt **fest in einer Sockel-Bohrung**, beide Arme **im selben Loch** | 🔴 |
+| ☐ | **Bremsarme vorne fest auf dem Sockel** | kein Spiel, kein Spalt, Befestigungsschraube (M6) fest | ⚠️ fremde Arme an fremder Gabel |
 | ☐ | **Felgen-Bremsflanke** | Keine tiefe Mulde, Verschleißindikator sichtbar | 🔴 noch ungeprüft |
 | ☐ | **Reifendruck** | Mit Pumpe/Manometer, nicht per Daumen | |
 | ☐ | **Kette fällt nicht ab** | Im Stand durch die Gänge schalten, Kette bleibt auf den Blättern | |

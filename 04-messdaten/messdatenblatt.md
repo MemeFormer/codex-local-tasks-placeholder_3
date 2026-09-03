@@ -67,7 +67,7 @@ Legende: `☐` = noch offen · `☑` = erfasst
 
 | ☐ | Messung | Vorne | Hinten |
 |---|---|---|---|
-| ☐ | **Nabendynamo?** (ja/nein) | | – |
+| ☑ | **Nabendynamo?** | ✅ **ja – bestätigt** | – |
 | ☐ | Naben-Modellnummer | | |
 | ☐ | Lagertyp (Konus / Industrielager) | | |
 | ☐ | Konusschlüssel-Größe (mm) | | |
@@ -115,25 +115,41 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☐ | Pedal-Typ + Gewinde | |
 | ☐ | Big-Big-Test: Käfig gestreckt? Abstand Leitrolle → Ritzel (mm) | |
 
-## 5. Bremsen 🔴 (15 min)
+## 5. Bremsen 🔴 (20 min)
+
+> ✅ Bereits geklärt: **Bremsentyp = V-Brake** · **Bremshebel am Lenker = original weiß (gut)** ·
+> **Bremsarme vorne = Spenderrad** · **Bremsarme hinten = original weiß** ·
+> **Beläge hinten = Spenderrad**
 
 | ☐ | Messung | Vorne | Hinten |
 |---|---|---|---|
-| ☐ | **Bremsentyp** (V-Brake / Canti / Seitenzug / Scheibe) | | |
+| ☑ | **Bremsentyp** | ✅ **V-Brake** | ✅ **V-Brake** |
+| ☑ | **Bremshebel (Lenker)** | ✅ weiß, original | ✅ weiß, original |
+| ☑ | **Bremsarme (Zange)** | ⚠️ schwarz (Spenderrad) | ✅ weiß, original |
+| ☑ | **Bremsbeläge** | ❓ welche? | ⚠️ schwarz (Spenderrad) |
 | ☐ | Bremskörper-Modellnummer | | |
 | ☐ | Bremshebel-Modellnummer | | |
 | ☐ | Hebel: Zugweg (long pull / short pull) | | |
-| ☐ | Pivot-Bolzen-Ø am Hebel (mm) | | |
-| ☐ | Pivot-Bolzen-Länge (mm) | | |
-| ☐ | Pivot-Bolzen-Gewinde (M___ × ___) | | |
-| ☐ | Pivot-Bolzen-Schulterlänge (mm) | | |
-| ☐ | Rückholfeder: Drahtstärke / Windungen / Länge | | |
-| ☐ | Federspannschrauben: Verstellweg noch vorhanden? | | |
-| ☐ | Bremszug-Ø (1,2 / 1,5 mm) | | |
+| 🔴 | **Magnet-Test Gabel: Stahl oder Alu?** (entscheidet, ob der Bremssockel tauschbar ist) | | – |
+| ☐ | **Bremssockel: Lack/Rost sichtbar?** (häufigste Ursache „passt nicht“) | | |
+| ☐ | **Bremssockel: 3 Bohrungen für die Federraste sichtbar?** | | |
+| ☐ | 🔴 **In welchem der 3 Löcher sitzt der Federstift aktuell?** | | |
+| ☐ | **Abstand Mitte Ausfallende → Mitte Bremssockel** (Soll: 26" ≈ 253,5 mm / 28" ≈ 283 mm) | | |
+| ☐ | Abstand der beiden Sockel zueinander (Soll 77–85 mm) | | |
+| ☐ | Spalt zwischen Bremsarm und Sockel-Schulter | | |
+| ☐ | Bremsbefestigungsschraube: M6, Länge | | |
+| ☐ | Rückholfeder der Bremsarme: Drahtstärke / Windungen / Hakenform (weiße vs. schwarze vergleichen) | | |
+| ☐ | Federspannschrauben: Inbus-Größe, Verstellweg noch vorhanden? | | |
+| ☐ | Länge der Nudel (Zugführungs-Röhrchen) | | |
+| ☐ | Bremszug-Ø (V-Brake-Standard = **1,5 mm**) | | |
 | ☐ | Bremszughülle-Ø außen (4 / 5 mm) | | |
 | ☐ | Hüllenlänge (mm) | | |
+| ☐ | **Länge der Bremsbeläge** (V-Brake ≈ 70 mm; Canti nur 55–65 mm!) | | |
 | ☐ | Belag: Reststärke über der Trägerplatte (mm) | | |
 | ☐ | Belag-Typ / Modellnummer | | |
+| ☐ | 🔴 **Konvex-/Konkavscheiben: dünn am Arm, dick außen?** (falsch = Bremse kehrt nicht zurück) | | |
+| ☐ | Belag liegt komplett auf der Bremsflanke? | | |
+| ☐ | Felgenkante scharfkantig? | | |
 | ☐ | Belagabstand zur Felge (mm) | | |
 | ☐ | **Kehrt die Bremse vollständig zurück?** 🔴 | | |
 | ☐ | Hebelweg bis zum Druckpunkt (mm / Bruchteil) | | |
@@ -187,14 +203,24 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☐ | Hinterrad-Nabe, **linke Seite** (vor dem Öffnen) | Feder identifizieren |
 | ☐ | Die **intakte Seite** der Nabe, wo die Feder fehlt | Vergleich |
 | ☐ | Schnellspanner zerlegt (alle Teile in Reihenfolge) | Feder-Identifikation |
-| ☐ | Beide Bremshebel von unten (Modellnummer) | Zugweg bestimmen |
-| ☐ | Beide Bremshebel Pivot-Bolzen nebeneinander | Vergleich |
-| ☐ | Beide Bremskörper (Typ erkennen) | V-Brake vs. Canti |
+| ☐ | Beide Bremshebel von unten (Modellnummer) | Zugweg bestätigen |
+| ☐ | 🔴 **Bremssockel an der Gabel, Nahaufnahme, seitlich beleuchtet** | Lack? Rost? Abflachungen (→ Alu, eingeschraubt)? |
+| ☐ | 🔴 **Bremssockel ohne Bremsarm, von vorne** | die **3 Federrasten-Bohrungen** sichtbar machen |
+| ☐ | 🔴 **Rückseite eines Bremsarms** | Federstift erkennen |
+| ☐ | Weiße und schwarze Bremsarme nebeneinander | Vergleich |
+| ☐ | Federn beider Bremsarme nebeneinander | Drahtstärke/Windungen/Hakenform |
+| ☐ | Seitenansicht der Gabel mit Maßband am Bremssockel | Sockelhöhe (26" vs 28") |
+| ☐ | 🔴 **Belagträger hinten zerlegt** (Scheiben-Reihenfolge) | dünn/dick vertauscht? |
+| ☐ | 🔴 **Alte weiße Beläge vs. Spenderrad-Beläge nebeneinander** | Länge/Form vergleichen |
+| ☐ | Felgen-Bremsflanke hinten, Nahansicht der Kante | scharfkantig? |
 | ☐ | Kassette + Freilauf, Nahansicht Lockring | Kassette vs. Schraubkranz |
 | ☐ | Kette, Aufdruck | Modell |
 | ☐ | Kurbelinnenseite | Modell + Länge |
 | ☐ | Schaltwerk, Umwerfer, Schalthebel | Modell |
-| ☐ | Felgen-Bremsflanke v/h, Nahansicht | 🔴 Verschleiß |
+| ☐ | Felgen-Bremsflanke v/h, Nahansicht mit Verschleißindikator | 🔴 Verschleiß |
+| ☐ | 🔴 Quill-Vorbau mit Markierung der Einstecktiefe | 🔴 Sicherheit |
+| ☐ | 🔴 Gabelschaft-Ende mit dem freien Gewinde | Beweis für zu wenig Gewinde |
+| ☐ | Alte weiße Gabel (falls vorhanden) | 💡 löst Baustelle 5 + 6 |
 | ☐ | Reifenflanke mit ETRTO | Reifengröße |
 | ☐ | Schutzblech-Befestigungspunkte v/h | Montage |
 | ☐ | Ständer-Aufnahme | Typ bestimmen |

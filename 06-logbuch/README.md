@@ -13,6 +13,8 @@ Wichtig ist, dass man später nachvollziehen kann, **warum** etwas so ist, wie e
 
 | Datum | Session | Ergebnis | Baustelle |
 |---|---|---|---|
+| **2026-09-03** | [Rückfrage: drei Diagnosen korrigiert](2026-09-03-rueckfrage-korrekturen.md) | Nabendynamo bestätigt (#13 entwarnt) · V-Brake bestätigt · STAIGER · „Bremshebel“ waren **Bremsarme** → Federraste ist die Lösung · hintere Beläge sind Hauptverdacht für #3 | #3 #5 #6 #13 |
+| **2026-09-02** | [Bestandsaufnahme & Doku aufgebaut](2026-09-02-bestandsaufnahme.md) | Repo-Struktur, Glossar, Baugruppen, Diagnosen, Anleitungen | alle |
 | ❓ | Kettenreparatur | Kette mit Fremdschloss geflickt, Stift aus Außenlasche gedrückt → Kette ~½–1 Glied kürzer | → #8 |
 | ❓ | Gabel- & Steuersatztausch | Schwarze Gewindegabel in weißen Rahmen, Quill-Vorbau übernommen, Steuersatz eingestellt | → #5 |
 | ❓ | Vorbau / Lenker | winkelverstellbarer Vorbau mit Faceplate montiert | → #7 |
@@ -29,8 +31,12 @@ Wichtig ist, dass man später nachvollziehen kann, **warum** etwas so ist, wie e
 
 | Datum | Frage | beantwortet? |
 |---|---|---|
-| ❓ | Warum ließ sich die Kassette nicht lösen? (Vermutung: keine Kettenpeitsche) | ☐ |
+| ❓ | Warum ließ sich die Kassette nicht lösen? (💡 Vermutung: keine Kettenpeitsche) | ☐ |
 | ❓ | Was war die verlorene kleine Feder? | ☐ |
-| ❓ | Welche Bremshebel sind aktuell montiert (schwarz oder weiß)? | ☐ |
-| ❓ | Ist das Vorderrad ein Nabendynamo? | ☐ |
-| ❓ | Ist die alte weiße Gabel noch vorhanden? | ☐ |
+| ✅ | ~~Welche Bremshebel sind montiert?~~ → **beide original weiß**; die „schwarzen Hebel“ waren die **Bremsarme vorne** | ☑ |
+| ✅ | ~~Ist das Vorderrad ein Nabendynamo?~~ → **ja** | ☑ |
+| ✅ | ~~Marke des weißen Rads?~~ → **STAIGER** | ☑ |
+| 🔴 | **Ist die alte weiße Gabel noch vorhanden?** (löst Baustelle #5 + #6 gleichzeitig) | ☐ |
+| 🔴 | **Magnet-Test Gabel: Stahl oder Alu?** (entscheidet, ob der Bremssockel tauschbar ist) | ☐ |
+| ❓ | Marke/Modell des Spenderrads? | ☐ |
+| ❓ | Modell + Baujahr des weißen STAIGER-Rads? | ☐ |
