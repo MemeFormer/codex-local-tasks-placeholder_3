@@ -1,7 +1,15 @@
 # 01 – Bikes: Stammdaten
 
+**Datenstand: 2026-09-05** · ✅ **beide Räder identifiziert**
+
 Für jedes Rad eine Datei. Diese Dateien beantworten die Frage **„Was habe ich überhaupt?“**
 Bevor man ein Ersatzteil bestellt, braucht man fast immer eines dieser Grundmaße.
+
+> 🔴 **Wichtigste Erkenntnis dieser Runde:** Die **schwarze Gabel (SR Suntour NEX 63 mm) ist
+> kein Originalteil des weißen Rads**, sondern gehört zum **Bergamont-Spenderrad**.
+> Die Original-Gabel des weißen Rads ist eine **RST Vogue TNL (ca. 50 mm)** – **und sie ist
+> noch vorhanden.** Ob sie rettbar ist, entscheidet über drei andere Baustellen:
+> [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md)
 
 | Datei | Rad | Status |
 |---|---|---|
