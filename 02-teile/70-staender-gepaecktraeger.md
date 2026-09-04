@@ -2,6 +2,8 @@
 
 **Baugruppe:** Ständer · Ständeraufnahme · Distanzscheiben · Gepäckträger · Streben
 **Zustand:** ⚠️ Ständer zu stark geneigt → Rad kippt fast von selbst (alter war zu aufrecht)
+**Baustelle:** 🟢 **#8** Ständer-Winkel (Kipprichtung klären, Lochabstand messen, Distanzscheiben)
+→ [`../03-todos/offene-baustellen.md`](../03-todos/offene-baustellen.md)
 
 ---
 

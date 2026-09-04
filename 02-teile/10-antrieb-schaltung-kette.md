@@ -4,6 +4,9 @@
 Umwerfer · Schaltwerk · Pedale
 **Zustand:** ✅ funktioniert laut letztem Stand („Kette + Schaltung + Umwerfer laufen top“)
 **Offen:** ⚠️ Kette ist zu kurz (Provisorium) → neue Kette 💰
+**Baustellen:** 🟡 **#7** neue Kette (Spec steht: **Shimano CN-HG53**, 9-fach) · 🟢 **#11** Kassette
+vom Spenderrad lösen (optional, **Kettenpeitsche** fehlt) →
+[`../03-todos/offene-baustellen.md`](../03-todos/offene-baustellen.md)
 
 > ✅ **GEKLÄRT (2026-09-04) – alle Antriebs-Teilenummern entschlüsselt:**
 >
