@@ -62,7 +62,7 @@ bevor du längere Strecken fährst.** Dauer: 3 Minuten.
 | ☐ | Felgen-Verschleißindikator |
 | ☐ | Reifen: Risse, Fremdkörper, Profiltiefe, Alter |
 | ☐ | Rahmen: Risse an Steuerrohr, Tretlager, Ausfallende, Anlötteilen |
-| ☐ | Schaltauge gerade (Sicht von hinten: Käfig parallel zu den Ritzeln) |
+| ☐ | 🔴 **Schaltauge gerade** (Sicht von hinten: Käfig parallel zu den Ritzeln) → **Baustelle #15**: nach einem **Sturz vor Jahren** war „hinten was verbogen", behoben wurde aber **vorne** – 🔴 **nie geprüft** |
 | ☐ | Alle Schrauben mit Drehmomentschlüssel nachziehen (Vorbau, Lenker, Bremsen, Sattel) |
 | ☐ | Lager neu fetten, falls rau (alle 3.000–5.000 km oder nach Regenfahrten) |
 

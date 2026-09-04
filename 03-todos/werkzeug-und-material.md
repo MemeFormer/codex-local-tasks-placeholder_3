@@ -51,6 +51,7 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 | ☐ | Montageständer | – | sehr hilfreich, Notlösung: Rad zwischen die Beine / an die Wand lehnen |
 | ☐ | Kabel-Ausziehhaken / Speiche als Angel | – | falls wieder etwas im Rahmen verschwindet |
 | ☐ | Magnet (an Teleskopstange) | – | Metallteile aus dem Rahmen fischen |
+| ☑ | 🔴 **Kühlschrankmagnet** – **hat jeder** | **0 €** | 🔴 **WICHTIGSTES „WERKZEUG" DES PROJEKTS:** **Baustelle #14, Schritt 0b** – haftet der Magnet am **Schaft der RST Vogue TNL**, ist er **Stahl/CroMo** ✅. Haftet er **nicht**, ist es **Aluminium** ⛔ → dann darf der **Quill-Vorbau nicht** ohne Weiteres rein (der Keil kann einen Aluschaft aufspreizen). **Dauert 5 Sekunden.** Auch nützlich für: Felge (Alu vs. Stahl), Rahmen, Schrauben |
 
 ### Elektrik
 

@@ -75,11 +75,20 @@ Bei **Stahl**: Roststellen prüfen, ob es Oberflächen- oder Durchrostung ist.
 
 | Feld | Wert |
 |---|---|
-| Vorhanden? | ❓ ja / **angeformt** (bei Stahlrahmen oft Teil des Ausfallendes) / angeschraubt |
+| Vorhanden? | ❓ ja / **angeformt** (bei Stahlrahmen oft Teil des Ausfallendes) / **angeschraubt** |
 | Material | ❓ Alu (meist) |
-| Zustand – gerade? | ❓ prüfen (Sicht von hinten: Schaltwerkskäfig muss parallel zu den Ritzeln stehen) |
+| 🔴 **Zustand – gerade?** | 🔴 **UNGEPRÜFT UND VERDÄCHTIG** → **Baustelle #15**. Sicht von hinten: Schaltwerkskäfig muss **parallel** zu den Ritzeln stehen |
 | Gewinde M10 × 1,0 für Schaltwerk | ❓ intakt? |
-| Ersatz verfügbar? | ❓ 💰 rahmenspezifisch, 10–25 € |
+| Ersatz verfügbar? | ❓ 💰 **rahmenspezifisch**, 10–25 € |
+
+> 🔴 **Warum das Schaltauge hier einen eigenen Verdacht hat (Baustelle #15):**
+> Vor Jahren ein **Sturz** – *„hinten was verbogen"*, die **Schaltung ging nicht mehr
+> richtig**. Der befreundete Händler hatte **das passende Teil nicht dabei** und baute
+> **stattdessen vorne einen fremden Umwerfer (FD-C050)** ein.
+> ⚠️ **„Hinten verbogen" + „Schaltung geht nicht richtig" ist die Lehrbuch-Signatur eines
+> verbogenen Schaltauges** – behoben wurde aber **vorne**. 🔴 **Möglicherweise wurde die
+> eigentliche Ursache nie angefasst.**
+> → [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md) Abs. 5
 
 ⚠️ **Ein krummes Schaltauge ist die häufigste Ursache für schlechte Schaltpräzision.**
 Prüfung: von hinten auf das Rad schauen – Schaltwerkskäfig und Ritzel müssen **parallel** sein.
@@ -200,7 +209,7 @@ Muttern und Distanzhülsen kaufen. Damit lassen sich 90 % der Winkel-/Abstandspr
 | 4 | Kettenstrebenlänge | ____ mm |
 | 5 | Radstand | ____ mm |
 | 6 | Ausfallende horizontal/vertikal + Einbaubreite | |
-| 7 | Schaltauge: vorhanden, gerade? | |
+| 7 | 🔴 Schaltauge: vorhanden, **gerade**? (Baustelle **#15** – Sturz-Folge ungeprüft) | |
 | 8 | Riss-Prüfung (Abschnitt 2) | |
 | 9 | Zuganschläge: Zustand | |
 | 10 | Ösen-Liste: wo sind Gewindeösen (Größe M5/M6)? | |
@@ -210,6 +219,6 @@ Muttern und Distanzhülsen kaufen. Damit lassen sich 90 % der Winkel-/Abstandspr
 | Teil | Spec | Prio | ca. Preis | bestellt? |
 |---|---|---|---|---|
 | Kleinteile-Sortiment | M5/M6 Schrauben, Scheiben, Muttern, Hülsen | 🟡 | 10–20 € | ☐ |
-| Schaltauge (falls krumm/gebrochen) | **rahmenspezifisch** – Hersteller + Modell nötig | 🟡 | 10–25 € | ☐ |
+| 🔴 **Schaltauge** (falls krumm/gebrochen) | **rahmenspezifisch** – Hersteller + Modell nötig. 🔴 **Baustelle #15:** nach dem Sturz vor Jahren ungeprüft. 💡 **Alu-Schaltaugen lassen sich max. 1–2× richten**, dann tauschen | 🟡 | 10–25 € | ☐ |
 | Kabeldurchführungstüllen | 5–8 mm | 🟢 | 2–5 € | ☐ |
 | Drehmomentschlüssel | 2–25 Nm, mit Inbus-Bits | 🟢 | 30–60 € | ☐ |
