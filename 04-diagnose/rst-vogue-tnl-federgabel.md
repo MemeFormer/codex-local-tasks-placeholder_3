@@ -1,11 +1,14 @@
-# 🔬 Diagnose: Die Original-Gabel – **Staiger RST Vogue TNL**
+# 🔬 Diagnose: Die Original-Gabel – **RST Vogue TNL** (am weißen STAIGER-Rad)
 
-**Baustelle #14** · Stand 2026-09-04 · 🔴 **Entscheidung ausstehend: retten oder ersetzen?**
+**Baustelle #14** · Stand **2026-09-05** · 🔴 **Entscheidung ausstehend: retten oder ersetzen?**
 
 > **Warum diese Datei wichtig ist:** Die **Original-Gabel des weißen STAIGER-Rahmens ist noch
-> da.** Sie hat die **richtige Schaftlänge** und die **passenden Bremssockel-Stifte** für die
-> guten Shimano-Deore-Bremsarme. Wenn sie rettbar ist, löst sie **Baustelle #6 (Gewinde)**
-> und **Baustelle #5 (Bremsarme)** auf einen Schlag – für **ca. 25–50 €** statt 50–130 €.
+> da** – eine **RST Vogue TNL** (RST = Hersteller, Staiger = Fahrradmarke). Sie hat die
+> **richtige Schaftlänge** und die **passenden Bremssockel-Stifte** für die guten
+> Shimano-Deore-Bremsarme. Wenn sie rettbar ist, löst sie **Baustelle #1 (Einstecktiefe)**,
+> **#5 (Bremsarme)** und **#6 (Gewinde)** auf einen Schlag – für **ca. 25–50 €** statt 50–130 €.
+>
+> 🔴 **Der erste Arbeitsschritt überhaupt: der Fingernageltest (Abschnitt 3), 5 min, 0 €.**
 
 ---
 
@@ -13,14 +16,14 @@
 
 | Feld | Wert |
 |---|---|
-| Bezeichnung am Rad | **Staiger RST Vogue TNL** |
+| Bezeichnung am Rad | **RST Vogue TNL** – Original-Federgabel des weißen **STAIGER Daytona Sportline** |
 | Hersteller | **RST Suspension** (Taiwan) – in Deutschland vertrieben über **Paul Lange & Co.** |
 | Modellreihe | **RST Vogue**, Variante **TnL** (700C/28″ City-Trekking-Gabel, ältere Baureihe) |
 | Bauart | ✅ **Federgabel mit Stahlfeder + hydraulischer Dämpfung** (Coil/Öl) – **keine** Luftgabel |
 | Federung/Dämpfung laut RST-Katalog | **Spring system: Oil (R), Coil spring / MCU (L)** → **rechtes Gabelbein = Öldämpfer**, **linkes Gabelbein = Stahlfeder + MCU-Elastomer-Anschlagpuffer** |
 | Einstellmöglichkeiten | **L** = Lock-out (Blockierung) · **C** = Compression (Druckstufe) · **P** = Pre-load (Vorspannung) |
 | ✅ Deckt sich mit dem Befund | **Rädchen auf einer Seite = Pre-load (Vorspannung)** · **LOCK auf der anderen Seite = Lock-out** |
-| Schaft | laut RST-Katalog **28,6 mm (1⅛″) oder 25,4 mm (1″)** CroMo/Steel → ❓ **am Rad messen** (dein Rahmen ist 1⅛″) |
+| Schaft | laut RST-Katalog **28,6 mm (1⅛″) oder 25,4 mm (1″)** CroMo/Steel → ❓ **am Rad messen** (dein Rahmen ist 1⅛″). 🔴 **Die Schaftlänge ist der entscheidende Vorteil**: sie war original in **diesem** Steuerrohr → passt garantiert |
 | Standrohre (stanchions) | laut RST-Katalog **25,4 mm Stahl**, Ti-Farbe-beschichtet → ❓ **messen!** (25,4 oder 28,6 mm – entscheidend für den Dichtungssatz) |
 | Tauchrohre (lowers / outer legs) | **Aluminium** |
 | Federweg | ❓ **vermutlich 50 mm** (RST Vogue RL / Verse TNL sind 50 mm) – 🔴 **messen/vergleichen** mit den 63 mm der Suntour NEX |
@@ -184,6 +187,7 @@ Standrohre: nur Flugrost, keine Pickel?
    │
    ├─► JA ──► 🔴 RST Vogue TNL RETTEN (25–50 €, 2 h)
    │            ├─► Baustelle #6 GELÖST  (Original-Schaftlänge = genug Gewinde)
+   │            ├─► Baustelle #1 GELÖST  (Vorbau-Einstecktiefe erreichbar)
    │            ├─► Baustelle #5 GELÖST  (Original-Bremssockel passen zu den Deore-Armen)
    │            ├─► Lock-out + Preload wieder nutzbar
    │            └─► ⚠️ NEU zu lösen: Schutzblech-Öse an der RST-Gabel?
@@ -210,8 +214,9 @@ wirtschaftlichste Lösung, **falls die Standrohre mitspielen**.
 |---|---|
 | Darf die defekte RST-Gabel noch gefahren werden? | ⚠️ **Bedingt.** Eine Gabel ohne Dämpfung ist **kein Sicherheitsdefekt** – sie federt weiterhin und trägt das Rad. Aber: **kein Komfort, schlechtere Kontrolle auf schlechtem Untergrund**, und bei einem **Blockieren** des Lock-outs oder einem **festgerosteten Standrohr** drohen Verkanten/Klemmen |
 | 🔴 **Bei sichtbarem Rost mit Grübchen oder einem klemmenden Gabelbein** | 🔴 **nicht mehr fahren** – Klemmgefahr, Bruchrisiko |
-| Aktuell verbaut | ✅ **die funktionierende Suntour NEX** – damit ist das Rad **fahrbereit und sicher**, solange Baustelle #6 (Gewinde) kontrolliert wird |
-| Dringlichkeit | 🟡 **nicht akut.** Die NEX funktioniert. Die RST-Entscheidung ist eine **Wirtschaftlichkeits-** und **Komfortfrage**, kein Sicherheitsproblem |
+| Aktuell verbaut | ⚠️ **die funktionierende Suntour NEX** vom Bergamont-Spenderrad – damit ist das Rad **bedingt fahrbereit**, solange Baustelle #6 (Gewinde, nur Loctite-Provisorium) und **#1** (Vorbau-Einstecktiefe) **kontrolliert** werden. 🔴 **Beide sind ungeprüft → vor längeren Fahrten abarbeiten** |
+| Dringlichkeit der **RST-Reparatur** | 🟡 **nicht akut.** Die NEX funktioniert. Die RST-Entscheidung ist eine **Wirtschaftlichkeits-** und **Komfortfrage** |
+| Dringlichkeit der **Messungen** | 🔴 **hoch.** Fingernageltest + Schaftlängen + Steuerrohrlängen + Einstecktiefe entscheiden über **Sicherheit** (Baustelle #1/#6) und über **50–90 € Einkauf** |
 
 ---
 
