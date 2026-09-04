@@ -18,6 +18,10 @@ Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdru
 | Gabelschaft / Schaftrohr | steerer (tube) | das Rohr, das durchs Steuerrohr geht |
 | Gewindeschaft | threaded steerer | außen Gewinde, für Mutter + Kontermutter |
 | Gewindesteuersatz | threaded headset | 1" oder 1⅛" |
+| 🔴 **Aluschaft / Stahlschaft** | **aluminium / steel (CroMo) steerer** | 🔴 **Material des Gabelschafts – entscheidend für die Vorbau-Wahl!** **CroMo/Stahl** = magnetisch, verträgt einen **Quill-Vorbau**. **Alu** = **nicht magnetisch**, 🔴 **ein Quill-Vorbau spreizt einen Keil im Schaft und kann Alu aufreißen** |
+| 🔴 **Magnet-Test** | magnet test | 🔴 **5 Sekunden, 0 €:** Magnet an den Schaft halten. **Haftet = Stahl ✅ · haftet nicht = Alu ⛔** → **Baustelle #14, Schritt 0b** |
+| **semi-integrierter Steuersatz** | **semi-integrated / internal headset (ZS)** | Lagerschalen **liegen innen** im Steuerrohr → Steuerrohr-Ø **44 mm (ZS44)**. 🔴 **nicht mit externen Schalen (EC34, 33,9 mm) austauschbar!** |
+| **externer Steuersatz** | **external cup headset (EC)** | Lagerschalen **stehen außen vor** → Steuerrohr-Ø **33,9 mm (EC34)**. ✅ **dein Fall** (Gewindesteuersatz) |
 | Ahead-Steuersatz | threadless / AheadSet | Schaft glatt, Vorbau klemmt außen, Kappe spannt vor |
 | Gabelkrone | fork crown | unteres Ende des Schafts, wo die Gabelscheiden zusammenlaufen |
 | Gabelscheiden / Gabelbeine | fork blades | |
@@ -241,7 +245,8 @@ Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdru
 |---|---|---|
 | Rahmen | frame | |
 | Ausfallende | dropout | dort sitzt die Achse |
-| Schaltauge | derailleur hanger | |
+| Schaltauge | derailleur hanger | 🔴 **verschleißbares Sollbruchteil** zwischen Rahmen und Schaltwerk. **Krumm = schlechte Schaltpräzision, im Extremfall Speichen-Einlauf.** Bei Alu **max. 1–2× richtbar**, dann tauschen → **Baustelle #15** |
+| **Schaltauge-Richtlehre** | **(derailleur) hanger alignment gauge** | Prüft, ob das Schaltauge in **zwei Ebenen** fluchtet. 💰 **10–60 €** – 🔴 **erst optisch prüfen**, die Lehre braucht man nur bei Schiefstand |
 | Kettenstrebe | chainstay | |
 | Sitzstrebe | seatstay | |
 | Unterrohr / Oberrohr / Sitzrohr | down tube / top tube / seat tube | |
@@ -280,6 +285,8 @@ Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdru
 | Steuersatzschlüssel | headset wrench | dünne Mutter am Gewindesteuersatz (26/30/32/36 mm) |
 | Kassettenabzieher | cassette lockring tool | Shimano HG: 12-Spline, Ø ca. 23 mm |
 | **Kettenpeitsche** | **chain whip** | ⚠️ **hält die Kassette fest** – ohne die dreht sich alles mit! |
+| 🔴 **Kühlschrankmagnet** | fridge magnet | 🔴 **wichtigstes „Werkzeug" dieses Projekts, 0 €:** **Baustelle #14 Schritt 0b** – Schaftmaterial der RST Vogue TNL bestimmen (**haftet = Stahl ✅ / haftet nicht = Alu ⛔**). Auch für Felge, Rahmen, Schrauben |
+| **Schaltauge-Richtlehre** | hanger alignment gauge | **Baustelle #15** – Schaltauge auf Verzug prüfen (10–60 €, oder Werkstatt-Check) |
 | Schraubkranzabzieher | freewheel remover | nur für Freewheel (nicht Kassette!) |
 | Innenlager-Werkzeug | BB tool | z. B. Shimano Splined 20 mm, Hollowtech, 3-Loch-Schlüssel |
 | Kurbelabzieher | crank puller | |

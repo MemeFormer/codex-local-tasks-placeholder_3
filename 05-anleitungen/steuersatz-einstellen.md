@@ -10,10 +10,29 @@ Baustelle **#1** (Quill-Vorbau-Mindesteinstecktiefe).
 > 💡 **Dauerhafte Lösung:** die **Original-Gabel RST Vogue TNL zurückbauen** (Baustelle #14) –
 > ihr Schaft ist für **dieses** Steuerrohr gebaut.
 > → [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abschnitt 3a + 3b**
+>
+> 🔴🔴 **ABER: bevor die RST zurückgebaut wird, drei 5-Sekunden-Checks (0 €).**
+> Ein **Staiger-Katalogauszug von 2007** nennt die Vogue TNL **„mit Aluschaft"** in einem Rad
+> mit **„VP A45AC A-Head semi-integriert"**-Steuersatz und **A-Head-Vorbau** – **dieses Rad
+> läuft aber mit Gewindesteuersatz und Quill-Vorbau.** Das schließt sich aus.
+>
+> | ☐ | Check | ⛔ schlechtes Ergebnis |
+> |---|---|---|
+> | **0a** | **Außengewinde am RST-Schaft sichtbar?** | **glatt = Ahead-Gabel** → passt **nicht** in diesen Gewinderahmen |
+> | **0b** | **MAGNET an den Schaft** – haftet er? | **haftet nicht = Aluschaft** → 🔴 **der Quill-Vorbau spreizt einen Keil und kann den Schaft aufreißen** |
+> | **0c** | **Vorbau-Typ des originalen XLC-Comp-Vorbaus** | **A-Head** (klemmt außen) → der Rahmen war nie für Gewinde gebaut · **Quill** (Rohrstutzen + Keil + MIN-INSERTION) → ✅ **Gewinderahmen bestätigt** |
+>
+> 💡 **Gegen-Argument, das für „Gewinde" spricht:** Die NEX läuft **jetzt** mit einem
+> Gewindesteuersatz in diesem Rahmen. Ein semi-integrierter A-Head-Rahmen (**ZS44, 44 mm**)
+> kann **keine externen EC34-Schalen (33,9 mm)** aufnehmen. Da die NEX eingebaut ist und
+> funktioniert, ist das Steuerrohr **mit hoher Wahrscheinlichkeit EC34** → Gewinderahmen.
+> 🔴 **Trotzdem prüfen – ein Kühlschrankmagnet genügt.**
+> → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0**
 
 **Werkzeug:** Steuersatzschlüssel (dünner Maulschlüssel, ❓ Größe messen – oft 30/32/36 mm)
 oder ein zweiter passender Schlüssel · zweiter Schlüssel zum Gegenhalten · Lappen ·
-Lackstift (für die Kontrollmarkierung) · Loctite 243
+Lackstift (für die Kontrollmarkierung) · Loctite 243 · 🔴 **ein Kühlschrankmagnet** (für
+Check **0b** am Gabelschaft, 0 €)
 
 **Dauer:** 15 min · dauerhafte Lösung: 30–60 min + Bestellung
 
