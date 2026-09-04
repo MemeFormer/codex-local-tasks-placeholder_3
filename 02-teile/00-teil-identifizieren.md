@@ -27,6 +27,8 @@ Shimano-Teile sind fast immer **graviert oder geprägt**. Typische Stellen:
 | Dynamo | Auf der Gehäuseseite (z. B. „DH-3N31“) |
 | Reifen | Auf der Flanke: ETRTO („37-622“) + Hersteller + Modell |
 | Pedale | Auf der Innenseite / Rückseite, Gewindegröße „9/16" |
+| 🔴 **Federgabel** | **Aufkleber/Prägung an Gabelbrücke oder Tauchrohr** – z. B. `SF14 NEX P 700C TS T63` (Suntour) bzw. Modell-Aufkleber „Vogue TNL" (RST). 🔴 **Federweg und Schaftlänge stehen oft NICHT dran → messen!** |
+| 🔴 **Rahmen** | **Prägung/Einschlag im Tretlagerbereich oder am Sitzrohr** – z. B. `52 T4/T6 Heat Treated 6061 Lite Alloy` = **Größe + Material + Wärmebehandlung**. Dazu die **Rahmennummer** unter dem Tretlagergehäuse |
 
 **Format der Modellnummer:** Shimano = `XX-NNNN` (z. B. `RD-M410`, `CS-HG50`, `ST-EF51`,
 `FC-M371`, `FH-RM30`). Andere Hersteller ähnlich. Mit dieser Nummer findet man Datenblatt,
@@ -84,6 +86,21 @@ In die passende Datei unter [`02-teile/`](.) und zusätzlich ins
 - Zähnezahlen zählen (bei Kassette: größtes und kleinstes Ritzel ablesen, meist aufgeprägt)
 - Zustand in Worten: `gut` / `brauchbar` / `verschlissen` / `defekt`
 
+### 4a. 🔴 Lehre aus diesem Projekt: **Prospekt ≠ dein Rad**
+
+> ⚠️ **Hersteller- und Serien-Recherche ist nützlich, aber nicht verbindlich.**
+>
+> Beispiel aus diesem Projekt: Die Serien-Daten des **Staiger Daytona** nennen eine
+> **Suntour NCX-D LO 63 mm**-Federgabel. **Am Rad war aber eine RST Vogue TNL mit ca. 50 mm.**
+> Ausstattung variiert nach Baujahr, Modellvariante und Händler.
+>
+| Regel | Konsequenz |
+|---|---|
+| 🔴 **Prospekt-Angaben sind nur ein Hinweis** | Immer das **Teil am Rad** zählen/messen/abstechen |
+| 🔴 **Serienausstattung ≠ Individualausstattung** | Ein Rad kann mit anderer Gabel, anderen Felgen oder Bremsen ausgeliefert worden sein |
+| 🔴 **Falsche Prospekt-Annahmen kosten Geld** | Hier hätte die Annahme „63 mm passt sowieso" zu einem **unnötigen Gabelkauf (50–90 €)** geführt |
+| ✅ **Was zählt:** Prägung, Aufdruck, Messschieber, Zähne zählen | und im Zweifel: **Foto + Rückfrage beim Händler** |
+
 ### 5. Benennen nach Schema
 
 Damit die Einträge später suchbar sind, immer diese Form:
@@ -110,7 +127,11 @@ Dann hilft **Ausschluss** über die Geometrie:
 | Bremse hängt an **einem zentralen Bolzen** über dem Reifen? | → Seitenzugbremse (Rennrad) |
 | Hebel hat lange Arme, Zugweg groß? | → V-Brake-Hebel (long pull) |
 | Hebel kurz, wenig Zugweg? | → Rennrad-/Canti-Hebel (short pull) |
-| Nabe mit Kabelanschluss? | → Nabendynamo |
+| Nabe mit Kabelanschluss? | → Nabendynamo. 🔴 **Einstellseite ist immer die Seite OHNE Kabel** |
+| Gabel hat ein **Drehrad** oben + einen **„LOCK"-Hebel**? | → Federgabel mit **Vorspannung + Lockout** (z. B. RST **TnL**). Drehrad = Preload, Hebel = Lockout |
+| Gabel federt, **aber dämpft nicht** (prellt nach)? | → 🔴 **Öl fehlt im Dämpfungsbein** – meist **Staubschabring/Spiralfeder ausgefallen** |
+| Rahmen-Prägung enthält eine Zahl wie `48/52/56`? | → **Rahmengröße in cm** (Sitzrohrlänge) |
+| Prägung enthält `T4/T6` oder `Heat Treated`? | → **wärmebehandeltes Aluminium** (Aushärtungszustand nach DIN EN 515) |
 | Gabelschaft hat außen Gewinde? | → Gewindesteuersatz (1" oder 1⅛") |
 | Gabelschaft glatt, Vorbau klemmt außen? | → Ahead |
 | Zahnkranz mit **großer Mutter** (12-Spline) in der Mitte befestigt? | → **Kassette** |
@@ -129,3 +150,8 @@ Dann hilft **Ausschluss** über die Geometrie:
 | **Sclaverand** vs. **Schrader**-Felgenbohrung | falscher Schlauch (6,5 mm vs. 8,5 mm Bohrung) |
 | **Bremszug-Hülle** (Spirale) vs. **Schaltzug-Hülle** (Längsdrähte) | Schaltzug-Hülle hält Bremskräften nicht stand → Bruch |
 | **Loctite blau (243)** vs. **rot (270)** | rot ist nur mit Hitze lösbar |
+| 🔴 **Cantistift M8 vs. M10** | völlig andere Bremssockel-Systeme. **Messen:** Ø **7,95 mm = M8** (dein Fall), ca. 9,9 mm = M10. Manche Händler listen M10 für RST/Salsa/Winora – **falsch bestellt = unbrauchbar** |
+| 🔴 **alte RST Vogue TNL vs. aktuelle RST Vogue Air** | gleich klingender Name, **anderes Produkt**. Die alte TnL ist **Coil/Öl** mit 25,4-mm-Stahl-Standrohren, die aktuelle ist eine **Luftgabel** mit OCR-Dämpfung → **Ersatzteile passen nicht gegenseitig** |
+| 🔴 **„Heat Treated" vs. „Head Treated"** | Prägungen sind oft schlecht lesbar. `T4/T6 Heat Treated 6061` = **wärmebehandelt** – ein Lesefehler führt zu falschen Schlüssen über den Rahmen |
+| 🔴 **Bremshebel-Pivot vs. Bremssockel (Zangen-Pivot)** | zwei verschiedene „Angelpunkte". Klemmt der **Bremshebel-Pivot** am Lenker, hilft **keine** Arbeit an der Zange → 🔴 **erst am Lenker suchen, dann an der Zange** |
+| 🔴 **Originalteil vs. Spenderteil** | Bei einem Teiletausch wandert die **Herkunft** mit. Ein „passendes" Teil kann von einem Rad mit **anderer Geometrie** stammen (hier: **20–30 mm kürzeres Steuerrohr** → Gabelschaft zu kurz) |
