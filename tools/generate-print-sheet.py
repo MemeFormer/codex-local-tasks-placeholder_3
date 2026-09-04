@@ -67,6 +67,9 @@ ORDNUNG = [
 
 AUSGESCHLOSSEN = {"templates", "tools", "fotos", ".git", ".arena"}
 
+# generierte Ausgaben (werden gitignored und duerfen nicht in sich selbst landen)
+GENERIERTE_AUSGABEN = {"print-alles.md", "werkstatt-zettel.md"}
+
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 CODEBLOCK_RE = re.compile(r"^```")
 
@@ -91,7 +94,8 @@ def sammle_dateien(nur: list[str] | None) -> list[Path]:
         rel = pfad.relative_to(REPO)
         if rel.parts and rel.parts[0] in AUSGESCHLOSSEN:
             continue
-        if pfad.name.lower() == "print-alles.md":
+        # generierte Druckausgaben nicht in sich selbst aufnehmen
+        if pfad.name.lower() in GENERIERTE_AUSGABEN:
             continue
         hinzufuegen(pfad)
 

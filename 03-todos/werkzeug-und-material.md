@@ -27,8 +27,10 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 
 | ☐ vorhanden | Werkzeug | Größe / Spec | wofür |
 |---|---|---|---|
-| ☐ | **Konusschlüssel** | ❓ ____ mm + ____ mm | 🔴 Baustelle 1 + 2 (Lager) |
-| ☐ | Steuersatzschlüssel | ❓ ____ mm (30/32/36) | Baustelle 5 |
+| ☐ | **Konusschlüssel** | ❓ ____ mm + ____ mm | 🟢 Baustelle **#4a + #13** (Lager – beide ✅ erledigt, nur Nachkontrolle) |
+| ☐ | Steuersatzschlüssel | ❓ ____ mm (30/32/36) | 🔴 Baustelle **#6** (Gewinde) + **#14** (Gabeltausch) |
+| ☐ | 🔴 **Kronenring-Abzieher / -Aufsetzer** (crown race) | – | 🔴 Baustelle **#14/#6** – **Pflicht beim Gabeltausch** |
+| ☐ | 🔴 **Inbus 5/6 mm** für die Tauchrohr-Verschraubung unten | – | Baustelle **#14** – RST Vogue zerlegen |
 | ☐ | Kettennieter | – | neue Kette |
 | ☐ | Kettenpeitsche | – | Kassette lösen |
 | ☐ | Kassettenabzieher | Shimano HG 12-Spline | Kassette lösen |
@@ -39,8 +41,10 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 | ☐ | Reifenheber | 2–3 Stück | Reifen |
 | ☐ | Standpumpe mit Manometer | | Reifen |
 | ☐ | Zughüllenschneider | – | saubere Hüllenenden |
-| ☐ | Schleifleinen 400/600 | – | 💡 Bremssockel entlacken (Baustelle 5) |
-| ☐ | Gabelschlüssel | ❓ Größe | nur falls der Bremssockel eingeschraubt ist (Alugabel) |
+| ☐ | ~~Schleifleinen 400/600~~ | – | ❌ **entfällt** – die Ursache von Baustelle #5 sind **zu kurze Cantistifte**, nicht Lack |
+| ☐ | 🔴 **Chrompolitur + Stahlwolle 0000** | – | Baustelle **#14** – Flugrost von den **RST-Standrohren** entfernen (⛔ nicht auf den Tauchrohren!) |
+| ☐ | 🔴 **Gabelschlüssel** | ❓ Schlüsselweite der zwei Abflachungen messen | Baustelle **#5** – **Cantistifte aus-/einschrauben** (✅ beide Gabeln sind Alu → eingeschraubt, M8) |
+| ☐ | 🔴 **Öl-Spritze / kleines Messbecher-Set** | – | Baustelle **#14** – Gabelöl dosiert einfüllen |
 | ☐ | Kettenlehre | 0,5 / 0,75 / 1,0 % | Verschleiß |
 | ☐ | Drehmomentschlüssel | 2–25 Nm | Alu-Teile |
 | ☐ | Zentrierständer | – | optional |
@@ -107,7 +111,7 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 
 | Teil | Wo gelagert | Notiz |
 |---|---|---|
-| 🔴 **Alte Gabel vom weißen Rad** | ❓ **WO IST SIE?** | 💡💡 **löst Baustelle 5 (Bremssockel) UND 6 (Gewinde) gleichzeitig!** Schaftlänge + Bremssockel wären wieder original passend |
+| ✅ ~~Alte Gabel vom weißen Rad – WO IST SIE?~~ | ✅ **GEFUNDEN** | 🔴 Es ist die **RST Vogue TNL** – siehe eigener Eintrag unten |
 | Ausgebaute weiße Bremsarme vorne | ❓ | 💡 Federn als Spender für die schwarzen Arme; Bremsarme selbst wieder verwendbar, falls die Originalgabel zurückkommt |
 | Alte weiße Bremsbeläge | ✅ **ca. 72 mm**, 🔴 **komplett durchgefahren** | Vergleichsmaß für die Spenderrad-Beläge (**Tektro 836 = 62 mm**) → richtiger Ersatz: **Shimano M70T4 = 72 mm** |
 | 🔴 **RST Vogue TNL – Original-Federgabel des weißen Rads** | ✅ **vorhanden**, **defekt** (Öl ausgetreten, Dichtungen hin, leichter Rost an den Standrohren) | ⭐ **wichtigstes Teil der Ersatzteilkiste** – wenn rettbar, löst sie **Baustelle #1, #5 und #6** → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) |
@@ -120,6 +124,13 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 | Spenderrad-Rest (**Bergamont Horizon 4.0**) | ❓ | Ersatzteillager: 🔴 **Cantistifte** (falls kürzer gebraucht), **Schutzblech-Ösen**, Laufrad, Lenker/Vorbau – siehe [`../01-bikes/schwarzes-spenderrad.md`](../01-bikes/schwarzes-spenderrad.md) |
 | Ausgebaute Konen/Kugeln | ❓ | |
 
-💡 **Wichtig:** Die **alte Gabel des weißen Rads** aufheben! Falls deren Schaft lang genug
-für den weißen Steuerkopf ist, ist Baustelle 5 kostenlos gelöst (abgesehen von den
-Schutzblech-Ösen, die dann neu gelöst werden müssten).
+💡 **Wichtig – und jetzt konkret:** Die **alte Gabel des weißen Rads ist die RST Vogue TNL**
+und sie **ist noch da**. Ihr Schaft ist für **dieses** Steuerrohr gebaut → wenn sie den
+**Fingernageltest** besteht, sind **Baustelle #1, #5 und #6 kostenlos bzw. für 25–50 €** gelöst.
+Neu zu lösen wären dann nur die **Schutzblech-Ösen** (die NEX-Gabel hatte sie, die RST evtl.
+nicht) → Universal-/P-Schellen, 💰 3–8 €.
+→ [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md)
+
+🔴 **Außerdem aufheben:** die **ausgebauten Cantistifte der NEX-Gabel**, falls sie beim Tausch
+gegen längere M8-Stifte herauskommen – sie sind das **Vergleichsmaß** und passen eventuell in
+die RST-Gabel (oder umgekehrt).
