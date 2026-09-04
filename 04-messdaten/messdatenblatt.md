@@ -16,6 +16,19 @@ Legende: `☐` = noch offen · `☑` = erfasst
 > identifiziert: Bergamont Horizon 4.0**.
 > **Offen sind nur noch die MESSWERTE** – und zwar vor allem an der **RST Vogue TNL**.
 >
+> 🔴🔴 **SCHRITT 0 – 5 Sekunden, 0 €, VOR jeder Bestellung:**
+>
+> | ☐ | Prüfung | Entscheidet über |
+> |---|---|---|
+> | ☐ | **MAGNET an den Schaft der RST Vogue TNL halten** – haftet er? | 🔴 **haftet = Stahl/CroMo ✅** · **haftet nicht = Aluminium ⛔** → ein **Quill-Vorbau spreizt einen Keil im Schaft** und kann einen **Aluschaft aufreißen** |
+> | ☐ | **Ist am RST-Schaft ein Außengewinde sichtbar?** | ⛔ **glatt = Ahead-Gabel** → passt **nicht** in den Gewinderahmen mit Quill-Vorbau → **Plan A+ entfällt** |
+>
+> ⚠️ **Warum das neu ist:** Ein **Staiger-Katalogauszug 2007** nennt die Vogue TNL
+> **„mit Aluschaft"** in einem Rad mit **„A-Head semi-integriert"**-Steuersatz und
+> **A-Head-Vorbau**. Dieses Rad hat aber **Gewindesteuersatz + Quill-Vorbau**.
+> Wahrscheinlich anderes Baujahr – aber 🔴 **prüfen, nicht annehmen.** Ein Kühlschrankmagnet
+> genügt. → [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md)
+>
 > 🔴 **Die 6 wichtigsten Messungen – NEU (damit ist fast alles bestellbar):**
 >
 > | # | Messung | Entscheidet über |
@@ -55,6 +68,8 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☑ | **Federweg** | ❓ ca. **50 mm** (RST-Vogue-Baureihe) – prüfen | ✅ **63 mm** („T63") |
 | ☑ | Gabelschaft-Ø **außen** am Gewinde | ❓ **28,6 mm (1⅛″)** oder **25,4 mm (1″)** CroMo – 🔴 **messen!** | ✅ **1⅛″ = 28,6 mm** (Gewinde **24 tpi**) |
 | 🔴 | **Standrohr-Ø** | 🔴 ❓ ____ mm (**25,4** laut Katalog 2008, **28,6** laut Ersatzteil-Liste) → **entscheidet den Dichtungssatz!** | ❓ ____ mm (Stahl) |
+| 🔴🔴 | **SCHRITT 0a – Außengewinde am Schaft sichtbar?** | ❓ **Gewinde** ✅ / **glatt** ⛔ (= Ahead-Gabel, passt nicht!) | – |
+| 🔴🔴 | **SCHRITT 0b – MAGNET-TEST am Schaft** | ❓ **haftet** = Stahl ✅ / **haftet nicht** = **Alu** ⛔ (Quill-Vorbau riskant!) | – |
 | 🔴 | **Fingernageltest an den Standrohren** | 🔴 ❓ **Grübchen (Pitting) ja/nein** – ⛔ **bei ja: Gabel unrettbar** | ❓ |
 | 🔴 | **Schaftlänge gesamt** (Krone → Schaftspitze) | ❓ ____ mm | ❓ ____ mm (ab Werk **210** oder **225 mm**) |
 | 🔴 | **Gewindelänge am Schaft** | ❓ ____ mm | ❓ ____ mm (NEX ab Werk ca. **55 mm** oben!) |

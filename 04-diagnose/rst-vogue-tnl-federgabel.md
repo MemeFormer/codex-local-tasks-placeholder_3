@@ -24,6 +24,7 @@
 | Einstellmöglichkeiten | **L** = Lock-out (Blockierung) · **C** = Compression (Druckstufe) · **P** = Pre-load (Vorspannung) |
 | ✅ Deckt sich mit dem Befund | **Rädchen auf einer Seite = Pre-load (Vorspannung)** · **LOCK auf der anderen Seite = Lock-out** |
 | Schaft | laut RST-Katalog **28,6 mm (1⅛″) oder 25,4 mm (1″)** CroMo/Steel → ❓ **am Rad messen** (dein Rahmen ist 1⅛″). 🔴 **Die Schaftlänge ist der entscheidende Vorteil**: sie war original in **diesem** Steuerrohr → passt garantiert |
+| 🔴 **Schaft-Variante** | 🔴 **GEWINDE (für Quill) oder glatt (Ahead)?** Und **Stahl oder Alu?** → **Prüfung 0a/0b in Abs. 3.0.** ⚠️ Der **Staiger-Katalog 2007** nennt die Vogue TNL **„mit Aluschaft"** in einem **A-Head**-Rad – **dieses Rad hat aber Gewindesteuersatz + Quill-Vorbau**. **Unbedingt prüfen, nicht annehmen!** |
 | Standrohre (stanchions) | laut RST-Katalog **25,4 mm Stahl**, Ti-Farbe-beschichtet → ❓ **messen!** (25,4 oder 28,6 mm – entscheidend für den Dichtungssatz) |
 | Tauchrohre (lowers / outer legs) | **Aluminium** |
 | Federweg | ❓ **vermutlich 50 mm** (RST Vogue RL / Verse TNL sind 50 mm) – 🔴 **messen/vergleichen** mit den 63 mm der Suntour NEX |
@@ -94,7 +95,46 @@ prüft, ob das Tauchrohr Riefen oder Rostpickel hat. **Dasselbe Prinzip hier.**
 
 ## 3. 🎯 Die entscheidende Frage: **Ist sie noch zu retten?**
 
-🔴 **Ausschlaggebend ist der Zustand der STANDROHRE** – nicht die Dichtung.
+### 🔴🔴 3.0 ZUERST: zwei Sekunden-Checks, **bevor** Geld ausgegeben wird
+
+> ⚠️ **Neu seit 2026-09-04.** Ein **Staiger-Katalogauszug von 2007** nennt für die
+> **Daytona Sport Line** die Gabel **„RST Vogue TNL, lockout, mit Aluschaft"** – zusammen
+> mit einem **„VP A45AC A-Head semi-integriert 1⅛ Zoll"**-Steuersatz und einem
+> **„XLC Comp Alu A-Head"**-Vorbau.
+> **Dieses Rad läuft aber mit einem Gewindesteuersatz 1⅛″ × 24 tpi und einem Quill-Vorbau.**
+> **Beides zusammen passt nicht.** → [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md) Abs. 4
+
+| ☐ | Prüfung | Wie | 🔴 Konsequenz |
+|---|---|---|---|
+| ☐ | **0a – Hat der RST-Schaft ein Außengewinde?** | Anschauen: **Gewinde sichtbar** oder **glatter Schaft**? | ⛔ **Glatt = Ahead-Gabel.** Die passt **nicht** in einen Gewinderahmen mit Quill-Vorbau → **Plan A+ ist gescheitert, bevor er begonnen hat.** Dann: Ahead-Umbau oder andere Gabel. |
+| ☐ | **0b – Ist der Schaft Stahl oder Aluminium?** | 🔴 **MAGNET-TEST** – Magnet haftet = **CroMo/Stahl** ✅, haftet **nicht** = **Aluminium** ⛔ | 🔴 **Bei Aluminium + Quill-Vorbau: kritisch.** Ein Quill-Vorbau **spreizt einen Keil im Schaft**. **Alu-Schäfte können dabei aufreißen.** → dann **Ahead-Umbau** oder eine Gabel mit **Stahlschaft** |
+
+> 💡 **Der Magnet-Test ist der billigste und wichtigste Test des ganzen Projekts.**
+> Ein **Kühlschrankmagnet** genügt, Dauer **5 Sekunden**, Kosten **0 €**.
+> Er entscheidet, ob der Quill-Vorbau in dieser Gabel **überhaupt sicher** ist.
+
+| Ergebnis | Bedeutung |
+|---|---|
+| ✅ **Gewinde vorhanden + Magnet haftet (Stahl)** | 🟢 **Bestfall** – die Gabel ist die richtige Variante. **Weiter mit 3.1 (Fingernageltest).** |
+| ⚠️ **Gewinde vorhanden + Magnet haftet NICHT (Alu)** | 🔴 **Gewinde-Gabel mit Aluschaft** – selten, aber möglich. **Quill-Vorbau nur mit äußerster Vorsicht** (Keil **nicht** stark spreizen, Drehmoment niedrig, Einstecktiefe streng beachten). Besser: **Ahead-Umbau**. |
+| ⛔ **Glatter Schaft (Ahead)** | 🔴 **Falsche Variante für diesen Rahmen.** Plan A+ entfällt. → **Abs. 5, Entscheidungsbaum, Pfad „Gabel unbrauchbar"**. |
+
+**Warum das bisher übersehen wurde:** Die Annahme lautete „die Original-Gabel passt
+definitionsgemäß in den Original-Rahmen". Das stimmt **nur**, wenn es **dieselbe Variante**
+ist, mit der das Rad ausgeliefert wurde. Der Katalog zeigt, dass **mindestens eine**
+Daytona-Variante **A-Head mit Aluschaft** hatte. 🔴 **Also prüfen, nicht annehmen.**
+
+💡 **Hinweis zur Einordnung:** Die wahrscheinlichste Erklärung ist, dass **dieses Rad ein
+anderes Baujahr** ist als der Katalog von 2007 – denn **der gesamte Antrieb entspricht exakt
+dem 2007er Daytona-Spec** (RD-M511, FC-M530, ES-Octalink, FH-M530, CN-HG53, Deore-M530-Bremsen,
+Mach1-210-Felgen), und ein Rahmen lässt sich **nicht** von semi-integriert (ZS44) auf extern
+(EC34) umrüsten. 🔴 **Der Magnet-Test klärt es in 5 Sekunden – er ist billiger als jede Theorie.**
+
+---
+
+### 3.1 Zustand der Standrohre
+
+🔴 **Wenn 0a/0b bestanden sind, ist ausschlaggebend der Zustand der STANDROHRE** – nicht die Dichtung.
 
 | Zustand der Standrohre | Bewertung | Vorgehen |
 |---|---|---|
@@ -108,6 +148,8 @@ prüft, ob das Tauchrohr Riefen oder Rostpickel hat. **Dasselbe Prinzip hier.**
 
 | ☐ | Schritt | Was prüfen |
 |---|---|---|
+| ☐ | **0a** | 🔴 **Schaft: Außengewinde sichtbar?** (⛔ glatt = Ahead = falsche Variante!) |
+| ☐ | **0b** | 🔴 **MAGNET-TEST am Schaft** (haftet = Stahl ✅ / haftet nicht = Alu ⛔ → Quill-Vorbau riskant) |
 | ☐ | 1 | Gabel ausbauen, Tauchrohre **ganz einfedern** und wieder ausziehen |
 | ☐ | 2 | Standrohre mit **Isopropanol/Bremsenreiniger** sauber wischen |
 | ☐ | 3 | **Fingernagel-Test**: quer über die Standrohre fahren – **Grübchen/Riefen fühlbar?** |
@@ -125,6 +167,8 @@ prüft, ob das Tauchrohr Riefen oder Rostpickel hat. **Dasselbe Prinzip hier.**
 
 | Frage | Antwort |
 |---|---|
+| 🔴 **0a – Schaft mit Außengewinde?** | ❓ ja / **glatt (Ahead)** |
+| 🔴 **0b – Magnet haftet am Schaft?** | ❓ ja (**Stahl**) / nein (**Alu**) |
 | Standrohre rettbar (nur Flugrost, keine Pickel)? | ❓ ja / nein |
 | Schaftlänge der RST-Gabel | ❓ ____ mm |
 | Freies Gewinde, wenn sie im STAIGER-Rahmen säße | ❓ ____ mm |
@@ -183,6 +227,16 @@ prüft, ob das Tauchrohr Riefen oder Rostpickel hat. **Dasselbe Prinzip hier.**
 ## 5. 🎯 Entscheidungsbaum
 
 ```
+🔴🔴 SCHRITT 0 (5 Sekunden, 0 €): MAGNET + GEWINDE am Schaft
+   │
+   ├─► glatter Schaft (Ahead) ─► ⛔ FALSCHE VARIANTE für diesen Rahmen
+   │        └─► Plan A+ ENTFÄLLT ─► direkt zu „Gabel unbrauchbar" unten
+   │
+   ├─► Gewinde + Magnet haftet NICHT (Alu) ─► ⚠️ Quill-Vorbau nur mit Vorsicht
+   │        └─► Keil nicht stark spreizen · besser: Ahead-Umbau (Variante D)
+   │
+   └─► ✅ Gewinde + Magnet haftet (Stahl) ─► WEITER zu Schritt 1 👇
+
 Standrohre: nur Flugrost, keine Pickel?
    │
    ├─► JA ──► 🔴 RST Vogue TNL RETTEN (25–50 €, 2 h)
@@ -201,10 +255,37 @@ Standrohre: nur Flugrost, keine Pickel?
                        └─► 🔴 Baustelle #5 bleibt ebenfalls
 ```
 
+🔴 **Variante D (Ahead-Umbau) ist auch der Weg, falls Schritt 0 ergibt, dass die RST-Gabel
+einen glatten Ahead-Schaft hat** – dann bleibt sie als Gabel nutzbar, aber Rahmen und
+Vorbau müssen auf Ahead umgestellt werden. ⚠️ **Vorher prüfen, ob das Steuerrohr
+semi-integriert (ZS44, 44 mm) oder extern (EC34, 33,9 mm) ist – die Standards sind
+nicht austauschbar!**
+
 **💡 Wichtiger Nebeneffekt:** Wenn du die **RST-Gabel rettest**, brauchst du **keine**
 neuen Bremssockel, **keinen** Ahead-Umbau und **keine** neue Gabel – und du kannst wieder
 deine **guten Shimano-Deore-Bremsarme** vorne fahren. Das ist mit Abstand die
 wirtschaftlichste Lösung, **falls die Standrohre mitspielen**.
+
+### ✅ Entscheidung des Besitzers (2026-09-04)
+
+> **„Macht wohl oder übel am meisten Sinn, die weiße Gabel wieder instand zu setzen und
+> sich dann mit der Bastelei für Schutzblech-/Lichthalterung rumzuärgern – aber die ist
+> doch schon eine Nummer besser, wenn sie funktioniert, als dieses schwammige, weiche
+> Spielzeug, das die schwarze an Dämpfungsleistung hat."**
+
+**Status: 🟢 Plan A+ ist die gewählte Richtung** – unter Vorbehalt von **Schritt 0** und dem
+**Fingernageltest**.
+
+**Der Fahreindruck ist technisch plausibel und deckt sich mit den Daten:**
+
+| | **RST Vogue TNL** | **Suntour NEX 63** |
+|---|---|---|
+| Dämpfung | 🔴 **hydraulische Öldämpfung** (rechtes Bein) | **Stahlfeder + Elastomer**, kaum Öldämpfung |
+| Federweg | ca. **50 mm** – straffer, direkter | **63 mm** – mehr Weg, weniger Dämpfung |
+| Ergebnis | kontrolliert | 🔴 **„schwammig" ist Bauart, kein Defekt** |
+
+➡️ **Der Unterschied wird nach der Reparatur noch größer**, weil das Öl dann wieder dort
+ist, wo es hingehört.
 
 ---
 

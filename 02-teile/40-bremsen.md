@@ -67,6 +67,24 @@ Am Fahrrad mit Felgenbremse gibt es zwei Dinge, die man umgangssprachlich „Heb
 | Position | Bremshebel (Lenker) | Bremsarme (Zange) | Beläge | Bemerkung |
 |---|---|---|---|---|
 | **vorne** | ✅ **BL-M571**, weiß, original | ⚠️ **Tektro**, schwarz (**Bergamont-Spenderrad**) | ❓ welche? (vermutlich ebenfalls **Tektro 836**) | 🔴 weiße **Deore**-Arme passten nicht: die **Cantistifte der Suntour-NEX-Gabel sind KÜRZER** → M6-Schraube ohne Gewindegriff |
+
+> 🔴 **Befund 2026-09-04 – die Bremshebel sind eine Klasse HÖHER als die Serienausstattung.**
+> Ein **Staiger-Katalogauszug von 2007** nennt für das **Daytona** Bremshebel
+> **„Shimano Deore M511"** und Schalthebel **„Deore SL-M511"**. Am Rad sind aber
+> **„Deore LX BL-M571"** + **„Deore LX SL-M580"** – das ist exakt die Ausstattung des
+> **teureren Schwestermodells Idaho (850 € statt 699 €)**.
+> **Beide Abweichungen liegen am Lenker** – und der Besitzer erinnert sich, der Händler-Freund
+> habe ihm auf Wunsch **„andere Schaltarmaturen"** montiert. 🔴 **Das deckt sich punktgenau.**
+> **Deore LX stand 2007 über Deore** → das ist ein **Upgrade**, kein Mangel. Es erklärt auch,
+> warum die Bremsen neu „dermaßen gut verzögert" haben.
+> → [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md)
+
+> ✅ **Keine Scheibenbremse – und das ist Absicht.** Der Händler bot beim Kauf an, **vorne
+> eine günstige Scheibenbremse** zu montieren. Der Besitzer **lehnte ab**, weil die
+> V-Brakes stark genug waren und eine Scheibenbremse als **empfindlich/wartungsanfällig**
+> galt. 🔴 **Konsequenz für alle Planung:** Rahmen und Gabel sind auf **Felgenbremse**
+> ausgelegt. **Keinen Disc-Umbau einplanen** – eine Ersatzgabel braucht
+> **V-Brake-/Canti-Sockel**, keine IS-/PM-Aufnahme.
 | **hinten** | ✅ **BL-M571**, weiß, original | ✅ **Shimano Deore**, weiß, original | 🟡 **Tektro 836**, 62–63 mm (Spenderrad) | 🟡 **ca. 9–10 mm kürzer** als die Originalbeläge (**72 mm**, durchgefahren) – **kein** Sicherheitsproblem |
 
 > ✅ **Baustelle #3 ist erledigt – und die Ursache stand am LENKER.**

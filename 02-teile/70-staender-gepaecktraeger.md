@@ -5,6 +5,14 @@
 **Baustelle:** 🟢 **#8** Ständer-Winkel (Kipprichtung klären, Lochabstand messen, Distanzscheiben)
 → [`../03-todos/offene-baustellen.md`](../03-todos/offene-baustellen.md)
 
+> ✅ **BELEGT (2026-09-04):** Ständer **und** Gepäckträger waren beim Kauf **nicht** dabei.
+> Der **Staiger-Katalog 2007** listet für Daytona und Idaho ausdrücklich
+> **„Gepäckträger nachrüstbar"** und **„Ständer nachrüstbar"** – das Rad wurde also
+> **ohne** beide ausgeliefert, und der Besitzer bestätigt: *„relativ nackt, keinerlei
+> Anbauten"*. 🔴 **Konsequenz:** Die heutigen Aufnahmen/Schellen sind **Nachrüstlösungen**,
+> nicht Originalteile → **Lochabstand und Kipprichtung sind nicht durch das Modell vorgegeben,
+> sondern müssen gemessen werden.**
+
 ---
 
 ## 1. Begriffe

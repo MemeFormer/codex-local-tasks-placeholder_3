@@ -14,6 +14,40 @@
 > 💡 **Neue Baustelle #14:** Kann die **RST Vogue TNL** gerettet werden? Wenn ja, erledigt sie
 > **Baustelle #1, #5 und #6 auf einen Schlag** →
 > [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md)
+> 🟢 **Entscheidung des Besitzers (2026-09-04): retten.** Die NEX wirkt in der Dämpfung
+> *„schwammig, weich, wie Spielzeug"*, die RST ist *„eine Nummer besser"*.
+>
+> 🔴🔴 **ABER zuerst ein 5-Sekunden-Check:** Ein **Staiger-Katalogauszug von 2007** nennt die
+> Vogue TNL **„mit Aluschaft"** in einem Rad mit **A-Head semi-integriert**-Steuersatz und
+> **A-Head-Vorbau** – **dieses Rad hat aber Gewindesteuersatz + Quill-Vorbau.**
+> ➡️ **MAGNET an den Schaft halten** (haftet = Stahl ✅ / haftet nicht = Alu ⛔) und
+> **prüfen, ob ein Außengewinde sichtbar ist** (glatt = Ahead-Gabel ⛔ passt nicht).
+> → [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md)
+
+---
+
+## 🔴 Provenienz: Warum dieses Rad vom Katalog abweicht
+
+> **Quelle:** Auskunft des Besitzers, 2026-09-04 →
+> [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md)
+> **Beleg:** Staiger-Katalogauszug 2007 (Sport Line), zitiert in einem
+> [MTB-News-Thread vom 1. Mai 2007](https://www.mtb-news.de/forum/t/staiger-daytona-idaho-als-letzet-rettung-keine-x6-mehr-zu-bekommen.275745/)
+
+| Ereignis | Was passiert ist | 🔴 Folge für die Doku |
+|---|---|---|
+| **Kauf** | **Flammneu beim Händler** – der Ladeninhaber war ein **alter Freund aus Jugendtagen** | Der Händler hat **auf Wunsch abweichende Teile** montiert |
+| **Spezialwünsche** | *„Eigentlich hat da XY, aber ich kann dir auch XX dran machen, wenn dir das besser gefällt."* Erinnerung: es ging um die **„Schaltarmaturen"** | ✅ **BELEGT:** Schalthebel **SL-M580** + Bremshebel **BL-M571** sind **Deore LX** = Spec des **teureren Idaho (850 €)**, nicht des Daytona (699 €, dort **Deore SL-M511 / M511**). **Beide Abweichungen liegen am Lenker.** 🔴 **Ein Upgrade, kein Mangel** |
+| **„Nackt" gekauft** | **Keine Schutzbleche, kein Gepäckträger, keine Beleuchtung.** Der Freund gab ein **Batterie-Lichtset** mit. Ein **Tacho** war mal da und ging kaputt | ✅ **BELEGT:** Katalog sagt **„Gepäckträger nachrüstbar"**, **„Ständer nachrüstbar"**, Beleuchtung nicht gelistet. 🔴 **Alle heutigen Anbauten sind Nachrüstungen** – und stammen jetzt großteils vom Bergamont |
+| **Original-Sattel** | *„Ein super unbequemes, kleines Sado-Maso-Foltergerät"* | ✅ **ERKLÄRT:** Katalog nennt **Fizi:k Pave Sport** (Herren) – ein **schmaler, harter Sport-Sattel**. 🔴 **Der heute verbaute Sattel ist nicht original** ❓ welcher? |
+| **Scheibenbremse abgelehnt** | Der Freund bot **vorne eine günstige Scheibenbremse** an – **abgelehnt**, weil die V-Brakes extrem stark verzögerten und Disc als **empfindlich/wartungsanfällig** galt | 🔴 **Dauerhafte Festlegung:** Rad ist konsequent **Felgenbremse**. **Keinen Disc-Umbau einplanen** – eine Ersatzgabel braucht **V-Brake-/Canti-Sockel**, keine IS-/PM-Aufnahme |
+| **Sturz + Behelfsreparatur** | Jahre später: **hinten etwas verbogen**, Schaltung funktionierte nicht richtig. Der Freund (inzwischen **mobil, ohne Lager**) hatte das passende Teil nicht → baute **seinen eigenen Umwerfer FD-C050** ein, „müssen wir irgendwann zurücktauschen" | ⛔ **Der FD-C050 ist NICHT original** (original wäre **Deore FD-M530**). ⛔ **„Der ist teurer" stimmt nicht** (FD-C050 ca. **8–15 €**, FD-M530 ca. **16–28 €**). 🔴 **Nie zurückgetauscht** – die beiden haben sich seit Jahren nicht gesehen. 🆕 **Baustelle #15: Schaltauge prüfen!** |
+| **Anbauten über die Jahre** | Nach und nach dazu gekommen, zuletzt der **große Teile-Swap** vom Bergamont-Spenderrad | 🔴 **„Original" heißt bei diesem Rad: Stand beim Kauf + Spezialwünsche des Freundes.** Nicht der Katalog |
+
+> 🔴 **Merksatz für alle künftigen Recherchen:**
+> **Der Staiger-Katalog beschreibt das MODELL – nicht DIESES Rad.**
+> Drei unabhängige Gründe sprechen dagegen: **Baujahr/Modellvariante**, **Spezialwünsche des
+> Händlers beim Kauf**, und **Reparaturen/Umbauten über 15+ Jahre**.
+> → [`../02-teile/00-teil-identifizieren.md`](../02-teile/00-teil-identifizieren.md) Abs. 4a
 
 ---
 

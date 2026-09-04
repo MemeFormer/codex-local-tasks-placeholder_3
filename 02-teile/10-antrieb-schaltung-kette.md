@@ -16,7 +16,7 @@ vom Spenderrad lösen (optional, **Kettenpeitsche** fehlt) →
 > | **Innenlager** (gehört zum FC-M530) | ❓ Abdruck prüfen | ✅ **Shimano BB-ES25 Octalink**, **BSA 68 mm** (1,37″ × 24 tpi), Achslänge **113/118/121/126 mm**, Kettenlinie **47,5 / 50 mm** |
 > | **Kette – NEUKAUF-SPEC** | – | 🔴 ✅ **Shimano CN-HG53** (oder CN-HG73), **9-fach** – das ist die **Original-Spec** zum FC-M530 |
 > | **Schalthebel** | **SL-M580** | ✅ **Shimano Deore LX SL-M580**, **9-fach Rapidfire (Trigger)**, Lenkerklemmung **22,2 mm** |
-> | **Umwerfer** (vorne) | **GD-C050 / OP Swing** | ✅ **Shimano FD-C050** – 🔴 **„GD" ist ein Lesefehler, es heißt FD** (F/G verwechselt). „OP Swing" = **Top Swing**. SIS, 3-fach, Klemmung **28,6 / 31,8 mm**, 5-mm-Inbus **5–7 Nm**, für Octalink/Spline-Kurbel, **max. 48 Zähne**, Kapazität **20 Zähne**, Kettenlinie **46–52,5 mm** |
+> | **Umwerfer** (vorne) | **GD-C050 / OP Swing** | ✅ **Shimano FD-C050** – 🔴 **„GD" ist ein Lesefehler, es heißt FD** (F/G verwechselt). „OP Swing" = **Top Swing**. SIS, 3-fach, Klemmung **28,6 / 31,8 mm**, 5-mm-Inbus **5–7 Nm**, für Octalink/Spline-Kurbel, **max. 48 Zähne**, Kapazität **20 Zähne**, Kettenlinie **46–52,5 mm** · ⛔ **NICHT ORIGINAL** – Behelfsreparatur nach einem Sturz, original wäre **Deore FD-M530** → **Baustelle #15** |
 > | **Schaltwerk** (hinten) | **RD-M511** | ✅ **Shimano Deore RD-M511** (M510-Familie), **9-fach, SGS-Langkäfig**: max. größtes Ritzel **34 Zähne**, max. Differenz vorne **22 Zähne**, Gesamtkapazität **45 Zähne** |
 > | **Hinterradnabe** | **FH-M530 (VIAM)** | ✅ **Shimano Deore FH-M530**, Freilaufnabe, **9-fach HG-Spline** |
 > | Pedale | ❓ unbekannt | Gewinde **9/16″ × 20 tpi** (über die Shimano-Doku zum FC-M530 bestätigt) |
@@ -102,6 +102,38 @@ Fall B  Kurbel 44-32-22 + Kassette 11-34:
 > „top läuft", ist ein gutes Zeichen – **aber:** Falls er irgendwann unpräzise schaltet,
 > ist ein **Shimano Deore FD-M530 / FD-M591** (9-fach, **Top Swing**, Schelle) der
 > sauberere Ersatz (💰 20–35 €).
+
+### 🔴 Herkunft des FD-C050: **nicht original** – Behelfsreparatur nach einem Sturz
+
+> **Quelle:** Auskunft des Besitzers, 2026-09-04 →
+> [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md)
+
+**Was passiert ist:** Nach einem **Sturz** war **hinten etwas verbogen** und die Schaltung
+funktionierte nicht mehr richtig. Der befreundete Händler (inzwischen **selbstständig mit
+mobiler Werkstatt**) hatte **das passende Teil nicht dabei** und konnte nicht bestellen.
+Damit das Rad wieder mitkonnte, baute er **seinen eigenen Umwerfer** ein – mit der
+Abmachung, ihn **„irgendwann zurückzutauschen, der ist teurer als deiner"**.
+🔴 **Dazu kam es nie** – die beiden haben sich seit mehreren Jahren nicht gesehen.
+
+| Frage | Antwort |
+|---|---|
+| War der FD-C050 original? | ⛔ **Nein.** Er ist ein **Fremdteil aus dem Fundus des Freundes** |
+| Was war original? | Laut **Staiger-Katalog 2007**: **Deore FD-M530** (Daytona) bzw. **Deore LX FD-M580** (Idaho). Da der übrige Antrieb **exakt Daytona-Spec** ist → **sehr wahrscheinlich FD-M530** |
+| 🔴 Stimmt „der ist teurer als deiner"? | ⛔ **Nein.** **FD-C050 = Non-Series/Einsteiger, ca. 8–15 €** · **FD-M530 = Deore, ca. 16–28 €** · **FD-M580 = LX, ca. 25–45 €**. Der verbaute Umwerfer ist das **billigste** der drei |
+| Muss er zurückgetauscht werden? | 🟢 **Nein.** Die Abmachung ist **hinfällig** – der originale Umwerfer ist nicht mehr greifbar, und der FD-C050 **funktioniert** |
+| Ist er unterdimensioniert? | 🔴 **Ja, leicht:** Kapazität **20 Zähne** bei **22** Bedarf (48−26), und für **6/7-fach** ausgelegt statt **9-fach** → **Käfig zu breit** |
+
+**Einordnung ohne Vorwurf:** Der Freund stand unter Zeitdruck und wollte das Rad
+**funktionsfähig** übergeben. Die Bemerkung war vermutlich **beruhigend gemeint**, nicht
+als technische Auskunft.
+
+#### 🔴 Offene Folge-Frage → **Baustelle #15**
+
+⚠️ **„Hinten verbogen" + „Schaltung ging nicht richtig" ist die Lehrbuch-Signatur eines
+verbogenen Schaltauges.** Behoben wurde aber **vorne**. 🔴 **Deshalb prüfen, ob das
+Schaltauge (derailleur hanger) heute gerade ist** – ein krummes Schaltauge kann zum
+**Speichen-Einlauf** des Schaltwerks führen.
+→ [`../03-todos/offene-baustellen.md`](../03-todos/offene-baustellen.md) **Baustelle #15**
 
 Die Abstufung steht meist **auf jedem Ritzel eingeprägt** (klein, an der Innenseite) oder
 auf dem größten Ritzel als Gesamtangabe (z. B. „11-32“).
@@ -338,5 +370,5 @@ anderen Baustellen zuerst.
 | Kassettenabzieher Shimano HG | 12-Spline – 💡 **passt oft auch auf die Nabendynamo-Rotormutter!** | 🟡 | 8–12 € | ☐ |
 | Kettenlehre | 0,5/0,75/1,0 | 🟢 | 8 € | ☐ |
 | Schaltzug-Set | Edelstahl **1,2 mm** + Hüllen **4 mm** (SL-M580 Rapidfire) | 🟢 | 10–20 € | ☐ |
-| 🔴 Nur falls nötig: **Umwerfer** | **Shimano Deore FD-M530 / FD-M591**, 9-fach, **Top Swing**, Schelle ❓ mm – Ersatz für den FD-C050 | 🟢 | 20–35 € | ☐ |
+| 🟡 **Optional – Umwerfer auf Original-Spec** | 🔴 **Shimano Deore FD-M530** (= **Original-Spec des Daytona** laut Katalog 2007), 9-fach, **Top Swing**, Kapazität **22 Zähne**, Schelle ❓ mm. Der verbaute **FD-C050 ist ein Fremdteil** (Behelfsreparatur nach Sturz) mit nur **20 Zähnen** Kapazität und 6/7-fach-Käfig. **Nur kaufen, wenn vorne das Schalten schlechter wird** – aktuell „läuft top" | 🟡 | **16–28 €** | ☐ |
 | 🔴 Nur falls nötig: **Innenlager** | **Shimano BB-ES25 Octalink**, **BSA 68 mm**, Achslänge ❓ mm (113/118/121/126) | 🟢 | 25–40 € | ☐ |

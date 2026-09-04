@@ -36,7 +36,8 @@ Status: `🔴 offen` · `🟠 in Arbeit` · `🟡 Diagnose fehlt` · `✅ erledi
 
 | # | Baustelle | Prio | Status | Nächster konkreter Schritt | Detail |
 |---|---|---|---|---|---|
-| **14** | 🆕 **RST Vogue TNL retten?** (Original-Gabel, noch vorhanden) | 🔴 | 🔴 **offen – hat Vorrang** | 🔴 **Fingernageltest** an den Standrohren + **Standrohr-Ø messen** (25,4 oder 28,6 mm?) + Schaftlänge messen | [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) |
+| **14** | 🆕 **RST Vogue TNL retten?** (Original-Gabel, noch vorhanden) | 🔴 | 🟢 **Entscheidung gefallen: retten (Plan A+)** – Prüfung steht aus | 🔴🔴 **ERST Schritt 0: MAGNET an den Schaft + Gewinde sichtbar?** (Katalog 2007 nennt die Vogue TNL **„mit Aluschaft"** in einem **A-Head**-Rad – dieses Rad hat aber **Gewindesteuersatz + Quill-Vorbau**!) → **dann** Fingernageltest + Standrohr-Ø + Schaftlänge | [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) Abs. 3.0 |
+| **15** | 🆕🔴 **Schaltauge prüfen** – Folge eines Sturzes vor Jahren | 🟡 | 🔴 **neu, ungeprüft** | 🔴 **Schaltauge auf Verzug prüfen** (optisch + ggf. Lehre 10–15 €). ⚠️ Symptom war **„hinten verbogen, Schaltung ging nicht richtig"** – behoben wurde aber **vorne** (fremder Umwerfer FD-C050) | [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md) Abs. 5 |
 | 1 | 🔴 **Quill-Vorbau-Mindesteinstecktiefe** | 🔴 | 🔴 offen | Markierung suchen, prüfen ob sie **im** Schaftrohr liegt. Vorbau-Einsteckteil muss **25,4 mm** haben (1⅛″-Schaft). 🔴 **durch die 20–30 mm Steuerrohr-Differenz kritischer geworden** | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) Abs. 3b + 6 |
 | 2 | 🔴 **Felgen-Bremsflanken** prüfen (v + h) | 🔴 | 🔴 offen | Verschleißindikator + Muldentiefe messen. 🔴 **Neues Indiz: die Original-Shimano-Beläge (ca. 72 mm) waren komplett durchgefahren** | [`../02-teile/30-laufrad-reifen-nabe.md`](../02-teile/30-laufrad-reifen-nabe.md) Abs. 2.3 |
 | 6 | 🔴 **Steuersatz-Gewinde** – dauerhafte Lösung | 🔴 | 🔴 offen | 🔴 **Steuerrohrlänge + Schaftlänge messen** → dann **Variante A+ (RST zurück)**, **A0 (NEX 225 mm)** oder **D (Ahead)** | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) Abs. 3a/3b/4 |
@@ -48,7 +49,7 @@ Status: `🔴 offen` · `🟠 in Arbeit` · `🟡 Diagnose fehlt` · `✅ erledi
 | 10 | Teile identifizieren + Stammdaten ausfüllen | 🟢 | ✅ **~95 % erledigt** | 🔴 Nur noch offen: **Kassette**, **Kettenblatt-Zähne**, **RST-Standrohr-Ø**, **Schaftlängen**, **Sattelstützen-Ø** | [`../04-messdaten/messdatenblatt.md`](../04-messdaten/messdatenblatt.md) |
 | 11 | Kassette vom Spenderrad lösen (optional) | 🟢 | 🔴 offen | **Kettenpeitsche** besorgen – ohne die dreht sich das Paket mit | [`../02-teile/10-antrieb-schaltung-kette.md`](../02-teile/10-antrieb-schaltung-kette.md) Abs. 4 |
 | 8 | Ständer-Winkel zu schräg | 🟢 | 🔴 offen | Kipprichtung klären, Lochabstand messen, Distanzscheiben | [`../02-teile/70-staender-gepaecktraeger.md`](../02-teile/70-staender-gepaecktraeger.md) |
-| 9 | Lenker-Ergonomie / Sitzposition | 🟢 | 🟢 niedrig | Erst nach 3–5 Fahrten bewerten. ⚠️ **Begründung korrigiert** (siehe Detail) | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) Abs. 7 |
+| 9 | Lenker-Ergonomie / Sitzposition | 🟢 | 🟢 niedrig | Erst nach 3–5 Fahrten bewerten. ⚠️ **Begründung korrigiert** (siehe Detail). 🆕 ❓ **Original-Sattel war ein „Foltergerät" (Fizi:k Pave Sport laut Katalog)** → welcher Sattel ist jetzt verbaut, und ist der originale noch da? | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) Abs. 7 |
 | **3** | ~~Hintere Bremse kehrt nicht zurück~~ | – | ✅ **ERLEDIGT** | Ursache: **Bremshebel-Klemmung am Lenker** – behoben | Archiv unten |
 | **4** | ~~Hinterrad läuft schwer~~ | – | ✅ **ERLEDIGT** | *„läuft normal, hat sich wohl eingespielt"* | Archiv unten |
 | **13** | ~~Nabendynamo-Lagervorspannung~~ | – | ✅ **ERLEDIGT** | Rad läuft **mehrere Umdrehungen** nach = Sollbereich | Archiv unten |
@@ -102,8 +103,12 @@ Nicht alles auf einmal. Diese Reihenfolge minimiert Umbauten und Kosten.
 
 **Ziel: nichts reparieren, nur herausfinden.** Danach weißt du, was du bestellen musst.
 
+0. 🔴🔴 **ERST der 5-Sekunden-Check an der RST Vogue TNL** (0 €, **vor** allem anderen):
+   **(a) Außengewinde am Schaft sichtbar?** ⛔ glatt = Ahead-Gabel = passt nicht in diesen
+   Rahmen. **(b) MAGNET an den Schaft** – haftet = **Stahl** ✅, haftet nicht = **Alu** ⛔
+   → ein Quill-Vorbau kann einen **Aluschaft aufspreizen**. → Baustelle **14**, Abs. 3.0
 1. 🔴 **Fingernageltest an der RST Vogue TNL** – Grübchen (Pitting) an den Standrohren?
-   → **entscheidet über Weg A+ oder A0/C** → Baustelle **14**
+   → **entscheidet über Weg A+ oder A0/D** → Baustelle **14**
 2. 🔴 **RST-Standrohr-Ø messen** (25,4 oder 28,6 mm?) → bestimmt den Dichtungssatz → **#14**
 3. 🔴 **RST-Schaftlänge messen** (Krone → Schaftspitze) + Gewindelänge → **#14 / #6**
 4. 🔴 **Steuerrohrlänge STAIGER** + **Steuerrohrlänge Bergamont** (A und B, Soll Δ 20–30 mm) → **#1 / #6**
@@ -117,6 +122,11 @@ Nicht alles auf einmal. Diese Reihenfolge minimiert Umbauten und Kosten.
     **Pedale**, **Sattelstütze unter der Klemme**, **RST-Gabel-Aufkleber** → **#10**
 11. Konusschlüssel-Größen messen (Nabendynamo links, FH-M530 links)
 12. **Axle-to-crown** beider Gabeln messen → **#9**
+13. 🆕 🔴 **Schaltauge prüfen** (Baustelle **#15**): Schaltwerk von hinten betrachtet –
+    steht es **senkrecht** unter der Kassette oder **kippt** es? Alle Gänge durchschalten.
+    ⚠️ Hintergrund: Sturz vor Jahren, „hinten verbogen", behoben wurde aber **vorne**
+14. 🆕 ❓ **Sattel** ablesen/ermitteln → **#9** (der Original-Sattel war laut Katalog ein
+    **Fizi:k Pave Sport** und ist laut Besitzer längst getauscht)
 
 **Output:** ausgefülltes Messdatenblatt + [`Einkaufsliste`](einkaufsliste.md)
 
@@ -168,6 +178,9 @@ oder die Cantistifte nicht.
 | Warum wichtig | 🔴 **Löst Baustelle 1, 5 und 6 gleichzeitig**, wenn sie wieder funktioniert |
 | Aufbau | **Öldämpfung rechts** / **Stahlfeder + MCU links**, **hydraulischer Lockout**, Vorspannung einstellbar |
 | Schaft | **28,6 mm (1⅛″)** oder 25,4 mm (1″) **CroMo** – ❓ messen |
+| 🔴🔴 **Schritt 0 – VOR allem anderen** | **(a) Ist am Schaft ein Außengewinde?** ⛔ glatt = **Ahead-Gabel** = passt **nicht** in diesen Gewinderahmen · **(b) MAGNET-TEST:** haftet = **Stahl/CroMo** ✅ · haftet nicht = **Alu** ⛔ → **Quill-Vorbau kann einen Aluschaft aufspreizen!** |
+| 🔴 **Warum Schritt 0 nötig ist** | Der **Staiger-Katalog 2007** nennt für Daytona **und** Idaho: *„Federgabel RST Vogue TNL, lockout **mit Aluschaft**"* + *„Steuersatz VP A45AC **A-Head semi-integriert** 1⅛ Zoll"* + *„Vorbau XLC Comp Alu **A-Head**"*. **Dieses Rad hat aber Gewindesteuersatz + Quill-Vorbau.** Wahrscheinlichste Erklärung: **anderes Baujahr** (der Antrieb entspricht exakt dem 2007er Daytona-Spec, und ZS44 ↔ EC34 ist am Rahmen **nicht** umrüstbar) – aber 🔴 **prüfen, nicht annehmen.** Ein Kühlschrankmagnet kostet 0 € und dauert 5 Sekunden. |
+| 🟢 **Entscheidung des Besitzers** | ✅ **„die weiße Gabel wieder instand setzen"** – die NEX wirkt in der Dämpfung **„schwammig, weich, wie Spielzeug"**, die RST ist **„eine Nummer besser"**. Technisch plausibel: die RST hat eine **echte hydraulische Öldämpfung**, die NEX nur **Feder + Elastomer**. Die Bastelei für Schutzblech/Lichthalter wird dafür in Kauf genommen. |
 | Standrohre | **25,4 mm Stahl, Ti-Farbe** (Katalog 2008) – 🔴 **Ø messen** für den Dichtungssatz |
 | Tauchrohre | **Aluminium** |
 | Federweg | ca. **50 mm** (RST-Vogue-Baureihe), axle-to-crown ca. **455–465 mm** |
@@ -177,8 +190,21 @@ oder die Cantistifte nicht.
 | 💰 Teile (falls rettbar) | **RST Dust Seal Kit – Paar, 14,28 €** (bike24) · **Gabelöl 5W–10W**, 8–12 € · **Chrompolitur / Stahlwolle 0000**, ca. 5 € → **gesamt 25–50 €** |
 | Vertrieb | **Paul Lange & Co.** = RST-Vertrieb Deutschland (führt Vogue-Ersatzteile inkl. TNL-Lockout-Kappen) |
 | ⚠️ Falle | 🔴 **Nicht die moderne „RST Vogue Air" bestellen** – anderes Produkt. Und: **erst Ø messen**, die 28,6-mm-Variante des Dichtungssatzes ist für Vogue/VIVair/F1RST, die 30-mm-Variante für Omega/Blaze |
-| Fallback (falls unrettbar) | NEX mit **225-mm-Schaft** (Weg A0) oder **Ahead-Umbau** (Weg C) oder **gebrauchte 1⅛″-Gewindegabel** mit ≥ Steuerrohr + 30 mm + Einstecktiefe |
+| Fallback (falls unrettbar **oder** falls Schritt 0 „glatter Aluschaft" ergibt) | NEX mit **225-mm-Schaft** (Weg A0) oder **Ahead-Umbau** (Weg D) oder **gebrauchte 1⅛″-Gewindegabel** mit ≥ Steuerrohr + 30 mm + Einstecktiefe |
 | Detail | [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) |
+| Ergebnis | ❓ |
+
+### 15. 🆕🔴 Schaltauge prüfen + Umwerfer-Herkunft
+
+| Feld | Wert |
+|---|---|
+| Was ist das | 🔴 **Neue Baustelle aus der Vorgeschichte.** Vor Jahren ein **Sturz**: *„hinten was verbogen"*, die **Schaltung ging nicht mehr richtig**. Der befreundete Händler (mobil, ohne Lager) hatte **das passende Teil nicht dabei** und baute **stattdessen vorne seinen eigenen Umwerfer (FD-C050)** ein, mit der Abmachung „irgendwann zurücktauschen". 🔴 **Dazu kam es nie.** |
+| Warum wichtig | ⚠️ **„Hinten verbogen" + „Schaltung geht nicht richtig" ist die Lehrbuch-Signatur eines verbogenen Schaltauges (derailleur hanger).** Behoben wurde aber **vorne** – die eigentliche Ursache wurde möglicherweise **nie** angefasst. |
+| 🔴 Sicherheitsbezug | Ein krummes Schaltauge kann zum **Speichen-Einlauf des Schaltwerks** führen → Schaltwerk in den Speichen → **Blockade/Sturz**. Deshalb trotz 🟡 Priorität **prüfen, nicht ignorieren**. |
+| Prüfen | ☐ Schaltung im Stand durch alle Gänge schalten – **springt sie, schleift sie, ist ein Gang unerreichbar?** ☐ Schaltauge **optisch**: steht das Schaltwerk **senkrecht** unter der Kassette (von hinten betrachtet) oder **kippt es** nach innen/außen? ☐ Präzise: **Schaltauge-Lehre (hanger alignment gauge)**, ca. **10–15 €**, oder für wenige Euro in der Werkstatt |
+| ✅ Umwerfer: keine Aktion | 🔴 **Der FD-C050 ist nicht original** (original wäre **Deore FD-M530**), aber er **funktioniert**. ⛔ **„Der ist teurer als deiner" stimmt nicht**: FD-C050 = **Non-Series, ca. 8–15 €**, FD-M530 = **Deore, ca. 16–28 €**. **Die Rücktausch-Abmachung ist hinfällig** – der Original-Umwerfer ist nicht mehr greifbar. 🟡 **Optional:** FD-M530 nachrüsten, falls vorne das Schalten schlechter wird (Kapazität 20 vs. 22 Zähne, 6/7- statt 9-fach-Käfig). |
+| ❓ Offene Fragen | Was genau war **hinten** verbogen – **Schaltauge**, **Ausfallende**, **Schaltwerk** oder **Kassette**? Wurde das Schaltauge **gerichtet/getauscht/nie angefasst**? Ist das **RD-M511** original oder ebenfalls ein Ersatzteil des Freundes? |
+| Detail | [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md) · [`../02-teile/10-antrieb-schaltung-kette.md`](../02-teile/10-antrieb-schaltung-kette.md) |
 | Ergebnis | ❓ |
 
 ### 1. 🔴 Quill-Vorbau-Mindesteinstecktiefe

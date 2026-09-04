@@ -21,6 +21,16 @@ Sicherheits-Auslösekupplung · integrierte Kabelführung
 > 💡 **Reihenfolge:** erst den **Fingernageltest** an der RST machen (→
 > [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md)),
 > **dann** die Schutzblech-Montagepunkte abgleichen. Nicht umgekehrt.
+> 🔴🔴 **Und vor dem Fingernageltest: MAGNET an den RST-Schaft + Gewinde-Prüfung**
+> (Katalog 2007 nennt die Vogue TNL „mit Aluschaft" in einem A-Head-Rad!) →
+> [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md)
+
+> ✅ **BELEGT (2026-09-04):** **Schutzbleche waren beim Kauf des weißen Rads nicht dabei.**
+> Der Besitzer: *„relativ nackt, keinerlei Anbauten, weder Schutzbleche noch Gepäckträger."*
+> Der Staiger-Katalog 2007 bestätigt **„nachrüstbar"**. Die heutigen Schutzbleche kamen
+> **später dazu** – und stammen jetzt **vom Bergamont-Spenderrad**.
+> 🔴 **Das erklärt, warum sie vorne „easy" an die NEX-Gabel passten: Blech und Gabel kamen
+> vom selben Rad.** Bei einem Rückbau auf die RST Vogue TNL ist diese Passung **weg**.
 
 ---
 

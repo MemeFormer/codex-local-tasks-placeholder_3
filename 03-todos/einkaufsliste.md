@@ -21,6 +21,14 @@ Stand: **2026-09-04** · 🎯 **aktualisiert nach der Korrektur-Runde**
 
 ## 🎯 Die 5 wichtigsten Bestellungen (exakte Specs)
 
+> 🔴🔴 **STOPP – vor Bestellung Nr. 1 erst den 5-Sekunden-Check machen (0 €):**
+> **MAGNET an den Schaft der RST Vogue TNL halten** und **prüfen, ob ein Außengewinde
+> sichtbar ist.** Ein Staiger-Katalogauszug von 2007 nennt die Vogue TNL **„mit Aluschaft"**
+> in einem **A-Head**-Rad – dieses Rad hat aber **Gewindesteuersatz + Quill-Vorbau**.
+> ⛔ **Glatter Schaft (Ahead)** oder ⛔ **Alu ohne Gewinde** → **Dichtungssatz und Öl sind
+> rausgeworfenes Geld**, weil die Gabel nicht in den Rahmen passt bzw. der Quill-Vorbau
+> den Schaft aufspreizen kann. → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0**
+
 | # | Teil | 🔴 EXAKTE Bestellung | Warum | 💰 |
 |---|---|---|---|---|
 | 1 | **RST Dust Seal Kit** | **„RST Dust Seal Kit – Pair"**, bike24, **14,28 €** · ⛔ **Version erst nach Messung:** **28,6 mm** (Vogue/VIVair/F1RST) oder **30 mm** (Omega/Blaze). Nach Katalog hat die Vogue **25,4-mm-Standrohre** → 🔴 **messen!** Alternative: **Paul Lange & Co.** (RST-Vertrieb DE) | 🔴 **Baustelle #14** – und damit **auch #1, #5, #6** | **14,28 €** |
@@ -34,16 +42,20 @@ Stand: **2026-09-04** · 🎯 **aktualisiert nach der Korrektur-Runde**
 
 ---
 
-## 🔍 Erst messen, dann bestellen (nur noch 6 Punkte offen)
+## 🔍 Erst messen, dann bestellen
 
 | # | Messung | Entscheidet über |
 |---|---|---|
+| **0a** | 🔴🔴 **Außengewinde am RST-Schaft sichtbar?** (5 Sekunden, 0 €) | ⛔ **glatt = Ahead-Gabel = passt nicht in diesen Rahmen** → **Plan A+ entfällt**, nichts bestellen! |
+| **0b** | 🔴🔴 **MAGNET-TEST am RST-Schaft** – haftet er? (5 Sekunden, 0 €) | ⛔ **haftet nicht = Aluschaft** → **Quill-Vorbau kann den Schaft aufspreizen** → Ahead-Umbau oder andere Gabel |
 | 1 | 🔴 **Fingernageltest an den RST-Vogue-Standrohren** – Grübchen (Pitting)? | **ob Weg A+ (RST retten) oder Plan B (neue Gabel)** – 🔴 **die wichtigste Messung überhaupt** |
 | 2 | 🔴 **RST-Standrohr-Ø** (25,4 oder 28,6 mm?) | **welcher Dichtungssatz** |
 | 3 | 🔴 **Steuerrohrlänge STAIGER + Bergamont** (Soll Δ 20–30 mm) + **Schaftlänge NEX und RST** | ob der **225-mm-Schaft** reicht oder ein **Ahead-Umbau** nötig ist |
 | 4 | 🔴 **Cantistift-Gesamtlänge + Überstand** (NEX vs. RST) + Schlüsselweite der Abflachungen | **welche M8-Ersatzstifte** |
 | 5 | **Lenker-Klemm-Ø** (25,4 / 26,0 / 31,8 mm) | welcher **Ahead-Vorbau** (nur bei Variante D) |
 | 6 | **Konusschlüssel-Größen** (Nabendynamo links, FH-M530 links) · **Umwerfer-Schellen-Ø** | welche **Konusschlüssel** · nur falls **FD**-Ersatz |
+| 7 | 🆕 **Sattel ablesen** (Aufdruck unter der Decke / an der Strebe) | 🔴 **Baustelle #9:** Der **Original-Sattel war ein Fizi:k Pave Sport** („super unbequemes, kleines Sado-Maso-Foltergerät") und ist **längst getauscht**. ❓ **Welcher ist es jetzt – und ist der originale noch da?** |
+| 8 | 🆕 **Schaltauge optisch prüfen** – steht das Schaltwerk **senkrecht** unter der Kassette? | 🔴 **Baustelle #15** (Sturz-Folge). Nur bei Schiefstand: Lehre kaufen oder Werkstatt-Check |
 
 ---
 
@@ -105,6 +117,9 @@ Stand: **2026-09-04** · 🎯 **aktualisiert nach der Korrektur-Runde**
 | ☐ | **Reifen hinten** | ✅ aktuell **Schwalbe Marathon Plus 47-622**, 3,0–5,0 bar | bei Verschleiß | 25–40 € | ✅ **ja – exakt** |
 | ☐ | **Schlauch** | ❓ Ventil (Sclaverand/Schrader/Dunlop) + **ETRTO 42/47-622** | – | 5–10 € | ⚠️ Ventil prüfen |
 | ☐ | **Sattelstütze** | 🔴 ❓ **Ø nochmal ablesen – unter der Klemme!** Das originale Daytona hatte **XLC Comp 27,2 mm**. Deine Notiz „31,35 mm AD" ist fast sicher der **Sitzrohr-Außendurchmesser oder die Klemme** | falls die Stütze klemmt/fehlt | 15–40 € | ❌ **unbedingt neu ablesen** |
+| ☐ | 🆕 **Schaltauge-Lehre** (hanger alignment gauge) | **„Schaltauge Richtlehre / derailleur hanger alignment gauge"** | 🆕 **Baustelle #15:** nach dem Sturz vor Jahren war **„hinten was verbogen"**, behoben wurde aber **vorne**. 🔴 **Erst optisch prüfen** – die Lehre braucht man nur, wenn das Schaltwerk von hinten betrachtet **nicht senkrecht** unter der Kassette steht. **Alternative: für wenige Euro in der Werkstatt prüfen lassen** | 10–15 € (oder **0 €** Werkstatt-Check) | ✅ |
+| ☐ | 🆕 **Schaltauge (derailleur hanger) Ersatz** | 🔴 ❓ **modellspezifisch!** Nur nach Rahmennummer/Modell beim Händler oder über **„Schaltauge STAIGER Daytona"** + Foto-Abgleich | 🆕 **Baustelle #15:** falls das Schaltauge **verbogen und nicht richtbar** ist. ⚠️ **Alu-Schaltaugen sind oft nicht dauerhaft richtbar** → dann tauschen | 8–20 € | ❌ **muss ermittelt werden** |
+| ☐ | 🆕 **Umwerfer auf Original-Spec** (optional) | 🔴 **„Shimano Deore FD-M530"**, **Top Swing**, **9-fach**, Kapazität **22 Zähne**, max. **48 Zähne**, Schelle ❓ **28,6 / 31,8 mm messen!** | 🆕 Der verbaute **FD-C050 ist ein Fremdteil** (Behelfsreparatur nach dem Sturz, **nie zurückgetauscht**). Er hat nur **20 Zähne** Kapazität bei **22** Bedarf (48−26) und einen **6/7-fach-Käfig** an einer **9-fach-Kette**. 🟢 **Aktuell „läuft top" → nicht dringend.** Erst kaufen, wenn vorne das Schalten schlechter wird | **16–28 €** | ⚠️ **Schellen-Ø messen** |
 | ☐ | Ständer verstellbar | ❓ Aufnahme-Typ + Lochabstand | Baustelle #8, falls Scheiben nicht reichen | 15–35 € | ❌ |
 | ☐ | Sicherheits-Auslösekupplung Schutzblech | SKS Break-Away o. ä. | Sicherheit | 5–10 € | ✅ |
 | ☐ | Multimeter | mit AC-Volt + Durchgangsprüfung | Licht-Elektrik | 15–30 € | ✅ |

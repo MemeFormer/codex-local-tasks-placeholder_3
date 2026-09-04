@@ -421,14 +421,46 @@ Bremssockel passen zu den guten weißen Shimano-Bremsarmen.
 | Schutzblech-Befestigung vorne | ✅ passte „easy“ (Ösen der NEX) | ⚠️ neu lösen: Universal-/P-Schellen, 💰 3–8 € |
 | Lenkgeometrie | ⚠️ verändert (63 mm statt ca. 50 mm) | ✅ original |
 | Federung/Dämpfung | ⚠️ Stahlfeder, kaum Dämpfung | ✅ **Coil + Öldämpfung, Lockout** – deutlich besser |
-| **Voraussetzung** | – | 🔴 **Standrohre müssen den Fingernageltest bestehen** |
+| **Voraussetzung** | – | 🔴🔴 **SCHRITT 0: Magnet-Test + Gewinde am Schaft** (siehe unten) · 🔴 **Standrohre müssen den Fingernageltest bestehen** |
+
+### 🔴🔴 ACHTUNG – Variante A+ hat eine Voraussetzung, die bisher niemand geprüft hat
+
+> ⚠️ **Neu seit 2026-09-04.** Ein **Staiger-Katalogauszug von 2007** (Forum MTB-News,
+> Thread 275745, 1. Mai 2007) nennt für **Daytona UND Idaho** der **Sport Line** dieselbe
+> Lenkkopf-Kombination:
+>
+> | Position | Katalog 2007 | Dieses Rad |
+> |---|---|---|
+> | Gabel | **RST Vogue TNL, lockout, mit ALUSCHAFT** | RST Vogue TNL ✅ |
+> | Steuersatz | **VP A45AC A-Head semi-integriert 1⅛″** | 🔴 **Gewindesteuersatz 1⅛″ × 24 tpi** |
+> | Vorbau | **XLC Comp Alu A-Head** | 🔴 **Quill-Vorbau (Schaftvorbau)** |
+>
+> 🔴 **A-Head semi-integriert und Gewindesteuersatz schließen sich aus.**
+
+| ☐ | Prüfung (5 Sekunden, 0 €) | Ergebnis | Konsequenz |
+|---|---|---|---|
+| ☐ | **Ist am RST-Schaft ein Außengewinde?** | ⛔ **glatt** | **Ahead-Gabel** → passt **nicht** in diesen Gewinderahmen. **Variante A+ entfällt.** → Variante D (Ahead-Umbau) |
+| ☐ | **MAGNET an den Schaft halten** | ⛔ **haftet nicht = Alu** | 🔴 **Quill-Vorbau spreizt einen Keil im Schaft → ein Aluschaft kann aufreißen.** Dann **Ahead-Umbau** oder Gabel mit Stahlschaft |
+| ☐ | beides | ✅ **Gewinde + Magnet haftet (Stahl)** | 🟢 **Variante A+ ist gültig** → weiter zum Fingernageltest |
+
+**Wahrscheinlichste Erklärung des Widerspruchs:** 🔴 **dieses Rad ist ein anderes Baujahr
+als 2007.** Dagegen spricht nichts – **im Gegenteil:** Der **gesamte Antrieb** entspricht
+exakt dem 2007er **Daytona**-Spec (RD-M511, FC-M530, ES-Octalink, FH-M530, CN-HG53,
+Deore-M530-Bremsen, Mach1-210-Felgen), und ein Rahmen lässt sich **nicht** von
+semi-integriert (**ZS44**, 44 mm) auf extern (**EC34**, 33,9 mm) umrüsten.
+Die RST Vogue TNL gab es laut RST-Katalog **mit CroMo-Gewindeschaft** (28,6 mm und 25,4 mm)
+**neben** Ahead-Versionen. 🔴 **Aber: prüfen, nicht annehmen – ein Kühlschrankmagnet genügt.**
 
 **✅ Erste Frage ist beantwortet: Die alte weiße Gabel ist eine RST Vogue TNL und liegt bereit.**
-**🔴 Nächste Frage: Besteht sie den Fingernageltest?** → [Baustelle #14](../04-diagnose/rst-vogue-tnl-federgabel.md)
+**🔴🔴 Zweite Frage (NEU, zuerst): Gewinde + Magnet am Schaft?**
+**🔴 Dritte Frage: Besteht sie den Fingernageltest?** → [Baustelle #14](../04-diagnose/rst-vogue-tnl-federgabel.md)
 
 ### Empfehlung (Stand 2026-09-04)
 
-0. **🔴 Als Erstes (5 min, 0 €): Fingernageltest an der RST Vogue TNL.**
+0. **🔴🔴 Als Allererstes (5 Sekunden, 0 €): MAGNET an den RST-Schaft + Gewinde sichtbar?**
+   ⛔ glatt = Ahead-Gabel = **Variante A+ entfällt** · ⛔ Magnet haftet nicht = Aluschaft =
+   **Quill-Vorbau riskant** → dann Variante D. ✅ Gewinde + Stahl → weiter mit 0b.
+0b. **🔴 Dann (5 min, 0 €): Fingernageltest an der RST Vogue TNL.**
    Bestehen die Standrohre → **Variante A+** und die Baustellen #1, #5, #6 sind erledigt.
    Haben sie Grübchen → weiter mit 1.–5.
 1. **Sofort (0 €):** Kontrollroutine + Loctite auf **entfettetem** Gewinde neu auftragen

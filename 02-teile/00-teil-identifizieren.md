@@ -89,10 +89,17 @@ In die passende Datei unter [`02-teile/`](.) und zusätzlich ins
 ### 4a. 🔴 Lehre aus diesem Projekt: **Prospekt ≠ dein Rad**
 
 > ⚠️ **Hersteller- und Serien-Recherche ist nützlich, aber nicht verbindlich.**
->
-> Beispiel aus diesem Projekt: Die Serien-Daten des **Staiger Daytona** nennen eine
-> **Suntour NCX-D LO 63 mm**-Federgabel. **Am Rad war aber eine RST Vogue TNL mit ca. 50 mm.**
-> Ausstattung variiert nach Baujahr, Modellvariante und Händler.
+> **In diesem Projekt gab es gleich DREI unabhängige Gründe, warum der Katalog nicht stimmt:**
+
+| # | Grund | Beleg aus diesem Projekt |
+|---|---|---|
+| **1** | 🔴 **Baujahr / Modellvariante** | Die Serien-Daten des **Staiger Daytona** nennen eine **Suntour NCX-D LO 63 mm**-Federgabel. **Am Rad war aber eine RST Vogue TNL mit ca. 50 mm.** Und: ein **Katalogauszug von 2007** nennt für Daytona **und** Idaho ein **„A-Head semi-integriert"**-Cockpit – **dieses Rad hat aber einen Gewindesteuersatz mit Quill-Vorbau** → anderes Baujahr |
+| **2** | 🔴 **Spezialwünsche des Händlers beim Kauf** | ✅ **Belegt:** Der Käufer bekam das Rad **flammneu bei einem befreundeten Händler**, der auf Wunsch **abweichende Teile** montierte (*„eigentlich hat da XY, aber ich kann dir auch XX dran machen"*). Erinnerung: **„Schaltarmaturen"**. Der Katalog-Abgleich zeigt **exakt zwei** Abweichungen – **Schalthebel SL-M580** und **Bremshebel BL-M571**, beide **Deore LX**, beide **am Lenker**, beide aus dem Spec des **teureren Schwestermodells**. 🔴 **Treffer.** |
+| **3** | 🔴 **Reparaturen und Umbauten über die Jahre** | ✅ **Belegt:** Nach einem Sturz baute der Händler **behelfsmäßig einen fremden Umwerfer (FD-C050)** ein – **nicht original**, „irgendwann zurücktauschen" passierte nie. Danach: Anbauten (Schutzbleche, Träger, Licht), und zuletzt ein **kompletter Teile-Swap** von einem zweiten Rad |
+
+> 💡 **Merksatz:** 🔴 **Ein Katalog sagt, was das Modell hatte – nicht, was DEIN Rad hat.**
+> Bei einem Rad aus Fachhandels-Kauf mit persönlichem Händler und 15+ Jahren Geschichte ist
+> der Katalog **ein Hinweis unter mehreren**, niemals die Antwort.
 >
 | Regel | Konsequenz |
 |---|---|

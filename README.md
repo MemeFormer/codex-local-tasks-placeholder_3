@@ -137,7 +137,8 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 
 | # | Baustelle | Prio | Diagnose-Status |
 |---|---|---|---|
-| **14** | 🆕🔴 **RST Vogue TNL retten?** – Original-Gabel vorhanden, Öl ausgetreten, Rost an den Standrohren | 🔴 **höchste – hat Vorrang** | 🔴 **Fingernageltest** → [`04-diagnose/rst-vogue-tnl-federgabel.md`](04-diagnose/rst-vogue-tnl-federgabel.md) |
+| **14** | 🆕🔴 **RST Vogue TNL retten?** – Original-Gabel vorhanden, Öl ausgetreten, Rost an den Standrohren | 🔴 **höchste – hat Vorrang** | 🟢 **Entscheidung: retten.** 🔴🔴 **Erst Schritt 0: MAGNET + Gewinde am Schaft** → [`04-diagnose/rst-vogue-tnl-federgabel.md`](04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0** |
+| **15** | 🆕🔴 **Schaltauge prüfen** – Folge eines Sturzes vor Jahren („hinten verbogen", behoben wurde aber **vorne**) | 🟡 mittel | 🔴 neu, ungeprüft → [`06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md) Abs. 5 |
 | 1 | **Quill-Vorbau-Einstecktiefe prüfen** (Bruchgefahr) – 🔴 verschärft durch 20–30 mm Steuerrohr-Δ | 🔴 hoch | ungeprüft → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abs. 3b** |
 | 2 | **Felgen-Bremsflanken-Verschleiß prüfen** (v + h) – 🔴 Originalbeläge waren **durchgefahren** | 🔴 hoch | [`02-teile/30-laufrad-reifen-nabe.md`](02-teile/30-laufrad-reifen-nabe.md) Abs. 2.3 |
 | 6 | Steuersatz-Gewinde – 🔴 **Ursache vollständig bekannt** (NEX-Schaft für ein 20–30 mm kürzeres Rohr gekürzt) | 🔴 hoch (sicherheitsrelevant) | [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abs. 3a + 3b** |
