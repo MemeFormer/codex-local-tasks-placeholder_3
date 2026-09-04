@@ -81,10 +81,10 @@ echter Lagerschaden übersehen wird.
 Zange ✅ original · Federn ✅ original · Zug ✅ original – **aber die Beläge wurden getauscht**.
 Damit sind die **Spenderrad-Beläge der Hauptverdächtige**, nicht der Zug.
 
-> ⛔ **KORRIGIERT am 2026-09-05:** Die Beläge waren **nicht** die Ursache. Die hintere Bremse
+> ⛔ **KORRIGIERT am 2026-09-04:** Die Beläge waren **nicht** die Ursache. Die hintere Bremse
 > kehrte nicht zurück, weil die **Bremshebel-Klemmschellen am Lenker zu nah/zusammen zu fest**
 > angezogen waren und den **Angelpunkt (Pivot) des hinteren Bremshebels** geklemmt haben.
-> **Behoben.** → [`2026-09-05-korrektur-runde.md`](2026-09-05-korrektur-runde.md)
+> **Behoben.** → [`2026-09-04-korrektur-runde.md`](2026-09-04-korrektur-runde.md)
 
 Mögliche Fehler beim Belagwechsel, die genau dieses Symptom erzeugen:
 

@@ -7,7 +7,7 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 
 ---
 
-## 🎯 STAND 2026-09-05 – Spenderrad identifiziert, drei Baustellen erledigt
+## 🎯 STAND 2026-09-04 – Spenderrad identifiziert, drei Baustellen erledigt
 
 > 🔴 **Diese Runde hat vier Annahmen umgeworfen – und eine Tür geöffnet.**
 >
@@ -36,7 +36,7 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 
 📄 **Alle Details:** [`01-bikes/weisses-trekkingbike.md`](01-bikes/weisses-trekkingbike.md) ·
 [`01-bikes/schwarzes-spenderrad.md`](01-bikes/schwarzes-spenderrad.md) ·
-[`06-logbuch/2026-09-05-korrektur-runde.md`](06-logbuch/2026-09-05-korrektur-runde.md)
+[`06-logbuch/2026-09-04-korrektur-runde.md`](06-logbuch/2026-09-04-korrektur-runde.md)
 
 ---
 
@@ -177,7 +177,7 @@ Bei Weg A+ müsste man nur die **Schutzblech-Befestigung vorne** neu lösen
 
 ### 🔴 Die korrigierte Diagnose für Baustelle 5
 
-⛔ **Zurückgezogen (2026-09-05):** „Der Sockel-**Bund** ist **länger** (5,6 mm) als die
+⛔ **Zurückgezogen (2026-09-04):** „Der Sockel-**Bund** ist **länger** (5,6 mm) als die
 Ausnehmung im Deore-Arm (4,3 mm) → Sockel **2–2,5 mm zurückdrehen**."
 **Diese Richtung war falsch** – Zurückdrehen würde das Problem **verschlimmern**.
 

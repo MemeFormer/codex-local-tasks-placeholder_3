@@ -5,7 +5,7 @@ Lenker · Griffe
 **Zustand:** ✅ Lenkung freigängig, kein axiales Spiel · 🔴 **Gewinde zu kurz für
 Kontermutter – nur Provisorium mit Loctite** · ✅ Vorderrad/Dynamo-Nabe läuft frei (Baustelle #13 erledigt)
 
-> 🔴 **KORREKTUR 2026-09-05 – zwei wichtige Berichtigungen:**
+> 🔴 **KORREKTUR 2026-09-04 – zwei wichtige Berichtigungen:**
 >
 > | Was bisher stand | Was richtig ist |
 > |---|---|
@@ -426,7 +426,7 @@ Bremssockel passen zu den guten weißen Shimano-Bremsarmen.
 **✅ Erste Frage ist beantwortet: Die alte weiße Gabel ist eine RST Vogue TNL und liegt bereit.**
 **🔴 Nächste Frage: Besteht sie den Fingernageltest?** → [Baustelle #14](../04-diagnose/rst-vogue-tnl-federgabel.md)
 
-### Empfehlung (Stand 2026-09-05)
+### Empfehlung (Stand 2026-09-04)
 
 0. **🔴 Als Erstes (5 min, 0 €): Fingernageltest an der RST Vogue TNL.**
    Bestehen die Standrohre → **Variante A+** und die Baustellen #1, #5, #6 sind erledigt.

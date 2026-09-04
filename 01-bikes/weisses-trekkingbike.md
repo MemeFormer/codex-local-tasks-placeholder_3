@@ -1,8 +1,8 @@
 # 🚲 Weißes Trekkingbike – STAIGER Daytona Sportline
 
-**Hauptbike / Zielrad** · Datenstand: **2026-09-05** · **viele Werte jetzt belegt** ✅
+**Hauptbike / Zielrad** · Datenstand: **2026-09-04** · **viele Werte jetzt belegt** ✅
 
-> 🔴 **KORREKTUR-RUNDE 2026-09-05 – vier Berichtigungen in dieser Datei:**
+> 🔴 **KORREKTUR-RUNDE 2026-09-04 – vier Berichtigungen in dieser Datei:**
 >
 > | Bisherige Aussage | ✅ Korrektur |
 > |---|---|

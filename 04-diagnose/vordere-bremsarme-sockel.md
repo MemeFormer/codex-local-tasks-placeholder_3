@@ -1,6 +1,6 @@
 # 🔬 Diagnose: Vordere Bremsarme – zu weich + passen nicht auf den Bremssockel
 
-**Baustelle #5 (Ursache korrigiert 2026-09-05)** · Priorität 🔴 · Status: 🔴 **Ursache bekannt – Lösung offen**
+**Baustelle #5 (Ursache korrigiert 2026-09-04)** · Priorität 🔴 · Status: 🔴 **Ursache bekannt – Lösung offen**
 
 **Symptome:**
 1. Die vorderen Bremsarme (vom Spenderrad) fühlen sich **weich** an und die Federn sind
@@ -18,7 +18,7 @@ weißen nicht auf den Bremssockel passten.
 > - Verbaut sind jetzt **Tektro**-Bremsarme (vom Spenderrad, das dieselbe Suntour-Gabel hatte)
 > - Bremssockel-Stift: Ø **7,95 mm gemessen** → **M8**, Aufnahmedurchmesser **Ø 8 mm** (V-Brake-Norm)
 >
-> 🔴 **UND DIE URSACHE IST VOM BESITZER SELBST GEMESSEN (2026-09-05 bestätigt):**
+> 🔴 **UND DIE URSACHE IST VOM BESITZER SELBST GEMESSEN (2026-09-04 bestätigt):**
 > Die Bremssockel-Stifte der schwarzen Gabel sind **„ein klein wenig kürzer"** als die der
 > weißen RST-Gabel → die Shimano-Deore-Arme lassen sich **nicht richtig festschrauben**.
 > **Das ist ein Längenproblem, kein Spalt- oder Lackproblem.**

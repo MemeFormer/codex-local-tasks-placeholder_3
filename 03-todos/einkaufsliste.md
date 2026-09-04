@@ -3,7 +3,7 @@
 **Regel:** Nichts bestellen, was noch nicht **vermessen** ist. Teile mit `❓ Spec offen`
 erst nach dem Messen bestellen. Alles mit `✅ Spec bekannt` kann sofort bestellt werden.
 
-Stand: **2026-09-05** · 🎯 **aktualisiert nach der Korrektur-Runde**
+Stand: **2026-09-04** · 🎯 **aktualisiert nach der Korrektur-Runde**
 
 > 🔴 **WICHTIG – drei Bestellungen haben sich geändert:**
 >

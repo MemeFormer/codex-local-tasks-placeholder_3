@@ -11,7 +11,7 @@ danach die Werte in die jeweilige `02-teile/`-Datei übertragen.
 
 Legende: `☐` = noch offen · `☑` = erfasst
 
-> 🎯 **STAND 2026-09-05:** Fast alle **Teilenummern** sind entschlüsselt, **drei Baustellen
+> 🎯 **STAND 2026-09-04:** Fast alle **Teilenummern** sind entschlüsselt, **drei Baustellen
 > sind erledigt** (#3 hintere Bremse, #4 Hinterrad, #13 Nabendynamo) und das **Spenderrad ist
 > identifiziert: Bergamont Horizon 4.0**.
 > **Offen sind nur noch die MESSWERTE** – und zwar vor allem an der **RST Vogue TNL**.
@@ -315,13 +315,13 @@ Hier nur den Pfad notieren:
 
 | Abschnitt | ☐ erfasst | Datum |
 |---|---|---|
-| 0. Identifikation | ✅ **beide Räder identifiziert** – STAIGER Daytona Sportline (**AWO7230329**) + Spenderrad **Bergamont Horizon 4.0** (`52 T4/T6 Heat Treated 6061 Lite Alloy`) | 2026-09-05 |
-| 1. Gabel & Steuersatz | 🟡 **beide Gabeln ✅** (RST Vogue TNL original · NEX vom Bergamont) – 🔴 **RST-Messwerte offen** (Fingernageltest, Standrohr-Ø, Schaft-/Gewindelänge) | 2026-09-05 |
-| 2. Vorbau & Lenker | 🟡 teilweise – 🔴 **MIN-INSERTION + Einsteck-Ø offen** | 2026-09-05 |
-| 3. Laufräder | 🟡 **Naben/Felgen/Reifen ✅** · ✅ **#13 Nabendynamo erledigt** · ✅ **#4 Hinterrad erledigt** – 🔴 **Bremsflanken-Verschleiß offen** (#2) | 2026-09-05 |
+| 0. Identifikation | ✅ **beide Räder identifiziert** – STAIGER Daytona Sportline (**AWO7230329**) + Spenderrad **Bergamont Horizon 4.0** (`52 T4/T6 Heat Treated 6061 Lite Alloy`) | 2026-09-04 |
+| 1. Gabel & Steuersatz | 🟡 **beide Gabeln ✅** (RST Vogue TNL original · NEX vom Bergamont) – 🔴 **RST-Messwerte offen** (Fingernageltest, Standrohr-Ø, Schaft-/Gewindelänge) | 2026-09-04 |
+| 2. Vorbau & Lenker | 🟡 teilweise – 🔴 **MIN-INSERTION + Einsteck-Ø offen** | 2026-09-04 |
+| 3. Laufräder | 🟡 **Naben/Felgen/Reifen ✅** · ✅ **#13 Nabendynamo erledigt** · ✅ **#4 Hinterrad erledigt** – 🔴 **Bremsflanken-Verschleiß offen** (#2) | 2026-09-04 |
 | 4. Antrieb | 🟡 **Kurbel/Schaltung ✅** – Kassette + Zähne offen (#7/#11) | 2026-09-04 |
-| 5. Bremsen | 🟡 **Hebel/Beläge ✅** · ✅ **#3 erledigt** (Bremshebel-Klemmung) – 🔴 **Cantistift-Maße offen** (#5) | 2026-09-05 |
-| 6. Licht | ✅ **Dynamo ✅ DH-3N31-NT** – nur Leuchten-Modelle offen | 2026-09-05 |
+| 5. Bremsen | 🟡 **Hebel/Beläge ✅** · ✅ **#3 erledigt** (Bremshebel-Klemmung) – 🔴 **Cantistift-Maße offen** (#5) | 2026-09-04 |
+| 6. Licht | ✅ **Dynamo ✅ DH-3N31-NT** – nur Leuchten-Modelle offen | 2026-09-04 |
 | 7. Anbauteile | ☐ | |
 | Fotos | ☐ | |
 

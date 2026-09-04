@@ -10,7 +10,7 @@ Federraste · Bremszüge · Zughüllen · Bremsbeläge · Felge (Bremsflanke)
 🟡 Beläge hinten **9–10 mm kürzer als die Originalbeläge** (Qualitäts-, kein Sicherheitsproblem) ·
 🔴 Felgenflanken prüfen – die Originalbeläge waren **durchgefahren**
 
-> 🔴 **KORREKTUR 2026-09-05 – drei Berichtigungen:**
+> 🔴 **KORREKTUR 2026-09-04 – drei Berichtigungen:**
 >
 > | Was bisher stand | ✅ Richtig ist |
 > |---|---|

@@ -1,6 +1,6 @@
 # 01 – Bikes: Stammdaten
 
-**Datenstand: 2026-09-05** · ✅ **beide Räder identifiziert**
+**Datenstand: 2026-09-04** · ✅ **beide Räder identifiziert**
 
 Für jedes Rad eine Datei. Diese Dateien beantworten die Frage **„Was habe ich überhaupt?“**
 Bevor man ein Ersatzteil bestellt, braucht man fast immer eines dieser Grundmaße.

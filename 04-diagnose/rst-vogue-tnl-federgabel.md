@@ -1,6 +1,6 @@
 # 🔬 Diagnose: Die Original-Gabel – **RST Vogue TNL** (am weißen STAIGER-Rad)
 
-**Baustelle #14** · Stand **2026-09-05** · 🔴 **Entscheidung ausstehend: retten oder ersetzen?**
+**Baustelle #14** · Stand **2026-09-04** · 🔴 **Entscheidung ausstehend: retten oder ersetzen?**
 
 > **Warum diese Datei wichtig ist:** Die **Original-Gabel des weißen STAIGER-Rahmens ist noch
 > da** – eine **RST Vogue TNL** (RST = Hersteller, Staiger = Fahrradmarke). Sie hat die

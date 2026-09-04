@@ -3,7 +3,7 @@
 Weil das Rad ein Umbau mit mehreren Provisorien ist: **Diese Liste einmal durchgehen,
 bevor du längere Strecken fährst.** Dauer: 3 Minuten.
 
-> ✅ **Stand 2026-09-05:** Drei frühere Warnpunkte sind **erledigt** – hintere Bremse kehrt
+> ✅ **Stand 2026-09-04:** Drei frühere Warnpunkte sind **erledigt** – hintere Bremse kehrt
 > zurück (**#3**, Ursache war die Bremshebel-Klemmung), Hinterrad läuft normal (**#4**),
 > Nabendynamo-Lager passt (**#13**).
 > 🔴 **Neu dazugekommen:** **Bremshebel-Klemmschellen** (Abstand + Moment) und

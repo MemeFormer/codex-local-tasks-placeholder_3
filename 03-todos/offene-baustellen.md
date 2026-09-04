@@ -1,14 +1,14 @@
 # 📌 Offene Baustellen
 
-Stand: **2026-09-05** · Quelle: zwei Zusammenfassungen + Rückfragen beim Besitzer +
-**entschlüsselte Teilenummern** + **Korrektur-Runde 2026-09-05**
+Stand: **2026-09-04** · Quelle: zwei Zusammenfassungen + Rückfragen beim Besitzer +
+**entschlüsselte Teilenummern** + **Korrektur-Runde 2026-09-04**
 (siehe [`../06-logbuch/2026-09-03-rueckfrage-korrekturen.md`](../06-logbuch/2026-09-03-rueckfrage-korrekturen.md),
 [`../06-logbuch/2026-09-04-komponenten-entschluesselt.md`](../06-logbuch/2026-09-04-komponenten-entschluesselt.md)
-und [`../06-logbuch/2026-09-05-korrektur-runde.md`](../06-logbuch/2026-09-05-korrektur-runde.md))
+und [`../06-logbuch/2026-09-04-korrektur-runde.md`](../06-logbuch/2026-09-04-korrektur-runde.md))
 
 ---
 
-## 🔴 Zuerst lesen: die Korrektur-Runde vom 2026-09-05
+## 🔴 Zuerst lesen: die Korrektur-Runde vom 2026-09-04
 
 Vier bisherige Annahmen waren **falsch** und sind jetzt berichtigt. Das ändert die
 Reihenfolge der Arbeiten erheblich.
@@ -32,7 +32,7 @@ Status: `🔴 offen` · `🟠 in Arbeit` · `🟡 Diagnose fehlt` · `✅ erledi
 
 ---
 
-## Übersicht (Priorisierung Stand 2026-09-05)
+## Übersicht (Priorisierung Stand 2026-09-04)
 
 | # | Baustelle | Prio | Status | Nächster konkreter Schritt | Detail |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@ oder die Cantistifte nicht.
 | Feld | Wert |
 |---|---|
 | Symptom | Bremsflanken am weißen Rad waren abgefahren; Original-Hinterrad ist wieder eingebaut |
-| 🔴 **Neues Indiz (2026-09-05)** | Die **Original-Shimano-Beläge (ca. 72 mm) waren komplett durchgefahren** – *„mehr als nur abgefahren, die waren durch"*. Wer Beläge durchfährt, fährt meist auch die **Felgenflanke** an |
+| 🔴 **Neues Indiz (2026-09-04)** | Die **Original-Shimano-Beläge (ca. 72 mm) waren komplett durchgefahren** – *„mehr als nur abgefahren, die waren durch"*. Wer Beläge durchfährt, fährt meist auch die **Felgenflanke** an |
 | Risiko | **Felgendurchbruch** unter Bremsdruck (Felgenplatzer) – 🔴 sicherheitsrelevant |
 | Felgen | hinten **Mach1 210** (622 × 19c, Alloy 6060, original Daytona) · vorne **Shining Double Wall A-M4** (622 × 19, vom Bergamont-Spenderrad) |
 | Prüfung | Verschleißindikator sichtbar? Muldentiefe messen (Tiefe mit Haarlineal/Münze)? Kante mit dem Fingernagel prüfen? Felge **konkav** (eingedellt)? |
@@ -347,7 +347,7 @@ oder die Cantistifte nicht.
 
 ## ✅ Erledigt (Archiv)
 
-### Erledigt am 2026-09-04 / 09-05 (durch Rückfrage geklärt)
+### Erledigt am 2026-09-04 (durch Rückfrage geklärt)
 
 | # | Baustelle | ✅ Ursache / Lösung |
 |---|---|---|

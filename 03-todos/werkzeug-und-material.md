@@ -91,7 +91,7 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 ## 3. 🔴 Was fehlt mir genau für die aktuelle Arbeit?
 
 > Diese Tabelle vor jeder Session ausfüllen – das spart Frust.
-> 🔴 **Nummern-Stand 2026-09-05** – maßgeblich ist [`offene-baustellen.md`](offene-baustellen.md).
+> 🔴 **Nummern-Stand 2026-09-04** – maßgeblich ist [`offene-baustellen.md`](offene-baustellen.md).
 
 | Baustelle | Fehlendes Werkzeug | Fehlendes Material | Fehlende Information |
 |---|---|---|---|

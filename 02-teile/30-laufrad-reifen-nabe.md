@@ -7,7 +7,7 @@ erledigt** · ✅ Hinterrad **läuft normal** (hat sich eingespielt) → **Baust
 🟡 eine **kleine Feder** beim Hinterrad-Achsausbau verloren (nur noch einseitig) ·
 🔴 **Felgen-Bremsflanken prüfen** – die Originalbeläge waren **durchgefahren** (Baustelle #2)
 
-> ✅ **GEKLÄRT (2026-09-05) – Herkunft der Laufräder:**
+> ✅ **GEKLÄRT (2026-09-04) – Herkunft der Laufräder:**
 >
 > | Rad | Herkunft | Beleg |
 > |---|---|---|

@@ -10,7 +10,7 @@ Referenzwerte zum Nachschlagen.
 | [`steuersatz-einstellen.md`](steuersatz-einstellen.md) | Gewindesteuersatz einstellen, Mutter sichern, Ahead-Vergleich | Baustelle **#1** + **#6** (+ **#14** RST-Gabel) |
 | [`referenzwerte.md`](referenzwerte.md) | Anzugsmomente, Ritzelabstände, Kettenlänge, Reifendruck, Durchmesser, Gewinde | alles |
 
-> ⚠️ **Nummern-Hinweis:** Die Baustellen-Nummern wurden am **2026-09-05** bereinigt.
+> ⚠️ **Nummern-Hinweis:** Die Baustellen-Nummern wurden am **2026-09-04** bereinigt.
 > Maßgeblich ist [`../03-todos/offene-baustellen.md`](../03-todos/offene-baustellen.md).
 
 ## Allgemeine Arbeitsregeln

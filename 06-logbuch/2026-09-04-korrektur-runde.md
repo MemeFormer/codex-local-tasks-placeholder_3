@@ -1,4 +1,4 @@
-# 📓 2026-09-05 – Korrektur-Runde: Bergamont, RST Vogue und drei erledigte Baustellen
+# 📓 2026-09-04 – Korrektur-Runde: Bergamont, RST Vogue und drei erledigte Baustellen
 
 **Art:** 🔴 **Korrektur-Runde** – vier bisherige Annahmen wurden berichtigt, drei Baustellen
 abgeschlossen, eine neue Baustelle (#14) eröffnet

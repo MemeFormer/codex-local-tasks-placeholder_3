@@ -27,7 +27,7 @@ Das ist das **Herzstück** dieses Repos. Jede Baugruppe hat eine eigene Datei mi
 Nicht alles auf einmal. Jede Datei hat am Ende eine **Messliste für den nächsten
 Werkstattbesuch**.
 
-🔴 **Aktuelle Reihenfolge (Stand 2026-09-05)** – maßgeblich ist
+🔴 **Aktuelle Reihenfolge (Stand 2026-09-04)** – maßgeblich ist
 [`../03-todos/offene-baustellen.md`](../03-todos/offene-baustellen.md):
 
 1. **[`20-steuersatz-gabel-vorbau-lenker.md`](20-steuersatz-gabel-vorbau-lenker.md)** – 🔴 **Baustelle #14
