@@ -11,6 +11,14 @@
 **Situation:** Vorne sind die schwarzen Bremsarme an der schwarzen Gabel montiert, weil die
 weißen nicht auf den Bremssockel passten.
 
+> ✅ **GEKLÄRT (2026-09-04):**
+> - Gabel = **SR Suntour NEX**, 1⅛ Zoll Gewindeschaft, **Aluminium-Gabelscheiden**
+>   → der Bremssockel ist mit hoher Wahrscheinlichkeit **eingeschraubt**, nicht angeschweißt
+> - Die Bremsarme, die nicht passten, sind **Shimano Deore** (passend zur BL-M571/SL-M580-Gruppe)
+> - Verbaut sind jetzt **Tektro**-Bremsarme (vom Spenderrad, das dieselbe Suntour-Gabel hatte)
+>
+> 🔴 **Und damit ist die Ursache konkret benennbar** – siehe Abschnitt 2a.
+
 ---
 
 ## 0. 🧭 Begriffe klären (wichtig – hier gab es eine Verwechslung)
@@ -103,10 +111,56 @@ Kosten: 0 €.
 |---|---|---|---|---|
 | 1 | **Lack oder Rost auf dem Bremssockel** | 🔴 **sehr hoch** | Sockel ansehen: glänzt das Metall, oder ist Lack/Rost drauf? | Mit **Schleifleinen (Körnung 400–600)** oder feiner Feile abziehen, dann dünn fetten. ⚠️ Nicht zu viel abnehmen |
 | 2 | **Federstift sitzt nicht in der Bohrung**, sondern liegt auf | hoch | Bremsarm abziehen, Sockel-Bohrungen ansehen, Federstift am Arm prüfen | Federstift beim Aufsetzen korrekt in das Loch führen |
-| 3 | **Bund des Sockels länger als die Eindrehung im Bremsarm** | mittel | Spalt zwischen Bremsarm und Sockel-Schulter messen | Sockel zurücksetzen (bei eingeschraubten Sockeln möglich) oder Bund vorsichtig abfeilen |
+| 3 | 🔴 **Bund des Sockels länger als die Eindrehung im Bremsarm** | 🔴 **sehr hoch – belegt bei Deore-Armen** | Spalt zwischen Bremsarm und Sockel-Schulter messen | ✅ **Sockel 2–2,5 mm zurückdrehen** (möglich, weil Alu-Gabel → Sockel eingeschraubt) |
 | 4 | **Sockel-Höhe passt nicht zur Laufradgröße** (26"-Gabel an 28"-Rad) | mittel | Abstand **Mitte Ausfallende → Mitte Sockel** messen | Adapter-Sockel, oder Gabel tauschen |
 | 5 | Bremsarm-Buchse ausgeschlagen / verrostet | gering | Buchse im Arm ansehen, reinigen | reinigen + fetten, ggf. Arm tauschen |
 | 6 | Anderes Gewinde des Sockels (M8 vs. M10) | gering | nur relevant, wenn der Sockel getauscht wird | passenden Ersatzsockel |
+
+### 🔴 Ursache 3 im Detail: Sockel-Bund länger als die Arm-Ausnehmung (dein wahrscheinlichster Fall)
+
+Das ist ein **gut dokumentiertes Problem – und zwar spezifisch bei Shimano-Deore-Bremsarmen**:
+
+| Maß | typischer Wert |
+|---|---|
+| Länge des Sockel-Bunds (der Absatz, an dem der Arm anliegen soll) | ca. **5,6 mm** |
+| Tiefe der Ausnehmung im Deore-Bremsarm | ca. **4,3 mm** |
+| → **Spalt** | ca. **1,3 mm** – der Arm liegt nicht an, lässt sich nicht richtig festschrauben, „passt nicht" |
+
+**Belegter Fix:** Den eingeschraubten Sockel **ca. 2–2,5 mm zurückdrehen**, dann liegt der
+Bremsarm bündig an. In einem Schrauber-Forum wurde das mit genau einer Deore-V-Brake
+durchexerziert – Zitat sinngemäß: *„Sockel um 2,5 mm zurück gesetzt! Jetzt passt."*
+
+> 🎯 **Dein eigener Plan („die Stahlstifte selbst tauschen") ist damit machbar** – weil die
+> Suntour NEX **Aluminium-Gabelscheiden** hat und der Sockel dort eingeschraubt ist.
+> Es muss nicht einmal getauscht werden: oft reicht **Zurückdrehen**.
+
+**Ablauf:**
+
+| Schritt | Detail |
+|---|---|
+| 1 | **Magnet-Test** an den Gabelscheiden: unmagnetisch = **Alu** ✅ → Sockel eingeschraubt |
+| 2 | Hat der Sockel **zwei Abflachungen** für einen Gabelschlüssel? → ja = eingeschraubt, bestätigt |
+| 3 | Bremsarm ab, **Foto** von der Position des Federstift-Lochs (12-Uhr- oder 6-Uhr-Stellung) |
+| 4 | Gabelschlüssel an den Abflachungen ansetzen, Gabel gegenhalten, **herausdrehen** (Rechtsgewinde) |
+| 5 | Gewinde messen: **M8 oder M10** + Steigung |
+| 6 | Gewinde in der Gabel reinigen, **Loctite 243** auf den Sockel |
+| 7 | Sockel **2–2,5 mm tiefer** einschrauben, Federstift-Loch auf **dieselbe Position** ausrichten |
+| 8 | 🔴 **Grenze:** mindestens **8–10 mm Gewindeeingriff** müssen in der Gabel bleiben! Nicht weiter herausdrehen |
+| 9 | Aushärten lassen, Bremsarm montieren, prüfen ob er **bündig** anliegt |
+| Alternative | Passenden **Ersatz-Cantisockel mit kürzerem Bund** (💰 5–15 €) |
+
+**Messwerte eintragen:**
+
+| Messung | Wert |
+|---|---|
+| Länge des Sockel-Bunds | ❓ ____ mm |
+| Tiefe der Ausnehmung im Deore-Bremsarm | ❓ ____ mm |
+| Spalt im montierten Zustand | ❓ ____ mm |
+| Sockel-Gewinde (M8/M10) + Steigung | ❓ |
+| Zwei Abflachungen am Sockel vorhanden? | ❓ |
+| Aktuelle Gewindeeinschraubtiefe in der Gabel | ❓ ____ mm |
+
+---
 
 ### 🔴 Ursache 1 im Detail: Lack auf dem Sockel
 

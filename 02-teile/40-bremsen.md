@@ -4,7 +4,21 @@
 **Baugruppe:** Bremshebel (Lenker) · Bremsarme (Zange) · Bremssockel · Federspannschrauben ·
 Federraste · Bremszüge · Zughüllen · Bremsbeläge · Felge (Bremsflanke)
 **Zustand:** ✅ Hebel original weiß (gut) · ⚠️ Bremsarme vorne vom Spenderrad (zu weich) ·
-🔴 hintere Bremse kehrt nicht zurück · ⚠️ Beläge hinten vom Spenderrad · ⚠️ Felgenflanken?
+🔴 hintere Bremse kehrt nicht zurück · 🔴 Beläge hinten **7–10 mm zu kurz** · ⚠️ Felgenflanken?
+
+> ✅ **GEKLÄRT (2026-09-04) – alle Bremsen-Teilenummern entschlüsselt:**
+>
+> | Teil | Stempelung | Identifikation |
+> |---|---|---|
+> | **Bremshebel** (Lenker, beide weiß) | **BL-M571** | ✅ **Shimano Deore BL-M571**, V-Brake-Hebel (**long pull**), 2-Finger-Alu-Hebel |
+> | Schalthebel | **SL-M580** | Shimano Deore SL-M580, **3×9** – passt zur Gruppe ✅ |
+> | **Bremsarme hinten** (weiß, original) | ❓ | ✅ **Shimano Deore** V-Brake (BL-M571/SL-M580-Gruppe), ausgelegt für **70-mm-Beläge** |
+> | **Bremsarme vorne** (schwarz, Spenderrad) | ❓ | ✅ **Tektro** V-Brake |
+> | **Bremsbeläge hinten** (schwarz, Spenderrad) | **Tektro 836**, links **B1**, rechts **B44** | 🔴 **Tektro 836.12** – V-Type-Schuh, Nennlänge **63 mm** (gemessen 62 mm) |
+>
+> 🔴 **HAUPTBEFUND:** Die Shimano-Deore-Zange hinten ist für **70-mm-Beläge** konstruiert.
+> Verbaut sind **Tektro 836 mit 63 mm** – **7–10 mm zu kurz**, und zwar **mit dem Tektro-
+> Scheibensatz** in einer Shimano-Zange. Das ist der Hauptverdächtige für Baustelle #3.
 
 ---
 
@@ -30,8 +44,8 @@ Am Fahrrad mit Felgenbremse gibt es zwei Dinge, die man umgangssprachlich „Heb
 
 | Position | Bremshebel (Lenker) | Bremsarme (Zange) | Beläge | Bemerkung |
 |---|---|---|---|---|
-| **vorne** | ✅ weiß, original | ⚠️ **schwarz** (Spenderrad) | ❓ welche? | weiße Arme passten nicht auf den Sockel |
-| **hinten** | ✅ weiß, original | ✅ **weiß**, original | ⚠️ **schwarz** (Spenderrad) | weiße Beläge waren „ziemlich runter“ |
+| **vorne** | ✅ **BL-M571**, weiß, original | ⚠️ **Tektro**, schwarz (Spenderrad) | ❓ welche? | 🔴 weiße **Deore**-Arme passten nicht auf den Sockel der Suntour-NEX-Gabel |
+| **hinten** | ✅ **BL-M571**, weiß, original | ✅ **Shimano Deore**, weiß, original | 🔴 **Tektro 836**, 62–63 mm (Spenderrad) | 🔴 **7–10 mm zu kurz** für die Deore-Zange; weiße Beläge waren „ziemlich runter“ |
 
 > 💡 **Wichtige Konsequenz für Baustelle #3:** Hinten sind Zange, Federn **und** Zug original –
 > **nur die Beläge wurden getauscht**. Wenn die Bremse seitdem nicht zurückkehrt, sind die
@@ -57,11 +71,29 @@ Am Fahrrad mit Felgenbremse gibt es zwei Dinge, die man umgangssprachlich „Heb
 
 | Frage | Antwort |
 |---|---|
-| Modellnummer Bremshebel links/rechts | ❓ |
-| Modellnummer Bremsarme vorne (schwarz) | ❓ |
-| Modellnummer Bremsarme hinten (weiß) | ❓ |
+| Modellnummer Bremshebel links/rechts | ✅ **BL-M571** (beide, weiß, original) |
+| Modellnummer Bremsarme vorne (schwarz) | ✅ **Tektro** – ❓ exakte Modellnummer noch ablesen (z. B. 837, 855, 930) |
+| Modellnummer Bremsarme hinten (weiß) | ✅ **Shimano Deore** – ❓ exakte Modellnummer (z. B. BR-M570, BR-M590) |
 | Zugführungs-Röhrchen (Nudel): Länge? | ❓ ____ mm (Standard 92 mm; kurze Nudel = mehr Kraft, weniger Weg) |
-| Innenzug-Ø gemessen | ❓ ____ mm |
+| Innenzug-Ø gemessen | ❓ ____ mm (BL-M571 = **1,6 mm** Shimano-Standard; 1,5-mm-Züge funktionieren auch) |
+| Modellnummer Bremsbeläge hinten | ✅ **Tektro 836** – li **B1**, re **B44** |
+
+### 🔴 BL-M571 – was das über dein System aussagt
+
+| Eigenschaft | Wert |
+|---|---|
+| Hersteller/Modell | **Shimano Deore BL-M571** |
+| Gruppe | Deore M570/M580-Serie, **9-fach** – ✅ passt zu deiner SL-M580-Schaltung |
+| Bremstyp | **V-Brake / Linear-Pull** = **long pull** |
+| Zugübersetzung | long pull → 🔴 **NICHT kompatibel** mit Rennrad-/Canti-/U-Brake-Hebeln (short pull) |
+| Hebel | 2-Finger-Alu-Hebel |
+| Innenzug-Ø | **1,6 mm** (Shimano-Norm) |
+| Hülle-Ø | **5 mm**, spiral |
+| Griffweitenverstellung | ✅ über Barrel Adjuster / Reach-Einstellschraube |
+| Zustand | ✅ **beide original weiß, gut** – hier ist nichts zu tun |
+
+💡 **Konsequenz:** Da die Bremshebel original und systemrichtig sind, liegt das Bremsproblem
+**ausschließlich an den Bremsarmen/Belägen**, nicht an den Armaturen.
 
 ### Bremssockel-Höhe nach Laufradgröße (Shimano-Referenz)
 
@@ -141,7 +173,7 @@ Bohrungen** im Bremssockel. Anderes Loch = deutlich andere Federvorspannung.
 
 | # | Ursache | Wahrscheinlichkeit | Test |
 |---|---|---|---|
-| 1 | **Fremde Beläge passen nicht**: zu lang, zu dick, falsche Form → haken an Felgenkante/Reifen | 🔴 **hoch** | Beläge ansehen: ragen sie über die Bremsflanke hinaus? Berühren sie den Reifen? |
+| 1 | 🔴 **BELEGT: Fremde Beläge sind zu KURZ** – Tektro 836 (63 mm) statt Shimano 70 mm, mit Tektro-Scheibensatz in der Deore-Zange | 🔴🔴 **Hauptverdacht** | ✅ gemessen 62 mm; Scheibenreihenfolge prüfen |
 | 2 | **Konvex-/Konkavscheiben** vertauscht oder falsch herum → Belag steht schräg und verkantet | 🔴 hoch | Belagträger zerlegen, Scheibenreihenfolge prüfen |
 | 3 | **Scharfe Kante an der abgefahrenen Bremsflanke** → Belag bleibt hängen | 🔴 hoch | mit dem Fingernagel über die Felgenkante fahren |
 | 4 | Zug/Hüll-Reibung (neue Verlegung) | mittel | Binärsuche: Zug aushängen |
@@ -153,11 +185,27 @@ Bohrungen** im Bremssockel. Anderes Loch = deutlich andere Federvorspannung.
 
 ### V-Brake-Beläge: worauf es ankommt
 
-| Größe | V-Brake | Cantilever | Rennrad-Seitenzug |
-|---|---|---|---|
-| Belaglänge | **ca. 70 mm** | ca. 55–65 mm | ca. 50 mm |
-| Befestigung | Gewindebolzen M6 mit Konvex/Konkav-Scheiben | dito (kürzer) | Steck- oder Schraubbelag |
-| Kompatibilität | ⚠️ **Canti-Beläge sind zu kurz für V-Brakes** – sie liegen nicht voll auf der Felge | | |
+| Größe | V-Brake (Shimano Deore) | **Tektro 836** | Cantilever | Rennrad-Seitenzug |
+|---|---|---|---|---|
+| Belaglänge | **70 mm** (M70T4 = 72 mm, S65T/M65T = 70 mm) | 🔴 **63 mm** (gemessen 62 mm) | ca. 55–65 mm | ca. 50 mm |
+| Befestigung | Gewindebolzen M6 mit Konvex/Konkav-Scheiben | dito, **eigener Tektro-Scheibensatz** | dito (kürzer) | Steck- oder Schraubbelag |
+| Kompatibilität | – | 🔴 **7–10 mm zu kurz für eine Shimano-Deore-Zange** | ⚠️ zu kurz für V-Brakes | ⚠️ short pull, völlig falsch |
+
+### 🔴 Befund: Tektro 836 (63 mm) in einer Shimano-Deore-Zange (70 mm)
+
+| | Wert |
+|---|---|
+| Verbaute Beläge hinten | **Tektro 836**, gemessen **62 mm** → Nennlänge **63 mm** bestätigt |
+| Zange hinten | **Shimano Deore** (original, weiß) |
+| Shimano-Deore-Standard | **70 mm** |
+| Differenz | 🔴 **7–10 mm zu kurz** |
+| Codes | links **B1**, rechts **B44** → ❓ **prüfen, ob verschiedene Mischungen** (ungleiche Reibung = einseitiges Klemmen!) |
+| Wirkung | ca. 10–15 % weniger Auflagefläche/Bremsleistung, **fremder Scheibensatz** → Belag kann verkanten → **Bremse kehrt nicht zurück** |
+
+💰 **Empfehlung:** hinten auf **Shimano V-Brake-Beläge 70 mm** wechseln
+(**M70T4** / **S65T** / **M65T**, 8–15 €/Paar) **inklusive korrektem Shimano-Scheibensatz**.
+
+→ Details in [`../04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](../04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md)
 
 **Scheiben-Reihenfolge am Belagbolzen (Standard V-Brake):**
 
@@ -180,8 +228,8 @@ Falsch herum = der Belag lässt sich nicht richtig schwenken und steht schräg �
 
 | ☐ | Frage | Antwort |
 |---|---|---|
-| ☐ | Belaglänge der Spenderrad-Beläge | ❓ ____ mm |
-| ☐ | Sind es V-Brake-Beläge (ca. 70 mm) oder kürzere? | ❓ |
+| ☑ | Belaglänge der Spenderrad-Beläge | ✅ **62 mm** – Tektro 836 |
+| ☑ | Sind es V-Brake-Beläge (ca. 70 mm) oder kürzere? | 🔴 **deutlich kürzer – 63 mm statt 70 mm** |
 | ☐ | Konvex/Konkav-Scheiben in der richtigen Reihenfolge? | ❓ |
 | ☐ | Steht der Belag senkrecht zur Felge (nicht verdreht)? | ❓ |
 | ☐ | Liegt der Belag **komplett** auf der Bremsflanke? | ❓ |
@@ -217,19 +265,19 @@ Barrel Adjuster → Endtest.
 
 | Komponente | Verbaut | Hersteller + Modell | Zustand | Notiz |
 |---|---|---|---|---|
-| Bremshebel links | ✅ weiß, original | ❓ | ✅ gut | |
-| Bremshebel rechts | ✅ weiß, original | ❓ | ✅ gut | |
+| Bremshebel links | ✅ weiß, original | ✅ **Shimano BL-M571** | ✅ gut | V-Brake / long pull |
+| Bremshebel rechts | ✅ weiß, original | ✅ **Shimano BL-M571** | ✅ gut | V-Brake / long pull |
 | Bremszug vorne | ❓ | ❓ | ❓ | |
 | Bremszughülle vorne | ❓ | ❓ | ❓ | Länge ❓ mm |
 | Zugführungs-Röhrchen (Nudel) vorne | ❓ | – | ❓ | Länge ❓ mm |
-| **Bremsarme vorne** | ⚠️ **schwarz** (Spenderrad) | ❓ | ⚠️ zu weich, Federn schwach | weiße passten nicht auf den Sockel |
-| Bremssockel Gabel | ❓ Stahl (geschweißt) / Alu (geschraubt) | – | ⚠️ Lack/Rost? | Magnet-Test! |
+| **Bremsarme vorne** | ⚠️ **schwarz** (Spenderrad) | ✅ **Tektro** ❓ Modellnr. | ⚠️ zu weich, Federn schwach | 🔴 weiße **Deore**-Arme passten nicht auf den Sockel |
+| Bremssockel Gabel | ✅ **Alu** (Suntour NEX) → **eingeschraubt** | SR Suntour NEX | 🔴 **Bund ca. 5,6 mm vs. Arm-Ausnehmung ca. 4,3 mm** | 💡 Sockel **2–2,5 mm zurückdrehen** = Fix |
 | Bremsbeläge vorne | ❓ welche? | ❓ | ❓ | |
 | Bremszug hinten | ✅ original | ❓ | ❓ | |
 | Bremszughülle hinten | ✅ original | ❓ | ⚠️ Verdacht Reibung | Länge ❓ mm |
-| **Bremsarme hinten** | ✅ **weiß**, original | ❓ | ✅ gut | |
-| Bremssockel Hinterbau | ✅ original | – | ❓ | Abstand zum Ausfallende ❓ mm |
-| **Bremsbeläge hinten** | ⚠️ **schwarz** (Spenderrad) | ❓ | 🔴 **Hauptverdacht Baustelle #3** | Länge ❓ mm |
+| **Bremsarme hinten** | ✅ **weiß**, original | ✅ **Shimano Deore** ❓ Modellnr. | ✅ gut | ausgelegt für **70-mm-Beläge** |
+| Bremssockel Hinterbau | ✅ original | – | ❓ | Abstand zum Ausfallende ❓ mm (Soll 28″: **283 mm**) |
+| **Bremsbeläge hinten** | 🔴 **schwarz** (Spenderrad) | ✅ **Tektro 836** (li **B1**, re **B44**) | 🔴 **Hauptverdacht Baustelle #3** | 🔴 **62 mm – 7–10 mm zu kurz!** |
 | Felgenflanke vorne | ❓ | – | 🔴 prüfen | |
 | Felgenflanke hinten | ❓ | – | 🔴 prüfen | scharfe Kante? |
 
@@ -239,17 +287,20 @@ Barrel Adjuster → Endtest.
 
 | # | Messung | Wert |
 |---|---|---|
-| 1 | Modellnummer Bremshebel (Unterseite) | |
-| 2 | Modellnummer Bremsarme vorne (schwarz) | |
-| 3 | Modellnummer Bremsarme hinten (weiß) | |
-| 4 | **Magnet-Test Gabel: Stahl oder Alu?** | |
+| 1 | ~~Modellnummer Bremshebel~~ | ✅ **BL-M571** |
+| 2 | Modellnummer Bremsarme vorne (schwarz, Tektro) | ❓ |
+| 3 | Modellnummer Bremsarme hinten (weiß, Deore) | ❓ |
+| 4 | ~~Magnet-Test Gabel~~ | ✅ **Alu** (Suntour NEX) → Sockel eingeschraubt |
 | 5 | Bremssockel Gabel: Lack/Rost sichtbar? | |
 | 6 | Bremssockel Gabel: 3 Bohrungen für die Federraste sichtbar? | |
 | 7 | **In welchem Loch sitzt der Federstift aktuell?** | |
 | 8 | Abstand Mitte Ausfallende → Mitte Bremssockel, **Gabel** | ____ mm |
 | 9 | Abstand Mitte Ausfallende → Mitte Bremssockel, **Hinterbau** (Referenz) | ____ mm |
-| 10 | Spalt zwischen Bremsarm und Sockel-Schulter | ____ mm |
-| 11 | Länge der Bremsbeläge hinten (Spenderrad) | ____ mm |
+| 10 | 🔴 Spalt zwischen Bremsarm und Sockel-Schulter (**Deore-Arm**: ca. 1,3 mm erwartet) | ____ mm |
+| 10a | Länge des Sockel-**Bunds** an der Gabel (erwartet ca. 5,6 mm) | ____ mm |
+| 10b | Tiefe der **Ausnehmung** im weißen Deore-Bremsarm (erwartet ca. 4,3 mm) | ____ mm |
+| 10c | Sockel-Gewinde: M8 oder M10? Zwei Abflachungen für Gabelschlüssel vorhanden? | ❓ |
+| 11 | ~~Länge der Bremsbeläge hinten~~ | ✅ **62 mm** – Tektro 836 |
 | 12 | Konvex-/Konkav-Scheiben-Reihenfolge hinten korrekt? | |
 | 13 | Restbelagstärke der weißen Original-Beläge (wurden ausgetauscht) | ____ mm |
 | 14 | Innenzug-Ø gemessen (1,2 oder 1,5 mm) | ____ mm |
@@ -276,13 +327,15 @@ Barrel Adjuster → Endtest.
 
 | Teil | Spec | Prio | ca. Preis | bestellt? |
 |---|---|---|---|---|
-| Schleifleinen 400/600 | Bremssockel entlacken | 🔴 | 3 € | ☐ |
-| **V-Brake-Beläge** | Länge ~70 mm, für Alu-Felgen, Gewindebolzen mit Konvex/Konkav | 🔴 | 6–15 € | ☐ |
-| **Bremszug-Set** | Innenzug **1,5 mm** Edelstahl + Hülle **5 mm spiral** + Endhülsen | 🔴 | 12–20 € | ☐ |
-| Neue V-Brake vorne | ❓ Sockelhöhe beachten (26"/28") | 🟡 | 15–30 € | ☐ |
-| Zughüllenschneider | oder scharfer Seitenschneider + Feile | 🟡 | 15–30 € | ☐ |
-| Cantisockel zum Einschrauben | ❓ M8/M10 – **nur bei Alugabel** | 🟢 | 5–15 € | ☐ |
-| Bremssockel-Adapter | nur bei 26"/28"-Versatz | 🟢 | 15–30 € | ☐ |
+| ~~Schleifleinen 400/600~~ | ~~Bremssockel entlacken~~ – ✅ **nicht nötig**: Ursache ist der zu lange Sockel-Bund | ✅ erledigt | 0 € | ✅ |
+| **Shimano V-Brake-Beläge** | 🔴 **70 mm**, **M70T4** / **S65T** / **M65T**, für Alu-Felgen, **inkl. Shimano-Konvex/Konkav-Scheibensatz** | 🔴 | 8–15 € | ☐ |
+| **Bremszug-Set** | Innenzug **1,6 mm** (BL-M571-Standard) Edelstahl + Hülle **5 mm spiral** + Endhülsen | 🔴 | 12–20 € | ☐ |
+| **Konusschlüssel-Set** | 🔴 für den Nabendynamo DH-3N31 – **nur links** einstellen; Größen ❓ messen (typ. 13/15 oder 15/17 mm) | 🔴 | 8–15 € | ☐ |
+| Gabelschlüssel (dünner Maulschlüssel) | ❓ Schlüsselweite der Bremssockel-Abflachungen messen – zum **Zurückdrehen des Sockels** | 🔴 | 5–15 € | ☐ |
+| Loctite 243 | Schraubensicherung für den zurückgedrehten Bremssockel | 🔴 | 8 € | ☐ |
+| Neue V-Brake vorne | ❓ Sockelhöhe beachten (28″ = 283 mm) – **nur falls Zurückdrehen nicht reicht** | 🟢 | 15–30 € | ☐ |
+| Cantisockel zum Einschrauben | ❓ M8/M10 – ✅ **möglich, Gabel ist Alu** | 🟢 | 5–15 € | ☐ |
+| Zughüllenschneider | oder scharfer Seitenschneider + Feile | 🟢 | 15–30 € | ☐ |
 | Teflon-Fett für Züge | | 🟢 | 5 € | ☐ |
 
 ## 9. Verknüpfungen

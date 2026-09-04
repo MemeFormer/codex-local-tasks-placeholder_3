@@ -1,7 +1,29 @@
 # 📌 Offene Baustellen
 
-Stand: 2026-09-03 · Quelle: zwei Zusammenfassungen + **Rückfrage beim Besitzer** (siehe
-[`../06-logbuch/2026-09-03-rueckfrage-korrekturen.md`](../06-logbuch/2026-09-03-rueckfrage-korrekturen.md))
+Stand: **2026-09-04** · Quelle: zwei Zusammenfassungen + **Rückfrage beim Besitzer** +
+**🎯 alle eingeprägten Teilenummern entschlüsselt**
+(siehe [`../06-logbuch/2026-09-03-rueckfrage-korrekturen.md`](../06-logbuch/2026-09-03-rueckfrage-korrekturen.md)
+und [`../06-logbuch/2026-09-04-komponenten-entschluesselt.md`](../06-logbuch/2026-09-04-komponenten-entschluesselt.md))
+
+---
+
+## 🎯 Was sich am 2026-09-04 geändert hat (Teilenummern entschlüsselt)
+
+Sechs Baustellen haben durch die entschlüsselten Stempelungen eine **konkrete Ursache** oder
+eine **exakte Ersatzteil-Spec** bekommen:
+
+| Baustelle | Vorher | 🎯 Jetzt geklärt |
+|---|---|---|
+| **6 – Steuersatz-Gewinde** | „Gewinde zu kurz, Ursache unbekannt" | 🔴 **URSACHE GEFUNDEN:** NEX-Gewindeschäfte haben ab Werk nur **ca. 55 mm Gewinde oben**. Der Schaft wurde für das kürzere Steuerrohr des Spenderrads **oben gekürzt** → Gewinde weg. Das STAIGER-Steuerrohr ist **ca. 23 mm länger**. **Fix: NEX-Gabel mit 225-mm-Schaft** (💰 50–90 €) oder **Ahead-Umbau** (EC34-Schalen bleiben im Rahmen!) |
+| **5 – Vordere Bremsarme** | „passen nicht auf den Sockel, Ursache unbekannt (Lack?)" | 🔴 **URSACHE GEFUNDEN:** Sockel-Bund **ca. 5,6 mm** vs. Deore-Arm-Ausnehmung **ca. 4,3 mm** = **1,3 mm Spalt**. Gabel ist **Alu** (Suntour NEX) → Sockel **eingeschraubt** → **Fix: 2–2,5 mm zurückdrehen** + Loctite (💰 0 €!) |
+| **3 – Hintere Bremse** | „Beläge sind Hauptverdacht, Länge unbekannt" | 🔴 **BELEGT:** **Tektro 836** = **63 mm**, die Shimano-Deore-Zange ist für **70 mm** gebaut → **7–10 mm zu kurz** + fremder Scheibensatz. **Fix: Shimano-Beläge 70 mm** (M70T4/S65T, 💰 8–15 €) |
+| **13 – Vorderrad** | „Nabendynamo, entwarnt, nichts zu tun" | 🟠 **Teilweise wieder offen:** Shimano-Dynamos sind **ab Werk zu stramm** und man **kann es nicht erfühlen** (Magnet-Rasten). **Fix: nur links nach Spiel einstellen**, 💰 0 €, 15 min |
+| **7 – Kette** | „9-fach, Modell unbekannt" | ✅ **Exakte Spec: Shimano CN-HG53** (Original-Spec zum **FC-M530**), 💰 12–18 € |
+| **9 – Geometrie/Sitzposition** | ⚠️ „fremde Gabel könnte Geometrie zerstört haben" | 🟢 **ENTWARNT:** Das originale **Staiger Daytona** hatte ab Werk eine **Suntour NCX-D LO 63 mm**-Gabel, **Mach1 210**-Felgen und **XLC**-Teile. Deine **NEX T63 (63 mm)** ist eine **zeitlich passende** Gabel → Geometrie ist **nicht** grundsätzlich falsch |
+| **2 – Felgen** | „Bremsflanken prüfen, Modell unbekannt" | ✅ **Modelle bekannt:** hinten **Mach1 210 (622 × 19c)**, vorne **Shining A-M4 (622 × 19)**. Mach1 210 ist weiterhin lieferbar (💰 20–35 €) |
+| **10 – Teile identifizieren** | „offen" | ✅ **ZU 90 % ERLEDIGT** – nur noch Kassette, Kettenblatt-Zähne, Bremszangen-Modellnummern, Pedale offen |
+
+> 📄 **Alle Details:** [`../01-bikes/weisses-trekkingbike.md`](../01-bikes/weisses-trekkingbike.md)
 
 **Legende:** 🔴 hoch (Sicherheit/Funktion) · 🟡 mittel · 🟢 niedrig (Komfort/Optik)
 Status: `🔴 offen` · `🟠 in Arbeit` · `🟡 Diagnose fehlt` · `✅ erledigt` · `🟢 entwarnt`
@@ -26,43 +48,54 @@ Status: `🔴 offen` · `🟠 in Arbeit` · `🟡 Diagnose fehlt` · `✅ erledi
 
 | # | Baustelle | Prio | Status | Nächster konkreter Schritt | Detail |
 |---|---|---|---|---|---|
-| 1 | 🔴 **Quill-Vorbau-Mindesteinstecktiefe** prüfen | 🔴 | 🔴 offen | Markierung suchen, prüfen ob sie **im** Schaftrohr liegt | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
-| 2 | 🔴 **Felgen-Bremsflanken** prüfen (v + h) | 🔴 | 🔴 offen | Verschleißindikator + Muldentiefe messen | [`../02-teile/30-laufrad-reifen-nabe.md`](../02-teile/30-laufrad-reifen-nabe.md) Abs. 2.3 |
-| 3 | 🔴 **Hintere Bremse kehrt nicht zurück** | 🔴 | 🟡 Diagnose fehlt | **Abschnitt 0: Beläge prüfen** (Scheiben-Reihenfolge, Länge, Kante) | [`../04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](../04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md) |
-| 4 | Hinterrad schwerer laufend + verlorene Feder | 🔴 | 🟡 Diagnose fehlt | Kontermutter 1/8 Umdrehung lösen, Feder identifizieren | [`../04-diagnose/hinterrad-lager-feder.md`](../04-diagnose/hinterrad-lager-feder.md) |
-| 5 | **Vordere Bremsarme zu weich** + passen nicht auf den Sockel | 🟡 | 🟡 Diagnose fehlt | 💡 **Federraste in anderes Loch** + Sockel mit 400er Schleifleinen entlacken + Magnet-Test Gabel | [`../04-diagnose/vordere-bremsarme-sockel.md`](../04-diagnose/vordere-bremsarme-sockel.md) |
-| 6 | Steuersatz-Gewinde: dauerhafte Lösung | 🟡 | 🔴 offen | Gewindesteigung + Schlüsselweite messen, flache Mutter besorgen. 💡 **Oder: alte weiße Gabel zurück** | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
-| 7 | Neue Kette (Kette zu kurz) | 🟡 | 🔴 offen | Big-Big-Test, Kettenstrebenlänge messen, 9-fach-Kette bestellen | [`../02-teile/10-antrieb-schaltung-kette.md`](../02-teile/10-antrieb-schaltung-kette.md) |
+| 1 | 🔴 **Quill-Vorbau-Mindesteinstecktiefe** prüfen | 🔴 | 🔴 offen | Markierung suchen, prüfen ob sie **im** Schaftrohr liegt. 🔴 **Auch prüfen: Vorbau-Einsteckteil muss 25,4 mm haben** (Schaft ist 1⅛″) | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
+| 2 | 🔴 **Felgen-Bremsflanken** prüfen (v + h) | 🔴 | 🔴 offen | Verschleißindikator + Muldentiefe messen. ✅ Modelle bekannt: **Mach1 210 (622 × 19c)** hinten, **Shining A-M4 (622 × 19)** vorne | [`../02-teile/30-laufrad-reifen-nabe.md`](../02-teile/30-laufrad-reifen-nabe.md) Abs. 2.3 |
+| 3 | 🔴 **Hintere Bremse kehrt nicht zurück** | 🔴 | 🔴 **Ursache belegt** | 🔴 **Tektro-836-Beläge (63 mm) gegen Shimano 70-mm-Beläge tauschen** + Scheiben-Reihenfolge prüfen | [`../04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](../04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md) |
+| 4 | Hinterrad schwerer laufend + verlorene Feder | 🔴 | 🟡 Diagnose fehlt | Kontermutter 1/8 Umdrehung lösen (**nur links!**), Feder identifizieren → ✅ Nabe = **FH-M530**, Ersatzteile recherchierbar | [`../04-diagnose/hinterrad-lager-feder.md`](../04-diagnose/hinterrad-lager-feder.md) |
+| 5 | **Vordere Bremsarme** passen nicht auf den Sockel | 🟡 | 🔴 **Ursache belegt** | 🔴 **Bremssockel 2–2,5 mm zurückdrehen** (Gabel ist Alu → Sockel eingeschraubt) + Loctite 243. 💰 0 € | [`../04-diagnose/vordere-bremsarme-sockel.md`](../04-diagnose/vordere-bremsarme-sockel.md) |
+| 6 | Steuersatz-Gewinde: dauerhafte Lösung | 🔴 | 🔴 **Ursache gefunden** | 🔴 **Steuerrohrlänge messen** → dann **NEX-Gabel mit 225-mm-Schaft** (50–90 €) oder **Ahead-Umbau** (EC34-Schalen bleiben!) | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) Abs. 3a |
+| 7 | Neue Kette (Kette zu kurz) | 🟡 | 🔴 offen | Big-Big-Test, Kettenstrebenlänge messen, 🔴 **Shimano CN-HG53 9-fach** bestellen | [`../02-teile/10-antrieb-schaltung-kette.md`](../02-teile/10-antrieb-schaltung-kette.md) |
 | 8 | Ständer-Winkel zu schräg | 🟢 | 🔴 offen | Kipprichtung klären, Lochabstand messen, Distanzscheiben | [`../02-teile/70-staender-gepaecktraeger.md`](../02-teile/70-staender-gepaecktraeger.md) |
-| 9 | Lenker-Ergonomie / Sitzposition | 🟢 | 🟠 beobachten | erst nach 3–5 Fahrten bewerten. ⚠️ evtl. Geometrie-Änderung durch fremde Gabel | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
-| 10 | Teile identifizieren + Stammdaten ausfüllen | 🟡 | 🔴 offen | Aufdrucke fotografieren, Messdatenblatt ausfüllen | [`../04-messdaten/messdatenblatt.md`](../04-messdaten/messdatenblatt.md) |
+| 9 | Lenker-Ergonomie / Sitzposition | 🟢 | 🟢 **entwarnt** | 🟢 Gabel-Geometrie ist **zeitlich passend** (original Daytona hatte Suntour 63 mm!). Erst nach 3–5 Fahrten bewerten. ❓ Nur **axle-to-crown** messen | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
+| 10 | Teile identifizieren + Stammdaten ausfüllen | 🟢 | ✅ **~90 % erledigt** | 🔴 Nur noch offen: **Kassette**, **Kettenblatt-Zähne**, **Bremszangen-Modellnummern**, **Pedale**, **Sattelstützen-Ø** | [`../04-messdaten/messdatenblatt.md`](../04-messdaten/messdatenblatt.md) |
 | 11 | Kassette vom Spenderrad lösen (optional) | 🟢 | 🔴 offen | 💡 **Kettenpeitsche** besorgen – ohne die dreht sich das Paket mit | [`../02-teile/10-antrieb-schaltung-kette.md`](../02-teile/10-antrieb-schaltung-kette.md) Abs. 4 |
 | 12 | Testfahrt + Gesamtcheck | 🟡 | 🔴 offen | [`sicherheitscheck.md`](sicherheitscheck.md) | |
-| ~~13~~ | ~~Vorderrad dreht nicht frei~~ | 🟢 | ✅ **entwarnt** | **Nabendynamo** – normal. Nur Verifikationstest (7 Schritte) | [`../04-diagnose/vorderrad-schwergaengig.md`](../04-diagnose/vorderrad-schwergaengig.md) |
+| 13 | 🔴 **Nabendynamo-Lagervorspannung** | 🟡 | 🟠 **wieder offen** | 🔴 **Nur links** einstellen, **nach Spiel** nicht nach Gefühl. Ziel: Spiel verschwindet erst beim Spannen des Schnellspanners. 💰 0 € | [`../04-diagnose/vorderrad-schwergaengig.md`](../04-diagnose/vorderrad-schwergaengig.md) |
 
 ---
 
 ## 💡 Der Synergie-Effekt: eine Maßnahme, zwei Baustellen
 
-Baustelle **5** und **6** haben dieselbe Wurzel: **die fremde (schwarze) Gabel**.
+Baustelle **5** und **6** haben dieselbe Wurzel: **die fremde (schwarze) Suntour-NEX-Gabel**.
+Jetzt ist die Wurzel **exakt benennbar**:
 
-| Baustelle | Problem | Wurzel |
+| Baustelle | Problem | 🔴 Genaue Wurzel (2026-09-04 geklärt) |
 |---|---|---|
-| 5 | Die guten weißen Bremsarme passen nicht auf den Bremssockel | fremder Sockel an der schwarzen Gabel |
-| 6 | Zu wenig Gewinde für die Kontermutter | schwarzer Schaft ist zu kurz für den weißen Steuerkopf |
+| 5 | Die guten weißen **Deore**-Bremsarme passen nicht auf den Bremssockel | Sockel-**Bund ca. 5,6 mm** vs. Deore-Arm-**Ausnehmung ca. 4,3 mm** → **1,3 mm Spalt** |
+| 6 | Zu wenig Gewinde für die Kontermutter | NEX-Gewindeschaft hat ab Werk nur **ca. 55 mm Gewinde oben**; er wurde für das **kürzere** Steuerrohr des Spenderrads **oben gekürzt** → Gewinde weg. STAIGER-Steuerrohr ist **ca. 23 mm länger** |
 
-**Kommt die weiße Original-Gabel zurück, sind beide Probleme weg.** Neu lösen müsste man dann
-nur:
+### Zwei Wege – beide lösen 5 **und** 6 gleichzeitig
+
+| Weg | Was | Aufwand | 💰 | Bewertung |
+|---|---|---|---|---|
+| **A** | 🔴 **Weiße Original-Gabel zurück** (falls noch vorhanden) | ca. 45 min | 0–10 € | 💡 **Beste Lösung, falls die Gabel existiert** – alles original passend |
+| **B** | 🎯 **Neue NEX-Gabel mit 225-mm-Schaft** + Bremssockel 2–2,5 mm zurückdrehen | ca. 1,5 h | 50–90 € | ✅ **Sehr gut** – behält Schutzblech-Ösen, Bremssockel-Höhe, 63-mm-Geometrie |
+| **C** | 🔴 **Ahead-Umbau** (NEX Ahead 255 mm + Ahead-Steuersatz + Ahead-Vorbau) | ca. 2 h | 70–130 € | ✅ **Dauerhafteste Lösung** – EC34-Lagerschalen bleiben im Rahmen! |
+
+**Falls Weg A:** Neu lösen müsste man dann nur
 - Schutzblech-Befestigung vorne (die schwarze Gabel hatte die passenden Ösen) →
   **Universal-Schellen / P-Schellen**, 💰 3–8 €
 - Bremssockel-Höhe prüfen (war original passend)
 
-**⚠️ Erste Frage: Ist die alte weiße Gabel noch vorhanden?**
-→ [`werkzeug-und-material.md`](werkzeug-und-material.md) Abschnitt 4 „Ersatzteilkiste“
+**🔴 Erste Frage: Ist die alte weiße Gabel noch vorhanden?**
+→ [`werkzeug-und-material.md`](werkzeug-und-material.md) Abschnitt 4 „Ersatzteilkiste"
 
-**Zusätzlicher Bonus:** Falls die schwarze Gabel eine **geringere Einbauhöhe** hat, ist auch
-das „ungewohnte Lenker-Gefühl“ (Baustelle 9) teilweise erklärt – steilerer Lenkwinkel,
-weniger Nachlauf, nervöseres Lenken. Das wäre mit der Originalgabel ebenfalls erledigt.
+**⚠️ Aber Baustelle 9 ist jetzt entwarnt:** Das originale **Staiger Daytona** wurde ab Werk
+mit einer **Suntour NCX-D LO 63 mm**-Federgabel ausgeliefert. Deine **NEX T63 = 63 mm
+Federweg** ist damit **konstruktiv und zeitlich passend** – die Geometrie ist also **nicht**
+grundsätzlich zerstört. Ein „ungewohntes Lenker-Gefühl" liegt eher an **Preload/trockener
+Gabel**, dem **breiteren Lenker** oder einem **anderen Vorbau** – nicht an der Gabelhöhe.
+❓ Trotzdem messen: **axle-to-crown** (Soll 445–477 mm).
 
 ---
 
@@ -74,17 +107,22 @@ Nicht alles auf einmal. Diese Reihenfolge minimiert Umbauten und Kosten.
 
 **Ziel: nichts reparieren, nur herausfinden.** Danach weißt du, was du bestellen musst.
 
-1. 🔴 **Quill-Vorbau-Einstecktiefe** prüfen → Baustelle 1
+1. 🔴 **Quill-Vorbau-Einstecktiefe** prüfen + **Vorbau-Einsteck-Ø** (muss **25,4 mm** sein!) → Baustelle 1
 2. 🔴 **Felgen-Bremsflanken** prüfen (v + h) → Baustelle 2
-3. 🔴 **Hintere Beläge** prüfen: Länge, Konvex/Konkav-Reihenfolge, Position auf der Flanke,
-   Felgenkante → Baustelle 3 (Abschnitt 0)
-4. 💡 **Federraste vorne** in ein anderes Loch setzen + Sockel entlacken + **Magnet-Test Gabel**
-   → Baustelle 5 (das ist schon eine Reparatur, kostet aber nichts)
-5. Hinterrad: Kontermutter prüfen, **Feder identifizieren** → Baustelle 4
-6. Nabendynamo-Verifikationstest (7 Schritte) → Baustelle 13
-7. Alle Modellnummern fotografieren + [`Messdatenblatt`](../04-messdaten/messdatenblatt.md) ausfüllen → Baustelle 10
-8. Konusschlüssel-Größen messen, Gewindesteigung Steuersatz bestimmen
-9. Klären: **Ist die alte weiße Gabel noch da?** → entscheidet über Baustelle 5 + 6
+3. 🔴 **Hintere Beläge**: Scheiben-Reihenfolge prüfen, Position auf der Flanke, scharfe
+   Felgenkante → Baustelle 3 (Abschnitt 0). ✅ Länge ist schon bekannt: **62 mm, zu kurz**
+4. 🔴 **Bremssockel vorne messen**: Länge des Bunds (ca. 5,6 mm?) + Tiefe der Deore-Arm-
+   Ausnehmung (ca. 4,3 mm?) + Gewinde M8/M10 + zwei Abflachungen vorhanden? → Baustelle 5
+5. 💡 **Federraste vorne** in ein anderes Loch setzen → Baustelle 5 (0 €)
+6. 🔴 **Steuerrohrlänge STAIGER messen** (außen) + freies Gewinde zählen + Schaft-Ø → Baustelle 6
+   → **das entscheidet zwischen 210-mm- und 225-mm-Schaft**
+7. Hinterrad: Kontermutter **nur links** prüfen, **Feder identifizieren** → Baustelle 4
+8. 🔴 **Nabendynamo-Lagervorspannung** prüfen: Spiel ohne QR, dann mit gespanntem QR → Baustelle 13
+9. Restliche Modellnummern fotografieren: **Kassette**, **Kettenblatt-Zähne**, **Bremszangen
+   vorne/hinten**, **Pedale**, **Sattelstütze unter der Klemme** → Baustelle 10
+10. Konusschlüssel-Größen messen (Nabendynamo links, FH-M530 links)
+11. **Axle-to-crown** der NEX-Gabel messen (Soll 445–477 mm) → Baustelle 9
+12. Klären: **Ist die alte weiße Gabel noch da?** → entscheidet über Weg A/B/C bei Baustelle 5+6
 
 **Output:** ausgefülltes Messdatenblatt + [`Einkaufsliste`](einkaufsliste.md)
 
@@ -94,22 +132,33 @@ Aus der [`Einkaufsliste`](einkaufsliste.md) bestellen. Wartezeit für Session 3 
 
 ### Session 3 – Hintere Bremse + Lager (60–90 min)
 
-1. Beläge hinten korrekt montieren (oder neue V-Brake-Beläge) → Baustelle 3
+1. 🔴 **Shimano 70-mm-Beläge (M70T4/S65T) mit korrektem Shimano-Scheibensatz** montieren → Baustelle 3
 2. Falls immer noch: Binärsuche Zug/Hülle/Zange → Baustelle 3
 3. Hinterrad-Lager einstellen, Feder ersetzen → Baustelle 4
 4. Schnellspanner korrekt spannen
 
-### Session 4 – Vordere Bremse (30–60 min)
+### Session 4 – Vordere Bremse + Bremssockel (45–90 min)
 
-1. Federraste, Federtausch (weiße Federn in die schwarzen Arme) → Baustelle 5
-2. Sockel reinigen + fetten → Baustelle 5
-3. Falls die weiße Gabel da ist: **Gabel zurückbauen** → löst Baustelle 5 + 6
-4. Schutzblech vorne neu befestigen (Universal-Schellen)
+1. 🔴 **Bremssockel 2–2,5 mm zurückdrehen** (Gabelschlüssel an den Abflachungen, Loctite 243,
+   Federstift-Loch auf dieselbe Position) → Baustelle 5. 🔴 **Mindestens 8–10 mm
+   Gewindeeingriff in der Gabel müssen bleiben!**
+2. Danach die **weißen Deore-Bremsarme** montieren → prüfen, ob sie **bündig** anliegen
+3. Federraste: beide Arme ins **gleiche Loch** → Baustelle 5
+4. Falls die weißen Arme trotzdem nicht passen: Federtausch (weiße Federn in die Tektro-Arme)
+5. Falls die weiße Gabel da ist: **Gabel zurückbauen** → löst Baustelle 5 + 6 auf einmal
+6. Schutzblech vorne neu befestigen (Universal-Schellen)
 
-### Session 5 – Steuersatz dauerhaft sichern (30 min)
+### Session 5 – Steuersatz dauerhaft lösen (1–2 h)
 
-1. Flache Mutter montieren + Loctite 243 (Gewinde vorher entfetten!) → Baustelle 6
-2. Lackstift-Markierung setzen, Kontrollroutine einrichten
+🔴 **Jetzt mit bekannter Ursache – drei Optionen:**
+
+| Option | Was | 💰 | Wann |
+|---|---|---|---|
+| **5a – Provisorium verbessern** | Flache Steuersatz-Mutter **1⅛″ × 24 tpi** + Loctite 243 (Gewinde vorher entfetten!) + Lackstift-Markierung + Kontrollroutine | 3–10 € | sofort, bringt ca. 5 mm – reicht wahrscheinlich **nicht** |
+| **5b – NEX-Gabel 225 mm** | 🔴 **Empfohlen.** Neue SR Suntour NEX 700C, Gewindeschaft 1⅛″, **Schaftlänge 225 mm**, 63 mm Federweg. Crown race umsetzen, Steuersatz neu einstellen | 50–90 € | nach der Steuerrohr-Messung aus Session 1 |
+| **5c – Ahead-Umbau** | NEX **Ahead** 255 mm + Ahead-Steuersatz **EC34/28,6 – EC34/30** + Ahead-Vorbau + Spacer. 💡 **EC34-Schalen bleiben im Rahmen!** | 70–130 € | wenn du modernisieren willst |
+
+→ [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) Abs. 3a und 4
 
 ### Session 6 – Neue Kette (45 min)
 
@@ -159,11 +208,12 @@ Aus der [`Einkaufsliste`](einkaufsliste.md) bestellen. Wartezeit für Session 3 
 | Symptom | Beläge gehen nach dem Loslassen nicht von der Felge weg |
 | Original übernommen | ✅ Zange · ✅ Federn · ✅ Zug |
 | **Geändert** | ⚠️ **Beläge** (vom Spenderrad, weil die weißen runter waren) |
-| 🔴 **Hauptverdacht** | Beläge: Konvex-/Konkavscheiben vertauscht (dünn/dick), Beläge zu kurz (Canti statt V-Brake ≈ 70 mm), Belag trifft die scharfe Felgenkante, Belag verhärtet |
-| Zweiter Verdacht | Zug/Hüll-Reibung durch neue Verlegung |
-| Vorgehen | **Erst Abschnitt 0 (Beläge, 10 min, 0 €)**, dann Binärsuche |
+| 🔴 **BELEGTE URSACHE** | ✅ **Tektro 836 = 63 mm** (gemessen 62 mm) in einer **Shimano-Deore-Zange, die für 70 mm gebaut ist** → **7–10 mm zu kurz**, dazu der **Tektro-Scheibensatz** in der Shimano-Zange → Belag verkantet |
+| Codes | links **B1**, rechts **B44** → ❓ prüfen, ob verschiedene Mischungen (ungleiche Reibung!) |
+| Zweiter Verdacht | scharfe Felgenkante (Mach1 210) + Zug/Hüll-Reibung |
+| Vorgehen | 🔴 **Erst Beläge tauschen** (Shimano 70 mm mit korrektem Scheibensatz), dann Binärsuche |
 | Detail | [`../04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](../04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md) |
-| Material | ggf. neue V-Brake-Beläge (💰 6–15 €), ggf. Bremszug-Set 1,5 mm + Hülle 5 mm (💰 12–20 €) |
+| Material | 🔴 **Shimano V-Brake-Beläge 70 mm** – **M70T4 / S65T / M65T** (💰 8–15 €), ggf. Bremszug-Set **1,6 mm** + Hülle 5 mm (💰 12–20 €) |
 | Ergebnis | ❓ |
 
 ### 4. Hinterrad schwerer laufend + verlorene Feder 🔴
@@ -185,13 +235,15 @@ Aus der [`Einkaufsliste`](einkaufsliste.md) bestellen. Wartezeit für Session 3 
 |---|---|
 | Symptom | Bremsarme vorne (vom Spenderrad) fühlen sich weich an, schnappen schwach zurück |
 | ❌ **Nicht** das Problem | Die Bremshebel am Lenker – die sind die **originalen weißen** und in Ordnung |
-| Bisher versucht | Federspannschrauben → „ändern wirklich nur wenig“ |
+| Bisher versucht | Federspannschrauben → „ändern wirklich nur wenig" |
 | 💡 **Erklärung** | Die Federspannschraube hat konstruktiv nur ±2–3 Umdrehungen und dient der **Zentrierung**, nicht der Rückstellkraft. Das Verhalten ist **normal** |
-| 💡 **Lösung 1 (0 €)** | **Federraste**: Federstift in ein **anderes der 3 Löcher** im Bremssockel setzen (beide Arme ins gleiche Loch) |
-| 💡 **Lösung 2 (0 €)** | **Federn der weißen Bremsarme** in die schwarzen umsetzen (V-Brake-Federn sind meist baugleich) |
-| 💡 **Lösung 3 (3 €)** | Bremssockel mit 400er Schleifleinen **entlacken** → häufigste Ursache, warum die weißen Arme „nicht passten“ |
-| ⚠️ Sockel-Tausch | Nur bei **Alugabel** (eingeschraubt, M8/M10). Bei **Stahlgabel** ist er angeschweißt → ❌ nicht selbst. **Magnet-Test!** |
-| 💡 **Lösung 4** | **Weiße Original-Gabel zurück** → löst Baustelle 5 **und** 6 gleichzeitig |
+| 🔴 **BELEGTE URSACHE für „passt nicht"** | Gabel = **SR Suntour NEX**, **Alu**-Scheiden → Sockel **eingeschraubt**. Sockel-**Bund ca. 5,6 mm** vs. Deore-Arm-**Ausnehmung ca. 4,3 mm** = **1,3 mm Spalt** |
+| 🎯 **Lösung 1 (💰 0 €!) – EMPFOHLEN** | 🔴 **Bremssockel 2–2,5 mm zurückdrehen** (Gabelschlüssel an den zwei Abflachungen, Loctite 243, Federstift-Loch auf dieselbe Position). 🔴 **Mindestens 8–10 mm Gewindeeingriff** müssen bleiben |
+| 💡 **Lösung 2 (0 €)** | **Federraste**: Federstift in ein **anderes der 3 Löcher** im Bremssockel setzen (beide Arme ins gleiche Loch) |
+| 💡 **Lösung 3 (0 €)** | **Federn der weißen Deore-Bremsarme** in die schwarzen Tektro-Arme umsetzen |
+| ✅ **Lösung 4 (5–15 €)** | Passenden **Ersatz-Cantisockel mit kürzerem Bund** einschrauben (M8/M10 messen) |
+| ❌ ~~Lösung: Sockel entlacken~~ | ✅ **entfällt** – die Ursache ist nicht Lack, sondern die Bund-Länge |
+| 💡 **Lösung 5** | **Weiße Original-Gabel zurück** → löst Baustelle 5 **und** 6 gleichzeitig |
 | Detail | [`../04-diagnose/vordere-bremsarme-sockel.md`](../04-diagnose/vordere-bremsarme-sockel.md) |
 | Ergebnis | ❓ |
 
@@ -200,10 +252,14 @@ Aus der [`Einkaufsliste`](einkaufsliste.md) bestellen. Wartezeit für Session 3 
 | Feld | Wert |
 |---|---|
 | Symptom | nur 1–2 Gewindegänge frei → keine Kontermutter möglich |
+| 🔴 **URSACHE GEKLÄRT** | Gabel = **SR Suntour NEX SF14 NEX P 700C TS T63**. NEX-Gewindeschäfte (210/225 mm) haben ab Werk **nur ca. 55 mm Gewinde – am oberen Ende**. Der Schaft wurde für das **kürzere Steuerrohr des Spenderrads oben gekürzt** → Gewinde weggeschnitten. Das **STAIGER-Steuerrohr ist ca. 23 mm länger** → nur noch 1–2 Gänge übrig |
+| Daten | Schaft **1⅛″ = 28,6 mm**, **24 tpi** (1,058 mm Steigung), Schaftlängen ab Werk **210 / 225 mm** |
 | Aktuell | Mutter + Loctite 243, regelmäßige Kontrolle |
 | ⚠️ Hinweis | Loctite wirkt **nicht auf fettigem Gewinde** → vorher mit Bremsenreiniger/Isopropanol entfetten, 24 h aushärten lassen |
-| Dauerhaft (kurz) | **flache Steuersatz-Mutter** – ⚠️ **1" × 24 tpi bzw. 1⅛" × 24 tpi, kein Metrik-Gewinde, nicht aus dem Baumarkt!** |
-| Dauerhaft (sauber) | 💡 **Weiße Original-Gabel zurück** (falls vorhanden) oder gebrauchte Gabel mit langem Schaft |
+| Dauerhaft (billig) | **flache Steuersatz-Mutter 1⅛″ × 24 tpi** – bringt ca. 5 mm, reicht wahrscheinlich **nicht**. ⚠️ Kein Metrik-Gewinde, nicht aus dem Baumarkt! |
+| 🎯 Dauerhaft (empfohlen) | 🔴 **NEX-Gabel mit 225-mm-Schaft** (+15 mm, 💰 50–90 €) **oder** weiße Original-Gabel zurück |
+| Dauerhaft (modern) | 🔴 **Ahead-Umbau**: NEX Ahead **255 mm** + Ahead-Steuersatz **EC34/28,6 – EC34/30** + Ahead-Vorbau (💰 70–130 €). 💡 **Die EC34-Lagerschalen sind bei 1⅛″-Gewinde- und Ahead-Steuersatz identisch → bleiben im Rahmen!** |
+| 🔴 Vorher messen | **Steuerrohrlänge STAIGER außen** + Schaftlänge + freies Gewinde |
 | Detail | [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
 | Ergebnis | ❓ |
 
@@ -213,7 +269,9 @@ Aus der [`Einkaufsliste`](einkaufsliste.md) bestellen. Wartezeit für Session 3 
 |---|---|
 | Symptom | Kette durch Reparatur ~½–1 Glied zu kurz |
 | Risiko | Big-Big überstreckt das Schaltwerk → Schaltauge/Käfig-Schaden |
-| Lösung | **9-fach**-Kette, Länge neu berechnen (⚠️ **nicht** die alte Kette als Maß nehmen!) |
+| 🔴 **Exakte Spec** | ✅ **Shimano CN-HG53, 9-fach** – das ist die **Original-Kette zum FC-M530** (alternativ CN-HG73 oder KMC X9). 116 Glieder, selbst kürzen. 💰 12–18 € |
+| Lösung | Länge **neu berechnen** (⚠️ **nicht** die alte Kette als Maß nehmen!). Dazu: Kettenstrebenlänge + Zähne großes Kettenblatt + Zähne größtes Ritzel |
+| ⚠️ Grenze | Schaltwerk **RD-M511**: max. größtes Ritzel **34 Zähne**, Gesamtkapazität **45 Zähne** → bei 48-36-26 + 11-32 = 43 ✅, **kein Spielraum für größere Kassetten** |
 | Detail | [`../02-teile/10-antrieb-schaltung-kette.md`](../02-teile/10-antrieb-schaltung-kette.md) Abs. 3 |
 | Ergebnis | ❓ |
 

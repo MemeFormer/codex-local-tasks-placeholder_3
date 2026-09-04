@@ -60,6 +60,7 @@ ORDNUNG = [
     "06-logbuch/README.md",
     "06-logbuch/2026-09-02-bestandsaufnahme.md",
     "06-logbuch/2026-09-03-rueckfrage-korrekturen.md",
+    "06-logbuch/2026-09-04-komponenten-entschluesselt.md",
 ]
 
 AUSGESCHLOSSEN = {"templates", "tools", "fotos", ".git", ".arena"}

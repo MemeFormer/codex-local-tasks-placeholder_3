@@ -6,11 +6,18 @@
 **Bereits ausgeschlossen:** Lenkkopf / Steuersatz (korrekt erkannt – der beeinflusst die
 Radrotation nicht).
 
-> ✅ **GEKLÄRT: Das Vorderrad ist ein Nabendynamo.**
+> ✅ **GEKLÄRT: Das Vorderrad ist ein Nabendynamo – Shimano DH-3N31-NT, 6 V / 3 W.**
 > **Damit ist dieses „Problem“ mit hoher Wahrscheinlichkeit KEIN Defekt.**
 > Ein Nabendynamo dreht von Hand konstruktionsbedingt nur **1–2 Umdrehungen** weiter.
 > Das ist völlig normal und kostet auf der Straße nur ca. **1–3 W** Rollwiderstand –
-> messtechnisch kaum nachweisbar. **Ein Nabendynamo-Rad dreht von Hand nie „ewig“.**
+> messtechnisch kaum nachweisbar. **Ein Nabendynamo-Rad dreht von Hand nie „ewig".**
+>
+> 🔴 **ABER – nicht einfach abhaken:** Shimano-Nabendynamos sind ab Werk fast immer
+> **zu stramm eingestellt**, und das kann man **nicht erfühlen**, weil das magnetische
+> Rasten die Lager-Rauheit überdeckt. Es bleibt also eine echte (kleine) Aufgabe:
+> **Lagervorspannung nach der Dynamo-Methode prüfen/einstellen.**
+> → Siehe Abschnitt „Nabendynamo korrekt einstellen (DH-3N31)".
+> **Das kostet 0 € und ist die wahrscheinlichste Ursache für „dreht schwer".**
 >
 > **Priorität deshalb von 🔴 auf 🟢 herabgestuft.** Es bleibt ein kurzer Verifikationstest
 > (unten), damit kein echter Lagerschaden übersehen wird.
@@ -38,13 +45,50 @@ am Rad/Gabel:                     Bremsanlage selbst
 - Gabel (Rad sitzt schief)
 ```
 
+### 🔴 Nabendynamo korrekt einstellen (DH-3N31) – andere Methode als bei normalen Naben!
+
+Praxis-Befund zu Shimano-Nabendynamos:
+
+> Die Lager sind ab Werk praktisch immer **zu stramm**. Bei einem neuen Dynamo muss man den
+> linken Konus oft um bis zu **eine halbe Umdrehung** lösen, bevor es richtig läuft.
+> **Und man kann es nicht erfühlen**, weil das magnetische Rasten die Wahrnehmung der
+> Lager-Rauheit überdeckt.
+
+| Regel | Detail |
+|---|---|
+| 🔴 **Nur LINKS einstellen** | Seite **ohne** Kabelanschluss. Die Dynamo-Seite **niemals öffnen** – die Kabel sind extrem empfindlich und brechen nach wenigen Biegungen |
+| 🔴 **Nicht nach Gefühl gehen** | Das Magnet-Rasten täuscht. **Nur nach Spiel beurteilen** |
+| 🎯 **Ziel** | **Minimales Spiel ohne Schnellspanner, das beim Spannen des Schnellspanners gerade eben verschwindet** |
+| Werkzeuge | 2× Konusschlüssel ❓ Größe messen (Shimano typisch **13/15 mm** oder **15/17 mm**), Fett |
+| 💡 Fett nachfüllen ohne Zerlegen | Linken Konus lösen, Achse nach **rechts** drücken, mit einer Spritze Fett durch den Dichtungsspalt auf der Dynamo-Seite pressen |
+| Rotor ausbauen (nur bei echter Überholung) | Ein **Kassetten-Lockring-Werkzeug** passt oft auf die Mutter des Front-Rotors |
+| ⚠️ Rechte Seite | Konus dort **nicht** verdrehen, sonst fallen die Kugeln heraus und der Dynamo-Innenteil wird beschädigt |
+
+**Ablauf:**
+
+1. Schnellspanner **komplett entfernen**
+2. Links: Kontermutter lösen (Konus gegenhalten)
+3. Konus lösen, bis **leichtes Spiel** spürbar ist
+4. Konus soweit anziehen, dass **gerade noch minimales Spiel** bleibt
+5. Kontermutter anziehen, Konus dabei gegenhalten
+6. Schnellspanner mit **Handkraft** spannen → jetzt muss das Spiel **gerade eben** weg sein
+7. Falls danach zu stramm: Konus **1/8 Umdrehung** lösen, erneut prüfen
+8. Kontermutter final anziehen, Spiel bleibt unter Schnellspanner-Spannung = 0
+
+| Konus-Schlüsselweite | Wert |
+|---|---|
+| links (Einstellseite) | ❓ ____ mm |
+| Kontermutter | ❓ ____ mm |
+
+---
+
 ### ✅ So trennst du „normaler Dynamo-Widerstand“ von „echtem Lagerschaden“
 
 | # | Test | Normal beim Nabendynamo | 🔴 Echter Defekt |
 |---|---|---|---|
 | 1 | Rad ausbauen, **Kabel am Dynamo abziehen**, Achse in der Hand drehen | 2–4 Umdrehungen, gleichmäßig | < 1 Umdrehung, oder rau/knirschend |
 | 2 | Achse mit zwei Fingern **seitlich wackeln** | **kein** Spiel | Spiel spürbar |
-| 3 | Achse drehen und **fühlen** | gleichmäßiger, magnetischer Widerstand („samtig-rastend“) | rau, sandig, knirschend, unrund |
+| 3 | Achse drehen und **fühlen** | ⚠️ **beim Nabendynamo NICHT aussagekräftig** – das Magnet-Rasten überdeckt Lager-Rauheit. **Nur nach Spiel gehen!** | – |
 | 4 | Schnellspanner **entfernen**, erneut drehen | kaum Unterschied | wird deutlich leichter → Lager war geklemmt |
 | 5 | Rad eingebaut, Bremse ausgehängt, drehen | kaum Unterschied zum ausgebauten Zustand | deutlich schlechter → es klemmt etwas (Bremse/Schutzblech/Reifen) |
 | 6 | **Licht einschalten** und bei Fahrt vergleichen | Widerstand minimal höher | – |
@@ -124,7 +168,8 @@ Kriterium für den Rollwiderstand.
 
 | Ergebnis | Maßnahme | Anleitung |
 |---|---|---|
-| Nabendynamo | nichts tun, normal | – |
+| Nur Rollwiderstand durch Magnete | nichts tun, normal | – |
+| 🔴 **Lagervorspannung zu fest** (wahrscheinlich!) | 🔴 **nur links** einstellen; Ziel: Spiel verschwindet erst beim Spannen des Schnellspanners | Abschnitt „Nabendynamo korrekt einstellen (DH-3N31)" |
 | Bremse schleift | Beläge einstellen, zentrieren | [`../05-anleitungen/bremsen-einstellen.md`](../05-anleitungen/bremsen-einstellen.md) |
 | Schutzblech streift | Streben verstellen, Distanzscheiben | [`../02-teile/60-schutzbleche.md`](../02-teile/60-schutzbleche.md) |
 | QR zu fest | QR korrekt spannen | [`../05-anleitungen/lager-einstellen.md`](../05-anleitungen/lager-einstellen.md) |

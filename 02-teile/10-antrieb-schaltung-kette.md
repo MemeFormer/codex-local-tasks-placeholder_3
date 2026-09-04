@@ -5,22 +5,39 @@ Umwerfer · Schaltwerk · Pedale
 **Zustand:** ✅ funktioniert laut letztem Stand („Kette + Schaltung + Umwerfer laufen top“)
 **Offen:** ⚠️ Kette ist zu kurz (Provisorium) → neue Kette 💰
 
+> ✅ **GEKLÄRT (2026-09-04) – alle Antriebs-Teilenummern entschlüsselt:**
+>
+> | Teil | Stempelung | Identifikation |
+> |---|---|---|
+> | **Kurbelgarnitur** | **FC-M530/531 · 170** | ✅ **Shimano Deore FC-M530**, **Hollowtech** (hohlgeschmiedete Arme), **Octalink**-Verzahnung, Kurbelarmlänge **170 mm** |
+> | **Innenlager** (gehört zum FC-M530) | ❓ Abdruck prüfen | ✅ **Shimano BB-ES25 Octalink**, **BSA 68 mm** (1,37″ × 24 tpi), Achslänge **113/118/121/126 mm**, Kettenlinie **47,5 / 50 mm** |
+> | **Kette – NEUKAUF-SPEC** | – | 🔴 ✅ **Shimano CN-HG53** (oder CN-HG73), **9-fach** – das ist die **Original-Spec** zum FC-M530 |
+> | **Schalthebel** | **SL-M580** | ✅ **Shimano Deore LX SL-M580**, **9-fach Rapidfire (Trigger)**, Lenkerklemmung **22,2 mm** |
+> | **Umwerfer** (vorne) | **GD-C050 / OP Swing** | ✅ **Shimano FD-C050** – 🔴 **„GD" ist ein Lesefehler, es heißt FD** (F/G verwechselt). „OP Swing" = **Top Swing**. SIS, 3-fach, Klemmung **28,6 / 31,8 mm**, 5-mm-Inbus **5–7 Nm**, für Octalink/Spline-Kurbel, **max. 48 Zähne**, Kapazität **20 Zähne**, Kettenlinie **46–52,5 mm** |
+> | **Schaltwerk** (hinten) | **RD-M511** | ✅ **Shimano Deore RD-M511** (M510-Familie), **9-fach, SGS-Langkäfig**: max. größtes Ritzel **34 Zähne**, max. Differenz vorne **22 Zähne**, Gesamtkapazität **45 Zähne** |
+> | **Hinterradnabe** | **FH-M530 (VIAM)** | ✅ **Shimano Deore FH-M530**, Freilaufnabe, **9-fach HG-Spline** |
+> | Pedale | ❓ unbekannt | Gewinde **9/16″ × 20 tpi** (über die Shimano-Doku zum FC-M530 bestätigt) |
+>
+> ⚠️ **Begriffskorrektur:** „Pedale … FC-M530" – **FC-M530 ist die KURBELGARNITUR**, nicht
+> die Pedale. „FC" = Front Chainwheel. **170** = Kurbelarmlänge in mm.
+> ⚠️ Und: „Schaltwerk vorne" heißt korrekt **UMWERFER**.
+
 ---
 
 ## 1. Begriffe in dieser Baugruppe
 
 | Deutsch | Englisch | bei mir verbaut? |
 |---|---|---|
-| Kurbelgarnitur (3-fach) | crankset (triple) | ❓ Modell TODO |
-| Kettenblätter | chainrings | ❓ Zähne ____/____/____ |
-| Innenlager | bottom bracket | ❓ Typ TODO |
-| Kette (9-fach) | chain | ✅ repariert, ⚠️ zu kurz |
+| Kurbelgarnitur (3-fach) | crankset (triple) | ✅ **Shimano Deore FC-M530**, Hollowtech, **Octalink**, **170 mm** |
+| Kettenblätter | chainrings | ❓ Zähne ____/____/____ – FC-M530 gab es als **44-32-22** (MTB) und **48-36-26** (Trekking). Wegen FD-C050 (max. 48 Z.) und Trekking-Einsatz: **vermutlich 48-36-26** |
+| Innenlager | bottom bracket | ✅ **Shimano BB-ES25 Octalink**, BSA 68 mm – ❓ Achslänge (113/118/121/126 mm) und Abdruck prüfen |
+| Kette (9-fach) | chain | ✅ repariert, ⚠️ zu kurz → Neukauf: **Shimano CN-HG53** |
 | Kettenschloss | master link | ✅ vom alten Bike übernommen, ❓ Hersteller |
-| Kassette (9-fach) | cassette | ✅ vom weißen Rad behalten |
-| Freilaufkörper | freehub body | ✅ Original vom weißen Rad |
-| Schaltwerk | rear derailleur | ❓ Modell TODO |
-| Umwerfer | front derailleur | ❓ Modell TODO |
-| Schalthebel (3×9) | shifters | ❓ Drehgriff oder Trigger? TODO |
+| Kassette (9-fach) | cassette | ✅ vom weißen Rad behalten, ❓ Modell + Abstufung (Deore-Ära: **CS-HG50-9 11-32**) |
+| Freilaufkörper | freehub body | ✅ **HG-Spline** auf **Shimano Deore FH-M530** – 8/9-fach kompatibel |
+| Schaltwerk | rear derailleur | ✅ **Shimano Deore RD-M511**, 9-fach, **SGS-Langkäfig** |
+| Umwerfer | front derailleur | ✅ **Shimano FD-C050**, **Top Swing** („OP Swing"), 3-fach, Schelle 28,6/31,8 mm |
+| Schalthebel (3×9) | shifters | ✅ **Shimano Deore LX SL-M580** – **Triggerhebel (Rapidfire)**, 9-fach, Klemmung 22,2 mm |
 | Schaltzüge + Hüllen | cables + housing | ❓ Zustand |
 | Schaltauge | derailleur hanger | ❓ vorhanden/gerichtet? |
 
@@ -31,10 +48,57 @@ Umwerfer · Schaltwerk · Pedale
 ### 2.1 Übersetzung
 
 ```
-Kurbel vorne:      ____ / ____ / ____ Zähne   (typisch Trekking: 48-36-26 oder 42-34-24)
-Kassette hinten:   ____ - ____ Zähne (9 Ritzel)
+Kurbel vorne:      ____ / ____ / ____ Zähne   (FC-M530: 48-36-26 Trekking ODER 44-32-22 MTB)
+Kassette hinten:   ____ - ____ Zähne (9 Ritzel)  (RD-M511: max. 34 Zähne!)
                    Abstufung eintragen:  __ __ __ __ __ __ __ __ __
 ```
+
+### 🔴 Rechnerische Prüfung der Schaltkapazität (mit den echten Werten)
+
+```
+RD-M511 (9-fach, SGS-Langkäfig):
+          max. größtes Ritzel    34 Zähne
+          max. Differenz vorne   22 Zähne
+          Gesamtkapazität        45 Zähne
+
+Fall A  Kurbel 48-36-26 + Kassette 11-32:
+        Differenz vorne  = 48 − 26 = 22   ✅ exakt am Limit
+        Differenz hinten = 32 − 11 = 21
+        Gesamtbedarf     = 22 + 21 = 43   ✅ ≤ 45
+        Größtes Ritzel   = 32             ✅ ≤ 34
+
+Fall B  Kurbel 44-32-22 + Kassette 11-34:
+        Differenz vorne  = 44 − 22 = 22   ✅ exakt am Limit
+        Differenz hinten = 34 − 11 = 23
+        Gesamtbedarf     = 22 + 23 = 45   ✅ = exakt an der Grenze
+        Größtes Ritzel   = 34             ✅ = exakt am Limit
+
+→ Beide Fälle passen, aber es ist KEIN Spielraum mehr.
+→ 🔴 Eine Kassette mit 36 Zähnen oder eine Kurbel mit mehr als 22 Zähnen Differenz
+  würde NICHT mehr passen. Beim Neukauf also bei 9-fach, max. 34 Zähne bleiben!
+→ Big-Big ist konstruktiv gerade noch erlaubt, wegen der ZU KURZEN Kette trotzdem meiden.
+```
+
+### FD-C050 (Umwerfer) – worauf es ankommt
+
+| Eigenschaft | Wert |
+|---|---|
+| Modell | **Shimano FD-C050** (City/Trekking, Nachfolger FD-C051) |
+| Bauart | **Top Swing** („OP Swing"), **SIS**-indexiert |
+| Befestigung | **Schelle** (clamp mount), ❓ **28,6 mm oder 31,8 mm** – 🔴 **messen!** |
+| Gänge | 3-fach |
+| Max. großes Kettenblatt | **48 Zähne** |
+| Gesamtkapazität | **ca. 20 Zähne** → ⚠️ bei 48-36-26 = 22 Zähne Differenz **knapp über** Spec. Prüfen, ob es in der Praxis trotzdem sauber schaltet |
+| Passende Kurbel | Octalink / Spline |
+| Kettenlinie | **46–52,5 mm** |
+| Anzugsmoment Schelle | **5–7 Nm**, **5-mm-Inbus** |
+| Zugansteuerung | ❓ Top Pull / Bottom Pull prüfen (C050 meist **Dual Pull**) |
+
+> 💡 **Praxis-Hinweis:** Der FD-C050 stammt aus der City/Trekking-Linie und ist laut
+> Shimano-Angaben eher für 6/7-fach-Systeme freigegeben. Dass er mit deiner 9-fach-Kette
+> „top läuft", ist ein gutes Zeichen – **aber:** Falls er irgendwann unpräzise schaltet,
+> ist ein **Shimano Deore FD-M530 / FD-M591** (9-fach, **Top Swing**, Schelle) der
+> sauberere Ersatz (💰 20–35 €).
 
 Die Abstufung steht meist **auf jedem Ritzel eingeprägt** (klein, an der Innenseite) oder
 auf dem größten Ritzel als Gesamtangabe (z. B. „11-32“).
@@ -43,8 +107,8 @@ auf dem größten Ritzel als Gesamtangabe (z. B. „11-32“).
 
 | Feld | Wert |
 |---|---|
-| Hersteller / Modell | ❓ TODO (Aufdruck auf der Außenlasche, z. B. „CN-HG53“) |
-| Geschwindigkeitsklasse | **9-fach** (muss zur Kassette passen) |
+| Hersteller / Modell | ✅ Neukauf-Spec: **Shimano CN-HG53** (Original-Spec zum FC-M530) · ❓ Aufdruck der **aktuellen** Kette noch ablesen |
+| Geschwindigkeitsklasse | ✅ **9-fach** (muss zur Kassette passen) |
 | Aktuelle Gliederzahl (Außenglieder zählen) | ❓ TODO ____ Glieder |
 | Soll-Gliederzahl | ❓ TODO (siehe Rechnung unten) |
 | Kettenschloss-Typ | ❓ Shimano-Nietstift (einmalig!) / SRAM PowerLock / KMC MissingLink (wiederverwendbar) |
@@ -115,11 +179,11 @@ Bestellt wird:    Kette 9-fach mit ____ Gliedern (Standard: 114 oder 116, wird g
 
 ### 💰 Was ich brauche
 
-| Teil | Spezifikation | Prio | Notiz |
-|---|---|---|---|
-| Kette | **9-fach**, z. B. Shimano CN-HG53 / CN-HG93, KMC X9, 116 Glieder | 🔴 hoch | Länge selbst kürzen |
-| ggf. Kettenschloss | passend zur Marke (KMC MissingLink 9-fach / SRAM PowerLock 9-fach) | 🟡 | Shimano-Ketten kommen mit Nietstift |
-| Kettenlehre | Verschleißmesslehre | 🟢 | ~8 € |
+| Teil | Spezifikation | Prio | ca. Preis | Notiz |
+|---|---|---|---|---|
+| **Kette** | 🔴 **Shimano CN-HG53, 9-fach**, 116 Glieder (**Original-Spec** zum FC-M530) · Alternativ KMC X9 9-fach | 🔴 hoch | 12–18 € | Länge selbst kürzen; 🔴 **NICHT** die reparierte alte Kette als Maß nehmen |
+| Kettenschloss | **KMC MissingLink 9-fach** (wiederverwendbar) | 🟡 | 4 € | Shimano-Ketten kommen mit **einmaligem Nietstift** |
+| Kettenlehre | Verschleißmesslehre 0,5/0,75/1,0 | 🟢 | 8 € | Neukauf ab 0,75 % |
 
 ---
 
@@ -244,26 +308,32 @@ anderen Baustellen zuerst.
 
 | # | Messung | Wert |
 |---|---|---|
-| 1 | Zähnezahl der drei Kettenblätter (aufgedruckt?) | ____ / ____ / ____ |
-| 2 | Kurbelarmlänge (Innenseite Aufdruck) | ____ mm |
-| 3 | Kassette: Modellnummer + Abstufung | |
-| 4 | Kette: Modellnummer + Gliederzahl | |
-| 5 | Kettenstrebenlänge (Mitte Tretlager → Mitte Achse) | ____ mm |
-| 6 | Schaltwerk: Modellnummer, Käfiglänge | |
-| 7 | Umwerfer: Modellnummer, Schellen-Ø | |
-| 8 | Schalthebel: Modellnummer, Drehgriff/Trigger | |
+| 1 | 🔴 Zähnezahl der drei Kettenblätter (48-36-26 oder 44-32-22?) | ____ / ____ / ____ |
+| 2 | ~~Kurbelarmlänge~~ | ✅ **170 mm** |
+| 3 | 🔴 Kassette: Modellnummer + Abstufung (**max. 34 Zähne** wg. RD-M511!) | |
+| 4 | Kette: Modellnummer der **aktuellen** Kette + Gliederzahl | |
+| 5 | 🔴 Kettenstrebenlänge (Mitte Tretlager → Mitte Achse) – für die Kettenlängenrechnung | ____ mm |
+| 6 | ~~Schaltwerk: Modellnummer~~ · Käfiglänge bestätigen (SGS?) | ✅ **RD-M511** · ❓ SGS |
+| 7 | ~~Umwerfer: Modellnummer~~ · **Schellen-Ø messen** (28,6 oder 31,8 mm!) | ✅ **FD-C050** · ____ mm |
+| 8 | ~~Schalthebel: Modellnummer~~ | ✅ **SL-M580**, Trigger |
 | 9 | Big-Big-Test (Abschnitt 2.2) | |
 | 10 | Kette: Verschleiß mit Lehre gemessen? | ____ % |
-| 11 | Ist am Schaltwerk das Schaltauge original / gerichtet? | |
-| 12 | Naben-Modellnummer (für Freilaufkörper-Recherche) | |
+| 11 | Ist das Schaltauge original / gerichtet? | |
+| 12 | ~~Hinterrad-Nabenmodellnummer~~ | ✅ **FH-M530 (VIAM)** |
+| 13 | 🔴 **Innenlager-Abdruck**: BB-ES25? Achslänge (113/118/121/126 mm)? Kettenlinie? | |
+| 14 | Umwerfer: Zugansteuerung **Top Pull** oder **Bottom Pull**? | |
+| 15 | Kettenlinie messen (Mitte Kettenblatt → Mitte Tretlagergehäuse) – Soll 47,5/50 mm | ____ mm |
 
 ## 8. 💰 Einkaufsbedarf
 
 | Teil | Spec | Prio | ca. Preis | bestellt? |
 |---|---|---|---|---|
-| Kette 9-fach | Shimano CN-HG53/HG93 oder KMC X9, 116 Glieder | 🔴 | 12–25 € | ☐ |
+| **Kette 9-fach** | 🔴 **Shimano CN-HG53**, 116 Glieder (**Original-Spec** FC-M530) · alternativ KMC X9 | 🔴 | 12–18 € | ☐ |
+| KMC MissingLink 9-fach | wiederverwendbares Kettenschloss | 🟡 | 4 € | ☐ |
 | Kettennieter | falls nicht vorhanden | 🔴 | 8–15 € | ☐ |
 | Kettenpeitsche | für Kassette (später) | 🟡 | 10–15 € | ☐ |
-| Kassettenabzieher Shimano HG | 12-Spline | 🟡 | 8–12 € | ☐ |
+| Kassettenabzieher Shimano HG | 12-Spline – 💡 **passt oft auch auf die Nabendynamo-Rotormutter!** | 🟡 | 8–12 € | ☐ |
 | Kettenlehre | 0,5/0,75/1,0 | 🟢 | 8 € | ☐ |
-| Schaltzug-Set | Edelstahl, 1,2 mm + Hüllen | 🟢 | 10–20 € | ☐ |
+| Schaltzug-Set | Edelstahl **1,2 mm** + Hüllen **4 mm** (SL-M580 Rapidfire) | 🟢 | 10–20 € | ☐ |
+| 🔴 Nur falls nötig: **Umwerfer** | **Shimano Deore FD-M530 / FD-M591**, 9-fach, **Top Swing**, Schelle ❓ mm – Ersatz für den FD-C050 | 🟢 | 20–35 € | ☐ |
+| 🔴 Nur falls nötig: **Innenlager** | **Shimano BB-ES25 Octalink**, **BSA 68 mm**, Achslänge ❓ mm (113/118/121/126) | 🟢 | 25–40 € | ☐ |

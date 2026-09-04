@@ -1,9 +1,14 @@
 # 🔧 Konuslager einstellen (Radnaben)
 
-Für Baustelle **1** (Vorderrad dreht nicht frei) und **2** (Hinterrad schwer + zu feste Mutter).
+Für Baustelle **13** (Nabendynamo-Lagervorspannung) und **4** (Hinterrad schwer + zu feste Mutter).
 
-**Werkzeug:** 2 × Konusschlüssel (❓ Größen messen, typisch 13/14/15 mm und 15/16/17 mm) ·
-Lappen · Fett · kleine Magnetschale · helle Lampe · ggf. Messschieber
+✅ **Deine Naben sind bekannt:**
+- vorne: **Shimano DH-3N31-NT** – **Nabendynamo 6 V / 3 W** → 🔴 **Sonderfall, Abschnitt 2.5!**
+- hinten: **Shimano Deore FH-M530** – Freilaufnabe, 9-fach HG → **nur links einstellen**
+
+**Werkzeug:** 2 × Konusschlüssel (❓ Größen messen, Shimano typisch **13/15 mm** oder
+**15/17 mm**) · Lappen · Fett (Shimano Premium Grease) · kleine Magnetschale · helle Lampe ·
+ggf. Messschieber
 
 **Dauer:** Vorderrad 15 min · Hinterrad 20 min · Nabe überholen 45–60 min
 
@@ -26,6 +31,8 @@ Achse ────────────────────────�
 - **Zu fest** = schwergängig, Lagerschaden (Pitting)
 - **Zu lose** = Spiel, schlägt aus, Lagerschaden
 - **Ziel:** gerade spielfrei **und** leicht laufend
+- 🔴 **Ausnahme Nabendynamo:** hier bleibt **minimales Spiel ohne Schnellspanner** –
+  es muss erst **beim Spannen** des Schnellspanners verschwinden (Abschnitt 2.5)
 
 ---
 
@@ -80,7 +87,40 @@ das allein kann ein Rad schwergängig machen.
 12. Test wiederholen (Schritte 9–10)
 13. Falls zu schwergängig: zurück zu Schritt 5, Konus 1/16 lösen
 
-### Hinterrad
+### 🔴 2.5 Sonderfall NABENDYNAMO (Shimano DH-3N31) – ANDERE Methode!
+
+Das Vorderrad ist ein **Nabendynamo**. Dafür gilt die obige Anleitung **nicht unverändert**:
+
+| Regel | Detail |
+|---|---|
+| 🔴 **Nur LINKS einstellen** | Seite **ohne** Kabelanschluss. Die Dynamo-Seite **niemals öffnen** – die Kabel sind extrem empfindlich und brechen nach wenigen Biegungen |
+| 🔴 **NICHT nach Gefühl gehen** | Das magnetische Rasten des Dynamos **überdeckt** die Lager-Rauheit. „Fühlt sich rau an" ist hier **kein** Kriterium! |
+| 🎯 **Andere Zielvorgabe** | **Minimales Spiel OHNE Schnellspanner, das beim Spannen des Schnellspanners GERADE EBEN verschwindet** |
+| Typischer Korrekturbedarf | Shimano-Dynamos sind ab Werk fast immer **zu stramm** – oft muss der linke Konus um bis zu **eine halbe Umdrehung** gelöst werden |
+| ⚠️ Rechte Seite | Konus dort **nicht** verdrehen, sonst fallen die Kugeln heraus und der Dynamo-Innenteil wird beschädigt |
+
+**Ablauf:**
+
+1. Schnellspanner **komplett entfernen**
+2. Links: Kontermutter lösen (Konus gegenhalten)
+3. Konus lösen, bis **leichtes Spiel** spürbar ist
+4. Konus soweit anziehen, dass **gerade noch minimales Spiel** bleibt
+   🔴 **KEIN 1/16–1/8 Umdrehung zurück** wie bei normalen Naben – hier bleibt das Spiel drin!
+5. Kontermutter anziehen, Konus dabei gegenhalten
+6. Schnellspanner mit **Handkraft** spannen
+7. 🔴 **Prüfen: Ist das Spiel jetzt GERADE EBEN weg?** → ja = perfekt
+8. Falls danach zu stramm: Konus **1/8 Umdrehung** lösen, erneut prüfen
+9. Falls noch Spiel mit gespanntem QR: Konus **1/8 Umdrehung** anziehen
+
+💡 **Fett nachfüllen ohne Zerlegen:** Linken Konus lösen, Achse nach **rechts** drücken,
+mit einer Spritze Fett durch den Dichtungsspalt auf der Dynamo-Seite pressen.
+
+💡 **Rotor ausbauen** (nur bei echter Überholung): Ein **Kassetten-Lockring-Werkzeug** passt
+oft auf die Mutter des Front-Rotors.
+
+→ Details: [`../04-diagnose/vorderrad-schwergaengig.md`](../04-diagnose/vorderrad-schwergaengig.md)
+
+### Hinterrad (Shimano FH-M530)
 
 **Besonderheit:** Auf der **Antriebsseite** ist der Freilaufkörper aufgeschraubt. Der Konus
 dort ist werksseitig eingestellt und sollte **nicht** verändert werden.

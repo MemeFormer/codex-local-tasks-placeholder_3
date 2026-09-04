@@ -53,7 +53,7 @@ nicht zurück**. Das ist einer der häufigsten Fehler nach einem Belagwechsel.
 
 | ☐ | Prüfung | Ergebnis |
 |---|---|---|
-| ☐ | Länge der Spenderrad-Beläge | ❓ ____ mm (V-Brake ≈ 70 mm) |
+| ☑ | Länge der Spenderrad-Beläge | ✅ **62 mm** – Tektro 836, Nennlänge **63 mm** |
 | ☐ | Konvex/Konkav-Reihenfolge: dünn am Arm, dick außen? | ❓ |
 | ☐ | Belag liegt **komplett** auf der Bremsflanke? | ❓ |
 | ☐ | Belag berührt den Reifen? | ❓ 🔴 |
@@ -62,6 +62,28 @@ nicht zurück**. Das ist einer der häufigsten Fehler nach einem Belagwechsel.
 | ☐ | Belagmaterial weich/griffig oder hart/glänzend? | ❓ |
 | ☐ | Felgenkante scharfkantig (abgefahrene Bremsflanke)? | ❓ 🔴 |
 | ☐ | Abstand Belag → Felge = 1 mm? | ❓ ____ mm |
+
+### 🔴 BEFUND: Die Beläge sind 7–10 mm zu kurz für die Shimano-Deore-Zange
+
+| | Wert |
+|---|---|
+| Verbaute Beläge | ✅ **Tektro 836**, gemessen **62 mm** (Nennlänge **63 mm**, bestätigt) |
+| Bremszange hinten | ✅ **Shimano Deore** (original) |
+| Shimano-Deore-V-Brakes sind ausgelegt für | **70 mm** (M70T4 = 72 mm, S65T = 70 mm, M65T) |
+| Differenz | 🔴 **7–10 mm zu kurz** |
+
+**Vier Wirkmechanismen, die alle auf dein Symptom passen:**
+
+| # | Mechanismus | Warum die Bremse nicht zurückkehrt |
+|---|---|---|
+| 1 | 🔴 **Fremder Scheibensatz** – Tektro-Beläge kommen mit eigenen Konvex-/Konkavscheiben | In der Shimano-Deore-Zange stimmt die Stapelreihenfolge evtl. nicht → **Belag steht schräg und verkantet** beim Rückstellen. Klassiker: dünne Konvexscheibe gehört armseitig, dicke außen |
+| 2 | 🔴 **Kürzerer Belag = andere Kantenposition** | Bei abgefahrener Bremsflanke mit scharfer Kante hakt eine kurze Belagkante leichter ein |
+| 3 | ⚠️ **Links/rechts unterschiedliche Codes** (li **B1**, re **B44**) | Falls verschiedene Mischungen: eine Seite bremst/klemmt anders → einseitiges Zurückkehren |
+| 4 | ⚠️ **Weniger Auflagefläche** | ca. 10–15 % weniger Bremsleistung, Belag nutzt die Felge ungleichmäßig ab |
+
+💰 **Empfehlung:** hinten auf **Shimano V-Brake-Beläge 70 mm** wechseln
+(**M70T4** / **S65T** / **M65T**, 8–15 €/Paar) – **inklusive korrektem Scheibensatz für die
+Deore-Zange**. Das ist die sauberste Lösung und behebt Mechanismus 1 und 2 gleichzeitig.
 
 **Wenn hier etwas nicht stimmt → erst das beheben, dann erneut testen.** Sehr wahrscheinlich
 ist die Baustelle damit schon erledigt.
@@ -147,7 +169,7 @@ typisch ±2–3 Umdrehungen. Ist er am Ende → Feder in ein anderes Loch / neue
 
 | # | Ursache | Warum bei deinem Umbau wahrscheinlich |
 |---|---|---|
-| B0 | 🔴 **Beläge vom Spenderrad** – Konvex/Konkav vertauscht, zu kurz, verhärtet | **einzige Änderung an der hinteren Bremse!** → Abschnitt 0 |
+| B0 | 🔴 **Beläge vom Spenderrad: Tektro 836, nur 63 mm statt 70 mm**, mit fremdem Scheibensatz | **einzige Änderung an der hinteren Bremse!** → Abschnitt 0. 💰 Fix: Shimano-Beläge 70 mm |
 | B1 | **Hülle zu lang** → enger Bogen → Reibung | neue Verlegung am weißen Rad, andere Geometrie |
 | B2 | **Hülle zu kurz** → straffer Zug → Knick | dito |
 | B3 | **Hüllenende verquetscht / nicht entgratet** | beim Neuverlegen geschnitten, Enden nicht gefeilt |
