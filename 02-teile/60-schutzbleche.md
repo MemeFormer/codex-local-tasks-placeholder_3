@@ -2,8 +2,25 @@
 
 **Baugruppe:** Kotflügel vorne/hinten · V-Streben · Strebenhalter · Schellen ·
 Sicherheits-Auslösekupplung · integrierte Kabelführung
-**Zustand:** ✅ montiert, streifenfrei · vorne über die Original-Montagepunkte der schwarzen
-Gabel · hinten nach etwas Fummelei
+**Zustand:** ✅ montiert, streifenfrei · vorne über die Original-Montagepunkte der
+**Bergamont/NEX-Gabel** · hinten nach etwas Fummelei
+**Herkunft:** ✅ **vom Bergamont-Spenderrad** (zusammen mit Vorderrad, Scheinwerfer und Kabelsatz)
+
+> 🔴 **ABHÄNGIG VON BAUSTELLE #14 (RST Vogue TNL zurückbauen):**
+> Das vordere Schutzblech hängt derzeit an den Montagepunkten der **NEX-Gabel**
+> (Gabelbrücken-Öse **M5** + Ösen/Schellen an den Gabelscheiden).
+> **Ob die RST Vogue TNL dieselben Punkte hat, ist ungeprüft** – bei einer ~50-mm-Federgabel
+> dieser Baujahre ist eine Brücken-Öse üblich, aber **nicht garantiert**.
+>
+> | Falls die RST … | Dann … |
+> |---|---|
+> | ✅ Brücken-Öse **M5** hat | Schutzblech 1:1 übernehmen, nur Strebenlänge prüfen (Federweg 63 → 50 mm = Blech sitzt ca. **13 mm tiefer** → ggf. Streben kürzen/nachstellen) |
+> | ⛔ **keine** Brücken-Öse hat | 🔴 **Universal-/P-Schelle** an der Gabelbrücke (💰 3–8 €) – oder Schutzblech-Brücke am Steuerrohr |
+> | ⛔ keine Ösen an den Gabelscheiden hat | **P-Schellen** an den Standrohren/Tauchrohren (💰 3–8 €) – ⚠️ **niemals an die verchromten Standrohre klemmen**, immer mit Gummi unterlegen |
+>
+> 💡 **Reihenfolge:** erst den **Fingernageltest** an der RST machen (→
+> [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md)),
+> **dann** die Schutzblech-Montagepunkte abgleichen. Nicht umgekehrt.
 
 ---
 
@@ -32,8 +49,8 @@ Gabel · hinten nach etwas Fummelei
 | Material | Metall | Metall |
 | Breite | ❓ ____ mm | ❓ ____ mm |
 | Radius / Größe | ❓ passend zur Laufradgröße ____" | ❓ |
-| Montagepunkt oben | Gabelbrücken-Öse der schwarzen Gabel (M5) | ❓ Schutzblechbrücke am Rahmen? Öse? |
-| Montagepunkt unten | ❓ an den Gabelscheiden (Ösen / Schellen) | ❓ Ausfallende-Ösen / Strebenhalter |
+| Montagepunkt oben | ✅ Gabelbrücken-Öse der **NEX-Gabel** (**M5**) · 🔴 **RST Vogue TNL: ❓ hat sie eine Öse?** | ❓ Schutzblechbrücke am Rahmen? Öse? |
+| Montagepunkt unten | ❓ an den Gabelscheiden (Ösen / Schellen) · 🔴 **RST: ❓ Ösen vorhanden?** | ❓ Ausfallende-Ösen / Strebenhalter |
 | Streben | V-Streben, verstellbar | V-Streben, verstellbar |
 | Kabelführung | – | ✅ integriert (Rücklicht) |
 | Abstand Reifen → Schutzblech | ❓ ____ mm (Soll: **min. 10 mm**, besser 15 mm) | ❓ ____ mm |
@@ -138,8 +155,10 @@ Stelle **außen**, mit Schrumpfschlauch geschützt und mit Kabelbinder gesichert
 | 1 | Schutzblechbreite v/h | ____ / ____ mm |
 | 2 | Reifenbreite (ETRTO) v/h | |
 | 3 | Abstand Reifen → Schutzblech engste Stelle v/h | ____ / ____ mm |
-| 4 | Montagepunkt oben v: Gewinde M5 in der Gabelbrücke? | |
-| 5 | Montagepunkte unten v: Ösen an den Gabelscheiden? Abstand? | |
+| 4 | Montagepunkt oben v: Gewinde M5 in der Gabelbrücke? (NEX: ✅ ja) | ✅ NEX |
+| 4a | 🔴 **RST Vogue TNL: Brücken-Öse vorhanden? Gewinde?** (entscheidet P-Schelle ja/nein) | ❓ ____ |
+| 5 | Montagepunkte unten v: Ösen an den Gabelscheiden? Abstand? | ❓ NEX · ❓ **RST** |
+| 5a | 🔴 **RST Vogue TNL: Einbauhöhe (axle-to-crown)** – Blech sitzt nach dem Rückbau ca. **13 mm tiefer** | ❓ ____ mm |
 | 6 | Montagepunkt oben h: Brücke vorhanden? | |
 | 7 | Montagepunkte unten h: Ösen am Ausfallende? | |
 | 8 | Schraubenlänge + Gewinde | M____ × ____ mm |
@@ -150,7 +169,7 @@ Stelle **außen**, mit Schrumpfschlauch geschützt und mit Kabelbinder gesichert
 
 | Teil | Spec | Prio | ca. Preis | bestellt? |
 |---|---|---|---|---|
-| Universal-Schellen / P-Schellen | falls Befestigungspunkte fehlen | 🟡 | 3–8 € | ☐ |
+| 🔴 **Universal-Schellen / P-Schellen** | **falls die RST Vogue TNL keine Brücken-Öse / keine Ösen an den Gabelscheiden hat** (Baustelle #14) – ⚠️ **mit Gummiunterlage**, nie direkt aufs verchromte Standrohr | 🟡 **wird erst nach dem Fingernageltest klar** | 3–8 € | ☐ |
 | Sicherheits-Auslösekupplung vorne | SKS Break-Away o. ä. | 🟡 | 5–10 € | ☐ |
 | Distanzscheiben M5 | Edelstahl, 1/2/3 mm | 🟢 | 3 € | ☐ |
 | Gummischeiben | gegen Klappern | 🟢 | 2 € | ☐ |
