@@ -14,7 +14,7 @@ Nachschlagewerk mit Zahlen, die man sonst jedes Mal googeln muss.
 | Ahead-Vorbau Klemmschrauben | 5–6 |
 | Quill-Vorbau Keilschraube (M6/M8 Inbus) | 20–25 |
 | Lenkerklemmschrauben (Faceplate) | 5–6 |
-| Bremshebel-Klemmschelle | 5–7 |
+| 🔴 **Bremshebel-Klemmschelle** | **4–6** (Alu-Lenker!) · ⚠️ **zu fest oder zu nah am Nachbarhebel → Angelpunkt (Pivot) geklemmt → Hebel schnappt nicht zurück** = war **Baustelle #3**. Griffweite **vorher** einstellen |
 | Schalthebel-Klemmschelle | 5–7 |
 | Steuersatz-Mutter (Gewinde) | **handfest + 1/8 Umdrehung**, dann kontern |
 
@@ -43,7 +43,8 @@ Nachschlagewerk mit Zahlen, die man sonst jedes Mal googeln muss.
 | Kontermutter Nabe | handfest + 1/4 Umdrehung, Konus gegenhalten |
 | Schnellspanner | **Handkraft** (kein Drehmoment!) |
 | Achsmuttern (Vollachse M9/M10) | 15–20 |
-| Bremssattel/Zange am Bremssockel | 6–8 |
+| Bremssattel/Zange am Bremssockel (M6-Armschraube) | 6–8 |
+| 🔴 **Cantistift / Bremssockelbolzen ins Alu-Tauchrohr (M8)** | **5–6** + **Loctite 243**, **2–3 h** Aushärtzeit. ⚠️ Alu-Gewinde – **nicht überdrehen!** |
 | Bremsbelagschrauben | 5–7 |
 | Bremszug-Klemmschraube | 5–7 |
 | Federspannschraube | handfest (kleine Schraube!) |
@@ -179,7 +180,8 @@ Soll: **5–6 mm** (Shimano-Angabe; bei modernen 1x-Antrieben herstellerspezifis
 | Achse hinten (Vollachse) | M10 × 1,0 | Feingewinde |
 | Achse vorne (Vollachse) | M9 × 1,0 | |
 | Schnellspanner-Stange | M5 | |
-| Bremssattel-Sockel | M6 | |
+| Bremsbefestigungsschraube (Bremsarm → Sockel) | M6 | |
+| 🔴 **Cantistift / Bremssockelbolzen** | **M8 außen** (Ø gemessen **7,95 mm**), **M6 innen** | 🔴 **nicht M10!** Einschraublänge ≥ **10 mm** |
 | Schutzblech / Ständer / Träger | M5, M6 | |
 | Schaltwerk-Aufnahme | M10 × 1,0 | |
 | Sattelstützen-Klemmschraube | M5, M6 | |
@@ -258,6 +260,7 @@ z. B. **37-622** = 37 mm breiter Reifen für 622-mm-Felge.
 | Größe | Sollwert |
 |---|---|
 | Belagabstand zur Felge (V-Brake) | 1 mm pro Seite |
+| 🔴 **Belaglänge V-Brake** | Shimano-Serie: **M70T4 = 72 mm**, S65T/M65T = 70 mm · **Tektro 836 = 63 mm** · **deine Originalbeläge = ca. 72 mm** (durchgefahren) |
 | Belagabstand (Cantilever) | 1,5–2 mm |
 | Toe-in | 0,5–1 mm (vorderer Belagsrand näher an der Felge) |
 | Hebelweg bis Druckpunkt | max. 1/3–1/2 |

@@ -1,6 +1,15 @@
 # 🔧 Steuersatz einstellen (Gewindesteuersatz)
 
-Für Baustelle **5** (nur 1–2 Gewindegänge frei, keine Kontermutter möglich).
+Für Baustelle **#6** (nur 1–2 Gewindegänge frei, keine Kontermutter möglich) und
+Baustelle **#1** (Quill-Vorbau-Mindesteinstecktiefe).
+
+> 🔴 **Ursache jetzt vollständig bekannt:** Die verbaute Gabel (**SR Suntour NEX**) stammt vom
+> **Bergamont Horizon 4.0**, dessen Steuerrohr **20–30 mm kürzer** ist als das des weißen
+> Staiger-Rahmens. NEX-Gewindeschäfte haben ab Werk nur **ca. 55 mm Gewinde oben** → beim
+> Kürzen für das kürzere Rohr ist Gewinde weggefallen.
+> 💡 **Dauerhafte Lösung:** die **Original-Gabel RST Vogue TNL zurückbauen** (Baustelle #14) –
+> ihr Schaft ist für **dieses** Steuerrohr gebaut.
+> → [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abschnitt 3a + 3b**
 
 **Werkzeug:** Steuersatzschlüssel (dünner Maulschlüssel, ❓ Größe messen – oft 30/32/36 mm)
 oder ein zweiter passender Schlüssel · zweiter Schlüssel zum Gegenhalten · Lappen ·

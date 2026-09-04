@@ -157,7 +157,25 @@ Druckbelastung nicht stand und kann platzen → **Bremsversagen**.
 
 ---
 
-## 4. Bremshebel überarbeiten (Baustelle 4)
+## 4. Bremshebel überarbeiten (Baustelle #3 ✅ – die eigentliche Ursache)
+
+> 🔴 **Genau hier lag das Problem.** Der hintere Bremshebel schnappte nicht zurück, weil die
+> **Klemmschellen der beiden Bremshebel am Lenker zu nah beieinander bzw. zusammen zu fest**
+> angezogen waren → der **Angelpunkt (Pivot)** wurde geklemmt. **Behoben.**
+
+### 4.0 🔴 Klemmschelle am Lenker – Position und Moment
+
+| Schritt | Detail |
+|---|---|
+| 1. Position | Beide Hebel so setzen, dass zwischen den Klemmschellen **Abstand** bleibt (mindestens ein paar mm). Klemmungen dürfen sich **nicht berühren** |
+| 2. Griffweite zuerst | **Griffweiten-Einstellung vor dem Festziehen** der Klemmung einstellen (siehe 4.1) |
+| 3. Hebel ausrichten | In Verlängerung des Unterarms, Handgelenk gerade |
+| 4. Anzugsmoment | 🔴 **Alu-Lenker: 4–6 Nm** (bzw. Herstellerangabe). **Nicht knallfest!** |
+| 5. Funktionstest | Beide Hebel mehrfach ziehen und loslassen → **müssen von selbst zurückschnappen** |
+| 6. Kontrolle | Hebel darf sich in der Klemmung **nicht verdrehen** lassen, aber der Pivot muss **frei** bleiben |
+
+⚠️ **Symptom einer geklemmten Klemmung:** Hebel/Bremse kehrt nicht zurück, fühlt sich
+„klebrig" an – und man sucht fälschlich an **Zange, Zug oder Belägen**.
 
 ### 4.1 Griffweite einstellen
 
@@ -173,6 +191,10 @@ Hebel → Lenker.
 Steht sie zu weit rein, arbeitet der Hebel in einem ungünstigen Bereich der Rückholfeder.
 
 ### 4.2 Pivot-Bolzen tauschen (Vergleichs-Vorgehen)
+
+> ⚠️ **Begrifflich:** Hier geht es um den **Pivot-Bolzen des Bremshebels am Lenker**.
+> Der **Angelpunkt der Bremszange** ist der **Bremssockel/Cantistift** an Gabel bzw. Hinterbau
+> → dafür siehe [`../04-diagnose/vordere-bremsarme-sockel.md`](../04-diagnose/vordere-bremsarme-sockel.md).
 
 1. Beide Hebel vom Lenker abmontieren (Klemmschraube, Inbus 4–5 mm)
 2. **Fotos** von der Zerlegungs-Reihenfolge (Scheiben, Federn, Clips)

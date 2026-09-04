@@ -1,6 +1,10 @@
 # 🔧 Konuslager einstellen (Radnaben)
 
-Für Baustelle **13** (Nabendynamo-Lagervorspannung) und **4** (Hinterrad schwer + zu feste Mutter).
+Für Baustelle **#13** (Nabendynamo-Lagervorspannung) und **#4** (Hinterrad schwer + zu feste
+Mutter). ✅ **Beide sind erledigt** – das Dynamo-Rad läuft **mehrere Umdrehungen** nach, das
+Hinterrad **läuft normal** („hat sich eingespielt").
+🟢 **Diese Anleitung ist jetzt Referenz** für die Nachkontrolle (Hinterrad nach ca. 100 km)
+und für Baustelle **#4a** (die verlorene kleine Feder).
 
 ✅ **Deine Naben sind bekannt:**
 - vorne: **Shimano DH-3N31-NT** – **Nabendynamo 6 V / 3 W** → 🔴 **Sonderfall, Abschnitt 2.5!**
@@ -147,7 +151,7 @@ dort ist werksseitig eingestellt und sollte **nicht** verändert werden.
 | Achse drehen | spürbare Rasterpunkte | 🔴 Pitting (Druckstellen) → Konus tauschen |
 | Achse seitlich wackeln | Spiel | ⚠️ zu lose oder Konus ausgeschlagen |
 | Rad dreht 5+ Umdrehungen weiter | ✅ gut eingestellt |
-| Rad dreht 1–2 Umdrehungen | ⚠️ zu fest (oder Nabendynamo) |
+| Rad dreht 1–2 Umdrehungen | ⚠️ **zu fest** – bei einem **Nabendynamo** sind **mehrere** Umdrehungen der Sollbereich, 1–2 ist zu wenig |
 | Rad dreht < 1 Umdrehung | 🔴 deutlich zu fest oder Lagerschaden |
 
 ---
@@ -202,7 +206,7 @@ weglassen („dann passt es besser“) – das zerstört das Lager.
 
 | ☐ | Kontrolle |
 |---|---|
-| ☐ | Rad dreht frei (Vorderrad: 5+ Umdrehungen, Nabendynamo: 1–2 = normal) |
+| ☐ | Rad dreht frei (Vorderrad **ohne** Dynamo: 5+ Umdrehungen · **Nabendynamo: mehrere Umdrehungen = Soll** ✅ bei dir erreicht) |
 | ☐ | Kein seitliches Spiel |
 | ☐ | Kein Knirschen/Rauheit |
 | ☐ | Schnellspanner mit Handkraft gespannt, Federn korrekt |
