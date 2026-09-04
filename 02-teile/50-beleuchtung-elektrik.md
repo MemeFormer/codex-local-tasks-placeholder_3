@@ -2,7 +2,15 @@
 
 **Baugruppe:** Nabendynamo · Scheinwerfer · Rücklicht · Kabel · Flachstecker · Lötverbindungen ·
 Kabelführung im Schutzblech
-**Zustand:** ✅ funktioniert einwandfrei · ✅ Kabel neu gelötet und verlegt
+**Zustand:** ✅ funktioniert einwandfrei · ✅ Kabel neu gelötet und verlegt ·
+✅ Nabendynamo identifiziert: **Shimano DH-3N31-NT**
+
+> ✅ **GEKLÄRT (2026-09-04/05):** Der Nabendynamo ist ein **Shimano DH-3N31-NT**
+> (**6 V / 3 W**, Anschlusskabel 400–716 mm, Code K911) und kam **mit dem kompletten
+> Vorderrad vom Bergamont-Spenderrad** ans weiße Rad – zusammen mit der Felge
+> **Shining A-M4**, dem Reifen **42-622**, Schutzblech, Scheinwerfer und Kabelsatz.
+> 🔴 **Lager-Einstellseite ist NUR LINKS** (ohne Kabelanschluss) – ✅ **Baustelle #13 erledigt**,
+> das Rad läuft **mehrere Umdrehungen** nach (= Sollbereich für ein Nabendynamo-Rad).
 
 ---
 
@@ -30,10 +38,12 @@ Kabelführung im Schutzblech
 
 | Komponente | Verbaut | Modell / Aufdruck | Zustand |
 |---|---|---|---|
-| Nabendynamo | ✅ | ❓ TODO (z. B. „Shimano DH-3N31“, „DH-C3000“) | ✅ funktioniert |
-| Nennspannung / -leistung | 6 V / 3 W (Standard) ❓ prüfen | | |
-| Achse / Einbaubreite | ❓ 100 mm, Achs-Ø ____ mm | | |
-| Steckkontakt / Kabelanschluss an der Nabe | ❓ Flachstecker 6,3 mm oder Schraubklemme | | |
+| Nabendynamo | ✅ | ✅ **Shimano DH-3N31-NT**, Code **K911** – **vom Bergamont-Spenderrad** | ✅ funktioniert · ✅ **Lager eingestellt** (#13 erledigt) |
+| Nennspannung / -leistung | ✅ **6 V / 3 W** | | |
+| Achse / Einbaubreite | ✅ **9-mm-Schnellspanner**, **100 mm** | | |
+| Anschlusskabel | ✅ Länge **400–716 mm** | | |
+| Steckkontakt / Kabelanschluss an der Nabe | ❓ Flachstecker 6,3 mm oder Schraubklemme | | 🔴 **Dynamo-Seite niemals öffnen!** |
+| 🔴 Lager-Einstellseite | ⚠️ **nur LINKS** (Seite ohne Kabelanschluss) | | ✅ eingestellt |
 | Scheinwerfer | ✅ | ❓ Hersteller/Modell, Standlicht? Schalter? | ✅ |
 | Befestigung Scheinwerfer | ❓ an der Gabelbrücke / Halter / Schutzblech | | |
 | Rücklicht | ✅ | ❓ Modell, **Standlicht (Kondensator)?** | ✅ |
@@ -48,8 +58,8 @@ Kabelführung im Schutzblech
 
 ## 3. Was passiert ist (Dokumentation für später)
 
-1. Das Rücklicht-Kabel des Spenderrads war **zweigeteilt** mit **Flachsteckern in der Mitte**
-   (im Bereich unter dem Tretlager)
+1. Das Rücklicht-Kabel des Spenderrads (**Bergamont Horizon 4.0**) war **zweigeteilt** mit
+   **Flachsteckern in der Mitte** (im Bereich unter dem Tretlager)
 2. Beim Umbau wurden die Stecker **versehentlich in den Rahmen gezogen** und kamen vorne
    nicht mehr heraus
 3. Stecker steckten im Rahmen → mussten von der Tretlagerseite (oder nach Innenlager-Ausbau)

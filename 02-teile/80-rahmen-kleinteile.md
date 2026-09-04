@@ -4,6 +4,13 @@
 Federringe · Unterlegscheiben
 **Zustand:** ✅ Rahmen okay · ⚠️ Kleinmaterial beim Umbau teils verloren (siehe Federn)
 
+> ✅ **GEKLÄRT (2026-09-04/05):** Rahmen = **STAIGER Daytona Sportline**, **Alu 6061 Double
+> Butted**, Rahmennummer **AWO7230329**, 28″/700C, **Gewindesteuersatz 1⅛″**, BSA-Innenlager.
+> 🔴 **Neuer Messwert:** das Steuerrohr ist **20–30 mm länger** als das des Spenderrads
+> (**Bergamont Horizon 4.0**) → Kern von Baustelle #1 und #6.
+> 🔴 **Neuer Befund:** Bremssockel-Stift **M8** (Ø 7,95 mm gemessen) mit **M6-Innengewinde** –
+> die Stifte der Bergamont-Gabel sind **zu kurz** → Baustelle #5.
+
 ---
 
 ## 1. Begriffe
@@ -32,17 +39,19 @@ Federringe · Unterlegscheiben
 
 | Feld | Wert |
 |---|---|
-| Material | ❓ Stahl / Alu (Magnet-Test!) |
-| Bauart | ❓ gemufft / geschweißt |
+| Material | ✅ **Aluminium 6061, Double Butted** (Prägung `Alloy 6061, Double Butted`) – unmagnetisch |
+| Bauart | ✅ **geschweißt** (Alu-Rahmen, Hydroforming-Ära) |
+| Hersteller / Modell | ✅ **STAIGER Daytona Sportline** |
 | Rahmenhöhe | ❓ ____ mm |
 | Radstand | ❓ ____ mm |
-| Kettenstrebenlänge | ❓ ____ mm |
-| Steuerrohrlänge | ❓ ____ mm |
-| Tretlagergehäusebreite | ❓ ____ mm |
-| Tretlagergewinde | ❓ BSA 1,37" × 24 tpi |
-| Zustand (Rost, Dellen, Risse) | ❓ |
+| Kettenstrebenlänge | ❓ ____ mm (🔴 **wichtig für die Kettenlängen-Rechnung**, Baustelle #7) |
+| 🔴 **Steuerrohrlänge** | ❓ ____ mm – **messen!** 🔴 **bereits bekannt: 20–30 mm länger als das Bergamont-Steuerrohr** |
+| Steuerrohr-Ø innen (Lagerschalen) | 💡 bei 1⅛″: **EC34/28,6 – EC34/30** |
+| Tretlagergehäusebreite | ✅ **68 mm** (BSA-Standard, passend zum **BB-ES25**) |
+| Tretlagergewinde | ✅ **BSA 1,37" × 24 tpi** (links = Linksgewinde) |
+| Zustand (Rost, Dellen, Risse) | ❓ 🔴 **Riss-Prüfung am Steuerrohr** (wurde mit fremder Gabel + Loctite-Provisorium gefahren) |
 | Lack / Aufkleber | weiß |
-| Rahmennummer | ❓ TODO |
+| Rahmennummer | ✅ **AWO7230329** (Baujahr-Hypothese **2007, KW 23**) |
 
 ### 🔴 Riss-Prüfung (wichtig nach einem Umbau mit Press-/Ziehkräften)
 
@@ -111,12 +120,13 @@ Hebel. Bei Alu: **maximal 1–2× richten**, dann bricht es.
 | Innenlager BSA | 1,37" × 24 tpi | links = Linksgewinde! |
 | Innenlager italienisch | 36 mm × 24 tpi | **beide Seiten Rechtsgewinde** ⚠️ Verwechslungsgefahr |
 | Steuersatz 1" | 25,4 mm × 24 tpi (1,058 mm) | ⚠️ **kein Metrik-Gewinde!** |
-| Steuersatz 1⅛" | 28,6 mm × 24 tpi | ⚠️ |
+| Steuersatz 1⅛" | 28,6 mm × 24 tpi | ⚠️ ✅ **dein Fall** – **keine Baumarkt-Mutter!** |
 | Vorbau-Keilschraube (Quill) | M6 oder M8 | Inbus |
 | Vorbau-Faceplate | M5 | Inbus, 5–6 Nm |
 | Lenkerklemmschrauben | M5 / M6 | 5–8 Nm |
-| Bremssockel am Rahmen | M6 | |
-| Bremskörper-Befestigung | M6 | 6–8 Nm |
+| 🔴 **Bremssockel-Stift (Cantistift) am Rahmen/Gabel** | **M8 außen** (Ø gemessen **7,95 mm**), **M6 innen** | **5–6 Nm** + **Loctite 243** ins **Alu**-Tauchrohr, **2–3 h** warten |
+| Bremskörper-Befestigung (Bremsarm → Stift) | M6 | 6–8 Nm |
+| 🔴 **Bremshebel-Klemmschelle am Lenker** | M5 | **4–6 Nm** (Alu-Lenker!) – ⚠️ **zu fest/zu nah → Angelpunkt geklemmt** = war Baustelle #3 |
 | Schutzblechschrauben | M5 | max. 5 Nm |
 | Ständerschrauben | M5 / M6 | |
 | Gepäckträgerschrauben | M5 | |
