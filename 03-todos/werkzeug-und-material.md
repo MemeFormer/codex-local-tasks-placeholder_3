@@ -91,19 +91,26 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 ## 3. 🔴 Was fehlt mir genau für die aktuelle Arbeit?
 
 > Diese Tabelle vor jeder Session ausfüllen – das spart Frust.
+> 🔴 **Nummern-Stand 2026-09-05** – maßgeblich ist [`offene-baustellen.md`](offene-baustellen.md).
 
 | Baustelle | Fehlendes Werkzeug | Fehlendes Material | Fehlende Information |
 |---|---|---|---|
-| ~~1 – Vorderrad~~ | ✅ **entfällt** – Nabendynamo, Verhalten ist normal | – | ✅ geklärt |
-| 2 – Vorderrad-Verifikation | – | – | nur Drehen/Fühlen, kein Werkzeug |
-| 3 – Bremse hinten | Inbus 4/5, Zughüllenschneider | ggf. neue V-Brake-Beläge, ggf. Bremszug 1,5 mm + Hülle 5 mm | ❓ Belaglänge, Scheiben-Reihenfolge |
-| 4 – Bremsarme vorne | Inbus 4/5, 400er Schleifleinen | Fett, ggf. neue V-Brake | ❓ Magnet-Test Gabel (Stahl/Alu), Sockelhöhe |
-| 5 – Hinterrad-Lager | Konusschlüssel ❓ Größe | Fett, QR-Feder | ❓ Was war die Feder? |
-| 6 – Steuersatz | Steuersatzschlüssel | flache Mutter, Loctite, Bremsenreiniger | ❓ 1" oder 1⅛", Gewindesteigung |
-| 6 – Ständer | | Distanzscheiben | ❓ Lochabstand, Kipprichtung |
-| 8 – Kette | Kettennieter | 9-fach-Kette | ❓ Kettenstrebenlänge, Zähnezahlen |
-| 9 – Felge | Messschieber | | ❓ Verschleißindikator |
-| 10 – Doku | Messschieber, Kamera | | – |
+| **#14 – RST Vogue TNL** 🔴 | Inbus für die Tauchrohr-Verschraubung unten, Kronenring-Abzieher/-Aufsetzer, Messschieber, Öl-Spritze, Drehmomentschlüssel | 🔴 **RST Dust Seal Kit (14,28 €)**, **Gabelöl 5W–10W**, Chrompolitur / Stahlwolle 0000, Fett | 🔴 **Fingernageltest**, **Standrohr-Ø** (25,4 / 28,6 mm), **Schaftlänge + Gewindelänge**, Federweg, axle-to-crown |
+| **#5 – Bremsarme vorne** 🔴 | 🔴 **Gabelschlüssel** (Schlüsselweite der zwei Abflachungen ❓ messen), Inbus 5/6, Drehmomentschlüssel | 🔴 **M8-Cantistifte** (brake-stuff.de **CS-M8-VA**, 14,90 €/Paar), **Loctite 243** | 🔴 **Gesamtlänge + Überstand** der Ist-Stifte (NEX **vs.** RST), **Einschraublänge**, greifbares M6-Innengewinde |
+| **#6 – Steuersatz-Gewinde** 🔴 | Steuersatzschlüssel ❓ (30/32/36 mm), zweiter Schlüssel zum Gegenhalten | Loctite 243, Bremsenreiniger, ggf. **flache Mutter 1⅛″ × 24 tpi** | ✅ Schaft = **1⅛″ × 24 tpi** · 🔴 **Steuerrohrlängen** Staiger + Bergamont, freies Gewinde |
+| **#1 – Quill-Vorbau** 🔴 | Messschieber, Taschenlampe | – | 🔴 **liegt die MIN-INSERTION-Markierung im Schaftrohr?**, **Einsteck-Ø = 25,4 mm?** |
+| **#2 – Felgen-Bremsflanken** 🔴 | Messschieber mit Tiefenmaß (oder Haarlineal/Münze), Taschenlampe | ggf. **Felge Mach1 210** (622 × 19c) oder komplettes Laufrad | 🔴 **Verschleißindikator sichtbar? Muldentiefe?** (Soll < 0,3 mm, ab 0,5 mm tauschen) |
+| **#7 – Kette** 🟡 | Kettennieter, Messschieber, ggf. Kettenlehre | **Shimano CN-HG53 9-fach** (116 Glieder), MissingLink | ❓ **Kettenstrebenlänge**, **Zähne großes Kettenblatt**, **größtes Ritzel** |
+| **#3a – Beläge hinten** 🟡 | Inbus 4/5 | 🟡 **Shimano M70T4 = 72 mm** inkl. Scheibensatz (nicht dringend) | ✅ Belaglänge geklärt (62 vs. 72 mm), ✅ B1/B44 = Chargennummer |
+| **#4a – verlorene Feder** 🟡 | Konusschlüssel ❓ Größe | Fett, ggf. **QR-Feder 10 mm** oder **Wellenscheibe** | ❓ **Welche Feder war es?** → FH-M530-Explosionszeichnung |
+| ~~#3 – Bremse hinten~~ | ✅ **erledigt** – Ursache war die Bremshebel-Klemmung | – | ✅ nur **Drehmoment-Kontrolle** (Alu-Lenker **4–6 Nm**) |
+| ~~#4 – Hinterrad-Lager~~ | ✅ **erledigt** – hat sich eingespielt | – | 🟢 Nachkontrolle nach ca. 100 km |
+| ~~#13 – Nabendynamo~~ | ✅ **erledigt** – läuft mehrere Umdrehungen | – | 🟢 nur Beobachtung |
+| **#8 – Ständer-Winkel** 🟢 | Inbus, Messschieber | Distanzscheiben M5/M6 (1/2/3 mm) | ❓ Lochabstand, **Kipprichtung** |
+| **#9 – Lenker-Ergonomie** 🟢 | Inbus 4/5, Drehmomentschlüssel | ggf. **Riser-Lenker** (20–40 €) | ❓ Lenker-Klemm-Ø, Breite, Backsweep |
+| **#10 – Doku** 🟢 | Messschieber, Kamera | – | ❓ Kassette, Kettenblatt-Zähne, Pedale, Sattelstützen-Ø |
+| **#11 – Kassette lösen** 🟢 | 🔴 **Kettenpeitsche** + Kassettenabzieher (HG 12-Spline) | – | ❓ Kassette oder Schraubkranz? |
+| **#12 – Testfahrt** 🟡 | Standpumpe mit Manometer | – | [`sicherheitscheck.md`](sicherheitscheck.md) |
 
 ---
 

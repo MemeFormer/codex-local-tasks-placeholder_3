@@ -291,10 +291,13 @@ typisch ±2–3 Umdrehungen. Ist er am Ende → Feder in ein anderes Loch / neue
 
 ---
 
-## C. Wenn der Hebel das Problem ist
+## C. Wenn der Hebel das Problem ist – 🔴 hier lag die Ursache
+
+> ✅ **GENAU DAS WAR'S.** Nicht C1–C6, sondern **C0**: die **Klemmschelle**.
 
 | # | Ursache | Lösung |
 |---|---|---|
+| **C0** | 🔴 **Klemmschelle zu fest oder zu nah am Nachbarhebel → Angelpunkt (Pivot) geklemmt** | ✅ **war die Ursache:** Klemmungen **mit Abstand** setzen, **4–6 Nm** (Alu-Lenker), **Griffweite vorher** einstellen, Hebel mehrfach durchbewegen |
 | C1 | **Rückholfeder im Hebel zu schwach / ermüdet** | Feder tauschen (vom guten Hebel), oder neue Hebel |
 | C2 | **Pivot-Bolzen trocken/rostig** | Bolzen raus, reinigen, dünn fetten |
 | C3 | **Griffweiten-Einstellschraube zu weit rein** | Schraube rausdrehen → Hebel weiter vom Lenker, Federweg besser |
@@ -302,10 +305,13 @@ typisch ±2–3 Umdrehungen. Ist er am Ende → Feder in ein anderes Loch / neue
 | C5 | Hebelgehäuse ausgeschlagen | neue Hebel |
 | C6 | Zug-Klemmung am Hebel verquetscht | Zug neu |
 
-> ✅ **Geklärt:** Am Lenker sind **beide Bremshebel vom weißen Rad** (die guten). Die
-> „weichen schwarzen Hebel“ aus der Ursprungs-Zusammenfassung sind die **Bremsarme vorne**,
-> nicht die Bremshebel. Baustelle #4 ist damit ein anderes Thema:
+> ✅ **Geklärt:** Am Lenker sind **beide Bremshebel vom weißen Rad** (die guten, **BL-M571**).
+> Die „weichen schwarzen Hebel“ aus der Ursprungs-Zusammenfassung sind die **Bremsarme vorne**,
+> nicht die Bremshebel. Das ist **Baustelle #5**, ein eigenes Thema:
 > [`vordere-bremsarme-sockel.md`](vordere-bremsarme-sockel.md)
+>
+> 🔴 **Und die Hebel selbst waren doch das Problem – aber nicht ihre inneren Teile:**
+> Die **Klemmschellen** waren am Lenker zu nah/zusammen zu fest angezogen → **C0**.
 >
 > **Falls der Hebel trotzdem nicht richtig zurückkommt** (Abschnitt C), liegt es an Hebel,
 > Pivot-Bolzen, Griffweitenschraube oder Zug – aber **nicht** an der Federspannschraube der Zange.
