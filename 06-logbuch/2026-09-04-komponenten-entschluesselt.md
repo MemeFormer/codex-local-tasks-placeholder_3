@@ -2,6 +2,18 @@
 
 **Dauer:** 60 min (Recherche) · **Baustellen:** #1–#10 · **Nächster Schritt:** Session 1 – Messen am Rad
 
+> ⚠️ **HISTORISCHER EINTRAG – teilweise am 2026-09-05 KORRIGIERT.**
+> Dieser Eintrag bleibt unverändert als Protokoll stehen. **Vier Aussagen sind überholt:**
+>
+> | Hier im Eintrag | ✅ Korrektur (2026-09-05) |
+> |---|---|
+> | „Sockel-Bund 5,6 mm vs. Deore-Arm 4,3 mm → Sockel **2–2,5 mm zurückdrehen**" | ⛔ **Richtung falsch** – die Cantistifte sind **KÜRZER** → **längere M8-Cantistifte** (CS-M8-VA, 14,90 €/Paar) |
+> | „Tektro 836 (63 mm) in einer **70-mm**-Deore-Zange = Ursache von #3" | ⛔ **falsch** – #3 war die **Bremshebel-Klemmung am Lenker**. Originalbeläge waren **ca. 72 mm** |
+> | „Original Daytona hatte Suntour NCX-D LO 63 mm → Geometrie entwarnt" | ⛔ **dein Rad hatte eine RST Vogue TNL (ca. 50 mm)** – die NEX ist **kein** Originalteil |
+> | „Spenderrad = ❓ deutsche Marke" | ✅ **Bergamont Horizon 4.0** |
+>
+> ➡️ **Aktueller Stand:** [`2026-09-05-korrektur-runde.md`](2026-09-05-korrektur-runde.md)
+
 Der Besitzer hat die Aufdrucke aller Komponenten abgelesen. Damit ließen sich **sechs offene
 Fragen klären**, eine Baustelle **komplett neu bewerten** und eine **exakte Ursache** für das
 Gewinde-Problem finden.

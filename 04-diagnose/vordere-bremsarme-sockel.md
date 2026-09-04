@@ -1,6 +1,6 @@
 # 🔬 Diagnose: Vordere Bremsarme – zu weich + passen nicht auf den Bremssockel
 
-**Baustelle #4 (korrigiert)** · Priorität 🟡 · Status: 🟡 Diagnose fehlt
+**Baustelle #5 (Ursache korrigiert 2026-09-05)** · Priorität 🔴 · Status: 🔴 **Ursache bekannt – Lösung offen**
 
 **Symptome:**
 1. Die vorderen Bremsarme (vom Spenderrad) fühlen sich **weich** an und die Federn sind
@@ -11,13 +11,21 @@
 **Situation:** Vorne sind die schwarzen Bremsarme an der schwarzen Gabel montiert, weil die
 weißen nicht auf den Bremssockel passten.
 
-> ✅ **GEKLÄRT (2026-09-04):**
-> - Gabel = **SR Suntour NEX**, 1⅛ Zoll Gewindeschaft, **Aluminium-Gabelscheiden**
->   → der Bremssockel ist mit hoher Wahrscheinlichkeit **eingeschraubt**, nicht angeschweißt
+> ✅ **GEKLÄRT (2026-09-04, Stand 2):**
+> - Gabel = **SR Suntour NEX** `SF14 NEX P 700C TS T63` vom **Bergamont Horizon 4.0**-Spenderrad,
+>   1⅛″ Gewindeschaft, **Aluminium-Tauchrohre** → die Bremssockel sind **eingeschraubt**
 > - Die Bremsarme, die nicht passten, sind **Shimano Deore** (passend zur BL-M571/SL-M580-Gruppe)
 > - Verbaut sind jetzt **Tektro**-Bremsarme (vom Spenderrad, das dieselbe Suntour-Gabel hatte)
+> - Bremssockel-Stift: Ø **7,95 mm gemessen** → **M8**, Aufnahmedurchmesser **Ø 8 mm** (V-Brake-Norm)
 >
-> 🔴 **Und damit ist die Ursache konkret benennbar** – siehe Abschnitt 2a.
+> 🔴 **UND DIE URSACHE IST VOM BESITZER SELBST GEMESSEN (2026-09-05 bestätigt):**
+> Die Bremssockel-Stifte der schwarzen Gabel sind **„ein klein wenig kürzer"** als die der
+> weißen RST-Gabel → die Shimano-Deore-Arme lassen sich **nicht richtig festschrauben**.
+> **Das ist ein Längenproblem, kein Spalt- oder Lackproblem.**
+>
+> ⛔ **Deshalb ist eine frühere Empfehlung in dieser Datei FALSCH und wurde zurückgezogen:**
+> „Sockel 2–2,5 mm zurückdrehen" würde den Stift **noch kürzer** machen und das Problem
+> **verschlimmern**. Siehe Abschnitt „Ursache 1 im Detail" (korrigiert).
 
 ---
 
@@ -109,56 +117,116 @@ Kosten: 0 €.
 
 | # | Ursache | Wahrscheinlichkeit | Test | Lösung |
 |---|---|---|---|---|
-| 1 | **Lack oder Rost auf dem Bremssockel** | 🔴 **sehr hoch** | Sockel ansehen: glänzt das Metall, oder ist Lack/Rost drauf? | Mit **Schleifleinen (Körnung 400–600)** oder feiner Feile abziehen, dann dünn fetten. ⚠️ Nicht zu viel abnehmen |
-| 2 | **Federstift sitzt nicht in der Bohrung**, sondern liegt auf | hoch | Bremsarm abziehen, Sockel-Bohrungen ansehen, Federstift am Arm prüfen | Federstift beim Aufsetzen korrekt in das Loch führen |
-| 3 | 🔴 **Bund des Sockels länger als die Eindrehung im Bremsarm** | 🔴 **sehr hoch – belegt bei Deore-Armen** | Spalt zwischen Bremsarm und Sockel-Schulter messen | ✅ **Sockel 2–2,5 mm zurückdrehen** (möglich, weil Alu-Gabel → Sockel eingeschraubt) |
-| 4 | **Sockel-Höhe passt nicht zur Laufradgröße** (26"-Gabel an 28"-Rad) | mittel | Abstand **Mitte Ausfallende → Mitte Sockel** messen | Adapter-Sockel, oder Gabel tauschen |
-| 5 | Bremsarm-Buchse ausgeschlagen / verrostet | gering | Buchse im Arm ansehen, reinigen | reinigen + fetten, ggf. Arm tauschen |
-| 6 | Anderes Gewinde des Sockels (M8 vs. M10) | gering | nur relevant, wenn der Sockel getauscht wird | passenden Ersatzsockel |
+| **1** | 🔴🔴 **Bremssockel-Stift der schwarzen Gabel ist zu KURZ** – die M6-Befestigungsschraube des Deore-Arms findet nicht genug Gewinde, der Arm lässt sich nicht klemmen | 🔴 **BELEGT (selbst gemessen)** | Stiftlänge über dem Bund messen, **schwarze NEX-Gabel vs. weiße RST-Gabel vergleichen** | 🎯 **längere M8-Ersatz-Cantisockel** (15–16 €/Paar) **oder** Stifte der RST-Gabel umsetzen **oder** kürzere M6-Schraube |
+| **2** | Unterschiedlicher **Scheibenstapel** der Bremsarme: Tektro und Shimano bauen verschieden hoch → die Schraube greift bei Shimano nicht | 🔴 hoch (erklärt, warum Tektro funktioniert!) | Scheiben/Buchsen beider Arme nebeneinander legen, **Gesamthöhe** messen | Scheibenstapel des Deore-Arms reduzieren |
+| 3 | **Federstift sitzt nicht in der Bohrung**, sondern liegt auf | 🟢 erledigt – laut Besitzer über **Federn + Einstellschräubchen** gelöst | – | – |
+| ~~4~~ | ~~Lack oder Rost auf dem Bremssockel~~ | 🟢 **entfällt** – kein Lackproblem | – | – |
+| ~~5~~ | ~~Bund des Sockels länger als die Arm-Ausnehmung~~ | ⛔ **ZURÜCKGEZOGEN** – Fremdquelle zu einem **anderen** Symptom (Spalt statt zu kurz). Deine Messung zeigt das **Gegenteil** | – | – |
+| ~~6~~ | ~~Sockel-Höhe passt nicht zur Laufradgröße~~ | 🟢 **entfällt** – Besitzer bestätigt: beide Gabeln haben die Stifte **unterhalb der Felge**, gleicher Aufbau | – | – |
+| 7 | Bremsarm-Buchse ausgeschlagen / verrostet | gering | Buchse im Arm ansehen | reinigen + fetten |
+| ~~8~~ | ~~Anderes Gewinde (M8 vs. M10)~~ | 🟢 **entfällt** – beide **7,95 mm = M8** | – | – |
 
-### 🔴 Ursache 3 im Detail: Sockel-Bund länger als die Arm-Ausnehmung (dein wahrscheinlichster Fall)
+### 🔴 Ursache 1 im Detail: Der Bremssockel-Stift ist zu kurz (korrigierte Diagnose)
 
-Das ist ein **gut dokumentiertes Problem – und zwar spezifisch bei Shimano-Deore-Bremsarmen**:
+> ⛔ **Korrektur in eigener Sache:** Eine frühere Fassung dieser Datei empfahl, den Sockel
+> **2–2,5 mm zurückzudrehen**, weil angeblich der **Bund länger** sei als die Ausnehmung im
+> Deore-Arm (Maße 5,6 mm / 4,3 mm aus einem Schrauber-Forum). **Das war auf deinen Fall
+> nicht übertragbar.** Deine eigene Messung zeigt das Gegenteil: der Stift der schwarzen
+> Gabel ist **kürzer**. Zurückdrehen würde ihn **noch kürzer** machen → **verschlimmern**.
+> **Diese Empfehlung ist zurückgezogen.**
 
-| Maß | typischer Wert |
+**Dein Befund (wörtlich):**
+> *„Nur kann ich meine guten Shimano nicht auf den Boss-Stiften der schwarzen montieren, weil
+> diese ein klein wenig kürzer sind, somit bekomm ich die da nicht richtig festgeschraubt.
+> DESHALB habe ich ja vorne die TEKTRO-Dinger nehmen müssen."*
+
+**Warum ein zu kurzer Stift das Festschrauben verhindert:**
+
+```
+So wird ein V-Brake-Arm gehalten:
+
+   [Schraubenkopf] [Scheibe] | Bremsarm | [Bund/Flansch] || Gabel-Tauchrohr ||
+                              |  Buchse  |      ▲
+                              └──────────┘      |
+                                     M6-Schraube ┘ ──► greift in das M6-Innen-
+                                                        gewinde des Sockel-Stifts
+
+Ist der Stift zu kurz:
+   • die M6-Schraube findet nicht genug Gewindetiefe
+   • sie setzt auf („bottoms out"), BEVOR der Arm gegen den Bund gepresst wird
+   • Folge: der Arm hat Spiel, lässt sich nicht klemmen, „passt nicht"
+```
+
+**Warum die Tektro-Arme trotzdem funktionieren:** Tektro und Shimano bauen ihre Bremsarme
+unterschiedlich hoch. Die **Tektro**-Arme haben vermutlich einen **kürzeren Befestigungs-**
+**schraubenweg** bzw. einen anderen **Scheibenstapel**, dadurch reicht die kürzere
+Gewindetiefe des NEX-Stifts gerade aus. **Das ist kein Qualitätsunterschied – nur ein
+Maßunterschied.**
+
+### 🎯 Fünf Lösungen (sortiert nach Aufwand)
+
+| # | Lösung | Aufwand | 💰 | Bewertung |
+|---|---|---|---|---|
+| **A** | 🔴 **Original-Gabel (RST Vogue TNL) retten** → ihre Stifte sind lang genug, die Deore-Arme passen wieder | 1,5–2 h + Dichtsatz | **25–50 €** | 🎯 **Beste Lösung**, wenn die Standrohre nur Flugrost haben. Löst **auch Baustelle #6**! → [`rst-vogue-tnl-federgabel.md`](rst-vogue-tnl-federgabel.md) |
+| **B** | **Längere M8-Ersatz-Cantisockel** in die NEX-Gabel schrauben | 30–45 min | **15–16 €** | ✅ **Sehr gut.** Die Deore-Arme bleiben am aktuellen Rad |
+| **C** | **Stifte der RST-Gabel in die NEX-Gabel umsetzen** (falls Gewinde + Länge passen) | 30 min | **0 €** | 💡 **Erst probieren!** Aber die RST-Gabel nicht beschädigen, falls du sie retten willst |
+| **D** | **Kürzere M6-Befestigungsschraube** oder dünnerer Scheibenstapel am Deore-Arm | 10 min | **0–3 €** | 💡 **Zuerst testen** – billigste Möglichkeit |
+| **E** | **Tektro-Arme behalten** (aktueller Zustand) | 0 | 0 € | ✅ **funktioniert** – du hast die Backen bereits auf gleichen Abstand eingestellt, ohne Schleifen |
+
+### 🔧 Lösung D zuerst testen (10 min, 0 €)
+
+| ☐ | Schritt |
 |---|---|
-| Länge des Sockel-Bunds (der Absatz, an dem der Arm anliegen soll) | ca. **5,6 mm** |
-| Tiefe der Ausnehmung im Deore-Bremsarm | ca. **4,3 mm** |
-| → **Spalt** | ca. **1,3 mm** – der Arm liegt nicht an, lässt sich nicht richtig festschrauben, „passt nicht" |
+| ☐ | Deore-Bremsarm abnehmen, **alle Teile in Reihenfolge** auf ein Tuch legen + **Foto** |
+| ☐ | **Gesamthöhe des Scheibenstapels** messen (Buchse + Scheiben + Arm) |
+| ☐ | Dasselbe beim **Tektro**-Arm messen und **vergleichen** |
+| ☐ | 🔴 Prüfen: Ist beim Deore-Arm eine Scheibe dabei, die man **weglassen** kann, ohne dass die Buchse kippt? |
+| ☐ | Prüfen: Gibt es eine **kürzere M6-Befestigungsschraube** (Länge messen, z. B. 12 mm statt 15 mm)? |
+| ☐ | Montieren, mit **5–7 Nm** anziehen, prüfen ob der Arm **spielfrei** sitzt |
 
-**Belegter Fix:** Den eingeschraubten Sockel **ca. 2–2,5 mm zurückdrehen**, dann liegt der
-Bremsarm bündig an. In einem Schrauber-Forum wurde das mit genau einer Deore-V-Brake
-durchexerziert – Zitat sinngemäß: *„Sockel um 2,5 mm zurück gesetzt! Jetzt passt."*
+### 🛒 Lösung B: Ersatzteile (konkret bestellbar)
 
-> 🎯 **Dein eigener Plan („die Stahlstifte selbst tauschen") ist damit machbar** – weil die
-> Suntour NEX **Aluminium-Gabelscheiden** hat und der Sockel dort eingeschraubt ist.
-> Es muss nicht einmal getauscht werden: oft reicht **Zurückdrehen**.
+Es gibt einen deutschen Hersteller (**BrakeSTUFF**, Amtsberg), der **CNC-gefertigte
+Ersatz-Cantisockel** in verschiedenen Längen und Bauformen macht. Alle haben:
+**M8-Außengewinde**, **Ø 8 mm Aufnahme** (V-Brake-Norm), **M6-Innengewinde** für die
+Bremsarmschraube, **Anzugsmoment 5–6 Nm**.
 
-**Ablauf:**
+| Produkt | Daten | 💰 | Besonderheit |
+|---|---|---|---|
+| **Cantisockel M8** (`CS-M8-VA`) | M8 · Ø 8 mm · M6 innen · **Einschraublänge 10 mm** · Edelstahl (19,3 g/Paar) oder Alu (7,6 g/Paar) | **14,90 €** | 🔴 **Kompatibilitätsliste nennt ausdrücklich „Staiger"** (neben Cannondale Fatty, Fox, Manitou, Zoom Tracker). Lieferzeit 1–3 Tage |
+| **Cantisockel M8 für RST** (`CS-M8-RST`) | M8 · Ø 8 mm · M6 innen · Einschraublänge 10 mm · Edelstahl | **16,00 €** | 🔴 **„verlängertes Gewinde und zusätzlicher Bund"** – passend für **RST Hi-5, Hi-5 TL, Mozo, Zeta**. Lieferzeit 45–55 Tage |
+| **Cantisockel M8 ohne Bund** (RockShox) | M8 · Einschraublänge **10 mm oder 16 mm** | ab **14,50 €** | 💡 **die 16-mm-Variante ist der Kandidat für „länger"** – aber **ohne Bund**! |
+| **Cantisockel M8 mit 3-Loch-Federplatte** | M8, integrierte **3-Loch-Federaufnahme** | **18,50 €** | 💡 falls die Federrasten-Bohrungen nicht fluchten |
+| **Federaufnahme für Cantisockel** (Adapter) | Edelstahl, für **M6, M8, M10** | **7,50 €** | 💡 separate Federplatte, wenn der Federstift nicht passt |
+| **Cantisockel M10** | für **Merlin / RST / Salsa / Winora** | ab **12,90 €** | ⚠️ nur falls dein Gewinde doch M10 ist (deine Messung sagt **M8**) |
 
-| Schritt | Detail |
-|---|---|
-| 1 | **Magnet-Test** an den Gabelscheiden: unmagnetisch = **Alu** ✅ → Sockel eingeschraubt |
-| 2 | Hat der Sockel **zwei Abflachungen** für einen Gabelschlüssel? → ja = eingeschraubt, bestätigt |
-| 3 | Bremsarm ab, **Foto** von der Position des Federstift-Lochs (12-Uhr- oder 6-Uhr-Stellung) |
-| 4 | Gabelschlüssel an den Abflachungen ansetzen, Gabel gegenhalten, **herausdrehen** (Rechtsgewinde) |
-| 5 | Gewinde messen: **M8 oder M10** + Steigung |
-| 6 | Gewinde in der Gabel reinigen, **Loctite 243** auf den Sockel |
-| 7 | Sockel **2–2,5 mm tiefer** einschrauben, Federstift-Loch auf **dieselbe Position** ausrichten |
-| 8 | 🔴 **Grenze:** mindestens **8–10 mm Gewindeeingriff** müssen in der Gabel bleiben! Nicht weiter herausdrehen |
-| 9 | Aushärten lassen, Bremsarm montieren, prüfen ob er **bündig** anliegt |
-| Alternative | Passenden **Ersatz-Cantisockel mit kürzerem Bund** (💰 5–15 €) |
+**Montagehinweis des Herstellers:**
+> *„Vor der Montage das Loch und die Auflagefläche an Gabel/Rahmen sauber reinigen und
+> trocknen lassen. Einige Tropfen Schraubensicherung (z. B. **Loctite 243**) auf das Gewinde,
+> dann mit **5–6 Nm** einschrauben. Vor der ersten Fahrt **2–3 h warten**, bis die
+> Schraubensicherung ausgehärtet ist."*
 
-**Messwerte eintragen:**
+📄 **Maßblatt zum Vergleichen:** BrakeSTUFF stellt ein PDF mit **Gewinde, Aufnahme-Ø,
+Einschraublänge und GESAMTLÄNGE** bereit → `brake-stuff.de` → Cantisockel → „Abmessungen
+der Cantisockel für V-Brakes und U-Brakes". 🔴 **Vor dem Bestellen die Gesamtlänge der
+vorhandenen Stifte messen und mit dem Maßblatt abgleichen!**
 
-| Messung | Wert |
-|---|---|
-| Länge des Sockel-Bunds | ❓ ____ mm |
-| Tiefe der Ausnehmung im Deore-Bremsarm | ❓ ____ mm |
-| Spalt im montierten Zustand | ❓ ____ mm |
-| Sockel-Gewinde (M8/M10) + Steigung | ❓ |
-| Zwei Abflachungen am Sockel vorhanden? | ❓ |
-| Aktuelle Gewindeeinschraubtiefe in der Gabel | ❓ ____ mm |
+### 📐 Messwerte eintragen (das entscheidet über die Lösung)
+
+| Messung | schwarze NEX-Gabel | weiße RST-Gabel | Differenz |
+|---|---|---|---|
+| 🔴 **Stiftlänge über dem Bund** (freistehend) | ❓ ____ mm | ❓ ____ mm | ❓ ____ mm |
+| Stift-Gesamtlänge | ❓ ____ mm | ❓ ____ mm | |
+| Einschraubtiefe im Tauchrohr | ❓ ____ mm | ❓ ____ mm | |
+| Ø des Stifts | ✅ **7,95 mm → M8** | ✅ **7,95 mm → M8** (vom Besitzer gemessen) | gleich ✅ |
+| **M6-Innengewinde** vorhanden? Tiefe? | ❓ ____ mm | ❓ ____ mm | |
+| Bund-/Flanschhöhe | ❓ ____ mm | ❓ ____ mm | |
+| Zwei Abflachungen für Gabelschlüssel? | ❓ | ❓ | |
+| M6-Befestigungsschraube Shimano: Länge | ❓ ____ mm | – | |
+| M6-Befestigungsschraube Tektro: Länge | ❓ ____ mm | – | |
+| Scheibenstapel-Höhe Shimano-Arm | ❓ ____ mm | – | |
+| Scheibenstapel-Höhe Tektro-Arm | ❓ ____ mm | – | |
+| Abstand Mitte Ausfallende → Mitte Sockel | ❓ (Soll 28″: **283 mm**) | ❓ | ✅ laut Besitzer **baugleich** |
 
 ---
 
@@ -215,17 +283,16 @@ Dein Plan war, die Stahlstifte zu tauschen, damit die guten weißen Bremsarme pa
 | **Stahlgabel** | **angeschweißt / aufgelötet** („Schweißsockel“) | ❌ **nein** – nur mit Lötbrenner + neuem Sockel in einer Werkstatt. Am Rahmen/Gabel schweißen = 🔴 sicherheitskritisch, lieber nicht selbst |
 | **Alugabel** | oft **eingeschraubt**: Stahlbolzen mit **zwei Abflachungen** für einen Gabelschlüssel, Gewinde M8 oder M10 in der Gabel | ✅ **ja** – Bolzen mit Gabelschlüssel/Schraubstock rausdrehen, neuen Cantisockel mit passendem Gewinde + **Schraubensicherung** rein |
 
-### 🔴 Erste Maßnahme: Stahl oder Alu?
+### ✅ Geklärt: Alu-Tauchrohre → Sockel eingeschraubt
 
-**Magnet-Test** an der Gabel:
+| Gabel | Material Tauchrohre | Sockel-Befestigung | Tauschbar? |
+|---|---|---|---|
+| **schwarz: SR Suntour NEX** | ✅ **Aluminium** | **eingeschraubt** (vermutet) | ✅ **ja** |
+| **weiß: RST Vogue TNL** | ✅ **Aluminium** (RST-Katalog: „Outer leg: Aluminum") | **eingeschraubt** (vermutet) | ✅ **ja** |
 
-| Ergebnis | Bedeutung | Konsequenz für den Sockel-Tausch |
-|---|---|---|
-| Magnet haftet stark | **Stahlgabel** | ❌ Sockel ist angeschweißt → **nicht selbst tauschen** |
-| Magnet haftet nicht | **Alugabel** | ✅ Sockel evtl. eingeschraubt → tauschbar |
-
-> 💡 Hinweis: Die Gabel kann Alu-Scheiden mit Stahl-Schaft haben. **An mehreren Stellen
-> testen**: Gabelscheiden, Gabelkrone, Schaft.
+💡 **Hinweis:** Bei Federgabeln sind die **Tauchrohre (lowers)** Alu/Magnesium, der
+**Schaft** ist Stahl (CroMo) – der Magnet-Test gehört also an die **Tauchrohre**, nicht an
+den Schaft. ❓ Kurzer Magnet-Test zur Bestätigung steht noch aus.
 
 ### Wenn es ein eingeschraubter Sockel ist – Ablauf
 
@@ -323,11 +390,20 @@ dann prüfen, ob die alte Gabel noch da ist → wenn ja, **A**.
 
 | Teil | Spec | Prio | ca. Preis |
 |---|---|---|---|
-| Schleifleinen 400/600 | zum Entlacken des Sockels | 🔴 | 3 € |
-| Ersatz-V-Brake vorne | ❓ Sockelhöhe + Zugweg (V-Brake = long pull) | 🟡 | 15–30 € |
-| Cantisockel zum Einschrauben | ❓ M8/M10 + Steigung – **nur bei Alugabel** | 🟢 | 5–15 € |
-| Bremssockel-Adapter | nur bei 26"/28"-Versatz | 🟢 | 15–30 € |
-| Universal-Schellen für Schutzblech | falls die alte Gabel zurückkommt | 🟡 | 3–8 € |
+| 🔴 **Cantisockel M8** (`CS-M8-VA`, BrakeSTUFF) | M8 · Ø 8 mm · M6 innen · Einschraublänge **10 mm** · Edelstahl/Alu · 🔴 Kompatibilitätsliste nennt **„Staiger"** | 🎯 | **14,90 €** |
+| 🔴 **Cantisockel M8 für RST** (`CS-M8-RST`) | M8 · **verlängertes Gewinde + zusätzlicher Bund** | 🎯 | **16,00 €** |
+| **Cantisockel M8 ohne Bund, 16 mm** | 💡 **die längere Version** – 🔴 **Gesamtlänge vorab messen/abgleichen!** | 🎯 | ab **14,50 €** |
+| **Cantisockel M8 mit 3-Loch-Federplatte** | falls die Federrasten-Bohrungen nicht fluchten | 🟢 | 18,50 € |
+| **Federaufnahme für Cantisockel** (M6/M8/M10) | separate Federplatte aus Edelstahl | 🟢 | 7,50 € |
+| **M6-Befestigungsschrauben, kürzer** | ❓ Länge der vorhandenen messen, dann 1–2 mm kürzer | 🟡 | 1–3 € |
+| **Loctite 243** | für die neuen Cantisockel (5–6 Nm, 2–3 h aushärten lassen) | 🔴 | 8 € |
+| 🔴 **RST Dust Seal Kit** | Abstreifdichtung für RST-Gabeln · Version **28,6 mm** (Vogue/VIVair/F1RST) oder **30 mm** · ❓ **Standrohr-Ø messen!** | 🔴 | **14,28 €** |
+| **Gabelöl** | ❓ Viskosität klären (Standardannahme 5W–10W), 100–250 ml | 🔴 | 8–15 € |
+| **Chrompolitur / Stahlwolle 0000** | Flugrost von den RST-Standrohren entfernen | 🔴 | 5–10 € |
+| ~~Schleifleinen 400/600~~ | ❌ **entfällt** – kein Lackproblem | – | – |
+| ~~Bremssockel-Adapter~~ | ❌ **entfällt** – kein 26″/28″-Versatz | – | – |
+| Universal-Schellen für Schutzblech | nur falls die RST-Gabel keine Öse hat | 🟢 | 3–8 € |
+| Ersatz-V-Brake vorne | nur falls alle Lösungen scheitern · V-Brake, **long pull** | 🟢 | 15–30 € |
 
 ## Verknüpfungen
 

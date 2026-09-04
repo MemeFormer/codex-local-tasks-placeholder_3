@@ -11,20 +11,25 @@ danach die Werte in die jeweilige `02-teile/`-Datei übertragen.
 
 Legende: `☐` = noch offen · `☑` = erfasst
 
-> 🎯 **STAND 2026-09-04:** Fast alle **Teilenummern** sind entschlüsselt (siehe
-> [`../06-logbuch/2026-09-04-komponenten-entschluesselt.md`](../06-logbuch/2026-09-04-komponenten-entschluesselt.md)).
-> **Offen sind nur noch die MESSWERTE** – also Längen, Durchmesser, Zähne, Spiel.
+> 🎯 **STAND 2026-09-05:** Fast alle **Teilenummern** sind entschlüsselt, **drei Baustellen
+> sind erledigt** (#3 hintere Bremse, #4 Hinterrad, #13 Nabendynamo) und das **Spenderrad ist
+> identifiziert: Bergamont Horizon 4.0**.
+> **Offen sind nur noch die MESSWERTE** – und zwar vor allem an der **RST Vogue TNL**.
 >
-> 🔴 **Die 6 wichtigsten Messungen (damit ist fast alles bestellbar):**
+> 🔴 **Die 6 wichtigsten Messungen – NEU (damit ist fast alles bestellbar):**
 >
 > | # | Messung | Entscheidet über |
 > |---|---|---|
-> | **1** | 🔴 **Steuerrohrlänge STAIGER außen** + freies Gewinde am Schaft | Gabel mit **210** oder **225 mm** Schaft · oder **Ahead-Umbau** |
-> | **2** | 🔴 **Bremssockel-Bundlänge** (ca. 5,6 mm?) + **Deore-Arm-Ausnehmung** (ca. 4,3 mm?) + **Gewinde M8/M10** + **zwei Abflachungen?** | ob der Sockel **zurückgedreht** oder **getauscht** wird |
-> | **3** | 🔴 **Konvex-/Konkavscheiben-Reihenfolge** hinten | Baustelle 3 (Bremse kehrt nicht zurück) |
-> | **4** | 🔴 **Spiel des Nabendynamos ohne Schnellspanner** | Baustelle 13 (Lagervorspannung) |
-> | **5** | 🔴 **Quill-Vorbau: MIN-INSERTION-Markierung im Schaftrohr?** + **Einsteck-Ø (muss 25,4 mm sein!)** | Baustelle 1 – 🔴 **SICHERHEIT** |
-> | **6** | 🔴 **Bremsflanken-Verschleiß** v/h (Verschleißindikator + Muldentiefe) | Baustelle 2 – 🔴 **SICHERHEIT** |
+> | **1** ⭐ | 🔴 **Fingernageltest an den Standrohren der RST Vogue TNL** – bleibt der Nagel an einer Roststelle hängen (**Grübchen/Pitting**)? | 🔴 **Baustelle #14** – und damit **#1, #5, #6 auf einen Schlag**. Grübchen = Gabel unrettbar → Plan B (neue Gabel) |
+> | **2** | 🔴 **Standrohr-Ø der RST** (25,4 oder 28,6 mm?) | **welcher RST-Dichtungssatz** (28,6-mm-Version = 14,28 €, lieferbar) |
+> | **3** | 🔴 **Schaftlänge + Gewindelänge der RST** und **der NEX** (Krone → Schaftspitze) | ob die RST zurückgebaut werden kann · sonst **210/225 mm** oder **Ahead** |
+> | **4** | 🔴 **Steuerrohrlänge STAIGER + Bergamont** (Δ = 20–30 mm, bitte exakt) | Gabelwahl + Vorbau-Einstecktiefe (Baustelle #1/#6) |
+> | **5** | 🔴 **Cantistifte: Gesamtlänge + Überstand** (NEX **vs.** RST) + Gewinde M8 + **zwei Abflachungen** | **welche längeren M8-Stifte** (brake-stuff.de CS-M8-VA). ⛔ **Nicht zurückdrehen!** |
+> | **6** | 🔴 **Bremsflanken-Verschleiß** v/h (Verschleißindikator + Muldentiefe) | Baustelle #2 – 🔴 **SICHERHEIT**, die Originalbeläge waren **durchgefahren** |
+>
+> ✅ **Nicht mehr messen nötig:** Spiel des Nabendynamos (**#13 erledigt**), Konvex/Konkav-
+> Scheibenreihe (**#3 erledigt** – Ursache war die **Bremshebel-Klemmung am Lenker**),
+> Hinterrad-Laufverhalten (**#4 erledigt**).
 
 ---
 
@@ -32,34 +37,45 @@ Legende: `☐` = noch offen · `☑` = erfasst
 
 | ☐ | Feld | Weiß | Schwarz |
 |---|---|---|---|
-| ☑ | Hersteller | ✅ **STAIGER** | ✅ STAIGER |
-| ☑ | Modell | ✅ **Daytona Sportline** | ❓ |
-| ☐ | Baujahr | ❓ **Hypothese 2007, KW 23** (aus der Rahmennummer) – bitte gegenprüfen | ❓ |
-| ☑ | Rahmennummer (unter Tretlagergehäuse) | ✅ **AWO7230329** | ❓ |
-| ☑ | Rahmenmaterial (Magnet-Test) | ✅ **Alu 6061** | ❓ |
+| ☑ | Hersteller | ✅ **STAIGER** | 🔴 ✅ **BERGAMONT** (korrigiert – **nicht** Staiger!) |
+| ☑ | Modell | ✅ **Daytona Sportline** | ✅ **Horizon 4.0** (ältere V-Brake-Version, 3×8) |
+| ☐ | Baujahr | ❓ **Hypothese 2007, KW 23** (aus der Rahmennummer) – bitte gegenprüfen | ❓ ca. **2012–2016** (V-Brake + DH-3N31) |
+| ☑ | Rahmennummer (unter Tretlagergehäuse) | ✅ **AWO7230329** | ❓ ____ |
+| ☑ | **Rahmenprägung** | ✅ **`Alloy 6061, Double Butted`** | ✅ **`52 T4/T6 Heat Treated 6061 Lite Alloy`** → Alu 6061, **wärmebehandelt T4/T6**, **Größe 52 cm** |
+| ☑ | Rahmenmaterial (Magnet-Test) | ✅ **Alu 6061** | ✅ **Alu 6061 T4/T6 Lite** |
+| ☑ | Rahmenhöhe (Prägung) | ❓ ____ mm | ✅ **52 cm** |
+| 🔴 | **Gabel** | ✅ **RST Vogue TNL** (original, **ausgebaut, vorhanden, defekt**) | ✅ **SR Suntour NEX T63** (original, **jetzt am weißen Rad verbaut**) |
 | ☐ | Rahmenhöhe (Mitte Tretlager → Oberkante Sitzrohr) | ❓ ____ mm | ❓ |
 
 ## 1. Gabel & Steuersatz 🔴 (15 min)
 
 | ☐ | Messung | Weiß (Rahmen) | Schwarz (Gabel) |
 |---|---|---|---|
-| ☑ | **Gabel-Modell** | – | ✅ **SR Suntour NEX · SF14 NEX P 700C TS T63** |
-| ☑ | **Federweg** | – | ✅ **63 mm** („T63") |
-| ☑ | Gabelschaft-Ø **außen** am Gewinde | – | ✅ **1⅛″ = 28,6 mm** (Gewinde **24 tpi**) |
-| ☐ | Gabelschaft-Ø **innen** (🔴 **muss 25,4 mm sein** für einen Quill-Vorbau an 1⅛″!) | – | ❓ ____ mm |
+| ☑ | **Gabel-Modell** | ✅ **RST Vogue TNL** (original) | ✅ **SR Suntour NEX · SF14 NEX P 700C TS T63** (**vom Bergamont-Spenderrad**) |
+| ☑ | **Federweg** | ❓ ca. **50 mm** (RST-Vogue-Baureihe) – prüfen | ✅ **63 mm** („T63") |
+| ☑ | Gabelschaft-Ø **außen** am Gewinde | ❓ **28,6 mm (1⅛″)** oder **25,4 mm (1″)** CroMo – 🔴 **messen!** | ✅ **1⅛″ = 28,6 mm** (Gewinde **24 tpi**) |
+| 🔴 | **Standrohr-Ø** | 🔴 ❓ ____ mm (**25,4** laut Katalog 2008, **28,6** laut Ersatzteil-Liste) → **entscheidet den Dichtungssatz!** | ❓ ____ mm (Stahl) |
+| 🔴 | **Fingernageltest an den Standrohren** | 🔴 ❓ **Grübchen (Pitting) ja/nein** – ⛔ **bei ja: Gabel unrettbar** | ❓ |
+| 🔴 | **Schaftlänge gesamt** (Krone → Schaftspitze) | ❓ ____ mm | ❓ ____ mm (ab Werk **210** oder **225 mm**) |
+| 🔴 | **Gewindelänge am Schaft** | ❓ ____ mm | ❓ ____ mm (NEX ab Werk ca. **55 mm** oben!) |
+| ☐ | **Einbauhöhe** (axle-to-crown) | ❓ ____ mm (RST-Vergleichsmaß ca. **455–465 mm**) | ❓ ____ mm (NEX Soll **445–469 mm**) |
+| ☐ | Schaft-Ø **innen** (🔴 **muss 25,4 mm sein** für einen Quill-Vorbau an 1⅛″!) | ❓ ____ mm | ❓ ____ mm |
 | 🔴 | **Steuerrohrlänge außen** (STAIGER!) | ❓ ____ mm | – |
-| 🔴 | **Steuerrohrlänge außen** (Spenderrad, falls Rahmen noch da) | – | ❓ ____ mm (Differenz ≈ 23 mm?) |
-| ☐ | Gabelschaftlänge gesamt | – | ❓ ____ mm (ab Werk **210** oder **225 mm**) |
-| 🔴 | **Gewindelänge am Schaft gesamt** (ab Werk ca. **55 mm** oben!) | – | ❓ ____ mm |
+| 🔴 | **Steuerrohrlänge außen** (BERGAMONT!) | – | ❓ ____ mm → **Δ = ____ mm** (erwartet **20–30 mm**) |
+| ☐ | Lockout / Vorspannung funktionsfähig? | ❓ **Lockout (TNL, hydraulisch)** + **Vorspann-Drehrad** | ❓ Vorspannung |
+| ☐ | Öl ausgetreten? Wo? | ✅ **ja – aus dem Dämpfungsbein (rechts)** | – |
 | ☐ | **Freies Gewinde über dem oberen Konus** (mm + Anzahl Gänge) | | ❓ ____ mm / ____ Gänge (erwartet 1–2) |
 | ☐ | Höhe der verbauten Mutter | | ❓ ____ mm |
 | ☐ | Schlüsselweite der Mutter (mm) | | ❓ ____ mm |
 | ☐ | Zahnring verbaut? (ja/nein, Höhe – weglassen bringt 1–2 mm) | | |
-| ☐ | **Einbauhöhe Gabel** (axle-to-crown, Mitte Achse → Unterkante Gabelkrone) · Soll **445–469 mm** | – | ❓ ____ mm |
+| ☐ | Bremssockel-Stift: **Gesamtlänge** + **Überstand über die Gabelscheide** | ❓ ____ / ____ mm | ❓ ____ / ____ mm |
+| ☐ | Bremssockel-Stift: **Innengewinde** (M6?) – wie viele mm greifbar? | ❓ ____ mm | ❓ ____ mm |
+| ☐ | Bremssockel-Stift: **Schlüsselweite** der zwei Abflachungen | ❓ ____ mm | ❓ ____ mm |
 | ☑ | Gabelvorlauf/Offset | – | ✅ ca. **42 mm** |
 | ☐ | Bremssockel an der Gabel: Abstand Mitte Achse → Mitte Sockel · Soll 28″ = **283 mm** | | ❓ ____ mm |
 | ☑ | Schutzblech-Öse an der Gabelbrücke: Gewinde | – | ✅ **M5** |
-| ☑ | Gabelscheiden-Material | – | ✅ **Aluminium** (Suntour-NEX-Standard) → **Bremssockel eingeschraubt!** |
+| ☑ | Gabelscheiden-/Tauchrohr-Material | ✅ **Aluminium** (RST Vogue: Tauchrohre Alu) | ✅ **Aluminium** (Suntour-NEX-Standard) → **Bremssockel bei beiden eingeschraubt (M8)!** |
+| ☑ | Bremssockel-Stift-Ø | ✅ **M8** (7,95 mm gemessen) | ✅ **M8** |
 | ☐ | 🔴 **Crown-race-Sitz** der Gabel (26,4 mm = 1″ / **30 mm** = 1⅛″) | – | ❓ ____ mm |
 | ☐ | Lagerschalen: Original weiß oder schwarz verbaut? (💡 1⅛″ = **EC34/28,6 – EC34/30**) | | |
 | ☐ | Rastet der Lenker in der Mittelstellung ein? (Pitting) | | |
@@ -83,6 +99,8 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☐ | Lenker-Aufdruck / Modellnummer | |
 | ☐ | Griffe: Länge, Ø, Klemmung? | |
 | ☐ | Bremshebel-Position am Lenker (Abstand zum Griffende) | |
+| 🔴 | **Abstand zwischen den beiden Bremshebel-Klemmschellen** (mm) | ____ mm – ✅ **Ursache von Baustelle #3: zu nah/zusammen zu fest!** |
+| 🔴 | **Anzugsmoment der Bremshebel-Klemmschellen** (Alu-Lenker: **4–6 Nm**) | ____ Nm |
 
 ## 3. Laufräder 🔴 (20 min)
 
@@ -96,15 +114,15 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☐ | Kontermutter-Schlüsselgröße (mm) | ❓ ____ | ❓ ____ |
 | ☑ | Achs-Ø (9 / 10 mm) | ✅ **9 mm** | ✅ **10 mm** |
 | ☑ | Schnellspanner oder Mutternachse | ✅ **Schnellspanner** | ✅ **Schnellspanner** |
-| ☐ | QR-Federn vorhanden? **korrekt herum** (schmale Seite innen)? | | ⚠️ **eine Feder verloren!** |
-| ☐ | **Umdrehungen beim Drehen von Hand** (Rad ausgebaut, ohne QR) | ❓ (1–2 = normal) | ❓ |
-| 🔴 | **Spiel ohne Schnellspanner** (mm) → muss **minimal** sein | ❓ ____ | ❓ ____ |
-| 🔴 | **Spiel mit gespanntem Schnellspanner** → muss **gerade eben weg** sein | ❓ | ❓ |
+| ☐ | QR-Federn vorhanden? **korrekt herum** (schmale Seite innen)? | | ⚠️ **eine kleine Feder verloren** → Baustelle **#4a**: **Wellenscheibe** oder **QR-Feder**? (Nabe = **FH-M530**, Explosionszeichnung recherchierbar) |
+| ☑ | **Umdrehungen beim Drehen von Hand** (Rad ausgebaut, ohne QR) | ✅ **mehrere** – **#13 erledigt** | ✅ **normal** – **#4 erledigt** („hat sich eingespielt") |
+| ☐ | **Spiel ohne Schnellspanner** (mm) → muss **minimal** sein | ❓ ____ (Nachkontrolle) | ❓ ____ (Nachkontrolle nach ca. 100 km) |
+| ☐ | **Spiel mit gespanntem Schnellspanner** → muss **gerade eben weg** sein | ❓ | ❓ |
 | ☐ | Speichenzahl (beide vermutlich **36**) | ❓ ____ | ❓ ____ |
 | ☑ | Felgen-Modellnummer / Aufdruck | ✅ **Shining Double Wall A-M4**, 622 × 19 | ✅ **Mach1 210**, 622 × 19c, Alloy 6060 |
 | ☑ | Felgeninnenbreite (mm) | ✅ **19 mm** | ✅ **19 mm** |
-| 🔴 | **Bremsflanke: Verschleißindikator sichtbar?** 🔴 | | |
-| 🔴 | **Bremsflanke: Muldentiefe (mm, mit Messschieber-Tiefe)** 🔴 | | |
+| 🔴 | **Bremsflanke: Verschleißindikator sichtbar?** 🔴 (hinten **dringend** – Originalbeläge waren **durchgefahren**) | | |
+| 🔴 | **Bremsflanke: Muldentiefe (mm, mit Messschieber-Tiefe)** 🔴 Soll **< 0,3 mm**, ab **0,5 mm** tauschen | | |
 | ☐ | Felgenband: Zustand, Breite (Soll **21 mm**) | | |
 | ☑ | Reifen: Hersteller + Modell | ✅ **Schwalbe Active Line K-Guard**, HS 377 | ✅ **Schwalbe Marathon Plus** |
 | ☑ | Reifen: **ETRTO** | ✅ **42-622** (28 × 1.60) | ✅ **47-622** (28 × 1.75) |
@@ -144,8 +162,16 @@ Legende: `☐` = noch offen · `☑` = erfasst
 ## 5. Bremsen 🔴 (20 min)
 
 > ✅ Bereits geklärt: **Bremsentyp = V-Brake** · **Bremshebel = Shimano BL-M571, original weiß** ·
-> **Bremsarme vorne = Tektro (Spenderrad)** · **Bremsarme hinten = Shimano Deore, original weiß** ·
-> **Beläge hinten = Tektro 836, 62–63 mm** · **Gabel = Alu (Suntour NEX) → Sockel eingeschraubt**
+> **Bremsarme vorne = Tektro (Bergamont-Spenderrad)** · **Bremsarme hinten = Shimano Deore,
+> original weiß** · **Beläge hinten = Tektro 836, 62–63 mm** · **Belag-Codes B1/B44 =
+> vermutlich Chargennummer, alle vier Beläge identisch** · **beide Gabeln Alu → Sockel
+> eingeschraubt (M8)** · **Originalbeläge = Shimano, ca. 72 mm, durchgefahren**
+>
+> 🔴 **NEU geklärt:** **Baustelle #3 (hintere Bremse kehrt nicht zurück) ist ERLEDIGT** –
+> die Ursache war die **Bremshebel-Klemmung am Lenker** (zu nah/fest → **Pivot des hinteren
+> Bremshebels geklemmt**), **nicht** die Beläge.
+> 🔴 **Baustelle #5 korrigiert:** Die Cantistifte der Bergamont-Gabel sind **KÜRZER**, nicht
+> länger → die M6-Armschraube findet **keinen Gewindegriff**. ⛔ **Nicht zurückdrehen!**
 
 | ☐ | Messung | Vorne | Hinten |
 |---|---|---|---|
@@ -156,17 +182,20 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☐ | Bremskörper-Modellnummer (vorne Tektro ❓ / hinten Deore ❓ z. B. BR-M570, BR-M590) | | |
 | ☑ | Bremshebel-Modellnummer | ✅ **BL-M571** | ✅ **BL-M571** |
 | ☑ | Hebel: Zugweg | ✅ **long pull** (V-Brake) | ✅ **long pull** |
-| ☑ | **Magnet-Test Gabel: Stahl oder Alu?** | ✅ **ALU** (Suntour NEX) → 🔴 **Sockel ist eingeschraubt = tauschbar/zurückdrehbar!** | – |
-| ❌ | ~~Bremssockel: Lack/Rost sichtbar?~~ | ✅ **entfällt** – Ursache ist der **zu lange Bund**, nicht Lack | |
+| ☑ | **Magnet-Test Gabel: Stahl oder Alu?** | ✅ **ALU** (Suntour NEX **und** RST Vogue) → 🔴 **Sockel eingeschraubt = tauschbar!** | – |
+| ❌ | ~~Bremssockel: Lack/Rost sichtbar?~~ | ✅ **entfällt** – Ursache sind **zu kurze Stifte**, nicht Lack | |
 | ☐ | **Bremssockel: 3 Bohrungen für die Federraste sichtbar?** | | |
 | ☐ | 🔴 **In welchem der 3 Löcher sitzt der Federstift aktuell?** | | |
-| 🔴 | **Bremssockel-BUNDLÄNGE** (erwartet ca. **5,6 mm**) | ❓ ____ mm | |
-| 🔴 | **Ausnehmungs-TIEFE im weißen Deore-Bremsarm** (erwartet ca. **4,3 mm**) | ❓ ____ mm | – |
-| 🔴 | **Sockel-Gewinde: M8 oder M10? Zwei Abflachungen für Gabelschlüssel?** | ❓ | – |
-| 🔴 | **Aktuelle Gewindeeinschraubtiefe des Sockels in der Gabel** (🔴 min. **8–10 mm** müssen bleiben!) | ❓ ____ mm | – |
+| 🔴 | **Cantistift-GESAMTLÄNGE** (NEX **vs.** RST Vogue vergleichen!) | ❓ NEX ____ mm · RST ____ mm | ❓ ____ mm |
+| 🔴 | **Cantistift-ÜBERSTAND über die Gabelscheide** | ❓ ____ mm | ❓ ____ mm |
+| 🔴 | **Ausnehmungs-TIEFE im weißen Deore-Bremsarm** | ❓ ____ mm | – |
+| ☑ | **Sockel-Gewinde: M8 oder M10? Zwei Abflachungen für Gabelschlüssel?** | ✅ **M8** (Ø **7,95 mm** gemessen) · Abflachungen ❓ | ✅ M8 |
+| 🔴 | **Innengewinde im Stift (M6?) – wie viele mm greifbar?** | ❓ ____ mm | ❓ ____ mm |
+| 🔴 | **Einschraublänge des Stifts im Tauchrohr** (🔴 min. **10 mm** anstreben!) | ❓ ____ mm | – |
+| 🔴 | Schlüsselweite der zwei Abflachungen (für den Gabelschlüssel) | ❓ ____ mm | – |
 | ☐ | **Abstand Mitte Ausfallende → Mitte Bremssockel** (Soll 28″ = **283 mm**) | ❓ ____ | ❓ ____ |
 | ☐ | Abstand der beiden Sockel zueinander (Soll 77–85 mm) | | |
-| ☐ | Spalt zwischen Bremsarm und Sockel-Schulter (erwartet ca. **1,3 mm**) | | |
+| ☐ | Spalt zwischen Bremsarm und Sockel-Schulter | | |
 | ☐ | Bremsbefestigungsschraube: M6, Länge | | |
 | ☐ | Rückholfeder der Bremsarme: Drahtstärke / Windungen / Hakenform (Deore weiß vs. Tektro schwarz) | | |
 | ☐ | Federspannschrauben: Inbus-Größe, Verstellweg noch vorhanden? | | |
@@ -174,14 +203,17 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☐ | Bremszug-Ø (**1,6 mm** = BL-M571-Standard; 1,5 mm geht auch) | | |
 | ☐ | Bremszughülle-Ø außen (4 / **5 mm**) | | |
 | ☐ | Hüllenlänge (mm) | | |
-| ☑ | **Länge der Bremsbeläge** (V-Brake ≈ **70 mm**!) | ❓ | 🔴 **62 mm** – **7–10 mm zu kurz!** |
+| ☑ | **Länge der Bremsbeläge** | ❓ | 🟡 **62 mm** (Tektro 836) – **ca. 9–10 mm kürzer** als die Originalbeläge (**ca. 72 mm**). ⛔ **nicht** die Ursache von #3 |
+| ☑ | **Länge der ORIGINAL-Beläge** (Shimano, weiß) | ❓ | ✅ **ca. 72 mm** – und **komplett durchgefahren** |
+| ☑ | Belag-Codes **B1 / B44** = verschiedene Mischungen? | – | ✅ **nein** – alle vier Beläge **absolut identisch**, vermutlich **Chargennummer** |
 | ☐ | Belag: Reststärke über der Trägerplatte (mm) | | |
 | ☑ | Belag-Typ / Modellnummer | ❓ | ✅ **Tektro 836** |
-| 🔴 | 🔴 **Konvex-/Konkavscheiben: dünn am Arm, dick außen?** (falsch = Bremse kehrt nicht zurück). ⚠️ **Tektro-Scheiben in einer Shimano-Zange – Stapelreihenfolge prüfen!** | | 🔴 |
+| 🟡 | **Konvex-/Konkavscheiben: dünn am Arm, dick außen?** ⚠️ **Tektro-Scheiben in einer Shimano-Zange** – Stapelreihenfolge bei der nächsten Demontage prüfen. ⛔ **War nicht die Ursache von #3** | | 🟡 |
+| 🔴 | **Bremshebel-Klemmschellen: Abstand zueinander + Anzugsmoment** (Alu-Lenker **4–6 Nm**) | ❓ ____ mm / ____ Nm | ❓ ____ mm / ____ Nm ← 🔴 **Ursache von Baustelle #3** |
 | ☐ | Belag liegt komplett auf der Bremsflanke? | | |
 | ☐ | Felgenkante scharfkantig? (**Mach1 210**) | | |
 | ☐ | Belagabstand zur Felge (Soll **1 mm** pro Seite) | | |
-| 🔴 | **Kehrt die Bremse vollständig zurück?** 🔴 | | 🔴 **NEIN** |
+| ✅ | **Kehrt die Bremse vollständig zurück?** | ✅ **JA** | ✅ **JA** – nach dem Nachsetzen der Bremshebel-Klemmung |
 | ☐ | Hebelweg bis zum Druckpunkt (mm / Bruchteil) | | |
 
 ## 6. Licht (5 min)
@@ -235,22 +267,28 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☐ | Die **intakte Seite** der Nabe, wo die Feder fehlt | Vergleich |
 | ☐ | Schnellspanner zerlegt (alle Teile in Reihenfolge) | Feder-Identifikation |
 | ☐ | Beide Bremshebel von unten (Modellnummer) | Zugweg bestätigen |
-| ☐ | 🔴 **Bremssockel an der Gabel, Nahaufnahme, seitlich beleuchtet** | Lack? Rost? Abflachungen (→ Alu, eingeschraubt)? |
+| ☐ | 🔴 **Bremssockel an der Gabel, Nahaufnahme, seitlich beleuchtet** | **Stiftlänge/Überstand**, Abflachungen (→ Alu, eingeschraubt)? |
 | ☐ | 🔴 **Bremssockel ohne Bremsarm, von vorne** | die **3 Federrasten-Bohrungen** sichtbar machen |
 | ☐ | 🔴 **Rückseite eines Bremsarms** | Federstift erkennen |
 | ☐ | Weiße und schwarze Bremsarme nebeneinander | Vergleich |
 | ☐ | Federn beider Bremsarme nebeneinander | Drahtstärke/Windungen/Hakenform |
 | ☐ | Seitenansicht der Gabel mit Maßband am Bremssockel | Sockelhöhe (26" vs 28") |
 | ☐ | 🔴 **Belagträger hinten zerlegt** (Scheiben-Reihenfolge) | dünn/dick vertauscht? |
-| ☐ | 🔴 **Alte weiße Beläge vs. Spenderrad-Beläge nebeneinander** | Länge/Form vergleichen |
+| ☑ | 🔴 **Alte weiße Beläge vs. Spenderrad-Beläge nebeneinander** | ✅ **72 mm vs. 62 mm** – Originalbeläge **durchgefahren** |
 | ☐ | Felgen-Bremsflanke hinten, Nahansicht der Kante | scharfkantig? |
 | ☐ | Kassette + Freilauf, Nahansicht Lockring | Kassette vs. Schraubkranz |
 | ☐ | Kette, Aufdruck | Modell |
 | ☐ | Kurbelinnenseite | Modell + Länge |
 | ☑ | ~~Schaltwerk, Umwerfer, Schalthebel~~ | ✅ **RD-M511 · FD-C050 · SL-M580** |
-| 🔴 | **Bremssockel-Bund der Gabel, seitlich, mit Messschieber** | 🔴 ca. **5,6 mm**? → Baustelle 5 |
-| 🔴 | **Deore-Bremsarm von innen (Ausnehmung)** | 🔴 ca. **4,3 mm**? → Baustelle 5 |
-| 🔴 | **Bremssockel ohne Arm, von oben – die zwei Abflachungen** | 🔴 eingeschraubt? M8/M10? |
+| 🔴 | **Cantistift der NEX-Gabel mit Maßband/Messschieber – Gesamtlänge + Überstand** | 🔴 Baustelle 5 |
+| 🔴 | **Cantistift der RST Vogue TNL – dieselben Maße zum Vergleich** | 🔴 **der Kernbefund von Baustelle 5** |
+| 🔴 | **Deore-Bremsarm von innen (Ausnehmung)** + **M6-Schraube daneben** | 🔴 Baustelle 5 |
+| 🔴 | **Bremssockel ohne Arm, von oben – die zwei Abflachungen** | 🔴 eingeschraubt? ✅ **M8** |
+| 🔴 | **RST Vogue TNL: Standrohre im Streiflicht, Nahansicht der Roststellen** | 🔴 **Baustelle 14 – Fingernageltest dokumentieren** |
+| 🔴 | **RST Vogue TNL: Typenschild/Aufkleber an Gabelbrücke oder Tauchrohr** | 🔴 Modell + Baujahr + Standrohr-Ø |
+| 🔴 | **RST Vogue TNL: Schaftende mit Gewinde** | 🔴 Schaftlänge/Gewindelänge → Baustelle 6 |
+| 🔴 | **Bergamont-Rahmenprägung `52 T4/T6 Heat Treated 6061 Lite Alloy`** | ✅ Spenderrad-Identifikation belegen |
+| 🔴 | **Bremshebel am Lenker, beide Klemmschellen im Bild** | ✅ Ursache von Baustelle 3 dokumentieren |
 | ☐ | **Sattelstützen-Stempel unter der Klemme** | 🔴 27,2 mm? |
 | ☐ | **Umwerfer-Schelle mit Maßband** | 🔴 28,6 oder 31,8 mm |
 | ☐ | **Innenlager nach Ausbau (Abdruck BB-ES25 + Achslänge)** | 🔴 113/118/121/126 mm |

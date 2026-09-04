@@ -46,6 +46,32 @@ Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdru
 | Lenkerendstopfen | bar end plugs | |
 | Lenkerenden (Hörnchen) | bar ends | |
 | Klemmung / Schelle | clamp | |
+| 🔴 **Bremshebel-Klemmschelle** | **brake lever clamp / band** | ⚠️ **dein Baustelle-#3-Thema:** zu nah am Nachbarhebel oder zu fest angezogen → **verkantet den Angelpunkt** |
+| **Angelpunkt / Drehpunkt des Bremshebels** | **lever pivot** | 🔴 **nicht** mit dem Pivot-Bolzen der Bremszange verwechseln! |
+| **Klemmmoment am Alu-Lenker** | clamp torque | 🔴 **4–6 Nm** – zu fest = Druckstellen/Risse, zu nah = geklemmter Pivot |
+
+## Federgabel
+
+| Deutsch | Englisch | Erklärung / woran erkennbar |
+|---|---|---|
+| Federgabel | suspension fork | |
+| **Tauchrohr / Gabelunterteil** | **fork lower / slider / lowers** | das Teil, das über die Standrohre gleitet – bei dir **Aluminium** |
+| **Standrohr** | **stanchion / upper tube** | das glatte, verchromte Rohr – 🔴 **Rost hier = kritisch** |
+| **Staubschabring / Abstreifer** | **dust seal / wiper / dust cover** | 🔴 **dein Defekt:** ausgefallen → Öl raus. Ersatz: **RST Dust Seal Kit** |
+| Spiralfeder im Dichtring | garter spring / coil spring in seal | hält den Dichtring auf dem Standrohr |
+| **Öldämpfungsbein / Dämpfer** | **damper leg** | bei der **RST Vogue TNL rechts** |
+| **Stahlfeder / Schraubenfeder** | **coil spring** | bei der RST Vogue **links**, zusammen mit dem MCU |
+| **MCU / Elastomer-Anschlag** | **micro-cell urethane bumper** | Progressive-Anschlagpuffer in der Federseite |
+| **Lockout / Blockierung** | **lockout** | 🔴 **TNL = hydraulischer Lockout**, Drehrad am Tauchrohr |
+| **Vorspannung (einstellbar)** | **preload (adjustable)** | Drehrad oben auf der Federseite |
+| **Zugstufe / Druckstufe** | rebound / compression | bei der RST Vogue über das Öl gedämpft |
+| **Gabelöl** | **fork oil** | Viskosität **5W–10W** üblich – Füllmenge nach Hersteller |
+| 🔴 **Grübchen / Lochfraß** | **pitting** | ⛔ **Abbruchkriterium:** neue Dichtungen laufen auf rauer Fläche sofort wieder aus |
+| 🔴 **Fingernageltest** | fingernail test | mit dem Nagel über die Roststelle fahren: **bleibt er hängen = Grübchen = unrettbar** |
+| **Chrompolitur / Stahlwolle 0000** | chrome polish / 0000 steel wool | zum Entfernen von **oberflächlichem** Flugrost |
+| **Gabelkronenring / Lagersitz** | **crown race** | sitzt auf dem Schaft direkt über der Gabelkrone, muss beim Gabeltausch **umgesetzt** werden |
+| Kronenring-Abzieher / -Aufsetzer | crown race puller / setter | |
+| **Federweg** | **travel** | NEX **63 mm** („T63") · RST Vogue ca. **50 mm** |
 
 ## Antrieb & Schaltung
 
@@ -172,7 +198,10 @@ Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdru
 | Cantilever-Bremse | cantilever brake | kurze Arme, Mittelzug |
 | Seitenzugbremse | caliper brake / side pull | Rennrad |
 | Scheibenbremse | disc brake | |
-| Bremssockel / Sockel | brake boss / stud | M6-Gewindebolzen am Rahmen |
+| 🔴 **Cantistift / Sockelbolzen** | **canti stud / brake boss stud** | ⚠️ **M8-Außengewinde** (zum Einschrauben in die Gabel), **M6-Innengewinde** (für die Bremsbefestigungsschraube). Gemessen: **Ø 7,95 mm = M8** |
+| **Einschraublänge** | thread engagement / screw-in length | wie tief der Cantistift im Tauchrohr steckt – 🔴 **min. 10 mm** anstreben |
+| **Gesamtlänge des Stifts** | overall stud length | 🔴 **die entscheidende Zahl** beim Ersatzkauf – mit dem Datenblatt vergleichen |
+| **Stift-Überstand** | stud protrusion | wie weit der Stift über die Gabelscheide herausragt – 🔴 **zu kurz = kein Gewindegriff für die M6-Schraube** |
 | Federspannschraube | spring tension screw | kleine Schraube am Bremsarm |
 | Rückholfeder (am Bremsarm) | return spring | |
 | Bremsbelag / Bremsklotz | brake pad / brake shoe | |
@@ -282,4 +311,9 @@ Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdru
 | Stahlstift an der Gabel mit 3 kleinen Bohrungen | **Bremssockel / Cantisockel** mit Federrasten-Bohrungen |
 | Bolzen mit kleinem Hebel und Rändelmutter | Schnellspanner (quick release) |
 | kleine Schraube am Bremsarm, die in den Rahmen ragt | Federspannschraube (spring tension screw) |
+| glattes verchromtes Rohr mit Rostflecken | **Standrohr** einer Federgabel – 🔴 **Fingernageltest!** |
+| Drehrad oben am Tauchrohr | **Vorspannungs-Einstellung** (preload) |
+| Hebel/Rädchen mit „Lock"-Aufdruck | **Lockout** (Federungs-Blockierung) |
+| Ölspur am unteren Ende des Tauchrohrs | 🔴 **Dichtung ausgefallen** – Öl ist aus dem Dämpfungsbein ausgetreten |
+| Bremshebel, der nach dem Loslassen nicht zurückgeht | 🔴 **Klemmschelle zu fest/zu nah** → **Angelpunkt (Pivot) geklemmt** – **nicht** die Zange! |
 | Blechstück am Ausfallende, an dem das Schaltwerk hängt | Schaltauge (derailleur hanger) |

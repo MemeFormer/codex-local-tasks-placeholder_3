@@ -3,7 +3,20 @@
 **Baugruppe:** Gabel · Steuersatz (Lagerschalen, Konus, Mutter, Kontermutter) · Vorbau ·
 Lenker · Griffe
 **Zustand:** ✅ Lenkung freigängig, kein axiales Spiel · 🔴 **Gewinde zu kurz für
-Kontermutter – nur Provisorium mit Loctite** · ⚠️ Vorderrad dreht nicht frei (separates Thema)
+Kontermutter – nur Provisorium mit Loctite** · ✅ Vorderrad/Dynamo-Nabe läuft frei (Baustelle #13 erledigt)
+
+> 🔴 **KORREKTUR 2026-09-05 – zwei wichtige Berichtigungen:**
+>
+> | Was bisher stand | Was richtig ist |
+> |---|---|
+> | „Suntour NEX = passend/original zum weißen Fahrrad" | ⛔ **falsch.** Die NEX ist das **Originalteil des Spenderrads** – einem **Bergamont Horizon 4.0** |
+> | „Wo ist die alte weiße Gabel?" | ✅ **geklärt: Sie ist noch da!** Es ist eine **RST Vogue TNL** (Coil/Öl, Vorspannung + Lockout) → **[Baustelle #14](../04-diagnose/rst-vogue-tnl-federgabel.md)** |
+> | „Bremssockel-Stifte der schwarzen Gabel sind LÄNGER" | ⛔ **falsch – sie sind KÜRZER.** Deshalb greift das Gewinde der weißen Shimano-Arme nicht → [vordere-bremsarme-sockel.md](../04-diagnose/vordere-bremsarme-sockel.md) |
+>
+> 💡 **Und daraus folgt die wichtigste Erkenntnis dieser Datei:** Die **RST Vogue TNL** ist
+> **für genau dieses Steuerrohr gebaut**. Ihr Schaft ist also **lang genug** – sie löst
+> Baustelle #1 (Einstecktiefe), #5 (Bremssockel) **und** #6 (Gewindelänge) **auf einen Schlag**.
+> → **Variante A+** unten.
 
 > ✅ **GEKLÄRT (2026-09-04) – alle Teilenummern entschlüsselt:**
 >
@@ -18,8 +31,11 @@ Kontermutter – nur Provisorium mit Loctite** · ⚠️ Vorderrad dreht nicht f
 > | Gabelscheiden | ✅ **Aluminium** (Suntour-NEX-Standard) → 🔴 **Bremssockel eingeschraubt** |
 > | Bremssockel | ✅ V-Brake-/Canti-Sockel vorhanden |
 > | Lenker | ⚠️ vom Spenderrad, breiter + geschwungener (Original war **XLC Comp** Flatbar) |
+> | 🔴 **Spenderrad** | ✅ **Bergamont Horizon 4.0** – Rahmenprägung **`52 T4/T6 Heat Treated 6061 Lite Alloy`** = Alu 6061, **wärmebehandelt T4/T6**, **Rahmengröße 52 cm** |
+> | 🔴 **Original-Gabel weißes Rad** | ✅ **RST Vogue TNL** – Coil/Öl, **Vorspannung einstellbar + hydraulischer Lockout**. **Noch vorhanden, aber defekt** → [Baustelle #14](../04-diagnose/rst-vogue-tnl-federgabel.md) |
+> | Steuerrohr-Differenz | 🔴 **weißes Steuerrohr 20–30 mm länger** als das des Spenderrads → siehe Abschnitt 3b |
 >
-> 🔴 **UND DAMIT IST DIE URSACHE DES GEWINDE-PROBLEMS GEKLÄRT** – siehe Abschnitt 3a.
+> 🔴 **UND DAMIT IST DIE URSACHE DES GEWINDE-PROBLEMS GEKLÄRT** – siehe Abschnitt 3a **und 3b**.
 
 ---
 
@@ -28,7 +44,11 @@ Kontermutter – nur Provisorium mit Loctite** · ⚠️ Vorderrad dreht nicht f
 | Deutsch | Englisch | Bei mir |
 |---|---|---|
 | Steuerrohr (Rahmen) | head tube | weißes Rad |
-| Gabel | fork | ✅ **SR Suntour NEX SF14 NEX P 700C TS T63** (vom Spenderrad, schwarz) |
+| Gabel (jetzt verbaut) | fork | ✅ **SR Suntour NEX SF14 NEX P 700C TS T63** – ⛔ **vom Spenderrad (Bergamont Horizon 4.0)**, schwarz |
+| Gabel (Original weißes Rad) | fork | 🔴 **RST Vogue TNL** – Coil/Öl, Vorspannung + Lockout – **noch vorhanden, defekt** → [Baustelle #14](../04-diagnose/rst-vogue-tnl-federgabel.md) |
+| Tauchrohr | fork lower / stanchion | RST: **25,4 mm Stahl, Ti-Farbe** · NEX: Stahl |
+| Standrohr | stanchion | s. o. – 🔴 bei der RST **Ø messen** (25,4 vs. 28,6 mm) für den Dichtungssatz |
+| Gabelscheiden | fork legs | beide **Aluminium** |
 | Gabelschaft mit Außengewinde | threaded steerer | ✅ **1⅛″ × 24 tpi**, nur ca. 55 mm Gewinde |
 | Gabelkrone | fork crown | ✅ Alu, mit Lagersitz (crown race seat) ❓ 26,4 oder 30 mm |
 | Lagerschale (in den Rahmen gepresst) | headset cup | ❓ Original weiß oder schwarz? 💡 Bei 1⅛″: **EC34/28,6 – EC34/30** |
@@ -37,9 +57,9 @@ Kontermutter – nur Provisorium mit Loctite** · ⚠️ Vorderrad dreht nicht f
 | **Mutter** | adjustable nut | ✅ montiert |
 | **Kontermutter** | **locknut** | 🔴 **nicht montierbar – Gewinde reicht nicht** |
 | Zahnring | toothed washer | ❓ (weglassen bringt 1–2 mm) |
-| Quill-Vorbau mit Innenkeil | quill stem with wedge | ✅ vom Spenderrad, winkelverstellbar |
+| Quill-Vorbau mit Innenkeil | quill stem with wedge | ✅ vom Spenderrad (**Bergamont BGM Comp Vario**-Typ, Lenkerklemmung **25,4 mm**), winkelverstellbar, **über dem Steuersatz länger als der Staiger-Originalvorbau** |
 | Faceplate / Lenkerklemmplatte | faceplate | ✅ |
-| Lenker | handlebar | ✅ vom Spenderrad, breiter + geschwungener |
+| Lenker | handlebar | ⚠️ vom Spenderrad (**Bergamont**), breiter + geschwungener – BGM-Riser typ. **30–33° Backsweep** |
 | Ahead-Konverter | quill-to-threadless adapter | 💡 mögliche Umbaulösung |
 
 ---
@@ -137,21 +157,25 @@ Die Gabelstempelung **SF14 NEX P 700C TS T63** erklärt das Problem vollständig
 ```
 Schaftlänge ab Werk (Annahme 210 mm)
   – Steuerrohr des SPENDERRADS (kürzer)      →  Schaft wurde oben gekürzt
-  + Steuerrohr des STAIGER (ca. 23 mm länger) →  mehr Schaft nötig
+  + Steuerrohr des STAIGER (✅ gemessen 20–30 mm länger) →  mehr Schaft nötig
   ────────────────────────────────────────────
   =  nur noch 1–2 Gewindegänge frei über dem Konus   ← EXAKT dein Symptom ✅
 ```
 
 > 🎯 **Der Schaft wurde für das kürzere Steuerrohr des Spenderrads gekürzt – dabei ist
-> Gewinde weggeschnitten worden. Das STAIGER-Steuerrohr ist ca. 23 mm länger, deshalb
-> reicht das verbleibende Gewinde nicht mehr für Mutter + Kontermutter.**
+> Gewinde weggeschnitten worden. Das STAIGER-Steuerrohr ist ✅ **gemessen 20–30 mm länger**,
+> deshalb reicht das verbleibende Gewinde nicht mehr für Mutter + Kontermutter.**
+>
+> 🔴 **Und der Bergamont-Vorbau verschärft das:** Er ist **über dem Steuersatz länger** und
+> **oben einstellbar** → der Lenker sitzt zwar auf guter Höhe, aber der Vorbau **braucht selbst
+> mehr Schaft**. → **Abschnitt 3b**
 
 **Verifikation am Rad (bitte messen):**
 
 | ☐ | Messung | Soll/Hinweis | Wert |
 |---|---|---|---|
 | ☐ | Steuerrohrlänge STAIGER außen | | ____ mm |
-| ☐ | Steuerrohrlänge Spenderrad außen (falls Rahmen noch da) | Differenz ≈ 23 mm? | ____ mm |
+| ☐ | Steuerrohrlänge **BERGAMONT** außen (Rahmen ist noch da) | Differenz ✅ **20–30 mm** | ____ mm |
 | ☐ | Länge des Gewindes am Schaft **gesamt** (Mutter ganz runter, Konus-Sitz → Gewinde-Ende) | ≈ 55 mm ab Werk | ____ mm |
 | ☐ | Freies Gewinde über dem Lagerkonus | 1–2 Gänge = 1–2 mm | ____ mm |
 | ☐ | Gewindesteigung messen / zählen | **24 Gänge pro Zoll** = 1,058 mm | ____ tpi |
@@ -164,9 +188,109 @@ Schaftlänge ab Werk (Annahme 210 mm)
 
 ---
 
+## 3b. 🔴 Steuerrohr-Differenz: Warum der Vorbau die Höhe rettet, aber nicht den Schaft
+
+**Befund (von dir gemessen):** Das Steuerrohr des **weißen Staiger-Rahmens** ist
+**20–30 mm länger** als das des **Bergamont-Spenderrads**. Trotzdem sitzt der Lenker fast auf
+gleicher Höhe – weil der **Bergamont-Vorbau über dem Steuersatz länger und oben einstellbar** ist.
+
+```
+  WEISSES RAD (Staiger)         SPENDERRAD (Bergamont)         JETZT (Kombination)
+  ┌──────────────┐              ┌───────────────────┐          ┌───────────────────┐
+  │ Vorbau: kurz │              │ Vorbau: LANG      │          │ Vorbau: LANG ✅    │
+  │ über Steuer- │              │ über Steuersatz   │          │ → Höhe stimmt      │
+  │ rohr         │              │ + oben einstellbar│          │                    │
+  ├──────────────┤              ├───────────────────┤          ├───────────────────┤
+  │ Steuerrohr H │              │ Steuerrohr H−20…30│          │ Steuerrohr H 🔴    │
+  │              │              │                   │          │ (lang, vom Staiger)│
+  ├──────────────┤              ├───────────────────┤          ├───────────────────┤
+  │ Gabelschaft  │              │ Gabelschaft NEX   │          │ Gabelschaft NEX ⛔ │
+  │ RST: LANG ✅ │              │ KURZ (dafür gebaut│          │ KURZ – für ein um  │
+  │              │              │ = passend)        │          │ 20–30 mm KÜRZERES  │
+  │              │              │                   │          │ Rohr gekürzt       │
+  └──────────────┘              └───────────────────┘          └───────────────────┘
+```
+
+| Baugruppe | Weiß (Staiger) | Spender (Bergamont) | **Kombination jetzt** |
+|---|---|---|---|
+| Steuerrohr | **lang** | 20–30 mm kürzer | 🔴 **lang** |
+| Vorbau über Steuersatz | kurz | **lang + einstellbar** | ✅ **lang** → Höhe ok |
+| Gabelschaft nutzbar | **lang** (RST Vogue) | kurz (NEX) | ⛔ **kurz** |
+
+> ⛔ **Der Denkfehler, den man hier leicht macht:**
+> **Höhen-Kompensation ist keine Schaftlängen-Kompensation.**
+> Ein langer Vorbau macht den Lenker hoch – aber er **braucht selbst mehr Gabelschaft**,
+> weil er tiefer ins Steuerrohr reichen muss. Genau diese Länge fehlt: Die NEX wurde für ein
+> **20–30 mm kürzeres** Steuerrohr gekürzt, und beim Kürzen eines Gewindeschafts wird
+> **immer oben** abgeschnitten – also **Gewinde** weggenommen.
+>
+> **Das ist die vollständige Erklärung für Abschnitt 3a.** Beide Befunde gehören zusammen:
+> `55 mm Gewinde ab Werk` − `20–30 mm Steuerrohr-Plus des Staiger-Rahmens` = **1–2 freie Gänge**.
+
+### 🟡 Vorbauvergleich: Bergamont-Vorbau (verbaut) vs. Staiger-Originalvorbau
+
+| | 🔴 **Bergamont-Vorbau (jetzt verbaut)** | **Staiger-Originalvorbau** |
+|---|---|---|
+| Typ | Quill / Schaftvorbau, winkelverstellbar | Quill / Schaftvorbau |
+| Länge über Steuersatz | **länger** | kürzer |
+| Höhenverstellung oben | ✅ einstellbar | ❓ TODO |
+| Lenkerklemmung | **25,4 mm** (BGM-Comp-Vario-typisch) | ❓ TODO (25,4 / 26,0 mm) |
+| Einsteck-Ø (Schaftteil) | 🔴 **muss 25,4 mm sein** (1⅛″-Schaft!) | dito |
+| Reach / Winkel | ❓ TODO ____ mm / ____° | ❓ TODO |
+| 🔴 Schaftbedarf | **braucht MEHR Gabelschaft** | ✅ bräuchte **weniger** |
+| Ergebnis | ✅ Lenkerhöhe gut, ⛔ Schaft zu kurz | ⛔ Lenker zu tief, ✅ Schaft würde reichen |
+
+🔴 **Beides zusammen geht nicht.** Es sei denn:
+
+| Weg | Was | 💰 | Löst |
+|---|---|---|---|
+| **Gabel tauschen** | **RST Vogue TNL zurückbauen** (Schaft ist für dieses Rohr gebaut) | 25–50 € (Dichtungen + Öl) | ✅ **#1 + #5 + #6 + Höhe** |
+| **Lenker tauschen** | **Riser-Lenker** mit mehr Rise/Kröpfung + Staiger-Originalvorbau | 20–40 € | ✅ Höhe, ✅ Schaftlänge – **aber** Bremssockel-Problem bleibt |
+| **Ahead-Umbau** | Gabelschaft kürzen, Ahead-Vorbau + Spacer → Höhe frei einstellbar | 70–130 € | ✅ #6 dauerhaft, ✅ Höhe – **Schaft muss lang genug sein** |
+
+### 📏 Diese fünf Zahlen entscheiden alles
+
+| ☐ | Messung | Wo messen | Warum |
+|---|---|---|---|
+| ☐ **A** | Steuerrohrlänge **weiß** (Staiger) | Außenkante → Außenkante Steuerrohr | Basis |
+| ☐ **B** | Steuerrohrlänge **Bergamont** | dito | A − B = 20–30 mm ✅ bekannt, bitte exakt |
+| ☐ **C** | nutzbarer Gabelschaft **NEX** | Gabelkrone → Schaftspitze | 🔴 **die kritische Zahl** |
+| ☐ **D** | Einschraublänge des **Vorbaukonus** | Gewindelänge am Keil/Expander | Mindesteinschraubung (meist 60–70 mm) |
+| ☐ **E** | Schaftlänge der **RST Vogue TNL** | Gabelkrone → Schaftspitze | Reserve im Vergleich zur NEX |
+
+> ➡️ **Entscheidungsregel:** `C ≥ A + 30 mm + D` muss gelten. Aktuell gilt es **nicht**.
+> Gilt `E ≥ A + 30 mm + D` → ✅ **Variante A+ (RST zurückbauen)**.
+
+---
+
 ## 4. 💡 Lösungsvarianten (von einfach bis aufwendig)
 
-### 🎯 Variante A0 – NEX-Gabel mit 225-mm-Schaft (💰 50–90 €, sauberste Direktlösung)
+### ⭐ Variante A+ – RST Vogue TNL zurückbauen (💰 25–50 €) – **die empfohlene Lösung**
+
+> ✅ **Die Original-Gabel des weißen Rads ist noch vorhanden** – es ist eine
+> **RST Vogue TNL** (Coil/Öl, Vorspannung einstellbar + hydraulischer Lockout).
+> Sie ist **für genau dieses Steuerrohr gebaut** → die Schaftlänge stimmt von Haus aus.
+
+| Punkt | Detail |
+|---|---|
+| Was tun | Tauchrohre demontieren, **Dichtungen erneuern**, **Öl nachfüllen**, Standrohre polieren, Gabel zurückbauen |
+| Was kaufen | **RST Dust Seal Kit – Paar, 14,28 €** (bike24) + **Gabelöl 5W–10W** (ca. 8–12 €) + Chrompolitur / Stahlwolle 0000 (ca. 5 €) |
+| ⛔ **Vorher messen** | 🔴 **Standrohr-Ø**: lieferbar ist die **28,6-mm-Version** des Dichtungssatzes (Vogue/VIVair/F1RST); die 30-mm-Version gehört zu Omega/Blaze. Nach RST-Katalog 2008 hat die Vogue **25,4-mm-Standrohre (Stahl, Ti-Farbe)** → **messen, bevor du bestellst!** Alternativ über **Paul Lange & Co.** (RST-Vertrieb Deutschland) |
+| 🔴 **Abbruchkriterium** | **Fingernageltest**: Fängt der Fingernagel an einer Roststelle an den Standrohren → **Grübchen (Pitting)** = Gabel unrettbar → Variante A0 / D |
+| Aufwand | ca. **1–1,5 h** inkl. Steuersatz neu einstellen |
+| Bonus | ✅ löst **Baustelle #1** (Einstecktiefe), **#5** (Bremssockel – weiße Shimano-Arme passen wieder), **#6** (Gewindelänge) **und** das Höhenproblem |
+| Nachteil | ⚠️ Schutzblech-Ösen der NEX entfallen → Schutzblech neu befestigen (Universal-/P-Schellen, 3–8 €) |
+| Geometrie | ⚠️ Federweg **ca. 50 mm** statt 63 mm → Tretlager ca. **10 mm höher**, Lenkwinkel ca. **0,5° steiler** – **das ist der Originalzustand** des weißen Rads |
+
+➡️ **Ausführlicher Rettungsplan mit Diagnose, Entscheidungsschritten und Teileliste:**
+**[04-diagnose/rst-vogue-tnl-federgabel.md](../04-diagnose/rst-vogue-tnl-federgabel.md)** (Baustelle #14)
+
+### 🎯 Variante A0 – NEX-Gabel mit 225-mm-Schaft (💰 50–90 €) – **Plan B, falls die RST hin ist**
+
+> ⚠️ **Achtung:** 225 mm statt 210 mm gewinnt **15 mm** – bei einer Steuerrohr-Differenz von
+> **20–30 mm** (Abschnitt 3b) reicht das **allein wahrscheinlich nicht**. Deshalb nur sinnvoll
+> **in Kombination** mit einem kürzeren Vorbau, einem flachen Steuersatz-Muttersatz
+> (Variante A) oder einem Riser-Lenker.
 
 Da NEX-Gewindeschäfte in **210 mm und 225 mm** angeboten werden: Falls deine Gabel einen
 **210-mm-Schaft** hat, bringt ein **225-mm-Schaft ca. 15 mm mehr** – das reicht mit hoher
@@ -207,11 +331,16 @@ Cane Creek** oder aus einem **1⅛″-Ersatzteil-Gewindesteuersatz**.
 
 Ebenfalls möglich: **Zahnring weglassen**, falls verbaut (bringt 1–2 mm).
 
-### Variante B – Original-Gabel des weißen Rads zurück (falls vorhanden, 💰 0 €)
+### ✅ Variante B – Original-Gabel des weißen Rads zurück → **GEKLÄRT, heißt jetzt Variante A+**
 
-Prüfen: Gibt es die weiße Original-Gabel noch? Ist deren Schaft lang genug?
-Nachteil: die schwarze Gabel hat die Schutzblech-Ösen, die die Montage so einfach gemacht haben.
-→ Dann Schutzblech-Montage neu lösen (Universal-Schellen).
+> ✅ **Erledigt:** Die weiße Original-Gabel **ist noch vorhanden** – eine **RST Vogue TNL**.
+> Sie ist **defekt** (Öl aus dem Dämpfungsbein ausgetreten, Dichtungen verschlissen,
+> leichter Rost an den Standrohren), aber **grundsätzlich rettbar**.
+> → **Variante A+ oben** und **[rst-vogue-tnl-federgabel.md](../04-diagnose/rst-vogue-tnl-federgabel.md)**.
+
+**Schaftlänge:** ✅ passt garantiert – sie war original in **diesem** Rahmen verbaut.
+**Nachteil:** die schwarze NEX-Gabel hat die Schutzblech-Ösen, die die Montage so einfach
+gemacht haben → dann Schutzblech-Montage neu lösen (Universal-/P-Schellen, 💰 3–8 €).
 
 ### Variante C – Passende Gabel kaufen (💰💰 20–90 €)
 
@@ -225,7 +354,7 @@ Suchkriterien (alle müssen passen) – **jetzt mit deinen Ist-Werten als Refere
 | **Schaftlänge** | ≥ Steuerrohrlänge + 30 mm + Vorbau-Einstecktiefe | ab Werk **210 / 225 mm** → 🔴 **225 mm oder länger suchen** |
 | Gabelschaft-Ø innen | passend zum Quill-Vorbau → **25,4 mm bei 1⅛″** | ❓ messen |
 | Einbauhöhe (axle-to-crown) | möglichst gleich zur jetzigen Gabel | **445–469 mm** (Gewinde) / 477 mm (Ahead 63 mm) |
-| Federweg | **63 mm** (original Staiger Daytona hatte Suntour NCX-D LO 63 mm!) | ✅ T63 = 63 mm |
+| Federweg | **63 mm** ⚠️ (deine Original-Gabel, die **RST Vogue TNL**, hatte ca. **50 mm**) | ✅ T63 = 63 mm |
 | Versatz (offset) | ca. **42 mm** | ✅ 42 mm |
 | Bremssockel | V-Brake/Canti-Sockel, Höhe 28″ = **283 mm** ab Achsmitte | ✅ vorhanden |
 | Schutzblech-Öse | an der Gabelbrücke (M5-Gewinde) | ✅ vorhanden |
@@ -233,11 +362,14 @@ Suchkriterien (alle müssen passen) – **jetzt mit deinen Ist-Werten als Refere
 | Einbaubreite | **100 mm** vorne | ✅ 100 mm |
 | Achsaufnahme | **9-mm-Schnellspanner** | ✅ 9 mm QR |
 
-💡 **Historischer Bonus:** Das originale **Staiger Daytona** war ab Werk mit einer
-**Suntour NCX-D LO 63 mm** Federgabel, **Mach1 210**-Felgen und **XLC**-Komponenten
-ausgestattet. Deine NEX T63 (63 mm) ist damit eine **zeitlich und konstruktiv passende**
-Gabel – die Geometrie ist also **nicht** grundsätzlich falsch. Nur die **Schaftlänge**
-ist das Problem.
+💡 **Historischer Bonus – mit einer wichtigen Korrektur:** Serien-Prospekte des
+**Staiger Daytona** nennen eine **Suntour NCX-D LO 63 mm** Federgabel, **Mach1 210**-Felgen
+und **XLC**-Komponenten. ⛔ **Dein weißes Rad hatte aber nachweislich eine RST Vogue TNL** –
+Ausstattung und Baujahr variierten innerhalb der Serie. **Verlass dich also nicht auf
+Prospektangaben, sondern auf die Teile am Rad.**
+Die NEX T63 (63 mm) ist geometrisch **nicht grundsätzlich falsch** – nur die **Schaftlänge**
+ist das Problem, und die kommt daher, dass die Gabel für ein **20–30 mm kürzeres Steuerrohr**
+(Bergamont) gekürzt wurde.
 
 **Fundorte:** Kleinanzeigen, Fahrradbörse, Schrottrad beim Händler, Werkstatt-Restbestände.
 
@@ -275,23 +407,30 @@ Machbar, aber: Kronen-Auspresswerkzeug + Presswerkzeug nötig, Schaft muss exakt
 Lohnt sich nur bei einer sehr guten/teuren Gabel. Deine ursprüngliche Entscheidung
 („nicht gemacht – unnötig und riskant“) war richtig.
 
-### 💡 Variante B ist besser als sie klingt – sie löst zwei Baustellen gleichzeitig
+### 💡 Variante A+ löst drei Baustellen gleichzeitig – die weiße Gabel IST noch da
 
-Wenn die **weiße Original-Gabel** noch vorhanden ist, passt nicht nur der Schaft wieder
-(sie war ja original in diesem Rahmen), sondern **auch der Bremssockel** – die guten weißen
-Bremsarme vorne würden wieder passen.
+Die **RST Vogue TNL** war original in **diesem** Rahmen → der Schaft passt, **und** die
+Bremssockel passen zu den guten weißen Shimano-Bremsarmen.
 
-| Baustelle | mit schwarzer Gabel | mit weißer Original-Gabel |
+| Baustelle | 🔴 mit NEX (Bergamont-Gabel) | ✅ mit RST Vogue TNL (Original) |
 |---|---|---|
-| Zu wenig Gewinde für die Kontermutter | ⚠️ Provisorium mit Loctite | ✅ original passend |
-| Weiße Bremsarme passen nicht auf den Sockel | ⚠️ schwarze Arme (zu weich) | ✅ original passend |
-| Schutzblech-Befestigung vorne | ✅ passte „easy“ (Ösen der schwarzen Gabel) | ⚠️ neu lösen: Universal-/P-Schellen, 💰 3–8 € |
-| Lenkgeometrie | ⚠️ evtl. verändert (nervös) | ✅ original |
+| **#6** Zu wenig Gewinde für die Kontermutter | ⚠️ Provisorium mit Loctite | ✅ original passend |
+| **#1** Quill-Vorbau-Mindesteinstecktiefe | 🔴 kritisch (Schaft zu kurz) | ✅ original passend |
+| **#5** Weiße Bremsarme passen nicht auf den Sockel | ⛔ Stifte **zu kurz** → kein Gewindegriff | ✅ original passend |
+| Lenkerhöhe | ✅ langer Bergamont-Vorbau | ✅ Originalvorbau + ggf. Riser-Lenker |
+| Schutzblech-Befestigung vorne | ✅ passte „easy“ (Ösen der NEX) | ⚠️ neu lösen: Universal-/P-Schellen, 💰 3–8 € |
+| Lenkgeometrie | ⚠️ verändert (63 mm statt ca. 50 mm) | ✅ original |
+| Federung/Dämpfung | ⚠️ Stahlfeder, kaum Dämpfung | ✅ **Coil + Öldämpfung, Lockout** – deutlich besser |
+| **Voraussetzung** | – | 🔴 **Standrohre müssen den Fingernageltest bestehen** |
 
-**🔴 Erste Frage also: Wo ist die alte weiße Gabel?**
+**✅ Erste Frage ist beantwortet: Die alte weiße Gabel ist eine RST Vogue TNL und liegt bereit.**
+**🔴 Nächste Frage: Besteht sie den Fingernageltest?** → [Baustelle #14](../04-diagnose/rst-vogue-tnl-federgabel.md)
 
-### Empfehlung
+### Empfehlung (Stand 2026-09-05)
 
+0. **🔴 Als Erstes (5 min, 0 €): Fingernageltest an der RST Vogue TNL.**
+   Bestehen die Standrohre → **Variante A+** und die Baustellen #1, #5, #6 sind erledigt.
+   Haben sie Grübchen → weiter mit 1.–5.
 1. **Sofort (0 €):** Kontrollroutine + Loctite auf **entfettetem** Gewinde neu auftragen
    + Lackstift-Markierung + 🔴 **Vorbau-Einstecktiefe prüfen** + 🔴 **Steuerrohrlänge messen**
 2. **Kurzfristig (💰 3–10 €): Variante A** – flache Steuersatz-Mutter **1⅛″ × 24 tpi**
@@ -299,8 +438,9 @@ Bremsarme vorne würden wieder passen.
    💡 Bringt ca. 5 mm – **reicht wahrscheinlich NICHT**, aber es ist billig und schadet nicht
 3. **🎯 Mittelfristig (💰💰 50–90 €): Variante A0** – NEX-Gabel mit **225-mm-Schaft**.
    Sauberste Lösung, die Geometrie, Bremssockel und Schutzblech-Ösen unverändert lässt
-4. **Parallel prüfen: Variante B** (alte weiße Original-Gabel noch vorhanden?) –
-   **löst auch Baustelle #5 (Bremsarme vorne)**
+4. ✅ **Variante B ist geklärt und nach oben gerutscht:** die weiße Original-Gabel
+   (**RST Vogue TNL**) ist vorhanden → **Variante A+** ist jetzt der **Hauptweg**,
+   Variante A0 nur noch Plan B
 5. **Langfristig/umbaufreudig: Variante D** – kompletter **Ahead-Umbau** (EC34-Schalen
    bleiben im Rahmen!) – beseitigt das Gewinde-Problem endgültig
 

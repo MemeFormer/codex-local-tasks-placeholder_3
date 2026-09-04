@@ -7,30 +7,36 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 
 ---
 
-## 🎯 STAND 2026-09-04 – Teilenummern entschlüsselt
+## 🎯 STAND 2026-09-05 – Spenderrad identifiziert, drei Baustellen erledigt
 
-> **Fast alle Komponenten sind jetzt exakt identifiziert** – und drei Baustellen haben
-> dadurch eine **konkrete Ursache** plus **exakte Ersatzteil-Spec** bekommen.
-
-| 🔴 Baustelle | Ursache (jetzt bekannt) | Fix |
-|---|---|---|
-| **#6 Gewinde zu kurz** | SR Suntour **NEX**-Gewindeschäfte haben ab Werk nur **ca. 55 mm Gewinde oben**. Der Schaft wurde für das **kürzere Steuerrohr des Spenderrads gekürzt** – das STAIGER-Steuerrohr ist **ca. 23 mm länger** | 🎯 **NEX-Gabel mit 225-mm-Schaft** (50–90 €) oder **Ahead-Umbau** (EC34-Schalen bleiben im Rahmen!) |
-| **#5 Bremsarme passen nicht** | Sockel-**Bund ca. 5,6 mm** vs. Deore-Arm-**Ausnehmung ca. 4,3 mm** = 1,3 mm Spalt. Gabel ist **Alu** → Sockel ist **eingeschraubt** | 💡 **Sockel 2–2,5 mm zurückdrehen** + Loctite 243 – **0 €!** |
-| **#3 Bremse kehrt nicht zurück** | **Tektro 836 = 63 mm** Beläge in einer **Shimano-Deore-Zange, die für 70 mm gebaut ist** (+ Tektro-Scheibensatz) | 🔴 **Shimano-Beläge 70 mm** (M70T4/S65T), 8–15 € |
-| **#13 Vorderrad dreht schwer** | Nabendynamo **DH-3N31** – Rollwiderstand normal, **ABER Shimano-Dynamos sind ab Werk zu stramm** und man **kann es nicht erfühlen** (Magnet-Rasten) | 💡 **nur links, nach Spiel** einstellen – **0 €** |
-| **#9 Lenker-Gefühl** | 🟢 **ENTWARNT**: das originale Staiger Daytona hatte ab Werk eine **Suntour NCX-D LO 63 mm**-Gabel. Deine **NEX T63 = 63 mm** ist zeitlich passend | beobachten |
+> 🔴 **Diese Runde hat vier Annahmen umgeworfen – und eine Tür geöffnet.**
+>
+> | Neu geklärt | Konsequenz |
+> |---|---|
+> | 🔴 **Spenderrad = Bergamont Horizon 4.0** – Prägung `52 T4/T6 Heat Treated 6061 Lite Alloy` = Alu 6061 **wärmebehandelt**, **Größe 52 cm** | Gabel, Vorderrad, Reifen, Schutzblech, Licht, Bremsarme, Vorbau und Lenker stammen **alle** von dort |
+> | 🔴 **Original-Gabel des weißen Rads = RST Vogue TNL** – **sie ist noch vorhanden!** (Coil/Öl, Vorspannung + Lockout, **defekt**) | 🆕 **Baustelle #14** – wenn sie zu retten ist, erledigt sie **#1, #5 und #6 auf einen Schlag** |
+> | ✅ **#3 erledigt**: hintere Bremse kehrt wieder zurück | Ursache war die **Bremshebel-Klemmung am Lenker** (zu nah/fest → **Pivot geklemmt**) – ⛔ **nicht** die Beläge |
+> | ✅ **#4 + #13 erledigt**: Hinterrad läuft normal, Dynamo-Rad läuft mehrere Umdrehungen | nur noch **Beobachtung** |
+>
+> 💡 **Der eine nächste Schritt: 🔴 Fingernageltest an den RST-Standrohren (5 min, 0 €).**
+> Keine Grübchen → Dichtungen (**14,28 €**) + Öl → Gabel zurückbauen → drei Baustellen weg.
+> Grübchen → Gabel unrettbar → Plan B (NEX 225 mm oder Ahead-Umbau).
+> → [`04-diagnose/rst-vogue-tnl-federgabel.md`](04-diagnose/rst-vogue-tnl-federgabel.md)
 
 **Die entschlüsselten Teile:**
 
 | Baugruppe | Identifikation |
 |---|---|
-| **Gabel** | SR Suntour **NEX** · `SF14 NEX P 700C TS T63` · 700C, **63 mm Federweg**, Gewindeschaft **1⅛″ × 24 tpi**, Schaft **210/225 mm**, **Alu**-Scheiden |
-| **Antrieb** | Kurbel **FC-M530** (Hollowtech, **Octalink**, 170 mm) · Innenlager **BB-ES25** · Kette **CN-HG53** (9-fach) · Schaltwerk **RD-M511** (SGS, max. 34 Z.) · Umwerfer **FD-C050** (Top Swing) · Schalthebel **SL-M580** |
-| **Bremsen** | Bremshebel **BL-M571** (V-Brake, long pull) · hinten **Shimano Deore**-Arme · vorne **Tektro**-Arme · Beläge **Tektro 836** (63 mm) |
-| **Laufräder** | vorne Nabe **DH-3N31-NT** (Nabendynamo 6 V/3 W) + Felge **Shining A-M4** 622 × 19 + **Schwalbe Active Line K-Guard 42-622** · hinten Nabe **FH-M530** + Felge **Mach1 210** 622 × 19c + **Schwalbe Marathon Plus 47-622** |
+| **Gabel (jetzt verbaut)** | ⛔ SR Suntour **NEX** · `SF14 NEX P 700C TS T63` · 700C, **63 mm Federweg**, Gewindeschaft **1⅛″ × 24 tpi**, Schaft **210/225 mm**, **Alu**-Scheiden – **Bergamont-Originalteil** |
+| **Gabel (Original weißes Rad)** | 🔴 **RST Vogue TNL** · Coil/Öl · **Öldämpfung rechts, Stahlfeder + MCU links** · **hydraulischer Lockout** · Schaft CroMo **28,6 mm (1⅛″)** oder 25,4 mm (1″) · Standrohre **25,4 mm Stahl, Ti-Farbe** · ca. **50 mm** Federweg · **ausgebaut, vorhanden, defekt** |
+| **Spenderrad-Rahmen** | ✅ **Bergamont Horizon 4.0** · `52 T4/T6 Heat Treated 6061 Lite Alloy` · Alu 6061 T4/T6 · **52 cm** · 3×8 · ca. 2012–2016 |
+| **Antrieb** | Kurbelgarnitur **FC-M530** (Hollowtech, **Octalink**, 170 mm) · Innenlager **BB-ES25** · Kette **CN-HG53** (9-fach) · Schaltwerk **RD-M511** (SGS, max. 34 Z.) · Umwerfer **FD-C050** (Top Swing) · Schalthebel **SL-M580** |
+| **Bremsen** | Bremshebel **BL-M571** (V-Brake, long pull) · hinten **Shimano Deore**-Arme · vorne **Tektro**-Arme · Beläge **Tektro 836** (63 mm, Codes **B1/B44** = vermutlich Chargennummer) · 🔴 **Originalbeläge = Shimano ca. 72 mm, durchgefahren** |
+| **Laufräder** | vorne ⛔ **vom Spenderrad**: Nabe **DH-3N31-NT** (Nabendynamo 6 V/3 W) + Felge **Shining A-M4** 622 × 19 + **Schwalbe Active Line K-Guard 42-622** · hinten ✅ **original**: Nabe **FH-M530** + Felge **Mach1 210** 622 × 19c + **Schwalbe Marathon Plus 47-622** |
 
 📄 **Alle Details:** [`01-bikes/weisses-trekkingbike.md`](01-bikes/weisses-trekkingbike.md) ·
-[`06-logbuch/2026-09-04-komponenten-entschluesselt.md`](06-logbuch/2026-09-04-komponenten-entschluesselt.md)
+[`01-bikes/schwarzes-spenderrad.md`](01-bikes/schwarzes-spenderrad.md) ·
+[`06-logbuch/2026-09-05-korrektur-runde.md`](06-logbuch/2026-09-05-korrektur-runde.md)
 
 ---
 
@@ -54,13 +60,21 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 | Arbeitsname | Beschreibung | Rolle | Stammdaten |
 |---|---|---|---|
 | **Weißes Trekkingbike** | ✅ **STAIGER Daytona Sportline** (Stuttgart/Gerlingen, später Winora-Staiger) · Rahmen-Nr. **AWO7230329** · **Alu 6061** · 3×9 (27 Gänge) **Shimano Deore/LX** (FC-M530, RD-M511, SL-M580, BL-M571) · **V-Brake** · **Nabendynamo DH-3N31** · Gewindesteuersatz → jetzt mit schwarzer **Suntour NEX**-Gabel | **Hauptbike / Zielrad** | [`01-bikes/weisses-trekkingbike.md`](01-bikes/weisses-trekkingbike.md) |
-| **Schwarzes Spenderrad** | ❓ deutsche Marke (muss noch nachgeschaut werden) · 3×8 · Metall-Schutzbleche · winkelverstellbarer Vorbau · Felge + City-Reifen · Gabel · Bremsarme vorne | **Teileträger** | [`01-bikes/schwarzes-spenderrad.md`](01-bikes/schwarzes-spenderrad.md) |
+| **Schwarzes Spenderrad** | ✅ **BERGAMONT Horizon 4.0** (Hamburg, **seit 2015 Scott-Gruppe**) · Rahmenprägung **`52 T4/T6 Heat Treated 6061 Lite Alloy`** = Alu 6061 T4/T6, **Größe 52 cm** · 3×8 · **V-Brake** · Nabendynamo **DH-3N31** · **Suntour NEX DS 63 mm** · ca. 2012–2016 | **Teileträger** | [`01-bikes/schwarzes-spenderrad.md`](01-bikes/schwarzes-spenderrad.md) |
 
 > ✅ **Modell geklärt: STAIGER Daytona Sportline.** Baujahr: ❓ **Hypothese 2007, KW 23**
 > (aus `AWO` + `7 23` + `0329`) – passt zur Komponenten-Ära (Deore LX M570/M580 ≈ 2004–2008).
-> Das originale Daytona hatte ab Werk: **Suntour NCX-D LO 63 mm**-Federgabel, **Mach1 210**-Felgen,
-> **XLC Comp**-Vorbau/-Sattelstütze/-Griffe, **Shimano Deore V-Brakes**, **Schwalbe Marathon 37-622**.
+>
+> ⚠️ **Prospekt ≠ dein Rad:** Die Serien-Recherche nennt eine **Suntour NCX-D LO 63 mm**-Gabel –
+> **dein Rad hatte aber nachweislich eine RST Vogue TNL (ca. 50 mm)**. Übrigens korrekt bestätigt
+> durch deine Funde: **Mach1 210**-Felgen, **XLC Comp**-Vorbau/-Sattelstütze/-Griffe,
+> **Shimano Deore V-Brakes**, **Schwalbe Marathon**.
+> 🔴 **Lehre: Immer die Teile am Rad zählen, nicht den Prospekt.**
 > Siehe [`01-bikes/README.md`](01-bikes/README.md).
+
+> ℹ️ **Marken-Hintergrund (nicht verwechseln):** **Staiger** – Stuttgart 1898/99, ab 1997
+> Winora-Staiger, **seit 2002 Accell**. **Bergamont** – Hamburg 1993, 2008 BMC,
+> **seit 2015 Scott-Gruppe**. ⛔ Bergamont gehört **nicht** zu Accell.
 
 ### Was von welchem Rad stammt (aktuelle Mischkonfiguration)
 
@@ -68,14 +82,17 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 |---|---|---|
 | Lenker | **Bremshebel** (die „Armaturen“) | ✅ **weiß** – **Shimano BL-M571** (original, gut) |
 | Lenker | Schalthebel | ✅ **weiß** – **Shimano SL-M580** (original) |
-| Lenker | Lenker + Griffe | ⚠️ **schwarz** (breiter, geschwungener) – Original war **XLC Comp** Flatbar |
-| Lenker | Vorbau | ⚠️ **schwarz** (Quill, winkelverstellbar, Faceplate) |
-| Vorne | Gabel | ⚠️ **schwarz** – **SR Suntour NEX SF14 … TS T63** (Schaft zu kurz → 🔴 Gewinde-Problem) |
-| Vorne | Laufrad | ✅ **Nabendynamo Shimano DH-3N31** + Felge **Shining A-M4** + **Schwalbe Active Line 42-622** |
-| Vorne | **Bremsarme** | ⚠️ **schwarz – Tektro** (die weißen **Deore**-Arme passten nicht auf den Sockel) |
+| Lenker | Lenker + Griffe | ⚠️ **schwarz** – **Bergamont-Riser** (Serie: 30–33° Backsweep, breiter) – Original war **XLC Comp** Flatbar |
+| Lenker | Vorbau | ⚠️ **schwarz** – **Bergamont BGM-Vario-Quill**, winkelverstellbar, Faceplate, **über dem Steuersatz länger** als der Staiger-Originalvorbau |
+| Lenker | **Bremshebel** (die „Armaturen“) | ✅ **weiß** – **BL-M571** · 🔴 **Klemmschellen nicht zu nah/fest!** (→ Baustelle #3) |
+| Vorne | Gabel | ⚠️ **schwarz** – **SR Suntour NEX SF14 … TS T63** (**Bergamont-Teil**, Schaft zu kurz → 🔴 Gewinde-Problem) |
+| Vorne | 🔴 **Original-Gabel** | **RST Vogue TNL** – **ausgebaut, vorhanden, defekt** → **Baustelle #14** |
+| Vorne | Laufrad | ⚠️ **komplett vom Spenderrad**: **Nabendynamo Shimano DH-3N31** + Felge **Shining A-M4** + **Schwalbe Active Line 42-622** |
+| Vorne | **Bremsarme** | ⚠️ **schwarz – Tektro** (die weißen **Deore**-Arme passten nicht: **Cantistifte zu kurz**) |
+| Vorne | Schutzblech + Licht | ⚠️ **vom Spenderrad** |
 | Hinten | Laufrad + Kassette | ✅ **weiß** (original, 9-fach) – Nabe **FH-M530** + Felge **Mach1 210** + **Marathon Plus 47-622** |
 | Hinten | **Bremsarme** | ✅ **weiß – Shimano Deore** (original, gut) |
-| Hinten | **Bremsbeläge** | 🔴 **schwarz – Tektro 836, 63 mm** → **7–10 mm zu kurz** für die Deore-Zange! |
+| Hinten | **Bremsbeläge** | 🟡 **schwarz – Tektro 836, 63 mm** → **ca. 9–10 mm kürzer** als die Originalbeläge (**72 mm**, durchgefahren). **Kein Sicherheitsproblem** |
 | Antrieb | Kurbelgarnitur | ✅ **Shimano FC-M530**, Hollowtech, Octalink, 170 mm |
 | Antrieb | Umwerfer (vorne) | ✅ **Shimano FD-C050**, Top Swing |
 | Antrieb | Schaltwerk (hinten) | ✅ **Shimano RD-M511**, 9-fach, SGS |
@@ -90,18 +107,25 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 1. **Quill-Vorbau-Einstecktiefe** 🔴 Wenn der Gabelschaft nur 1–2 Gewindegänge übersteht,
    könnte der Schaftvorbau **nicht tief genug** eingesteckt sein. Die
    „MIN INSERTION“-Markierung darf **nicht sichtbar** sein – sonst bricht bei Belastung der
-   Gabelschaft. → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md)
+   Gabelschaft. 🔴 **Verschärft:** das Staiger-Steuerrohr ist **20–30 mm länger** als das
+   Bergamont-Steuerrohr, und der **Bergamont-Vorbau ist über dem Steuersatz länger** → er
+   **braucht mehr Schaft**. → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abs. 3b**
 2. **Steuersatz-Gewinde** – oben stehen nur noch 1–2 Gewindegänge über, es gibt aktuell
    **keine echte Kontermutter**, nur Mutter + Loctite. Das ist ein **Provisorium**.
-   🔴 **Ursache jetzt bekannt:** Der NEX-Gewindeschaft hat ab Werk nur **ca. 55 mm Gewinde
-   oben** und wurde für das kürzere Spender-Steuerrohr **gekürzt**.
-   → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abschnitt 3a**
+   🔴 **Ursache jetzt vollständig bekannt:** Der NEX-Gewindeschaft hat ab Werk nur **ca. 55 mm
+   Gewinde oben** und wurde für das **20–30 mm kürzere** Bergamont-Steuerrohr **gekürzt**.
+   → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abschnitt 3a + 3b**
 3. **Felgen-Bremsflanken** – am weißen Rad waren sie abgefahren; das **Original-Hinterrad
    wurde wieder eingebaut**. Abgefahrene Bremsflanke = Risiko Felgenbruch/Platzer beim Bremsen.
-   **Und:** eine scharfe Felgenkante ist ein Hauptverdächtiger für die nicht zurückkehrende
-   hintere Bremse. → [`02-teile/30-laufrad-reifen-nabe.md`](02-teile/30-laufrad-reifen-nabe.md)
-4. **Bremsfunktion hinten** kehrt nicht selbstständig zurück. Solange das so ist:
-   defensive Fahrweise, vorausschauend bremsen, keine langen Bergabfahrten.
+   🔴 **Verschärft durch einen neuen Befund:** die **Original-Bremsbeläge (ca. 72 mm) waren
+   komplett durchgefahren** – wer Beläge durchfährt, fährt meist auch die Felgenflanke an.
+   ⛔ Die alte Vermutung „scharfe Felgenkante = Ursache der nicht zurückkehrenden Bremse" ist
+   **hinfällig** (Baustelle #3 war die Bremshebel-Klemmung).
+   → [`02-teile/30-laufrad-reifen-nabe.md`](02-teile/30-laufrad-reifen-nabe.md) Abs. 2.3
+4. ✅ **Bremsfunktion hinten ist wiederhergestellt** – die Bremse kehrt zurück.
+   🔴 **Aber die Ursache merken:** zu fest/zusammen angezogene **Bremshebel-Klemmschellen**
+   klemmen den **Angelpunkt (Pivot)** des Hebels. Alu-Lenker: **4–6 Nm**, Klemmungen **mit
+   Abstand**, Griffweite **vor** dem Festziehen einstellen.
    → [`04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md)
 5. **Kette ist ~½–1 Glied kürzer** als Soll. Große Gänge vorne + hinten (**Big-Big**) können
    das Schaltwerk überstrecken → **diese Kombination vermeiden**, bis neue Kette da ist.
@@ -113,50 +137,63 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 
 | # | Baustelle | Prio | Diagnose-Status |
 |---|---|---|---|
-| 1 | **Quill-Vorbau-Einstecktiefe prüfen** (Bruchgefahr) | 🔴 hoch | ungeprüft → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
-| 2 | **Felgen-Bremsflanken-Verschleiß prüfen** (v + h) | 🔴 hoch | [`02-teile/30-laufrad-reifen-nabe.md`](02-teile/30-laufrad-reifen-nabe.md) Abs. 2.3 |
-| 3 | **Hintere Bremse kehrt nicht zurück** – 🔴 **Ursache belegt: Tektro-836-Beläge (63 mm) in einer 70-mm-Deore-Zange** | 🔴 hoch | [`04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md) |
-| 4 | Hinterrad schwerer laufend (Lager zu fest + verlorene Feder) | 🔴 hoch | [`04-diagnose/hinterrad-lager-feder.md`](04-diagnose/hinterrad-lager-feder.md) |
-| 5 | **Vordere Bremsarme passen nicht** – 🔴 **Ursache belegt: Sockel-Bund 5,6 mm vs. Deore-Arm 4,3 mm** → 💡 **Sockel 2–2,5 mm zurückdrehen (0 €!)** | 🟡 mittel | [`04-diagnose/vordere-bremsarme-sockel.md`](04-diagnose/vordere-bremsarme-sockel.md) |
-| 6 | Steuersatz-Gewinde – 🔴 **Ursache gefunden** (NEX-Schaft gekürzt) → **225-mm-Schaft oder Ahead-Umbau** | 🔴 hoch (sicherheitsrelevant) | [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abs. 3a** |
+| **14** | 🆕🔴 **RST Vogue TNL retten?** – Original-Gabel vorhanden, Öl ausgetreten, Rost an den Standrohren | 🔴 **höchste – hat Vorrang** | 🔴 **Fingernageltest** → [`04-diagnose/rst-vogue-tnl-federgabel.md`](04-diagnose/rst-vogue-tnl-federgabel.md) |
+| 1 | **Quill-Vorbau-Einstecktiefe prüfen** (Bruchgefahr) – 🔴 verschärft durch 20–30 mm Steuerrohr-Δ | 🔴 hoch | ungeprüft → [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abs. 3b** |
+| 2 | **Felgen-Bremsflanken-Verschleiß prüfen** (v + h) – 🔴 Originalbeläge waren **durchgefahren** | 🔴 hoch | [`02-teile/30-laufrad-reifen-nabe.md`](02-teile/30-laufrad-reifen-nabe.md) Abs. 2.3 |
+| 6 | Steuersatz-Gewinde – 🔴 **Ursache vollständig bekannt** (NEX-Schaft für ein 20–30 mm kürzeres Rohr gekürzt) | 🔴 hoch (sicherheitsrelevant) | [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abs. 3a + 3b** |
+| 5 | **Vordere Bremsarme passen nicht** – 🔴 **Ursache korrigiert: Cantistifte sind KÜRZER** → **längere M8-Stifte** (CS-M8-VA, 14,90 €/Paar). ⛔ **Nicht zurückdrehen!** | 🔴 hoch | [`04-diagnose/vordere-bremsarme-sockel.md`](04-diagnose/vordere-bremsarme-sockel.md) |
 | 7 | Neue Kette – ✅ **exakte Spec: Shimano CN-HG53, 9-fach** | 🟡 mittel | [`02-teile/10-antrieb-schaltung-kette.md`](02-teile/10-antrieb-schaltung-kette.md) |
-| 8 | Ständer-Winkel zu schräg | 🟢 niedrig | [`02-teile/70-staender-gepaecktraeger.md`](02-teile/70-staender-gepaecktraeger.md) |
-| 9 | Lenker-Ergonomie / Sitzposition – 🟢 **entwarnt** (original Daytona hatte Suntour 63 mm) | 🟢 niedrig – erst nach 3–5 Fahrten bewerten | [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
-| 10 | Teile identifizieren – ✅ **~90 % erledigt** | 🟢 niedrig | [`04-messdaten/messdatenblatt.md`](04-messdaten/messdatenblatt.md) |
-| 11 | Kassette vom Spenderrad lösen (optional) | 🟢 niedrig | 💡 **Kettenpeitsche fehlte vermutlich** – [`02-teile/10-antrieb-schaltung-kette.md`](02-teile/10-antrieb-schaltung-kette.md) Abs. 4 |
-| 13 | **Nabendynamo-Lagervorspannung** – 🟠 **wieder offen** (Shimano-Dynamos ab Werk zu stramm) | 🟡 mittel | [`04-diagnose/vorderrad-schwergaengig.md`](04-diagnose/vorderrad-schwergaengig.md) |
+| 3a | 🟡 **Hintere Beläge 9–10 mm kürzer** als die Originalbeläge (72 mm) – Qualitäts-, kein Sicherheitsproblem | 🟡 mittel | [`04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md`](04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md) Abs. 0a |
+| 4a | 🟡 **Verlorene Feder** am Hinterrad (Wellenscheibe oder QR-Feder?) | 🟡 mittel | [`04-diagnose/hinterrad-lager-feder.md`](04-diagnose/hinterrad-lager-feder.md) |
 | 12 | Testfahrt + Gesamtcheck | 🟡 mittel | [`03-todos/sicherheitscheck.md`](03-todos/sicherheitscheck.md) |
-| 🟢 | ~~Vorderrad dreht nicht frei~~ (Rollwiderstand) | 🟢 **ENTWARNT** | ✅ **Nabendynamo DH-3N31!** Von Hand nur 1–2 Umdrehungen = **normal, kein Defekt.** 🔴 Aber Lagervorspannung prüfen → Baustelle **13** |
+| 10 | Teile identifizieren – ✅ **~95 % erledigt** | 🟢 niedrig | [`04-messdaten/messdatenblatt.md`](04-messdaten/messdatenblatt.md) |
+| 11 | Kassette vom Spenderrad lösen (optional) | 🟢 niedrig | 💡 **Kettenpeitsche fehlte vermutlich** – [`02-teile/10-antrieb-schaltung-kette.md`](02-teile/10-antrieb-schaltung-kette.md) Abs. 4 |
+| 8 | Ständer-Winkel zu schräg | 🟢 niedrig | [`02-teile/70-staender-gepaecktraeger.md`](02-teile/70-staender-gepaecktraeger.md) |
+| 9 | Lenker-Ergonomie / Sitzposition – ⚠️ **Begründung korrigiert** (Original-Gabel war **RST 50 mm**, nicht Suntour 63 mm) | 🟢 niedrig | [`02-teile/20-steuersatz-gabel-vorbau-lenker.md`](02-teile/20-steuersatz-gabel-vorbau-lenker.md) |
+| ✅ **3** | ~~Hintere Bremse kehrt nicht zurück~~ | 🟢 **ERLEDIGT** | Ursache: **Bremshebel-Klemmschellen zu nah/fest am Lenker** → **Pivot geklemmt**. ⛔ **nicht** die Beläge |
+| ✅ **4** | ~~Hinterrad schwerer laufend~~ | 🟢 **ERLEDIGT** | *„läuft normal, hat sich wohl eingespielt"* – Nachkontrolle nach ca. 100 km |
+| ✅ **13** | ~~Nabendynamo-Lagervorspannung~~ | 🟢 **ERLEDIGT** | Rad läuft **mehrere Umdrehungen** nach = **Sollbereich** für ein Nabendynamo-Rad |
 
 Vollständige Liste inkl. Zwischenstatus: [`03-todos/offene-baustellen.md`](03-todos/offene-baustellen.md)
 
-### 💡 Eine Maßnahme löst zwei Baustellen
+### 💡💡 Eine Maßnahme löst **vier** Baustellen
 
-Baustelle **5** (Bremsarme vorne passen nicht auf den Sockel) und Baustelle **6**
-(zu wenig Gewinde für die Kontermutter) haben dieselbe Wurzel: **die fremde Suntour-NEX-Gabel**.
+Baustelle **1** (Einstecktiefe), **5** (Bremssockel), **6** (Gewinde) und **14** (Gabel defekt)
+haben dieselbe Wurzel: **die fremde Bergamont-Gabel in einem Staiger-Rahmen mit 20–30 mm
+längerem Steuerrohr**.
 
-| Weg | Was | 💰 |
-|---|---|---|
-| **A** | 🔴 **Weiße Original-Gabel zurück** (falls noch vorhanden) | 0–10 € |
-| **B** | 🎯 **Neue NEX-Gabel mit 225-mm-Schaft** + Bremssockel 2–2,5 mm zurückdrehen | 50–90 € |
-| **C** | 🔴 **Ahead-Umbau** (NEX Ahead 255 mm + Ahead-Steuersatz EC34 + Ahead-Vorbau) – 💡 die **EC34-Lagerschalen bleiben im Rahmen!** | 70–130 € |
+| Weg | Was | 💰 | Bewertung |
+|---|---|---|---|
+| **A+** ⭐ | 🔴 **RST Vogue TNL zurückbauen** – die **Original-Gabel ist vorhanden**, für **dieses** Steuerrohr gebaut | **25–50 €** (Dichtungen 14,28 € + Öl + Politur) | ✅✅ **beste Lösung** – löst **1 + 5 + 6 + Höhenproblem**. Bedingung: **Fingernageltest** |
+| **A0** | **Neue NEX-Gabel mit 225-mm-Schaft** + **längere M8-Cantistifte** | 65–105 € | ⚠️ Plan B: **+15 mm** reicht bei 20–30 mm Δ **allein nicht** |
+| **C** | 🔴 **Ahead-Umbau** (NEX Ahead 255 mm + Ahead-Steuersatz EC34 + Ahead-Vorbau) – 💡 die **EC34-Lagerschalen bleiben im Rahmen!** | 70–130 € | ✅ dauerhafteste Lösung |
+| **E** | 🟢 **Riser-Lenker** mit mehr Rise + Staiger-Originalvorbau | 20–40 € | ✅ billigste **Höhen**-Lösung |
+| ⛔ | ~~Quill-Vorbau kürzen~~ | – | ⛔ **niemals** – schwächt den Schaft, Bruchgefahr |
 
-Bei Weg A müsste man nur die Schutzblech-Befestigung vorne neu lösen
-(Universal-Schellen, 💰 3–8 €).
-→ **Erst klären: Ist die alte weiße Gabel noch vorhanden?**
+✅ **Die Frage „Ist die alte weiße Gabel noch vorhanden?" ist beantwortet: JA – eine RST Vogue TNL.**
+🔴 **Die nächste Frage: Besteht sie den Fingernageltest?**
+Bei Weg A+ müsste man nur die **Schutzblech-Befestigung vorne** neu lösen
+(Universal-/P-Schellen, 💰 3–8 €) – die Ösen der NEX entfallen dann.
 
-### 💡 Die 0-€-Maßnahme für Baustelle 5
+### 🔴 Die korrigierte Diagnose für Baustelle 5
 
-🔴 **Neu (2026-09-04): Die Ursache ist jetzt exakt bekannt.**
+⛔ **Zurückgezogen (2026-09-05):** „Der Sockel-**Bund** ist **länger** (5,6 mm) als die
+Ausnehmung im Deore-Arm (4,3 mm) → Sockel **2–2,5 mm zurückdrehen**."
+**Diese Richtung war falsch** – Zurückdrehen würde das Problem **verschlimmern**.
 
-| Maß | Wert |
+| Maß | ✅ korrigierter Wert |
 |---|---|
-| Länge des Sockel-**Bunds** an der Suntour-NEX-Gabel | ca. **5,6 mm** |
-| Tiefe der Ausnehmung im **Shimano-Deore**-Bremsarm | ca. **4,3 mm** |
-| → Spalt | ca. **1,3 mm** – der Arm liegt nicht an, „passt nicht" |
+| Cantistift-Ø gemessen | **7,95 mm = M8** |
+| Gabelmaterial | ✅ **beide Alu** (NEX **und** RST Vogue) → Stifte **eingeschraubt**, tauschbar |
+| Stiftlänge NEX vs. RST | 🔴 **NEX kürzer** |
+| → Folge | Die **M6-Befestigungsschraube** des Shimano-Bremsarms findet **keinen ausreichenden Gewindegriff** im Stift → Arm hat Spiel / lässt sich nicht festziehen |
 
-🎯 **Fix: den eingeschraubten Bremssockel 2–2,5 mm zurückdrehen** (möglich, weil die
-NEX-Gabel **Alu**-Scheiden hat) + **Loctite 243**. 💰 **0 €**, ca. 30 min.
+🎯 **Fix: längere M8-Cantistifte** – **brake-stuff.de CS-M8-VA, 14,90 €/Paar**
+(M8, Ø8, **M6-Innengewinde**, **Einschraublänge 10 mm**, **5–6 Nm**, **listet ausdrücklich
+Staiger**). Alternative **CS-M8-RST** 16 € (verlängertes Gewinde + Zusatzflansch).
+Oder: **kürzere M6-Armschraube**, oder die **Stifte der RST-Gabel übernehmen**.
+Montage: reinigen/entfetten, **Loctite 243**, **5–6 Nm**, **2–3 h warten**.
+🔴 **Gesamtlänge vorher mit dem Datenblatt-PDF vergleichen!**
 
 **Und für die schwachen Federn:** Die „kleinen Stellschrauben" (Federspannschrauben) haben
 konstruktiv nur ±2–3 Umdrehungen Verstellweg und dienen der **Zentrierung**, nicht der
@@ -177,7 +214,11 @@ gesetzt werden.
 - Rücklicht-Kabel: Flachstecker waren in den Rahmen gerutscht → **neu gelötet**, am weißen Rad verlegt
 - Nabendynamo + Vorder-/Rücklicht funktionieren
 - Hinterrad: **Kassette ließ sich nicht lösen** → komplettes Original-Hinterrad wieder eingebaut
-- Bremsbeläge hinten getauscht (weiße waren runter) → ⚠️ **danach trat Baustelle 3 auf**
+- Bremsbeläge hinten getauscht (weiße waren **durchgefahren**, ca. **72 mm**) → 🟡 jetzt **Tektro 836, 63 mm**
+- ✅ **Hintere Bremse wieder gangbar gemacht** – Bremshebel-Klemmschellen am Lenker nachgesetzt (Baustelle #3)
+- ✅ **Hinterrad läuft normal** (Lager hat sich eingespielt, Baustelle #4)
+- ✅ **Nabendynamo-Lager eingestellt** – Rad läuft mehrere Umdrehungen nach (Baustelle #13)
+- ✅ **Spenderrad identifiziert**: Bergamont Horizon 4.0 · **Original-Gabel gefunden**: RST Vogue TNL
 
 Details & Datumsangaben: [`06-logbuch/`](06-logbuch/)
 

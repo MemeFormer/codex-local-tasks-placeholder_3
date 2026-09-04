@@ -47,6 +47,7 @@ ORDNUNG = [
     "03-todos/werkzeug-und-material.md",
     "03-todos/sicherheitscheck.md",
     "04-diagnose/README.md",
+    "04-diagnose/rst-vogue-tnl-federgabel.md",
     "04-diagnose/vorderrad-schwergaengig.md",
     "04-diagnose/hinterrad-lager-feder.md",
     "04-diagnose/hintere-bremse-kehrt-nicht-zurueck.md",
@@ -61,6 +62,7 @@ ORDNUNG = [
     "06-logbuch/2026-09-02-bestandsaufnahme.md",
     "06-logbuch/2026-09-03-rueckfrage-korrekturen.md",
     "06-logbuch/2026-09-04-komponenten-entschluesselt.md",
+    "06-logbuch/2026-09-05-korrektur-runde.md",
 ]
 
 AUSGESCHLOSSEN = {"templates", "tools", "fotos", ".git", ".arena"}

@@ -1,8 +1,26 @@
 # 🔬 Diagnose: Vorderrad dreht nicht frei
 
-**Baustelle #1** · Priorität 🔴 · Status: 🟡 Diagnose fehlt
+**Baustelle #13** · Priorität 🟢 · Status: ✅ **ERLEDIGT**
 
-**Symptom:** Das Vorderrad dreht beim Anstoßen nur kurz weiter / ist schwergängig.
+> ✅ **GELÖST (2026-09-04):** *„…läuft jetzt auch die Achse mit der Dynamo-Nabe mehrere
+> Umdrehungen nach, wenn es frei hängt, ohne dass da gleich das Rad stehen bleibt nach
+> wenigen Umdrehungen."*
+>
+> | | |
+> |---|---|
+> | **Symptom vorher** | Rad stand nach 1–2 Umdrehungen |
+> | **Zustand jetzt** | ✅ **mehrere Umdrehungen** frei hängend |
+> | **Ursache** | Kombination aus **Nabendynamo-Rollwiderstand** (normal) + **zu strammer Lagervorspannung** |
+> | **Status** | ✅ erledigt · 🟢 nur noch **Beobachtung**: bei nächster Gelegenheit Spiel prüfen |
+>
+> 💡 **Hinweis:** Dass ein Nabendynamo-Rad **mehrere** Umdrehungen nachläuft, ist ein gutes
+> Zeichen – die Lagervorspannung stimmt jetzt. Ein Nabendynamo-Rad läuft **nie** so lange wie
+> ein normales Nabenlager (das Magnet-Rasten bremst immer), aber „mehrere Umdrehungen" ist
+> der **Sollbereich**.
+>
+> Die Anleitung unten bleibt als **Referenz**, falls das Rad je wieder schwergängig wird.
+
+**Symptom (historisch):** Das Vorderrad dreht beim Anstoßen nur kurz weiter / ist schwergängig.
 **Bereits ausgeschlossen:** Lenkkopf / Steuersatz (korrekt erkannt – der beeinflusst die
 Radrotation nicht).
 
@@ -12,10 +30,10 @@ Radrotation nicht).
 > Das ist völlig normal und kostet auf der Straße nur ca. **1–3 W** Rollwiderstand –
 > messtechnisch kaum nachweisbar. **Ein Nabendynamo-Rad dreht von Hand nie „ewig".**
 >
-> 🔴 **ABER – nicht einfach abhaken:** Shimano-Nabendynamos sind ab Werk fast immer
-> **zu stramm eingestellt**, und das kann man **nicht erfühlen**, weil das magnetische
-> Rasten die Lager-Rauheit überdeckt. Es bleibt also eine echte (kleine) Aufgabe:
-> **Lagervorspannung nach der Dynamo-Methode prüfen/einstellen.**
+> ✅ **ABGEHAKT:** Shimano-Nabendynamos sind ab Werk fast immer **zu stramm eingestellt**,
+> und das kann man **nicht erfühlen**, weil das magnetische Rasten die Lager-Rauheit
+> überdeckt. **Bei dir ist das inzwischen erledigt** – das Rad läuft mehrere Umdrehungen nach.
+> Die Methode steht unten als **Referenz**, falls es wiederkommt.
 > → Siehe Abschnitt „Nabendynamo korrekt einstellen (DH-3N31)".
 > **Das kostet 0 € und ist die wahrscheinlichste Ursache für „dreht schwer".**
 >

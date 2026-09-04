@@ -1,25 +1,80 @@
 # 🔬 Diagnose: Hintere Bremse kehrt nicht selbstständig zurück
 
-**Baustelle #3** · Priorität 🔴 · Status: 🟡 Diagnose fehlt
+**Baustelle #3** · Priorität 🟢 · Status: ✅ **ERLEDIGT – Ursache gefunden und behoben**
 
-**Symptom:** Nach dem Loslassen des Bremshebels gehen die Bremsbeläge nicht (oder nur langsam)
-von der Felge weg. Die Bremse schleift, der Hebel fühlt sich „klebrig“ an.
+> ✅ **GELÖST (2026-09-04). Die wahre Ursache stand am LENKER, nicht an der Zange:**
+>
+> *„Die Bremse hing an was anderem: ich habe die Armaturen zu nah/fest aneinander geschraubt
+> am Lenker, und das hat den Angelpunkt für den hinteren Hebel etwas geklemmt, und deshalb
+> schnappte der nicht zurück."*
+>
+> | | |
+> |---|---|
+> | **Ursache** | 🔴 **Bremshebel-Klemmschellen zu eng/zu fest nebeneinander am Lenker** → der **Angelpunkt (Pivot) des hinteren Bremshebels** wurde geklemmt → der Hebel schnappte nicht zurück |
+> | **Wirkmechanismus** | Die Klemmschelle liegt direkt am Hebellager. Wird sie zu fest oder zu nah am Nachbarhebel angezogen, **verkantet sich der Pivot** und die Rückholfeder des Hebels kann nicht arbeiten |
+> | **Fix** | ✅ Klemmschellen **mit Abstand** positionieren, **nur mit definiertem Moment** anziehen |
+> | **Status** | ✅ **behoben** |
+>
+> ⛔ **Und damit war die Belag-Theorie FALSCH.** Die Beläge (Tektro 836, 63 mm) sind **nicht**
+> die Ursache des Nicht-Zurückkehrens. Sie bleiben aber ein **eigenes Thema** – Abschnitt 0a.
 
-**Besonderheit:** Zange, Federn **und** Zug wurden **original** übernommen – die Zange war
-vorher also vermutlich okay. **ABER: die Bremsbeläge wurden gegen die (gebrauchten) Beläge vom
-Spenderrad getauscht**, weil die weißen „ziemlich runter“ waren.
-
-> 🔴 **Korrigierte Hauptaussage: Die Beläge sind der Hauptverdächtige**, nicht der Zug.
-> Sie sind das Einzige an der hinteren Bremse, was sich geändert hat. Deshalb: **erst
-> Abschnitt 0 (Beläge) prüfen**, dann die Binärsuche unten.
-
-> ⚠️ **Sicherheitsrelevant:** Eine nicht zurückkehrende Bremse wird bei längerer Bergabfahrt
-> heiß → Felge erhitzt → Reifen kann platzen, Beläge verglasen. Bis zur Reparatur:
-> vorausschauend fahren, keine langen Abfahrten mit schleifender Bremse.
+> 💡 **Lehre für die Zukunft – eine sehr typische Fehlerquelle:**
+> Bremshebel-Klemmschellen gehören **nicht** knallfest angezogen. Bei Alu-Lenkern gilt ein
+> Anzugsmoment von ca. **4–6 Nm** (bzw. Herstellerangabe). Und: **Griffweiten-** und
+> **Positionsverstellung** immer **vor** dem endgültigen Festziehen der Klemmung einstellen.
+> Zwei Hebel, deren Klemmungen sich berühren, können sich gegenseitig verkanten.
+> **Das Symptom ist dann exakt: „Hebel/Bremse schnappt nicht zurück"** – und man sucht
+> fälschlich an der Zange, am Zug oder an den Belägen.
+>
+> 🔴 **Merksatz: Erst am Lenker suchen, dann an der Zange.**
 
 ---
 
-## 0. 🔴 Zuerst: die getauschten Beläge prüfen (10 min, 0 €)
+## 0a. ⚠️ Offen geblieben: die zu kurzen Beläge (kein Sicherheitsproblem, aber Verschleiß)
+
+⛔ **Nicht die Ursache von Baustelle #3** – aber trotzdem ein echter Befund:
+
+| | Wert |
+|---|---|
+| Verbaute Beläge hinten | **Tektro 836**, gemessen **62 mm** (Nennlänge 63 mm) |
+| Zange hinten | **Shimano Deore** (original, weiß) |
+| 🔴 **Die ursprünglichen Shimano-Beläge** | ✅ **ca. 72 mm** – und **komplett durchgefahren** („mehr als nur abgefahren, die waren durch") |
+| Differenz | **ca. 9–10 mm kürzer** |
+| Codes li/re (**B1** / **B44**) | ✅ **aufgeklärt**: sehr kleine, schwer lesbare Prägung, **vermutlich Chargennummer**. Alle vier Beläge sehen **absolut identisch** aus → **keine** unterschiedlichen Mischungen |
+
+| Auswirkung | Bewertung |
+|---|---|
+| 🔴 Bremse kehrt nicht zurück | ❌ **nicht die Ursache** – erledigt |
+| ⚠️ Weniger Auflagefläche auf der Bremsflanke | 🟡 ca. **12–14 % kürzer** → etwas weniger Bremsleistung, ungleichmäßigerer Felgenverschleiß |
+| ⚠️ Fremder Scheibensatz (Tektro-Scheiben in Shimano-Zange) | 🟡 funktioniert offensichtlich – bei der nächsten Demontage auf **korrekte Reihenfolge** achten |
+
+💰 **Empfehlung:** Beim nächsten Belagwechsel auf **Shimano V-Brake-Beläge M70T4 = 72 mm**
+wechseln – das ist **exakt** die Länge deiner Originalbeläge (8–15 €/Paar), **inklusive
+korrektem Shimano-Scheibensatz**. Ein **Verschleiß-/Qualitätsthema, keine offene Baustelle.**
+
+🔴 **Wichtiger Nebenfund:** Durchgefahrene Beläge sind ein starkes Indiz dafür, dass die
+**Bremsflanke der Mach1 210** ebenfalls gelitten hat → **Baustelle #2 bleibt offen und ist
+sicherheitsrelevant.**
+
+---
+
+**Symptom (historisch):** Nach dem Loslassen des Bremshebels gingen die Bremsbeläge nicht
+(oder nur langsam) von der Felge weg. Die Bremse schleifte, der Hebel fühlte sich
+“klebrig“ an.
+
+**Besonderheit:** Zange, Federn **und** Zug wurden **original** übernommen. Die Beläge wurden
+gegen die (gebrauchten) Beläge vom Spenderrad getauscht, weil die weißen **durchgefahren** waren.
+
+> ⛔ **Zurückgezogene These:** „Die Beläge sind der Hauptverdächtige." Falsch – die Ursache
+> war die **geklemmte Bremshebel-Klemmung am Lenker**. Die Abschnitte unten bleiben als
+> **Referenz-Checkliste** stehen, falls das Symptom je wiederkommt.
+
+> ✅ **Sicherheitsbewertung jetzt:** Die Bremse kehrt wieder zurück → **kein** akutes
+> Sicherheitsproblem mehr. 🔴 Offen bleibt **Baustelle #2 (Bremsflanken-Verschleiß)**.
+
+---
+
+## 0. Referenz: die getauschten Beläge prüfen (10 min, 0 €) – ✅ abgearbeitet, war nicht die Ursache
 
 Was bei einem Belagwechsel schiefgehen kann – und genau dieses Symptom erzeugt:
 

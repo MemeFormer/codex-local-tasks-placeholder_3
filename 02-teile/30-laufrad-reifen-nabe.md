@@ -2,9 +2,20 @@
 
 **Baugruppe:** Nabe (vorne/hinten) · Achse · Schnellspanner · Lager (Konus/Kugel/Kontermutter) ·
 Freilaufkörper · Speichen · Felge · Felgenband · Reifen · Schlauch · Ventil
-**Zustand:** 🟢 Vorderrad „dreht nicht frei“ = ✅ **Nabendynamo, normal!** – 🔴 aber
-**Lagervorspannung prüfen** (Shimano-Dynamos sind ab Werk zu stramm) · ⚠️ Hinterrad schwerer
-laufend als vorher (Konus zu fest + eine Feder verloren)
+**Zustand:** ✅ Vorderrad/Dynamo-Nabe läuft jetzt **mehrere Umdrehungen** nach → **Baustelle #13
+erledigt** · ✅ Hinterrad **läuft normal** (hat sich eingespielt) → **Baustelle #4 erledigt** ·
+🟡 eine **kleine Feder** beim Hinterrad-Achsausbau verloren (nur noch einseitig) ·
+🔴 **Felgen-Bremsflanken prüfen** – die Originalbeläge waren **durchgefahren** (Baustelle #2)
+
+> ✅ **GEKLÄRT (2026-09-05) – Herkunft der Laufräder:**
+>
+> | Rad | Herkunft | Beleg |
+> |---|---|---|
+> | 🔴 **Vorderrad** | ⛔ **vom Spenderrad (Bergamont Horizon 4.0)** – **nicht original** | Felge **Shining A-M4**, Nabendynamo **DH-3N31**, Reifen **Schwalbe Active Line K-Guard 42-622** – genau die Bergamont-Ausstattung |
+> | ✅ **Hinterrad** | **original weißes Rad** (Staiger Daytona) | Felge **Mach1 210** = Original-Daytona-Felge, Nabe **Deore FH-M530** |
+>
+> **Konsequenz:** Am weißen Rad ist vorne jetzt ein **komplettes Spenderrad-Laufrad** verbaut
+> (Rad + Dynamo + Reifen + Schutzblech + Licht).
 
 > ✅ **GEKLÄRT (2026-09-04) – alle Laufrad-Teilenummern entschlüsselt:**
 >
@@ -59,7 +70,7 @@ laufend als vorher (Konus zu fest + eine Feder verloren)
 
 | Feld | Wert |
 |---|---|
-| Verbaut | ❓ Original vom weißen Rad **oder** vom Spenderrad? (Felge weicht vom Hinterrad ab!) |
+| Verbaut | ✅ **vom Spenderrad (Bergamont Horizon 4.0)** – **nicht** original weißes Rad |
 | **Nabe** | ✅ **Shimano DH-3N31-NT** – **Nabendynamo**, **6 V / 3 W**, Kabel 400–716 mm, Code K911 |
 | Lagertyp | ✅ **Konuslager** (cup & cone) |
 | 🔴 Einstellseite | ⚠️ **nur LINKS** (Seite ohne Kabelanschluss). Die Dynamo-Seite **nicht öffnen** – Kabel brechen leicht |
@@ -71,20 +82,27 @@ laufend als vorher (Konus zu fest + eine Feder verloren)
 | Felgenband | ❓ Zustand (Breite: **21 mm** = Innenbreite + 2 mm) |
 | **Reifen** | ✅ **Schwalbe Active Line K-Guard, 42-622** (28 × 1.60 / 700 × 40C), Code HS 377 |
 | Schlauch / Ventil | ❓ |
-| **Zustand** | 🟢 Rollwiderstand = **Nabendynamo, normal!** · 🔴 **Aber Lagervorspannung prüfen** (ab Werk zu stramm) |
+| **Zustand** | ✅ **ERLEDIGT (Baustelle #13):** Rad läuft frei hängend **mehrere Umdrehungen** nach → Lagervorspannung passt jetzt |
 
 > ✅ **GEKLÄRT: Es ist ein Nabendynamo – Shimano DH-3N31-NT.** Damit ist „dreht nicht frei“
 > **kein Defekt**. Ein Nabendynamo hat konstruktionsbedingt immer spürbaren Widerstand beim
-> Drehen von Hand – das kostet auf der Straße nur ca. **1–3 W** Rollwiderstand. Von Hand
-> dreht ein Nabendynamo-Rad typischerweise nur **1–2 Umdrehungen** weiter.
+> Drehen von Hand – das kostet auf der Straße nur ca. **1–3 W** Rollwiderstand.
 >
-> 🔴 **ABER – bitte nicht einfach abhaken:** Shimano-Nabendynamos sind **ab Werk fast immer
-> zu stramm eingestellt**. Bei einem neuen Dynamo muss man den linken Konus oft um bis zu
-> **eine halbe Umdrehung** lösen. **Und man kann es nicht erfühlen**, weil das magnetische
-> Rasten die Lager-Rauheit überdeckt → **nur nach Spiel beurteilen, nie nach Gefühl!**
+> ✅ **STATUS 2026-09-04/05 – GELÖST:** *„…läuft jetzt auch die Achse mit der Dynamo-Nabe
+> mehrere Umdrehungen nach, wenn es frei hängt, ohne dass da gleich das Rad stehen bleibt
+> nach wenigen Umdrehungen."* → **Mehrere Umdrehungen sind für ein Nabendynamo-Rad der
+> Sollbereich.** Ein Nabendynamo-Rad läuft nie so lange wie ein normales Nabenlager
+> (das Magnet-Rasten bremst immer), aber es darf **nicht** nach 1–2 Umdrehungen stehen.
+> 🟢 **Restaufgabe:** nur noch **Beobachtung** – bei der nächsten Gelegenheit Spiel prüfen
+> (Rad seitlich hin-und-her drücken, dabei den Schnellspanner gelöst).
 >
-> 🎯 **Ziel:** minimales Spiel **ohne** Schnellspanner, das beim **Spannen des Schnellspanners
-> gerade eben verschwindet**. 🔴 **Nur links einstellen** – die Dynamo-Seite niemals öffnen.
+> ✅ **ABGEHAKT.** Shimano-Nabendynamos sind ab Werk fast immer **zu stramm eingestellt**, und
+> man kann es **nicht erfühlen**, weil das magnetische Rasten die Lager-Rauheit überdeckt
+> → **nur nach Spiel beurteilen, nie nach Gefühl.** Bei dir ist das inzwischen eingestellt.
+>
+> 🎯 **Referenz-Ziel (falls es wiederkommt):** minimales Spiel **ohne** Schnellspanner, das
+> beim **Spannen des Schnellspanners gerade eben verschwindet**. 🔴 **Nur links einstellen** –
+> die Dynamo-Seite niemals öffnen.
 >
 > 💰 **0 €, 15 Minuten.** → [`../04-diagnose/vorderrad-schwergaengig.md`](../04-diagnose/vorderrad-schwergaengig.md)
 
@@ -93,6 +111,7 @@ laufend als vorher (Konus zu fest + eine Feder verloren)
 | Feld | Wert |
 |---|---|
 | Verbaut | ✅ **Original-Hinterrad vom weißen Rad** (Kassette ließ sich nicht lösen) |
+| 🟢 **Laufverhalten** | ✅ **ERLEDIGT (Baustelle #4):** *„mein Hinterrad läuft normal, hat sich wohl eingespielt"* → Lager hat sich gesetzt. **Nachkontrolle nach ca. 100 km** (Spiel + Leichtgängigkeit) |
 | **Nabe** | ✅ **Shimano Deore FH-M530 (VIAM)** – Freilaufnabe, 9-fach HG |
 | Lagertyp | ✅ Konuslager (wurde geöffnet + wieder montiert) |
 | 🔴 Einstellseite | ⚠️ **nur LINKS** (ohne Kassette). Rechts ist der Freilaufkörper aufgeschraubt |
@@ -102,7 +121,7 @@ laufend als vorher (Konus zu fest + eine Feder verloren)
 | Speichenzahl | ❓ ____ (FH-M530 üblich **36 Loch**) |
 | **Felge** | ✅ **Mach1 210**, **ETRTO 622 × 19c**, **Alloy 6060**, TB Frame → **Original-Daytona-Felge** ✅ |
 | Felgenbreite innen | ✅ **19 mm** |
-| **Bremsflanke** | 🔴 **abgefahren – Verschleiß prüfen!** Mach1 210 ist eine normale Alu-Hohlkammer ohne besonders harte Flanke |
+| **Bremsflanke** | 🔴 **abgefahren – Verschleiß prüfen! NEUES INDIZ:** die **Original-Shimano-Beläge (ca. 72 mm) waren komplett durchgefahren** („mehr als nur abgefahren, die waren durch") → sehr wahrscheinlich **auch Flankenschaden**. Mach1 210 ist eine normale Alu-Hohlkammer ohne besonders harte Flanke → **Baustelle #2, sicherheitsrelevant** |
 | Felgenband | ❓ (Breite **21 mm**) |
 | **Reifen** | ✅ **Schwalbe Marathon Plus 47-622** (28 × 1.75), **3,0–5,0 bar** |
 | Verlorene Kleinteile | ⚠️ **eine kleine Feder** (nur noch eine Seite vorhanden) → 💡 höchstwahrscheinlich die **Schnellspanner-Feder** |
@@ -293,7 +312,7 @@ Mögliche Kandidaten (sortiert nach Wahrscheinlichkeit):
 | **Technisch zulässig?** | ✅ **Ja.** Beide Reifen passen auf eine 19-mm-Innenbreite-Felge (42 mm → ca. 19–24 mm empfohlen; 47 mm → ca. 19–27 mm). Kein Sicherheitsproblem |
 | **Fahreindruck** | ⚠️ Vorne etwas schmaler → direkteres Lenkgefühl, etwas weniger Komfort; hinten breiter → mehr Dämpfung/Traktion. Viele Trekkingräder fahren genau so |
 | **Pannenschutz** | ⚠️ **Ungleich!** Hinten **Marathon Plus (SmartGuard, 6/6)**, vorne nur **K-Guard (3/6)**. Das Vorderrad hat den schwächeren Pannenschutz |
-| **Original-Zustand?** | ❓ Das originale Staiger Daytona fuhr **37-622** (Schwalbe Marathon). Beide jetzigen Reifen sind also **breiter als original** |
+| **Original-Zustand?** | ❓ Das originale Staiger Daytona fuhr **37-622** (Schwalbe Marathon). Beide jetzigen Reifen sind also **breiter als original**. 🔴 **Der vordere 42-622 K-Guard ist der Serienreifen des Bergamont Horizon 4.0** (Schwalbe Road Cruiser Kevlarguard 42-622) → kam **mit dem Spenderrad-Vorderrad** ans weiße Rad |
 | 💡 Empfehlung | 🟢 **So lassen und fahren.** Erst bei Verschleiß beide auf **dieselbe Breite** bringen – ideal **47-622 Marathon Plus vorne UND hinten** (bester Pannenschutz, einheitliches Fahrverhalten) |
 | 🔴 Zu prüfen | Reifenfreiheit: Berührt der 47-mm-Reifen hinten Schutzblech, Bremsarme oder Kettenstrebe? Und der 42er vorne die Gabelbrücke? |
 

@@ -1,15 +1,27 @@
 # 🔬 Diagnose: Hinterrad nicht mehr leichtgängig + verlorene Feder
 
-**Baustelle #2** · Priorität 🔴 · Status: 🟡 Diagnose fehlt
+**Baustelle #4** · Priorität 🟢 · Status: ✅ **weitgehend ERLEDIGT**
 
-**Symptome:**
-1. Hinterrad läuft schwerer als vor dem Umbau
-2. Beim Achsenausbau ging **eine kleine Feder verloren** – jetzt ist nur noch **eine Seite** vorhanden
+> ✅ **GELÖST (2026-09-04):** *„mein Hinterrad läuft normal, hat sich wohl eingespielt."*
+>
+> | | |
+> |---|---|
+> | **Symptom vorher** | Hinterrad lief schwerer als vor dem Umbau |
+> | **Zustand jetzt** | ✅ **läuft normal** |
+> | **Erklärung** | Das Lager hat sich **gesetzt/eingespielt** – typisch nach einer Konuslager-Montage: Fett verteilt sich, Konus und Kugeln laufen ein, die Vorspannung entspannt sich leicht |
+> | **Status** | ✅ erledigt · 🟢 **Nachkontrolle** nach ca. 100 km (Spiel + Leichtgängigkeit) |
+>
+> 🔴 **Ein Punkt bleibt offen:** die **verlorene kleine Feder**. Siehe Teil 2.
+
+✅ **Nabe identifiziert:** **Shimano Deore FH-M530 (VIAM)** → Explosionszeichnung verfügbar:
+`Shimano FH-M530 EV pdf` bzw. `bike.shimano.com SI`. 🔴 **Einstellseite ist LINKS** (ohne
+Kassette); rechts ist der Freilaufkörper aufgeschraubt.
+
+**Symptome (historisch):**
+1. ~~Hinterrad läuft schwerer als vor dem Umbau~~ → ✅ **erledigt**
+2. Beim Achsenausbau ging **eine kleine Feder verloren** – jetzt ist nur noch **eine Seite** vorhanden → 🟡 **offen**
 3. Die **flache Mutter auf der Gegenseite wurde zu fest angezogen**; das Lager war offen und
-   wurde wieder montiert
-
-**Vermutung:** Lager zu stark vorgespannt (Konus/Kontermutter zu fest) + fehlende Feder
-verändert die Vorspannung oder die Dichtung.
+   wurde wieder montiert → ✅ **hat sich eingespielt**
 
 ---
 
