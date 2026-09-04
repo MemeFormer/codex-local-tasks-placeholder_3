@@ -11,7 +11,7 @@ Gabel · hinten nach etwas Fummelei
 
 | Deutsch | Englisch | Bei mir |
 |---|---|---|
-| Schutzblech / Kotflügel | fender (US) / mudguard (UK) | ✅ Metall, vom Spenderrad |
+| Schutzblech / Kotflügel | fender (US) / mudguard (UK) | ✅ Metall, vom **Bergamont-Spenderrad** |
 | **V-Streben** | **V-stays / R-stays** | ✅ vorhanden |
 | Strebenhalter / Winkelhalter | strut bracket / angle bracket | ✅ verstellbar |
 | Schelle / Universal-Schelle | clamp / universal bracket | ❓ ggf. noch nötig |

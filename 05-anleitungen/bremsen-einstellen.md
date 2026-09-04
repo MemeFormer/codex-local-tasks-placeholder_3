@@ -1,6 +1,15 @@
 # 🔧 Bremsen einstellen & Züge wechseln
 
-Für Baustelle **3** (hintere Bremse kehrt nicht zurück) und **4** (Bremshebel zu weich).
+Für Baustelle **#3** (hintere Bremse kehrt nicht zurück – ✅ **erledigt**, Ursache war die
+**Bremshebel-Klemmung am Lenker**) und **#5** (vordere Bremsarme zu weich / Cantistifte zu kurz).
+
+> 🔴 **Wichtigster Punkt dieser Anleitung, aus Baustelle #3 gelernt:**
+> **Erst am Lenker suchen, dann an der Zange.** Wenn ein Bremshebel nicht zurückschnappt,
+> sind die häufigsten Ursachen die **Bremshebel-Klemmschelle** (zu fest oder zu nah am
+> Nachbarhebel → **Angelpunkt/Pivot verkantet**) und die **Griffweiten-Einstellung** –
+> **nicht** die Beläge, der Zug oder die Federn der Bremszange.
+> Anzugsmoment Klemmschelle am **Alu-Lenker: 4–6 Nm**. Griffweite **vor** dem Festziehen
+> der Klemmung einstellen.
 
 **Werkzeug:** Inbus 4/5 mm · Maulschlüssel 8/9/10 mm · Seitenschneider · Zughüllenschneider
 (oder scharfer Seitenschneider + Feile) · Ahle/Nagel · Zange · Lappen · Teflon-Fett

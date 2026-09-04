@@ -109,12 +109,15 @@ Sonst stehst du mitten in der Arbeit und merkst, dass der Konusschlüssel fehlt.
 |---|---|---|
 | 🔴 **Alte Gabel vom weißen Rad** | ❓ **WO IST SIE?** | 💡💡 **löst Baustelle 5 (Bremssockel) UND 6 (Gewinde) gleichzeitig!** Schaftlänge + Bremssockel wären wieder original passend |
 | Ausgebaute weiße Bremsarme vorne | ❓ | 💡 Federn als Spender für die schwarzen Arme; Bremsarme selbst wieder verwendbar, falls die Originalgabel zurückkommt |
-| Alte weiße Bremsbeläge („ziemlich runter“) | ❓ | Vergleichsmaß für die Spenderrad-Beläge (Länge/Form) |
+| Alte weiße Bremsbeläge | ✅ **ca. 72 mm**, 🔴 **komplett durchgefahren** | Vergleichsmaß für die Spenderrad-Beläge (**Tektro 836 = 62 mm**) → richtiger Ersatz: **Shimano M70T4 = 72 mm** |
+| 🔴 **RST Vogue TNL – Original-Federgabel des weißen Rads** | ✅ **vorhanden**, **defekt** (Öl ausgetreten, Dichtungen hin, leichter Rost an den Standrohren) | ⭐ **wichtigstes Teil der Ersatzteilkiste** – wenn rettbar, löst sie **Baustelle #1, #5 und #6** → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) |
+| 🔴 **Weiße Shimano-Deore-Bremsarme vorne** | ✅ **vorhanden** (ausgebaut) | passen nicht auf die **zu kurzen** Cantistifte der Bergamont-Gabel → **Baustelle #5** |
+| 🔴 **Staiger-Originalvorbau + XLC-Comp-Lenker** | ❓ **aufheben!** | Plan E: kürzerer Vorbau braucht **weniger Gabelschaft** → könnte Baustelle #1/#6 entspannen |
 | Ausgebaute Bremshebel | ❓ | Ersatz / Spender für Bolzen + Federn |
 | Alte Kette | ❓ | als Maß für spätere Kettenlänge (nach Neukauf wegwerfen) |
 | Flachstecker-Reste | ❓ | |
 | Schutzblech-Schrauben und Schellen | ❓ | |
-| Spenderrad-Rest | ❓ | Ersatzteillager, siehe [`../01-bikes/schwarzes-spenderrad.md`](../01-bikes/schwarzes-spenderrad.md) |
+| Spenderrad-Rest (**Bergamont Horizon 4.0**) | ❓ | Ersatzteillager: 🔴 **Cantistifte** (falls kürzer gebraucht), **Schutzblech-Ösen**, Laufrad, Lenker/Vorbau – siehe [`../01-bikes/schwarzes-spenderrad.md`](../01-bikes/schwarzes-spenderrad.md) |
 | Ausgebaute Konen/Kugeln | ❓ | |
 
 💡 **Wichtig:** Die **alte Gabel des weißen Rads** aufheben! Falls deren Schaft lang genug

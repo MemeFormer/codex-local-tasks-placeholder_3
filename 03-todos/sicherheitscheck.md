@@ -3,6 +3,12 @@
 Weil das Rad ein Umbau mit mehreren Provisorien ist: **Diese Liste einmal durchgehen,
 bevor du längere Strecken fährst.** Dauer: 3 Minuten.
 
+> ✅ **Stand 2026-09-05:** Drei frühere Warnpunkte sind **erledigt** – hintere Bremse kehrt
+> zurück (**#3**, Ursache war die Bremshebel-Klemmung), Hinterrad läuft normal (**#4**),
+> Nabendynamo-Lager passt (**#13**).
+> 🔴 **Neu dazugekommen:** **Bremshebel-Klemmschellen** (Abstand + Moment) und
+> **Cantistift-Befestigung der vorderen Bremsarme**.
+
 ---
 
 ## 🔴 Kritisch – bei jedem Scheitern: nicht fahren
@@ -16,12 +22,13 @@ bevor du längere Strecken fährst.** Dauer: 3 Minuten.
 | ☐ | **Vorderrad-Befestigung** | Schnellspanner mit Handkraft fest, Hebel steht nicht ab, keine losen Muttern | |
 | ☐ | **Hinterrad-Befestigung** | dito + Rad sitzt mittig in den Ausfallenden | |
 | ☐ | **Bremsfunktion vorne** | Hebel ziehen: Bremspunkt **vor** 1/2 Hebelweg, Beläge treffen die Felge, Rad blockiert bei Kraft | |
-| ☐ | **Bremsfunktion hinten** | dito + ⚠️ **Kehrt der Hebel selbstständig zurück?** | 🔴 aktuelles Problem |
+| ☐ | **Bremsfunktion hinten** | dito + ⚠️ **Kehrt der Hebel selbstständig zurück?** | ✅ **erledigt** – Ursache war die Bremshebel-Klemmung, **bitte weiterhin prüfen** |
+| ☐ | 🔴 **Bremshebel-Klemmschellen** | Beide Klemmungen haben **Abstand zueinander**, sind **nicht zu fest** (Alu-Lenker **4–6 Nm**), der hintere Hebel lässt sich **frei** bewegen | 🔴 **war die Ursache von Baustelle #3 – nicht lockern, aber kontrollieren** |
 | ☐ | **Bremsbeläge auf der Bremsflanke** | Belag berührt **nicht** den Reifen und **nicht** die Felgenunterkante | ⚠️ hinten sind **fremde Beläge** verbaut |
-| ☐ | **Bremsbelag-Länge** | V-Brake-Beläge ≈ 70 mm, liegen **voll** auf der Flanke auf | ⚠️ Spenderrad-Beläge prüfen |
+| ☐ | **Bremsbelag-Länge** | Beläge liegen **voll** auf der Flanke auf. Referenz: deine Originalbeläge **ca. 72 mm**, verbaut sind **Tektro 836 = 62–63 mm** | 🟡 **ca. 9–10 mm kürzer** – funktionsfähig, bei Gelegenheit auf **Shimano M70T4 = 72 mm** wechseln |
 | ☐ | **Federraste der Bremsarme** | Federstift sitzt **fest in einer Sockel-Bohrung**, beide Arme **im selben Loch** | 🔴 |
-| ☐ | **Bremsarme vorne fest auf dem Sockel** | kein Spiel, kein Spalt, Befestigungsschraube (M6) fest | ⚠️ fremde Arme an fremder Gabel |
-| ☐ | **Felgen-Bremsflanke** | Keine tiefe Mulde, Verschleißindikator sichtbar | 🔴 noch ungeprüft |
+| ☐ | 🔴 **Bremsarme vorne fest auf dem Sockel** | kein Spiel, kein Spalt, Befestigungsschraube (M6) **greift richtig** | 🔴 **offene Baustelle #5**: die Cantistifte der Bergamont-Gabel sind **zu kurz** → M6-Schraube findet evtl. **keinen Gewindegriff**. **Unbedingt prüfen!** |
+| ☐ | **Felgen-Bremsflanke** | Keine tiefe Mulde (< 0,3 mm), Verschleißindikator sichtbar | 🔴 noch ungeprüft – **verschärft:** die Originalbeläge waren **durchgefahren** |
 | ☐ | **Reifendruck** | Mit Pumpe/Manometer, nicht per Daumen | |
 | ☐ | **Kette fällt nicht ab** | Im Stand durch die Gänge schalten, Kette bleibt auf den Blättern | |
 | ☐ | **Kette nicht überstreckt** | Big-Big-Kombination vermeiden (Kette zu kurz) | ⚠️ |
@@ -31,8 +38,9 @@ bevor du längere Strecken fährst.** Dauer: 3 Minuten.
 | ☐ | Prüfung | Wie |
 |---|---|---|
 | ☐ | Leichtgängigkeit Steuersatz | Rad vorne anheben, Lenker einschlagen → fällt leicht zur Seite, **rastet nicht** in der Mitte ein |
-| ☐ | Lagerspiel Vorderrad | Rad in der Hand, Achse seitlich wackeln → kein Spiel |
-| ☐ | Lagerspiel Hinterrad | dito |
+| ☐ | Lagerspiel Vorderrad (Nabendynamo) | Rad in der Hand, Achse seitlich wackeln → kein Spiel. ✅ **#13 erledigt** – nur Nachkontrolle |
+| ☐ | Lagerspiel Hinterrad | dito. ✅ **#4 erledigt** („hat sich eingespielt") – **Nachkontrolle nach ca. 100 km** |
+| ☐ | 🔴 **Federgabel** | Auf Last drücken: federt **und dämpft** sie? Kein Öl an den Tauchrohren? Standrohre sauber? | 🔴 **Baustelle #14**: RST Vogue TNL ist **ohne Dämpfung** – aktuell ist die NEX verbaut |
 | ☐ | Speichenspannung | Alle Speichen mit Daumen/Zeigefinger drücken → keine lose |
 | ☐ | Rundlauf | Felge beobachten beim Drehen → kein Schleifen an Belag/Schutzblech |
 | ☐ | Schutzblech-Schrauben | fest, Streben berühren keine Speichen |

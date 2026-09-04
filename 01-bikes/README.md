@@ -5,15 +5,15 @@ Bevor man ein Ersatzteil bestellt, braucht man fast immer eines dieser Grundmaß
 
 | Datei | Rad | Status |
 |---|---|---|
-| [`weisses-trekkingbike.md`](weisses-trekkingbike.md) | Weißes Trekkingbike – **Hauptbike / Zielrad** | ❓ viele Maße offen |
-| [`schwarzes-spenderrad.md`](schwarzes-spenderrad.md) | Schwarzes Spenderrad – **Teileträger** | ❓ viele Maße offen |
+| [`weisses-trekkingbike.md`](weisses-trekkingbike.md) | Weißes Trekkingbike – ✅ **STAIGER Daytona Sportline**, Rahmen-Nr. **AWO7230329** – **Hauptbike / Zielrad** | ✅ identifiziert, ❓ Messwerte offen |
+| [`schwarzes-spenderrad.md`](schwarzes-spenderrad.md) | Schwarzes Spenderrad – ✅ **BERGAMONT Horizon 4.0** (Alu 6061 T4/T6, Größe **52 cm**) – **Teileträger** | ✅ identifiziert, ❓ Baujahr + Rahmennummer offen |
 | [`bike-vorlage.md`](bike-vorlage.md) | Vorlage, falls ein drittes Rad dazukommt | – |
 
 ## Wo finde ich welche Angabe am Rad?
 
 | Angabe | Wo steht das? |
 |---|---|
-| Hersteller + Modell | Aufdruck am Unterrohr/Sitzrohr, Aufkleber am Rahmen, ggf. Rechnung |
+| Hersteller + Modell | Aufdruck am Unterrohr/Sitzrohr, Aufkleber am Rahmen, ggf. Rechnung · 💡 **auch die Rahmenprägung** (z. B. `52 T4/T6 Heat Treated 6061 Lite Alloy` = Material + Größe) |
 | **Rahmennummer** (Seriennummer) | Unter dem **Tretlagergehäuse** eingestanzt, selten am Ausfallende oder Steuerrohr |
 | Baujahr | Seriennummer beim Hersteller entschlüsselbar, oder anhand der Komponenten-Gruppe |
 | Laufradgröße (ETRTO) | Auf der **Reifenflanke**, z. B. „37-622“ (= 28 Zoll Trekking) |
