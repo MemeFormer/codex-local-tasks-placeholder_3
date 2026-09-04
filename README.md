@@ -7,7 +7,7 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 
 ---
 
-## 🎯 STAND 2026-09-04 – Spenderrad identifiziert, drei Baustellen erledigt
+## 🎯 STAND 2026-09-04 – Spenderrad identifiziert, drei Baustellen erledigt, Vorgeschichte geklärt
 
 > 🔴 **Diese Runde hat vier Annahmen umgeworfen – und eine Tür geöffnet.**
 >
@@ -18,10 +18,28 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 > | ✅ **#3 erledigt**: hintere Bremse kehrt wieder zurück | Ursache war die **Bremshebel-Klemmung am Lenker** (zu nah/fest → **Pivot geklemmt**) – ⛔ **nicht** die Beläge |
 > | ✅ **#4 + #13 erledigt**: Hinterrad läuft normal, Dynamo-Rad läuft mehrere Umdrehungen | nur noch **Beobachtung** |
 >
-> 💡 **Der eine nächste Schritt: 🔴 Fingernageltest an den RST-Standrohren (5 min, 0 €).**
+> 🟢 **Entscheidung des Besitzers: die RST Vogue TNL wird instand gesetzt.** Die NEX wirkt
+> in der Dämpfung *„schwammig, weich, wie Spielzeug"*, die RST ist *„eine Nummer besser"* –
+> technisch plausibel: die RST hat eine **echte hydraulische Öldämpfung**, die NEX nur
+> **Feder + Elastomer**. Die Bastelei für Schutzblech/Licht wird dafür in Kauf genommen.
+>
+> 🔴🔴 **Der nächste Schritt ist NICHT der Fingernageltest, sondern ein 5-Sekunden-Check (0 €):**
+>
+> | ☐ | Prüfung | ⛔ Schlechtes Ergebnis |
+> |---|---|---|
+> | **0a** | **Ist am RST-Schaft ein Außengewinde sichtbar?** | **glatt = Ahead-Gabel** → passt **nicht** in den Gewinderahmen → **Plan A+ entfällt** |
+> | **0b** | **MAGNET an den Schaft halten** – haftet er? | **haftet nicht = Aluschaft** → ein **Quill-Vorbau spreizt einen Keil** und kann den Schaft **aufreißen** |
+> | **0c** | **Vorbau-Typ des originalen XLC-Comp-Vorbaus** (A-Head = klemmt außen · Quill = Rohrstutzen + Keil) | **A-Head** → der Rahmen war nie für Gewinde gebaut |
+>
+> ⚠️ **Warum:** Ein **Staiger-Katalogauszug von 2007** nennt die Vogue TNL **„mit Aluschaft"**
+> in einem Rad mit **A-Head semi-integriert**-Steuersatz – **dieses Rad hat aber
+> Gewindesteuersatz + Quill-Vorbau.** Wahrscheinlich ein anderes Baujahr, aber
+> 🔴 **prüfen, nicht annehmen.** Ein Kühlschrankmagnet genügt.
+>
+> 💡 **Erst danach: Fingernageltest an den RST-Standrohren (5 min, 0 €).**
 > Keine Grübchen → Dichtungen (**14,28 €**) + Öl → Gabel zurückbauen → drei Baustellen weg.
 > Grübchen → Gabel unrettbar → Plan B (NEX 225 mm oder Ahead-Umbau).
-> → [`04-diagnose/rst-vogue-tnl-federgabel.md`](04-diagnose/rst-vogue-tnl-federgabel.md)
+> → [`04-diagnose/rst-vogue-tnl-federgabel.md`](04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0**
 
 **Die entschlüsselten Teile:**
 
@@ -30,7 +48,7 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 | **Gabel (jetzt verbaut)** | ⛔ SR Suntour **NEX** · `SF14 NEX P 700C TS T63` · 700C, **63 mm Federweg**, Gewindeschaft **1⅛″ × 24 tpi**, Schaft **210/225 mm**, **Alu**-Scheiden – **Bergamont-Originalteil** |
 | **Gabel (Original weißes Rad)** | 🔴 **RST Vogue TNL** · Coil/Öl · **Öldämpfung rechts, Stahlfeder + MCU links** · **hydraulischer Lockout** · Schaft CroMo **28,6 mm (1⅛″)** oder 25,4 mm (1″) · Standrohre **25,4 mm Stahl, Ti-Farbe** · ca. **50 mm** Federweg · **ausgebaut, vorhanden, defekt** |
 | **Spenderrad-Rahmen** | ✅ **Bergamont Horizon 4.0** · `52 T4/T6 Heat Treated 6061 Lite Alloy` · Alu 6061 T4/T6 · **52 cm** · 3×8 · ca. 2012–2016 |
-| **Antrieb** | Kurbelgarnitur **FC-M530** (Hollowtech, **Octalink**, 170 mm) · Innenlager **BB-ES25** · Kette **CN-HG53** (9-fach) · Schaltwerk **RD-M511** (SGS, max. 34 Z.) · Umwerfer **FD-C050** (Top Swing) · Schalthebel **SL-M580** |
+| **Antrieb** | Kurbelgarnitur **FC-M530** (Hollowtech, **Octalink**, 170 mm) · Innenlager **BB-ES25** · Kette **CN-HG53** (9-fach) · Schaltwerk **RD-M511** (SGS, max. 34 Z.) · Umwerfer ⛔ **FD-C050 – NICHT original** (Behelfsreparatur nach Sturz; original wäre **Deore FD-M530**) · Schalthebel **SL-M580** |
 | **Bremsen** | Bremshebel **BL-M571** (V-Brake, long pull) · hinten **Shimano Deore**-Arme · vorne **Tektro**-Arme · Beläge **Tektro 836** (63 mm, Codes **B1/B44** = vermutlich Chargennummer) · 🔴 **Originalbeläge = Shimano ca. 72 mm, durchgefahren** |
 | **Laufräder** | vorne ⛔ **vom Spenderrad**: Nabe **DH-3N31-NT** (Nabendynamo 6 V/3 W) + Felge **Shining A-M4** 622 × 19 + **Schwalbe Active Line K-Guard 42-622** · hinten ✅ **original**: Nabe **FH-M530** + Felge **Mach1 210** 622 × 19c + **Schwalbe Marathon Plus 47-622** |
 
@@ -51,6 +69,8 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 | Ein Maß am Rad ablesen und eintragen | [`04-messdaten/messdatenblatt.md`](04-messdaten/messdatenblatt.md) |
 | Eine konkrete Anleitung (Lager einstellen, Bremse …) | [`05-anleitungen/`](05-anleitungen/) |
 | Nachlesen, was ich wann gemacht habe | [`06-logbuch/`](06-logbuch/) |
+| 🔴 **Verstehen, warum dieses Rad vom Katalog abweicht** | [`06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md) |
+| Wissen, welche Baustelle welche Nummer hat | [`03-todos/offene-baustellen.md`](03-todos/offene-baustellen.md) – **maßgeblich** |
 | Alles auf einmal ausdrucken | `python3 tools/generate-print-sheet.py` |
 
 ---
@@ -59,18 +79,29 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 
 | Arbeitsname | Beschreibung | Rolle | Stammdaten |
 |---|---|---|---|
-| **Weißes Trekkingbike** | ✅ **STAIGER Daytona Sportline** (Stuttgart/Gerlingen, später Winora-Staiger) · Rahmen-Nr. **AWO7230329** · **Alu 6061** · 3×9 (27 Gänge) **Shimano Deore/LX** (FC-M530, RD-M511, SL-M580, BL-M571) · **V-Brake** · **Nabendynamo DH-3N31** · Gewindesteuersatz → jetzt mit schwarzer **Suntour NEX**-Gabel | **Hauptbike / Zielrad** | [`01-bikes/weisses-trekkingbike.md`](01-bikes/weisses-trekkingbike.md) |
+| **Weißes Trekkingbike** | ✅ **STAIGER Daytona Sportline** (Stuttgart/Gerlingen, später Winora-Staiger) · Rahmen-Nr. **AWO7230329** · **Alu 6061** · 3×9 (27 Gänge) **Shimano Deore** + 🔴 **Deore-LX-Cockpit** (FC-M530, RD-M511, **SL-M580**, **BL-M571**) · **V-Brake** · **Nabendynamo DH-3N31** · Gewindesteuersatz → jetzt mit schwarzer **Suntour NEX**-Gabel · 🔴 **Cockpit = Spezialwunsch des Händler-Freundes** | **Hauptbike / Zielrad** | [`01-bikes/weisses-trekkingbike.md`](01-bikes/weisses-trekkingbike.md) |
 | **Schwarzes Spenderrad** | ✅ **BERGAMONT Horizon 4.0** (Hamburg, **seit 2015 Scott-Gruppe**) · Rahmenprägung **`52 T4/T6 Heat Treated 6061 Lite Alloy`** = Alu 6061 T4/T6, **Größe 52 cm** · 3×8 · **V-Brake** · Nabendynamo **DH-3N31** · **Suntour NEX DS 63 mm** · ca. 2012–2016 | **Teileträger** | [`01-bikes/schwarzes-spenderrad.md`](01-bikes/schwarzes-spenderrad.md) |
 
 > ✅ **Modell geklärt: STAIGER Daytona Sportline.** Baujahr: ❓ **Hypothese 2007, KW 23**
 > (aus `AWO` + `7 23` + `0329`) – passt zur Komponenten-Ära (Deore LX M570/M580 ≈ 2004–2008).
 >
-> ⚠️ **Prospekt ≠ dein Rad:** Die Serien-Recherche nennt eine **Suntour NCX-D LO 63 mm**-Gabel –
-> **dein Rad hatte aber nachweislich eine RST Vogue TNL (ca. 50 mm)**. Übrigens korrekt bestätigt
-> durch deine Funde: **Mach1 210**-Felgen, **XLC Comp**-Vorbau/-Sattelstütze/-Griffe,
-> **Shimano Deore V-Brakes**, **Schwalbe Marathon**.
+> 🔴 **Prospekt ≠ dein Rad – jetzt mit Beleg und mit DREI Gründen.**
+> Ein **Staiger-Katalogauszug von 2007** (Sport Line) wurde Zeile für Zeile mit dem
+> Ist-Bestand abgeglichen →
+> [`06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md)
+>
+> | Grund | Befund |
+> |---|---|
+> | **1 – Baujahr/Variante** | Andere Serien-Recherche nennt eine **Suntour NCX-D LO 63 mm**-Gabel; der **Katalog 2007** nennt dagegen **RST Vogue TNL** ✅ = **dein Rad**. Und: der Katalog nennt **„A-Head semi-integriert"** – **dein Rad hat Gewindesteuersatz + Quill-Vorbau** → 🔴 **anderes Baujahr** |
+> | **2 – Spezialwünsche des Händlers** | ✅ **BELEGT.** Zehn Bauteile = **exakt Daytona-Spec**. **Genau zwei** weichen ab – **beide zum teureren Idaho-Spec, beide am Lenker**: Schalthebel **SL-M580** + Bremshebel **BL-M571** (**Deore LX**). Der Besitzer erinnerte **„es ging um die Schaltarmaturen"** → 🔴 **Treffer.** Ein **Upgrade**, kein Mangel |
+> | **3 – Umbauten über die Jahre** | ⛔ **Umwerfer FD-C050 ist NICHT original** (Behelf nach einem Sturz, original wäre **Deore FD-M530**) · Anbauten (Schutzblech/Träger/Licht) kamen später · zuletzt der **Teile-Swap** vom Bergamont |
+>
+> ✅ **Zusätzlich bestätigt der Katalog deine Erinnerung:** Gepäckträger und Ständer
+> **„nachrüstbar"**, **keine Beleuchtung** gelistet → *„relativ nackt gekauft"* ✔.
+> Und der Herren-Sattel war ein **Fizi:k Pave Sport** – schmal und hart → *„Sado-Maso-Foltergerät"* ✔.
 > 🔴 **Lehre: Immer die Teile am Rad zählen, nicht den Prospekt.**
-> Siehe [`01-bikes/README.md`](01-bikes/README.md).
+> Siehe [`01-bikes/README.md`](01-bikes/README.md) und
+> [`02-teile/00-teil-identifizieren.md`](02-teile/00-teil-identifizieren.md) Abs. 4a
 
 > ℹ️ **Marken-Hintergrund (nicht verwechseln):** **Staiger** – Stuttgart 1898/99, ab 1997
 > Winora-Staiger, **seit 2002 Accell**. **Bergamont** – Hamburg 1993, 2008 BMC,
