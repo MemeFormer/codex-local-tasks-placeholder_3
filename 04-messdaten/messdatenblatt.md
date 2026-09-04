@@ -315,15 +315,17 @@ Hier nur den Pfad notieren:
 
 | Abschnitt | ☐ erfasst | Datum |
 |---|---|---|
-| 0. Identifikation | 🟡 teilweise (STAIGER Daytona Sportline, AWO7230329) | 2026-09-04 |
-| 1. Gabel & Steuersatz | 🟡 **Teilenummern ✅** – Messwerte offen | 2026-09-04 |
-| 2. Vorbau & Lenker | 🟡 teilweise | 2026-09-04 |
-| 3. Laufräder | 🟡 **Naben/Felgen/Reifen ✅** – Lager + Verschleiß offen | 2026-09-04 |
-| 4. Antrieb | 🟡 **Kurbel/Schaltung ✅** – Kassette + Zähne offen | 2026-09-04 |
-| 5. Bremsen | 🟡 **Hebel/Beläge ✅** – Sockelmaße offen | 2026-09-04 |
-| 6. Licht | 🟡 **Dynamo ✅** – Leuchten offen | 2026-09-04 |
+| 0. Identifikation | ✅ **beide Räder identifiziert** – STAIGER Daytona Sportline (**AWO7230329**) + Spenderrad **Bergamont Horizon 4.0** (`52 T4/T6 Heat Treated 6061 Lite Alloy`) | 2026-09-05 |
+| 1. Gabel & Steuersatz | 🟡 **beide Gabeln ✅** (RST Vogue TNL original · NEX vom Bergamont) – 🔴 **RST-Messwerte offen** (Fingernageltest, Standrohr-Ø, Schaft-/Gewindelänge) | 2026-09-05 |
+| 2. Vorbau & Lenker | 🟡 teilweise – 🔴 **MIN-INSERTION + Einsteck-Ø offen** | 2026-09-05 |
+| 3. Laufräder | 🟡 **Naben/Felgen/Reifen ✅** · ✅ **#13 Nabendynamo erledigt** · ✅ **#4 Hinterrad erledigt** – 🔴 **Bremsflanken-Verschleiß offen** (#2) | 2026-09-05 |
+| 4. Antrieb | 🟡 **Kurbel/Schaltung ✅** – Kassette + Zähne offen (#7/#11) | 2026-09-04 |
+| 5. Bremsen | 🟡 **Hebel/Beläge ✅** · ✅ **#3 erledigt** (Bremshebel-Klemmung) – 🔴 **Cantistift-Maße offen** (#5) | 2026-09-05 |
+| 6. Licht | ✅ **Dynamo ✅ DH-3N31-NT** – nur Leuchten-Modelle offen | 2026-09-05 |
 | 7. Anbauteile | ☐ | |
 | Fotos | ☐ | |
 
-**Fortschritt insgesamt: 🟡 ca. 70 %** – die **Teilenummern** sind zu ~90 % bekannt,
-die **Messwerte** stehen noch aus.
+**Fortschritt insgesamt: 🟡 ca. 80 %** – die **Teilenummern** sind zu ~95 % bekannt
+(beide Räder identifiziert, **drei Baustellen erledigt**), offen sind fast nur noch die
+**Messwerte an der RST Vogue TNL** – und die entscheiden über Baustelle **#14**,
+die ihrerseits **#1, #5 und #6** auf einen Schlag löst.
