@@ -14,7 +14,7 @@
 | **Hersteller** | ✅ **BERGAMONT** |
 | **Modell** | ✅ **Horizon 4.0** |
 | **Marke/Herkunft** | Hamburg (St. Pauli / Schanzenviertel), gegründet **1993**, Entwicklung in Hamburg, Produktion in Asien. Seit 2008 BMC-Beteiligung, **seit 2015 Teil der Scott-Gruppe** |
-| **Rahmenprägung** | ✅ **`52 T4/T6 Head Treated 6061 Lite Alloy`** |
+| **Rahmenprägung** | ✅ **`52 T4/T6 Heat Treated 6061 Lite Alloy`** |
 | **Baujahr** | ❓ TODO – V-Brake-Version, also **vor** der Disc-Ära der Horizon-Serie (die aktuellen Horizon 4 haben hydraulische Scheibenbremsen) → vermutlich **ca. 2012–2016** |
 | Rahmennummer | ❓ TODO (unter dem Tretlagergehäuse) |
 | Aktuelles Schicksal | teilzerlegt, Restteile gelagert ❓ wo? |
@@ -24,7 +24,8 @@
 | Prägung | Bedeutung |
 |---|---|
 | **`52`** | ✅ **Rahmengröße 52 cm** (Sitzrohrlänge, Mitte Tretlager → Oberkante Sitzrohr). Bergamont bietet die Horizon-Serie in **44/48/52/56 cm** bzw. **48/52/56/60/64 cm** an |
-| **`T4/T6`** | ✅ **Wärmebehandlungszustand** (temper) der Aluminiumlegierung – Bergamont schreibt das offiziell als **„T4/T6 wärmebehandelt"**. 🔴 **„Head Treated" ist ein Lesefehler, es heißt „Heat Treated"** |
+| **`T4/T6`** | ✅ **Wärmebehandlungszustand** (temper) der Aluminiumlegierung – Bergamont schreibt das offiziell als **„T4/T6 wärmebehandelt"** |
+| **`Heat Treated`** | ✅ **wärmebehandelt** – ausgeschrieben dasselbe wie `T4/T6`. ⚠️ Beim Ablesen leicht mit „Head Treated" zu verwechseln – korrekt ist **Heat** |
 | **`6061`** | ✅ **Aluminium-Legierung 6061** (Al-Mg-Si) – derselbe Grundwerkstoff wie beim weißen STAIGER-Rahmen (**Alu 6061**) |
 | **`Lite Alloy`** | ✅ Bergamont-Bezeichnung: **„lite AL-6061 Rohrsatz"** – leichter Rohrsatz, hydro-umgeformt |
 
