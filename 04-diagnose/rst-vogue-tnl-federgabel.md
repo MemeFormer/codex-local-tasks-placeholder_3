@@ -108,6 +108,7 @@ prüft, ob das Tauchrohr Riefen oder Rostpickel hat. **Dasselbe Prinzip hier.**
 |---|---|---|---|
 | ☐ | **0a – Hat der RST-Schaft ein Außengewinde?** | Anschauen: **Gewinde sichtbar** oder **glatter Schaft**? | ⛔ **Glatt = Ahead-Gabel.** Die passt **nicht** in einen Gewinderahmen mit Quill-Vorbau → **Plan A+ ist gescheitert, bevor er begonnen hat.** Dann: Ahead-Umbau oder andere Gabel. |
 | ☐ | **0b – Ist der Schaft Stahl oder Aluminium?** | 🔴 **MAGNET-TEST** – Magnet haftet = **CroMo/Stahl** ✅, haftet **nicht** = **Aluminium** ⛔ | 🔴 **Bei Aluminium + Quill-Vorbau: kritisch.** Ein Quill-Vorbau **spreizt einen Keil im Schaft**. **Alu-Schäfte können dabei aufreißen.** → dann **Ahead-Umbau** oder eine Gabel mit **Stahlschaft** |
+| ☐ | **0c – Welchen Vorbau-Typ hat der ORIGINAL-Staiger-Vorbau (XLC Comp)?** | 🔴 **Der entscheidende Beweis, und er liegt vermutlich im Keller.** Ein **A-Head-Vorbau** klemmt **außen** um einen glatten Schaft (+ Kappe mit Inbus oben). Ein **Quill-/Schaftvorbau** hat einen **langen Rohrstutzen zum Reinstecken** + Keil + **MIN-INSERTION-Prägung**. Der Katalog 2007 nennt **„XLC Comp Alu A-Head"**. 🔴 **Ist der Originalvorbau ein A-Head-Vorbau, war der Rahmen nie für einen Gewindesteuersatz gebaut** – dann passt die heutige NEX-Konfiguration nicht zum Originalzustand, und die RST-Gabel wäre die **Ahead-Variante**. **Ist er ein Quill-Vorbau, ist die Sache klar: Gewinderahmen, anderes Baujahr als der Katalog.** |
 
 > 💡 **Der Magnet-Test ist der billigste und wichtigste Test des ganzen Projekts.**
 > Ein **Kühlschrankmagnet** genügt, Dauer **5 Sekunden**, Kosten **0 €**.
@@ -118,6 +119,11 @@ prüft, ob das Tauchrohr Riefen oder Rostpickel hat. **Dasselbe Prinzip hier.**
 | ✅ **Gewinde vorhanden + Magnet haftet (Stahl)** | 🟢 **Bestfall** – die Gabel ist die richtige Variante. **Weiter mit 3.1 (Fingernageltest).** |
 | ⚠️ **Gewinde vorhanden + Magnet haftet NICHT (Alu)** | 🔴 **Gewinde-Gabel mit Aluschaft** – selten, aber möglich. **Quill-Vorbau nur mit äußerster Vorsicht** (Keil **nicht** stark spreizen, Drehmoment niedrig, Einstecktiefe streng beachten). Besser: **Ahead-Umbau**. |
 | ⛔ **Glatter Schaft (Ahead)** | 🔴 **Falsche Variante für diesen Rahmen.** Plan A+ entfällt. → **Abs. 5, Entscheidungsbaum, Pfad „Gabel unbrauchbar"**. |
+
+> 💡 **0c ist der stärkste der drei Checks** – und kostet keinen Handgriff am Rad:
+> **Der originale XLC-Comp-Vorbau ist ausgebaut und vermutlich noch vorhanden.**
+> Sein Typ beantwortet die Frage **A-Head oder Gewinde** endgültig, denn er wurde
+> **beim Kauf** passend zum Rahmen ausgewählt. ❓ **Liegt er noch im Keller?**
 
 **Warum das bisher übersehen wurde:** Die Annahme lautete „die Original-Gabel passt
 definitionsgemäß in den Original-Rahmen". Das stimmt **nur**, wenn es **dieselbe Variante**

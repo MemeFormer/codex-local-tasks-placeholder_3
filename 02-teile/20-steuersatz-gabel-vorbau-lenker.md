@@ -441,6 +441,19 @@ Bremssockel passen zu den guten weißen Shimano-Bremsarmen.
 |---|---|---|---|
 | ☐ | **Ist am RST-Schaft ein Außengewinde?** | ⛔ **glatt** | **Ahead-Gabel** → passt **nicht** in diesen Gewinderahmen. **Variante A+ entfällt.** → Variante D (Ahead-Umbau) |
 | ☐ | **MAGNET an den Schaft halten** | ⛔ **haftet nicht = Alu** | 🔴 **Quill-Vorbau spreizt einen Keil im Schaft → ein Aluschaft kann aufreißen.** Dann **Ahead-Umbau** oder Gabel mit Stahlschaft |
+| ☐ | 🔴 **0c – Vorbau-Typ des ORIGINAL-XLC-Comp-Vorbaus** | ⛔ **A-Head** (klemmt außen) | **Der Rahmen war nie für Gewinde gebaut** → die RST wäre die **Ahead-Variante**, und die heutige Gewinde-NEX-Konfiguration entspricht nicht dem Originalzustand. → **Variante D (Ahead-Umbau) wäre der richtige Weg** |
+| ☐ | 🔴 **0c – dito** | ✅ **Quill** (Rohrstutzen + Keil + MIN-INSERTION) | 🟢 **Gewinderahmen bestätigt** → der Katalog von 2007 beschreibt ein **anderes Baujahr**. **Variante A+ ist gültig** |
+
+> 💡 **0c ist der stärkste Check und kostet keinen Handgriff am Rad:** Der **originale
+> XLC-Comp-Vorbau ist ausgebaut und vermutlich noch vorhanden.** Sein Typ beantwortet
+> „A-Head oder Gewinde?" endgültig – denn er wurde **beim Kauf** passend zum Rahmen
+> ausgewählt. Der Katalog 2007 nennt **„XLC Comp Alu A-Head"**. ❓ **Liegt er noch im Keller?**
+>
+> 🔴 **Logischer Gegencheck, der für „Gewinde" spricht:** Die **NEX-Gabel** läuft derzeit
+> mit einem **Gewindesteuersatz** in diesem Rahmen. Ein **semi-integrierter A-Head-Rahmen
+> (ZS44, 44-mm-Steuerrohr)** kann **keine externen EC34-Gewindeschalen** aufnehmen.
+> **Da die NEX eingebaut ist und funktioniert, ist das Steuerrohr mit hoher
+> Wahrscheinlichkeit 33,9 mm für EC34 – also ein Gewinderahmen.**
 | ☐ | beides | ✅ **Gewinde + Magnet haftet (Stahl)** | 🟢 **Variante A+ ist gültig** → weiter zum Fingernageltest |
 
 **Wahrscheinlichste Erklärung des Widerspruchs:** 🔴 **dieses Rad ist ein anderes Baujahr
