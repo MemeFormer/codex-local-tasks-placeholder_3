@@ -8,8 +8,17 @@ Bevor man ein Ersatzteil bestellt, braucht man fast immer eines dieser Grundmaß
 > 🔴 **Wichtigste Erkenntnis dieser Runde:** Die **schwarze Gabel (SR Suntour NEX 63 mm) ist
 > kein Originalteil des weißen Rads**, sondern gehört zum **Bergamont-Spenderrad**.
 > Die Original-Gabel des weißen Rads ist eine **RST Vogue TNL (ca. 50 mm)** – **und sie ist
-> noch vorhanden.** Ob sie rettbar ist, entscheidet über drei andere Baustellen:
-> [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md)
+> noch vorhanden.**
+>
+> 🟢 **Die Rettung steht fest: „Plan A-Head" (2026-09-05).** Die RST kommt zurück – zusammen
+> mit einem **EC34-A-Head-Steuersatz** und dem **originalen XLC-Comp-A-Head-Vorbau**
+> (beide vorhanden). Der Katalog nennt *„A-Head semi-integriert"*, der Originalvorbau war
+> *„fast sicher A-Head"*, und das Steuerrohr misst **33,9 mm = EC34** – dieselbe Größe für
+> Gewinde- **und** A-Head-Systeme. Der Gewinde-Zustand ist eine **Umrüstung** und umkehrbar.
+> **Damit werden drei Baustellen gegenstandslos statt repariert:** **#1** (Quill-Einstecktiefe),
+> **#5** (Cantistifte) und **#6** (Steuersatz-Gewinde).
+> 🔴 **Noch offen:** **0c**-Fotos des Vorbaus und Prüfung **0d** (EC34-Nachweis am Rad).
+> → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0.3**
 
 | Datei | Rad | Status |
 |---|---|---|

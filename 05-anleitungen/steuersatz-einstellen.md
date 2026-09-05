@@ -3,38 +3,55 @@
 Für Baustelle **#6** (nur 1–2 Gewindegänge frei, keine Kontermutter möglich) und
 Baustelle **#1** (Quill-Vorbau-Mindesteinstecktiefe).
 
+> 🟢 **Stand 2026-09-05:** Beide Baustellen werden durch **Plan A-Head** vermutlich
+> **gegenstandslos** statt repariert. Diese Anleitung bleibt gültig für die
+> **Übergangszeit** – und als Referenz, falls Plan A-Head scheitert
+> (Fingernageltest negativ ⇒ Gabel unrettbar).
+
 > 🔴 **Ursache jetzt vollständig bekannt:** Die verbaute Gabel (**SR Suntour NEX**) stammt vom
 > **Bergamont Horizon 4.0**, dessen Steuerrohr **20–30 mm kürzer** ist als das des weißen
 > Staiger-Rahmens. NEX-Gewindeschäfte haben ab Werk nur **ca. 55 mm Gewinde oben** → beim
 > Kürzen für das kürzere Rohr ist Gewinde weggefallen.
-> 💡 **Dauerhafte Lösung:** die **Original-Gabel RST Vogue TNL zurückbauen** (Baustelle #14) –
-> ihr Schaft ist für **dieses** Steuerrohr gebaut.
 > → [`../02-teile/20-steuersatz-gabel-vorbau-lenker.md`](../02-teile/20-steuersatz-gabel-vorbau-lenker.md) **Abschnitt 3a + 3b**
 >
-> 🔴🔴 **ABER: bevor die RST zurückgebaut wird, drei 5-Sekunden-Checks (0 €).**
-> Ein **Staiger-Katalogauszug von 2007** nennt die Vogue TNL **„mit Aluschaft"** in einem Rad
-> mit **„VP A45AC A-Head semi-integriert"**-Steuersatz und **A-Head-Vorbau** – **dieses Rad
-> läuft aber mit Gewindesteuersatz und Quill-Vorbau.** Das schließt sich aus.
+> 🟢 **Dauerhafte Lösung = „Plan A-Head" (Stand 2026-09-05), *nicht* mehr der Gewinde-Rückbau.**
+> Die **Original-Gabel RST Vogue TNL** kommt zurück – aber zusammen mit einem
+> **EC34-A-Head-Steuersatz** und dem **originalen XLC-Comp-A-Head-Vorbau** (beide vorhanden).
+> **Damit werden Baustelle #6 (Gewinde zu kurz) und #1 (Quill-MIN-INSERTION) nicht repariert,
+> sondern gegenstandslos** – es gibt danach schlicht **kein Gewinde und keinen Quill-Vorbau** mehr.
+> **Diese Anleitung gilt dann nur noch für die Übergangszeit.**
+> → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0.3** ·
+> [`../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md`](../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md)
 >
-> | ☐ | Check | ⛔ schlechtes Ergebnis |
+> 🔴🔴 **Warum der Gewinde-Rückbau verworfen wurde:** Prüfung **0c** ist beantwortet – der
+> Originalvorbau war **„fast sicher ein A-Head-Vorbau"** und ist **noch vorhanden**. Die
+> RST Vogue TNL ist damit die **Ahead-Ausführung mit Aluschaft** (Katalog 2007/2008:
+> *„mit Aluschaft"*). ⛔ **Ein Quill-Vorbau spreizt einen Keil im Schaft – Alu reißt dabei.**
+>
+> **Der fehlende technische Baustein: EC34 kann beides.** Gewindesteuersatz 1⅛″
+> (**EC34/28,6 – EC34/26,4**) und A-Head 1⅛″ (**EC34/28,6 – EC34/30**) teilen sich
+> **dasselbe 33,9-mm-Steuerrohr**. Da hier ein Gewindesteuersatz **läuft**, ist das Steuerrohr
+> **EC34** – und nimmt deshalb **auch ein A-Head-System** auf. Der Gewinde-Zustand ist eine
+> **Umrüstung** (beim Bergamont-Gabeltausch) und ist **umkehrbar**.
+>
+> | ☐ | Check | Ergebnis |
 > |---|---|---|
-> | **0a** | **Außengewinde am RST-Schaft sichtbar?** | **glatt = Ahead-Gabel** → passt **nicht** in diesen Gewinderahmen |
-> | **0b** | **MAGNET an den Schaft** – haftet er? | **haftet nicht = Aluschaft** → 🔴 **der Quill-Vorbau spreizt einen Keil und kann den Schaft aufreißen** |
-> | **0c** | **Vorbau-Typ des originalen XLC-Comp-Vorbaus** | **A-Head** (klemmt außen) → der Rahmen war nie für Gewinde gebaut · **Quill** (Rohrstutzen + Keil + MIN-INSERTION) → ✅ **Gewinderahmen bestätigt** |
+> | **0c** | **Vorbau-Typ des originalen XLC-Comp-Vorbaus** | 🟢 **beantwortet: „fast sicher A-Head"** – 🔴 **Fotos stehen aus** |
+> | **0d** | **Stehen die Lagerschalen außen vor dem Steuerrohr?** | ✅ **EC** (vorstehend) = **EC34, 33,9 mm** → **A-Head-Rückrüstung möglich** · ⛔ **ZS** (bündig innen) = ZS44 → neu untersuchen |
+> | **0a** | **Außengewinde am RST-Schaft sichtbar?** | 🟢 **bei Plan A-Head wird ein *glatter* Schaft erwartet** – das wäre die **Bestätigung** |
+> | **0b** | **MAGNET an den Schaft** – haftet er? | 🟢 Gegenprobe: **haftet nicht = Alu** ⇒ Ahead-Ausführung ⇒ **Plan A-Head**. 💡 RST baut **Gewinde nur in CrMo** und **Alu nur für Ahead** → **0a und 0b sind dieselbe Frage** |
 >
-> 💡 **Gegen-Argument, das für „Gewinde" spricht:** Die NEX läuft **jetzt** mit einem
-> Gewindesteuersatz in diesem Rahmen. Ein semi-integrierter A-Head-Rahmen (**ZS44, 44 mm**)
-> kann **keine externen EC34-Schalen (33,9 mm)** aufnehmen. Da die NEX eingebaut ist und
-> funktioniert, ist das Steuerrohr **mit hoher Wahrscheinlichkeit EC34** → Gewinderahmen.
-> 🔴 **Trotzdem prüfen – ein Kühlschrankmagnet genügt.**
-> → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0**
+> 🔴 **Alle vier Checks kosten 0 € und brauchen Sekunden.** Erst dann kaufen.
+> → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0 / 3.0.1 / 3.0.3**
 
 **Werkzeug:** Steuersatzschlüssel (dünner Maulschlüssel, ❓ Größe messen – oft 30/32/36 mm)
 oder ein zweiter passender Schlüssel · zweiter Schlüssel zum Gegenhalten · Lappen ·
 Lackstift (für die Kontrollmarkierung) · Loctite 243 · 🔴 **ein Kühlschrankmagnet** (für
 Check **0b** am Gabelschaft, 0 €)
 
-**Dauer:** 15 min · dauerhafte Lösung: 30–60 min + Bestellung
+**Dauer:** 15 min · dauerhafte Lösung: 🟢 **Plan A-Head** – Schalen aus-/einpressen
+(**Werkstatt → Dirk / Radmobil**), RST instand setzen, Vorbau montieren · 💰 **10–25 €**
++ RST-Rettung 25–50 € · ⚠️ **erst 0c-Fotos und Prüfung 0d**
 
 ---
 

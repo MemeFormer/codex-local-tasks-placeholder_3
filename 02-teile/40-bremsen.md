@@ -184,12 +184,12 @@ Bohrungen** im Bremssockel. Anderes Loch = deutlich andere Federvorspannung.
 | 1 | **Federraste: anderes Loch** | 10 min | 0 € | ✅ **zuerst machen** |
 | 2 | Bremssockel + Bolzen **reinigen und dünn fetten** | 10 min | 0 € | ✅ immer – trockene Sockel sind eine Hauptursache |
 | 3 | **Federn der weißen Bremsarme** in die schwarzen umsetzen | 30 min | 0 € | ✅ V-Brake-Federn sind meist baugleich; vorher Drahtstärke/Windungen/Haken vergleichen |
-| 4 | 🔴 **Längere M8-Cantistifte einschrauben** – **brake-stuff.de CS-M8-VA**, 14,90 €/Paar (M8, Ø8, **M6-Innengewinde**, Einschraublänge 10 mm, **listet ausdrücklich Staiger**) · Alternative **CS-M8-RST** 16 € (verlängertes Gewinde + Zusatzflansch) | 30 min | 💰 15–16 € | ✅ **die echte Lösung für „passt nicht"** |
+| 4 | 🟡 **Längere M8-Cantistifte einschrauben** – **brake-stuff.de CS-M8-VA**, 14,90 €/Paar (M8, Ø8, **M6-Innengewinde**, Einschraublänge 10 mm, **listet ausdrücklich Staiger**) · Alternative **CS-M8-RST** 16 € (verlängertes Gewinde + Zusatzflansch) · 5–6 Nm, Loctite 243 | 30 min | 💰 15–16 € | 🟢 **Durch „Plan A-Head" vermutlich überflüssig** – kommt die RST zurück, sind ihre **Original-Cantistifte** wieder da und die weißen Deore-Arme passen. 🔴 **Nur kaufen, falls Plan A-Head scheitert** |
 | 5 | **Kürzere M6-Armschraube**, falls der Stift genug Innengewinde hat | 10 min | 💰 1–3 € | ✅ billige Alternative |
 | 6 | **Cantistifte der RST Vogue TNL übernehmen** (wenn die Gabel verschrottet wird) | 30 min | 0 € | 💡 passend für weiße Arme |
 | 7 | Feder leicht nachbiegen (nur am Hakenende, max. 10–15°) | 10 min | 0 € | ⚠️ Notlösung |
 | 8 | Neue V-Brake vorne | 30 min | 💰 15–30 € | ✅ günstig und zuverlässig |
-| 9 | 💡💡 **Weiße Original-Gabel (RST Vogue TNL) zurückbauen** | 1–1,5 h | 💰 25–50 € | ✅✅ **löst #1, #5 UND #6 auf einmal** → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) |
+| 9 | 🟢🟢 **„Plan A-Head": RST Vogue TNL zurückbauen *und* auf EC34-A-Head umrüsten** | 1,5–2 h | 💰 35–75 € | ✅✅ **löst #1, #5 UND #6 auf einmal** – und rettet die bessere Gabel. 🔴 **Erst 0c-Fotos + Prüfung 0d.** → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0.3** |
 
 > ⛔ **Zurückgezogen:** „Sockel von Lack/Rost befreien" und „Sockel **2–2,5 mm zurückdrehen**".
 > Beides war die Folge einer **falschen Richtung** in der Diagnose. Die Stifte sind **KÜRZER**,
@@ -347,7 +347,7 @@ Barrel Adjuster → Endtest.
 | Bremszughülle vorne | ❓ | ❓ | ❓ | Länge ❓ mm |
 | Zugführungs-Röhrchen (Nudel) vorne | ❓ | – | ❓ | Länge ❓ mm |
 | **Bremsarme vorne** | ⚠️ **schwarz** (**Bergamont**-Spenderrad) | ✅ **Tektro** ❓ Modellnr. | ⚠️ zu weich, Federn schwach | 🔴 weiße **Deore**-Arme passten nicht: **Stifte zu kurz** |
-| Bremssockel Gabel | ✅ **Alu** (Suntour NEX) → **eingeschraubt** | SR Suntour NEX | 🔴 **Stifte KÜRZER als die der RST-Originalgabel** | 🔴 Fix: **längere M8-Cantistifte** (CS-M8-VA, 14,90 €/Paar). ⛔ **Nicht zurückdrehen!** |
+| Bremssockel Gabel | ✅ **Alu** (Suntour NEX) → **eingeschraubt** | SR Suntour NEX | 🔴 **Stifte KÜRZER als die der RST-Originalgabel** | 🟢 **Plan A-Head macht das gegenstandslos:** kommt die RST zurück, sind die **Original-Cantistifte** wieder da und die weißen Deore-Arme passen. Nur falls Plan A-Head scheitert: **längere M8-Cantistifte** (CS-M8-VA, 14,90 €/Paar). ⛔ **Nicht zurückdrehen!** |
 | Bremsbeläge vorne | ❓ welche? | ❓ | ❓ | |
 | Bremszug hinten | ✅ original | ❓ | ❓ | |
 | Bremszughülle hinten | ✅ original | ❓ | ⚠️ Verdacht Reibung | Länge ❓ mm |
@@ -410,7 +410,7 @@ Barrel Adjuster → Endtest.
 | Teil | Spec | Prio | ca. Preis | bestellt? |
 |---|---|---|---|---|
 | ~~Schleifleinen 400/600~~ | ~~Bremssockel entlacken~~ – ✅ **nicht nötig**: Ursache ist der **zu kurze** Stift | ✅ erledigt | 0 € | ✅ |
-| 🔴 **M8-Cantistifte** | **brake-stuff.de CS-M8-VA**, 14,90 €/Paar – M8, Ø8, **M6-Innengewinde**, Einschraublänge **10 mm**, 5–6 Nm, **listet Staiger**. Alternative: **CS-M8-RST** 16 € (verlängertes Gewinde + Zusatzflansch). 🔴 **Gesamtlänge im Datenblatt-PDF vergleichen!** | 🔴 | 15–16 € | ☐ |
+| 🟡 **M8-Cantistifte** *(bedingt)* | **brake-stuff.de CS-M8-VA**, 14,90 €/Paar – M8, Ø8, **M6-Innengewinde**, Einschraublänge **10 mm**, 5–6 Nm, **listet Staiger**. Alternative: **CS-M8-RST** 16 € (verlängertes Gewinde + Zusatzflansch). 🔴 **Gesamtlänge im Datenblatt-PDF vergleichen!** 🟢 **Durch „Plan A-Head" vermutlich überflüssig** – **erst 0c-Fotos + Prüfung 0d, dann entscheiden** | 🟡 | 15–16 € | ☐ |
 | 🔴 **RST Dust Seal Kit** | **Paar, 14,28 €** (bike24) – ⛔ **erst Standrohr-Ø der RST Vogue messen** (25,4 vs. 28,6 mm!). Alternative: **Paul Lange & Co.** (RST-Vertrieb DE) | 🔴 | 14,28 € | ☐ |
 | **Gabelöl** | 5W–10W, ca. 100 ml – für die RST Vogue TNL | 🔴 | 8–12 € | ☐ |
 | **Chrompolitur / Stahlwolle 0000** | zum Entrosten der RST-Standrohre (nur bei oberflächlichem Rost!) | 🟡 | 5 € | ☐ |

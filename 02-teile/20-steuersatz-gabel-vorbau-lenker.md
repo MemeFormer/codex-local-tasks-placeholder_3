@@ -16,7 +16,7 @@ Kontermutter – nur Provisorium mit Loctite** · ✅ Vorderrad/Dynamo-Nabe läu
 > 💡 **Und daraus folgt die wichtigste Erkenntnis dieser Datei:** Die **RST Vogue TNL** ist
 > **für genau dieses Steuerrohr gebaut**. Ihr Schaft ist also **lang genug** – sie löst
 > Baustelle #1 (Einstecktiefe), #5 (Bremssockel) **und** #6 (Gewindelänge) **auf einen Schlag**.
-> → **Variante A+** unten.
+> → **Plan A-Head** unten (früher „Variante A+").
 
 > ✅ **GEKLÄRT (2026-09-04) – alle Teilenummern entschlüsselt:**
 >
@@ -259,26 +259,37 @@ gleicher Höhe – weil der **Bergamont-Vorbau über dem Steuersatz länger und 
 | ☐ **E** | Schaftlänge der **RST Vogue TNL** | Gabelkrone → Schaftspitze | Reserve im Vergleich zur NEX |
 
 > ➡️ **Entscheidungsregel:** `C ≥ A + 30 mm + D` muss gelten. Aktuell gilt es **nicht**.
-> Gilt `E ≥ A + 30 mm + D` → ✅ **Variante A+ (RST zurückbauen)**.
+> Gilt `E ≥ A + 30 mm + D` → ✅ der RST-Schaft reicht für **Gewinde + Quill-Vorbau** –
+> ⛔ **dieser Weg ist verworfen** (Aluschaft + Quill-Keil).
+> 🟢 **Unter Plan A-Head gilt die einfachere Regel:** `E ≥ A + Stack(EC34-A-Head)
+> + Klemmhöhe des A-Head-Vorbaus + ~5 mm` – **ohne** die 60–70 mm Quill-Einstecktiefe.
+> **Der Schaftbedarf sinkt also deutlich.**
 
 ---
 
 ## 4. 💡 Lösungsvarianten (von einfach bis aufwendig)
 
-### ⭐ Variante A+ – RST Vogue TNL zurückbauen (💰 25–50 €) – **die empfohlene Lösung**
+### ⭐ Plan A-Head – RST Vogue TNL zurückbauen **+ EC34-A-Head-Steuersatz** (💰 35–75 €) – **die empfohlene Lösung**
 
 > ✅ **Die Original-Gabel des weißen Rads ist noch vorhanden** – es ist eine
 > **RST Vogue TNL** (Coil/Öl, Vorspannung einstellbar + hydraulischer Lockout).
 > Sie ist **für genau dieses Steuerrohr gebaut** → die Schaftlänge stimmt von Haus aus.
+>
+> 🔴 **Diese Variante hieß früher „Variante A+" und sah einen Gewinde-Rückbau mit dem
+> Quill-Vorbau vor. Das ist verworfen:** Prüfung **0c** ergab, der Originalvorbau war
+> **„fast sicher ein A-Head-Vorbau"** und ist **noch vorhanden**. Damit ist die RST die
+> **Ahead-Ausführung mit Aluschaft** – und ⛔ **ein Quill-Keil spreizt einen Aluschaft von
+> innen auf.** Die Gabel kommt also zurück, aber mit **A-Head-Steuersatz und A-Head-Vorbau**.
+> → **Abschnitt „EC34 ist der eine 1⅛″-Standard, der beides kann"** unten
 
 | Punkt | Detail |
 |---|---|
 | Was tun | Tauchrohre demontieren, **Dichtungen erneuern**, **Öl nachfüllen**, Standrohre polieren, Gabel zurückbauen |
 | Was kaufen | **RST Dust Seal Kit – Paar, 14,28 €** (bike24) + **Gabelöl 5W–10W** (ca. 8–12 €) + Chrompolitur / Stahlwolle 0000 (ca. 5 €) |
 | ⛔ **Vorher messen** | 🔴 **Standrohr-Ø**: lieferbar ist die **28,6-mm-Version** des Dichtungssatzes (Vogue/VIVair/F1RST); die 30-mm-Version gehört zu Omega/Blaze. Nach RST-Katalog 2008 hat die Vogue **25,4-mm-Standrohre (Stahl, Ti-Farbe)** → **messen, bevor du bestellst!** Alternativ über **Paul Lange & Co.** (RST-Vertrieb Deutschland) |
-| 🔴 **Abbruchkriterium** | **Fingernageltest**: Fängt der Fingernagel an einer Roststelle an den Standrohren → **Grübchen (Pitting)** = Gabel unrettbar → Variante A0 / D |
+| 🔴 **Abbruchkriterium** | **Fingernageltest**: Fängt der Fingernagel an einer Roststelle an den Standrohren → **Grübchen (Pitting)** = Gabel unrettbar → **Plan A-Head entfällt**, dann Variante A0 (NEX 225 mm) oder **Variante D (A-Head mit neuer Gabel)** |
 | Aufwand | ca. **1–1,5 h** inkl. Steuersatz neu einstellen |
-| Bonus | ✅ löst **Baustelle #1** (Einstecktiefe), **#5** (Bremssockel – weiße Shimano-Arme passen wieder), **#6** (Gewindelänge) **und** das Höhenproblem |
+| Bonus | ✅ **#1** (Quill-Einstecktiefe) und **#6** (Gewindelänge) werden **gegenstandslos** · ✅ **#5** Bremssockel – **weiße Shimano-Arme passen wieder** · ✅ Höhenproblem gelöst |
 | Nachteil | ⚠️ Schutzblech-Ösen der NEX entfallen → Schutzblech neu befestigen (Universal-/P-Schellen, 3–8 €) |
 | Geometrie | ⚠️ Federweg **ca. 50 mm** statt 63 mm → Tretlager ca. **10 mm höher**, Lenkwinkel ca. **0,5° steiler** – **das ist der Originalzustand** des weißen Rads |
 
@@ -331,12 +342,12 @@ Cane Creek** oder aus einem **1⅛″-Ersatzteil-Gewindesteuersatz**.
 
 Ebenfalls möglich: **Zahnring weglassen**, falls verbaut (bringt 1–2 mm).
 
-### ✅ Variante B – Original-Gabel des weißen Rads zurück → **GEKLÄRT, heißt jetzt Variante A+**
+### ✅ Variante B – Original-Gabel des weißen Rads zurück → **GEKLÄRT, heißt jetzt Plan A-Head**
 
 > ✅ **Erledigt:** Die weiße Original-Gabel **ist noch vorhanden** – eine **RST Vogue TNL**.
 > Sie ist **defekt** (Öl aus dem Dämpfungsbein ausgetreten, Dichtungen verschlissen,
 > leichter Rost an den Standrohren), aber **grundsätzlich rettbar**.
-> → **Variante A+ oben** und **[rst-vogue-tnl-federgabel.md](../04-diagnose/rst-vogue-tnl-federgabel.md)**.
+> → **Plan A-Head oben** und **[rst-vogue-tnl-federgabel.md](../04-diagnose/rst-vogue-tnl-federgabel.md)**.
 
 **Schaftlänge:** ✅ passt garantiert – sie war original in **diesem** Rahmen verbaut.
 **Nachteil:** die schwarze NEX-Gabel hat die Schutzblech-Ösen, die die Montage so einfach
@@ -373,18 +384,20 @@ ist das Problem, und die kommt daher, dass die Gabel für ein **20–30 mm kürz
 
 **Fundorte:** Kleinanzeigen, Fahrradbörse, Schrottrad beim Händler, Werkstatt-Restbestände.
 
-### 🔴 Variante D – Umbau auf AHEAD (💰💰💰 70–130 €) – die dauerhafteste Lösung
+### 🟡 Variante D – A-Head-Umbau mit NEUER Gabel (💰💰💰 70–130 €) – **Fallback, falls die RST unrettbar ist**
 
 **Wichtig zu verstehen:** Ein „Ahead-Konverter" (Quill-auf-Gewindeschaft-Adapter) **löst dein
 Problem nicht**, weil der Adapter selbst Schaftlänge braucht. Die echte Lösung ist der
-**komplette Ahead-Umbau mit einer neuen, langen Gabel**:
+**komplette Ahead-Umbau**. 🟢 **Plan A-Head macht das ohne neue Gabel** – die **RST Vogue TNL
+wird wiederverwendet**, und der **originale A-Head-Vorbau ist vorhanden**. **Variante D ist
+nur der Fallback, falls die RST den Fingernageltest nicht besteht:**
 
 | Punkt | Detail |
 |---|---|
 | Neue Gabel | **SR Suntour NEX 700C, Ahead (threadless), 1⅛″, 63 mm, Schaftlänge 255 mm** |
 | Neuer Steuersatz | **Ahead-Steuersatz 1⅛″, EC34/28,6 – EC34/30** (semi-integriert, 1⅛″ straight) |
 | Neuer Vorbau | **Ahead-Vorbau, Klemmung 31,8 mm (oder 25,4/26,0 mm je nach Lenker)** |
-| 🔴 **Der Clou** | **EC34-Lagerschalen sind bei 1⅛″-Gewinde- und Ahead-Steuersatz IDENTISCH** → die vorhandenen Schalen im Rahmen können **weiterverwendet** werden! Nur Konus, Mutter/Kontermutter fallen weg, dafür kommen **Ahead-Kappe + Vorbauklemmung** |
+| 🔴 **Der Clou** | **Das Steuerrohr (33,9 mm = EC34) ist bei 1⅛″-Gewinde- und A-Head-Steuersatz identisch** → **derselbe Rahmen nimmt beide Systeme auf.** ⛔ **Die Lagerschalen selbst sind es NICHT:** Gewinde unten **26,4 mm** Konussitz, A-Head unten **30 mm** → 🔴 **kompletten A-Head-Steuersatz kaufen, alte Schalen nicht weiterverwenden** |
 | Vorteil | Kein Gewinde-Problem mehr, Vorbauhöhe frei über Spacer einstellbar, moderner/steifer, Teile überall verfügbar |
 | Nachteil | Mehr Teile nötig, Lenker-Klemm-Ø muss zum Vorbau passen, Optik ändert sich |
 | Aufwand | ca. **1,5–2 h** inkl. Steuersatz einstellen |
@@ -396,8 +409,8 @@ Problem nicht**, weil der Adapter selbst Schaftlänge braucht. Die echte Lösung
 | Teil | Spec | ca. Preis |
 |---|---|---|
 | SR Suntour NEX 700C Ahead-Gabel | 1⅛″ threadless, **255 mm Schaft**, 63 mm Federweg, V-Brake-Sockel, Schutzblech-Öse, 100 mm QR | 60–90 € |
-| Ahead-Steuersatz 1⅛″ | EC34/28,6 – EC34/30, integriert/semi-integriert, mit Ahead-Kappe | 15–30 € |
-| Ahead-Vorbau | Klemmung ❓ mm (Lenker-Ø!), Länge ❓ mm, Winkel ❓°, Schaftklemmung 28,6 mm | 15–30 € |
+| Ahead-Steuersatz 1⅛″ | **EC34/28,6 – EC34/30**, mit Ahead-Kappe · 🔴 **kompletten Satz kaufen, alte Schalen nicht weiterverwenden** | **10–25 €** |
+| ~~Ahead-Vorbau~~ | 🟢 **nicht nötig** – der **originale XLC-Comp-A-Head-Vorbau ist vorhanden** (0c: „fast sicher A-Head"). 🔴 **Klemm-Ø zum Lenker prüfen** (25,4 / 26,0 / 31,8 mm) | **0 €** |
 | Spacer-Set 1⅛″ | 5/10/20 mm, Alu | 3–8 € |
 | 🔴 **Werkzeug** | Steuersatz-Einpresswerkzeug (oder Werkstatt), Kronenring-Aufsetzer | 20–40 € / Werkstatt ca. 30–60 € |
 
@@ -407,23 +420,23 @@ Machbar, aber: Kronen-Auspresswerkzeug + Presswerkzeug nötig, Schaft muss exakt
 Lohnt sich nur bei einer sehr guten/teuren Gabel. Deine ursprüngliche Entscheidung
 („nicht gemacht – unnötig und riskant“) war richtig.
 
-### 💡 Variante A+ löst drei Baustellen gleichzeitig – die weiße Gabel IST noch da
+### 💡 Plan A-Head löst drei Baustellen gleichzeitig – die weiße Gabel IST noch da
 
 Die **RST Vogue TNL** war original in **diesem** Rahmen → der Schaft passt, **und** die
 Bremssockel passen zu den guten weißen Shimano-Bremsarmen.
 
-| Baustelle | 🔴 mit NEX (Bergamont-Gabel) | ✅ mit RST Vogue TNL (Original) |
+| Baustelle | 🔴 mit NEX (Bergamont-Gabel) | ✅ mit RST Vogue TNL + A-Head (**Plan A-Head**) |
 |---|---|---|
-| **#6** Zu wenig Gewinde für die Kontermutter | ⚠️ Provisorium mit Loctite | ✅ original passend |
-| **#1** Quill-Vorbau-Mindesteinstecktiefe | 🔴 kritisch (Schaft zu kurz) | ✅ original passend |
-| **#5** Weiße Bremsarme passen nicht auf den Sockel | ⛔ Stifte **zu kurz** → kein Gewindegriff | ✅ original passend |
+| **#6** Zu wenig Gewinde für die Kontermutter | ⚠️ Provisorium mit Loctite | 🟢 **gegenstandslos** – es gibt kein Gewinde mehr |
+| **#1** Quill-Vorbau-Mindesteinstecktiefe | 🔴 kritisch (Schaft zu kurz) | 🟢 **gegenstandslos** – es gibt keinen Quill-Vorbau mehr |
+| **#5** Weiße Bremsarme passen nicht auf den Sockel | ⛔ Stifte **zu kurz** → kein Gewindegriff | ✅ **original passend** – die RST-Cantistifte greifen |
 | Lenkerhöhe | ✅ langer Bergamont-Vorbau | ✅ Originalvorbau + ggf. Riser-Lenker |
 | Schutzblech-Befestigung vorne | ✅ passte „easy“ (Ösen der NEX) | ⚠️ neu lösen: Universal-/P-Schellen, 💰 3–8 € |
 | Lenkgeometrie | ⚠️ verändert (63 mm statt ca. 50 mm) | ✅ original |
 | Federung/Dämpfung | ⚠️ Stahlfeder, kaum Dämpfung | ✅ **Coil + Öldämpfung, Lockout** – deutlich besser |
-| **Voraussetzung** | – | 🔴🔴 **SCHRITT 0: Magnet-Test + Gewinde am Schaft** (siehe unten) · 🔴 **Standrohre müssen den Fingernageltest bestehen** |
+| **Voraussetzung** | – | 🔴🔴 **SCHRITT 0: Prüfungen 0c + 0d + 0a/0b** (siehe unten) · 🔴 **Fingernageltest an den Standrohren** · 🔴 **EC34-A-Head-Steuersatz** + **originaler A-Head-Vorbau** |
 
-### 🔴🔴 ACHTUNG – Variante A+ hat eine Voraussetzung, die bisher niemand geprüft hat
+### 🔴🔴 ACHTUNG – der Gewinde-Rückbau (Variante A+) hatte eine Voraussetzung, die niemand geprüft hat
 
 > ⚠️ **Neu seit 2026-09-04.** Ein **Staiger-Katalogauszug von 2007** (Forum MTB-News,
 > Thread 275745, 1. Mai 2007) nennt für **Daytona UND Idaho** der **Sport Line** dieselbe
@@ -439,10 +452,10 @@ Bremssockel passen zu den guten weißen Shimano-Bremsarmen.
 
 | ☐ | Prüfung (5 Sekunden, 0 €) | Ergebnis | Konsequenz |
 |---|---|---|---|
-| ☐ | **Ist am RST-Schaft ein Außengewinde?** | ⛔ **glatt** | **Ahead-Gabel** → passt **nicht** in diesen Gewinderahmen. **Variante A+ entfällt.** → Variante D (Ahead-Umbau) |
+| ☐ | **Ist am RST-Schaft ein Außengewinde?** | 🟢 **glatt** | ✅ **Ahead-Gabel** → **bestätigt Plan A-Head.** ⛔ **Der Gewinde-Rückbau (Variante A+) entfällt** – ein Quill-Keil würde den Aluschaft spreizen |
 | ☐ | **MAGNET an den Schaft halten** | ⛔ **haftet nicht = Alu** | 🔴 **Quill-Vorbau spreizt einen Keil im Schaft → ein Aluschaft kann aufreißen.** Dann **Ahead-Umbau** oder Gabel mit Stahlschaft |
 | ☐ | 🔴 **0c – Vorbau-Typ des ORIGINAL-XLC-Comp-Vorbaus** | 🟢 **„fast sicher A-Head"** (Besitzer 2026-09-05) – 🔴 **Fotos stehen aus** | **Der Vorbau ist vorhanden** (*„ALLES"*). Bestätigt sich A-Head, ist **Plan A-Head** der richtige Weg: **Rückrüstung auf den Originalzustand** – und der Vorbau kostet **0 €** |
-| ☐ | 🔴 **0c – dito** | ✅ **Quill** (Rohrstutzen + Keil + MIN-INSERTION) | 🟢 Gewinderahmen bestätigt → **Variante A+ ist gültig** |
+| ☐ | **0c – dito** | ⛔ **Quill** (Rohrstutzen + Keil + MIN-INSERTION) | 🔴 **würde Plan A-Head widerlegen** → Gewinde-Rückbau neu untersuchen. 🟢 **Nicht eingetreten – der Besitzer sagt „fast sicher A-Head"** |
 | ☐ | 🆕 **0d – Stehen die Lagerschalen außen vor dem Steuerrohr?** | ✅ **EC** (außen vorstehend) / ⛔ **ZS** (bündig innen) | ✅ **EC34 = 33,9 mm** → **A-Head-Rückrüstung möglich** · ⛔ **ZS44 = 44 mm** → der heutige Gewinde-Zustand wäre **unerklärlich** → neu untersuchen. 🔴 **Zwei Sekunden, und fast sicher ✅** – denn das Rad **fährt** mit Gewindesatz |
 
 > 🟢 **0c ist beantwortet: der Originalvorbau ist ein A-Head-Vorbau – „fast sicher", und er
