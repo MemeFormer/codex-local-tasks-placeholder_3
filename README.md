@@ -105,7 +105,7 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 > ✅ **Modell geklärt: STAIGER Daytona Sportline.** Baujahr: ❓ **Hypothese 2007, KW 23**
 > (aus `AWO` + `7 23` + `0329`) – passt zur Komponenten-Ära (Deore LX M570/M580 ≈ 2004–2008).
 >
-> 🔴 **Prospekt ≠ dein Rad – jetzt mit Beleg und mit DREI Gründen.**
+> 🔴 **Prospekt ≠ dein Rad – jetzt mit Beleg und mit VIER Gründen.**
 > Ein **Staiger-Katalogauszug von 2007** (Sport Line) wurde Zeile für Zeile mit dem
 > Ist-Bestand abgeglichen →
 > [`06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md)
@@ -115,6 +115,7 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 **dein Rad hat Gewindesteuersatz + Quill-Vorbau.** 🔴 **Nachrecherche über vier Modelljahre (2007/2008/2012/2016): *alle* A-Head** → die Baujahr-These ist **hinfällig**. ✅ **Echte Erklärung: EC34 kann beides** – Gewinde- **und** A-Head-Steuersatz teilen sich dasselbe **33,9-mm-Steuerrohr** ⇒ das Rad war **original A-Head** und wurde beim **Bergamont-Gabeltausch auf Gewinde umgebaut** ⇒ 🔴 **Plan A-Head** (Rückrüstung, **Vorbau schon vorhanden**) |
 > | **2 – Spezialwünsche des Händlers** | ✅ **BELEGT.** Zehn Bauteile = **exakt Daytona-Spec**. **Genau zwei** weichen ab – **beide zum teureren Idaho-Spec, beide am Lenker**: Schalthebel **SL-M580** + Bremshebel **BL-M571** (**Deore LX**). Der Besitzer erinnerte **„es ging um die Schaltarmaturen"** → 🔴 **Treffer.** Ein **Upgrade**, kein Mangel |
 > | **3 – Umbauten über die Jahre** | ⛔ **Umwerfer FD-C050 ist NICHT original** (Behelf nach einem Sturz, original wäre **Deore FD-M530**) · Anbauten (Schutzblech/Träger/Licht) kamen später · zuletzt der **Teile-Swap** vom Bergamont |
+> | **4 – Der Prospekt beschreibt die Bauart falsch** | 🆕 **Belegt durch Messung am Rad:** der Katalog nennt **„A-Head **semi-integriert**"** = **ZS44 (44 mm)**. Das Steuerrohr ist aber **EC34 (33,9 mm)** – denn sonst liefe hier **kein** Gewindesteuersatz. 💡 **Der Prospekt hatte beim System recht (A-Head) und bei der Bauart unrecht.** Konsequenz: **EC34 kann beides** → **Plan A-Head** |
 >
 > ✅ **Zusätzlich bestätigt der Katalog deine Erinnerung:** Gepäckträger und Ständer
 > **„nachrüstbar"**, **keine Beleuchtung** gelistet → *„relativ nackt gekauft"* ✔.

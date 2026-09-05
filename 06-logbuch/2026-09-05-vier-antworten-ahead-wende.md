@@ -79,7 +79,7 @@ eine **Umrüstung**, und sie ist **umkehrbar**.
 
 ✅ **Damit ist der Katalog-Widerspruch aufgelöst, ohne ein anderes Baujahr zu brauchen.**
 Der Katalog nennt **„A-Head"** – und das **stimmt**. Nur das Beiwort **„semi-integriert"**
-passt nicht zu diesem Rahmen: ** physically ist er EC34, nicht ZS44.**
+passt nicht zu diesem Rahmen: **physikalisch ist er EC34, nicht ZS44.**
 
 > 💡 **Das ist die vierte konkrete Bestätigung von „Prospekt ≠ dein Rad"** – und die
 > lehrreichste: **Der Prospekt hatte beim System recht (A-Head) und bei der Bauart unrecht

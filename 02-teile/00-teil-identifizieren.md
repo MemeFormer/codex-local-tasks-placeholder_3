@@ -89,13 +89,14 @@ In die passende Datei unter [`02-teile/`](.) und zusätzlich ins
 ### 4a. 🔴 Lehre aus diesem Projekt: **Prospekt ≠ dein Rad**
 
 > ⚠️ **Hersteller- und Serien-Recherche ist nützlich, aber nicht verbindlich.**
-> **In diesem Projekt gab es gleich DREI unabhängige Gründe, warum der Katalog nicht stimmt:**
+> **In diesem Projekt gab es gleich VIER unabhängige Gründe, warum der Katalog nicht stimmt:**
 
 | # | Grund | Beleg aus diesem Projekt |
 |---|---|---|
 **dieses Rad hat aber einen Gewindesteuersatz mit Quill-Vorbau.** 🔴 **Nachrecherche über vier Modelljahre (2007/2008/2012/2016): *alle* A-Head** – die Baujahr-These ist hinfällig. ✅ **Die echte Erklärung: EC34 kann beides.** Gewinde- **und** A-Head-Steuersatz teilen sich dasselbe **33,9-mm-Steuerrohr** → das Rad war **original A-Head** und wurde **beim Bergamont-Gabeltausch auf Gewinde umgebaut**. Der Katalog hatte **beim System recht** und **bei der Bauart unrecht** („semi-integriert" = ZS44, tatsächlich EC34) |
 | **2** | 🔴 **Spezialwünsche des Händlers beim Kauf** | ✅ **Belegt:** Der Käufer bekam das Rad **flammneu bei einem befreundeten Händler**, der auf Wunsch **abweichende Teile** montierte (*„eigentlich hat da XY, aber ich kann dir auch XX dran machen"*). Erinnerung: **„Schaltarmaturen"**. Der Katalog-Abgleich zeigt **exakt zwei** Abweichungen – **Schalthebel SL-M580** und **Bremshebel BL-M571**, beide **Deore LX**, beide **am Lenker**, beide aus dem Spec des **teureren Schwestermodells**. 🔴 **Treffer.** |
 | **3** | 🔴 **Reparaturen und Umbauten über die Jahre** | ✅ **Belegt:** Nach einem Sturz baute der Händler **behelfsmäßig einen fremden Umwerfer (FD-C050)** ein – **nicht original**, „irgendwann zurücktauschen" passierte nie. Danach: Anbauten (Schutzbleche, Träger, Licht), und zuletzt ein **kompletter Teile-Swap** von einem zweiten Rad |
+| **4** | 🆕 **Der Prospekt beschreibt die Bauart falsch** | ✅ **Belegt durch Messung am Rad:** der Katalog nennt **„A-Head semi-integriert"** = **ZS44 (44 mm)**. Das Steuerrohr ist aber **EC34 (33,9 mm)** – denn sonst liefe hier **kein** Gewindesteuersatz 1⅛″. 💡 **Der Prospekt hatte beim System recht (A-Head) und bei der Bauart unrecht.** 🔴 **Konsequenz: EC34 kann beides** – Gewinde- **und** A-Head-Steuersatz teilen sich dasselbe Steuerrohr → der Gewinde-Zustand ist ein **späterer Umbau** und **umkehrbar** = **Plan A-Head** |
 
 > 💡 **Merksatz:** 🔴 **Ein Katalog sagt, was das Modell hatte – nicht, was DEIN Rad hat.**
 > Bei einem Rad aus Fachhandels-Kauf mit persönlichem Händler und 15+ Jahren Geschichte ist
