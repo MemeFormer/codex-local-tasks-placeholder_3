@@ -150,9 +150,9 @@ dort ist werksseitig eingestellt und sollte **nicht** verändert werden.
 | Achse drehen | rau, knirscht, „sandig“ | ⚠️ Fett verharzt oder Konus eingelaufen |
 | Achse drehen | spürbare Rasterpunkte | 🔴 Pitting (Druckstellen) → Konus tauschen |
 | Achse seitlich wackeln | Spiel | ⚠️ zu lose oder Konus ausgeschlagen |
-| Rad dreht 5+ Umdrehungen weiter | ✅ gut eingestellt |
-| Rad dreht 1–2 Umdrehungen | ⚠️ **zu fest** – bei einem **Nabendynamo** sind **mehrere** Umdrehungen der Sollbereich, 1–2 ist zu wenig |
-| Rad dreht < 1 Umdrehung | 🔴 deutlich zu fest oder Lagerschaden |
+| Rad dreht weiter | **5+ Umdrehungen** | ✅ gut eingestellt |
+| Rad dreht weiter | **1–2 Umdrehungen** | ⚠️ **zu fest** – bei einem **Nabendynamo** sind **mehrere** Umdrehungen der Sollbereich, 1–2 ist zu wenig |
+| Rad dreht weiter | **< 1 Umdrehung** | 🔴 deutlich zu fest oder Lagerschaden |
 
 ---
 

@@ -17,7 +17,11 @@ Die englischen Begriffe sind wichtig, weil **die meisten Suchbegriffe und Aufdru
 | Gabel | fork | |
 | Gabelschaft / Schaftrohr | steerer (tube) | das Rohr, das durchs Steuerrohr geht |
 | Gewindeschaft | threaded steerer | außen Gewinde, für Mutter + Kontermutter |
-| Gewindesteuersatz | threaded headset | 1" oder 1⅛" |
+| Gewindesteuersatz | threaded headset | 1" oder 1⅛" · 🔴 **1⅛″ ist bauartbedingt immer EC34 (33,9 mm)** |
+| 🆕 **Quill-Vorbau / Schaftvorbau** | **quill stem** | wird **in** den Gabelschaft gesteckt und **spreizt einen Keil** darin. Erkennbar an **langem Rohrstutzen**, **Keil** und der **MIN-INSERTION**-Prägung. 🔴 **Nur für Gewindeschäfte – und ⛔ nie in einen Aluschaft** (der Keil spreizt Alu auf) |
+| 🆕 **A-Head-Vorbau** | **threadless / Ahead stem** | **klemmt außen** um einen **glatten** Schaft; die Vorspannung macht eine **Kappe mit Schraube oben** in die eingepresste **Kralle**. ✅ **die bestimmungsgemäße Belastung für einen Aluschaft** |
+| 🆕 **Steuersatz-Gewindearten** | headset thread standards | 🔴 **1⅛″ Gewinde = EC34/28,6 – EC34/26,4** · **1⅛″ A-Head = EC34/28,6 – EC34/30** → **beide dasselbe 33,9-mm-Steuerrohr!** Deshalb ist ein Gewinderahmen **auf A-Head umrüstbar** (und zurück) – **Plan A-Head** |
+| 🆕 **Steerer Tube (Ersatzteil)** | replacement steerer tube | **RST-Ersatzschafter** (Bike24 **Art. 26275, 6,97 €**). 🔴 **Kopplung:** RST baut **Gewindeschäfte nur in CrMo**, **Aluschäfte nur für Ahead** → **Gewinde sichtbar ⇒ Stahl, Alu ⇒ glatter Ahead-Schaft** (**Prüfung 0a ≡ 0b**) |
 | 🔴 **Aluschaft / Stahlschaft** | **aluminium / steel (CroMo) steerer** | 🔴 **Material des Gabelschafts – entscheidend für die Vorbau-Wahl!** **CroMo/Stahl** = magnetisch, verträgt einen **Quill-Vorbau**. **Alu** = **nicht magnetisch**, 🔴 **ein Quill-Vorbau spreizt einen Keil im Schaft und kann Alu aufreißen** |
 | 🔴 **Magnet-Test** | magnet test | 🔴 **5 Sekunden, 0 €:** Magnet an den Schaft halten. **Haftet = Stahl ✅ · haftet nicht = Alu ⛔** → **Baustelle #14, Schritt 0b** |
 | **semi-integrierter Steuersatz** | **semi-integrated / internal headset (ZS)** | Lagerschalen **liegen innen** im Steuerrohr → Steuerrohr-Ø **44 mm (ZS44)**. 🔴 **nicht mit externen Schalen (EC34, 33,9 mm) austauschbar!** |

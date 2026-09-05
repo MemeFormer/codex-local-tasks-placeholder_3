@@ -297,8 +297,14 @@ Mögliche Kandidaten (sortiert nach Wahrscheinlichkeit):
 | Aktueller Druck | ❓ | ❓ |
 | Alter (DOT-Woche/Jahr auf Flanke) | ❓ | ❓ |
 | Zustand (Risse, porös, Fremdkörper) | ❓ | ❓ |
-| Schlauch-Ventil | ❓ Sclaverand/Schrader/Dunlop | ❓ |
+| Schlauch-Ventil | ✅ **Sclaverand (SV / Presta, franz. Ventil)** erwartet | ✅ **SV** erwartet |
 | Felgenbohrung Ø | 6,5 mm (Sclaverand) / 8,5 mm (Schrader) | |
+
+> 🔴 **Warum SV (Sclaverand) und nicht Schrader?** Der **Staiger-Katalog 2008** nennt für das
+> Daytona den Reifen **„Conti Double Fighter II Lite 42-622 Reflex **SV Ventil**"** – und
+> **42-622 ist genau die Größe, die vorne am Rad ist.** 🟢 **Zwei unabhängige Belege:**
+> (1) der Katalog, (2) die **6,5-mm-Felgenbohrung** (SV) statt 8,5 mm (Schrader).
+> 🔴 **Trotzdem am Rad gegenprüfen** – die Laufräder wurden beim Teile-Swap getauscht.
 
 ### 5.3 ⚠️ Befund: zwei unterschiedliche Reifenbreiten
 
@@ -394,5 +400,5 @@ Rad drehen, beobachten wo es schleift) oder Kabelbinder an der Gabel/Stay befest
 | 💡 Vorderrad-Komplettrad | 28″/622, **mit Nabendynamo 6 V/3 W**, 100 mm QR, 9-mm-Achse, 36 Loch, Felge 622 × 19 | 🟢 | 60–110 € | ☐ |
 | **Felgenband** | 🔴 Breite **21 mm** (= Felgeninnenbreite 19 mm + 2 mm), 622 mm | 🟢 | 3–6 € | ☐ |
 | Reifen vorne (bei Verschleiß) | 💡 **Schwalbe Marathon Plus 47-622** – dann vorne/hinten **einheitlich** und bester Pannenschutz | 🟢 | 25–40 € | ☐ |
-| Schlauch | passend zu Ventil + ETRTO **42/47-622** | 🟢 | 5–10 € | ☐ |
+| Schlauch | ✅ **Sclaverand (SV/Presta)**, ETRTO **42/47-622**, **6,5-mm-Bohrung** – z. B. **„Schwalbe SV13" 42/47-622** · Katalog 2008 nennt **SV Ventil** | 🟢 | 5–10 € | ☐ |
 | Ersatz-Schnellspanner | vorne **9 mm / 100 mm**, hinten **10 mm / 135 mm** | 🟢 | 5–10 € | ☐ |

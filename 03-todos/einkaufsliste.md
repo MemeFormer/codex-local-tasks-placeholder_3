@@ -25,14 +25,20 @@ Stand: **2026-09-04** · 🎯 **aktualisiert nach der Korrektur-Runde**
 > **MAGNET an den Schaft der RST Vogue TNL halten** und **prüfen, ob ein Außengewinde
 > sichtbar ist.** Ein Staiger-Katalogauszug von 2007 nennt die Vogue TNL **„mit Aluschaft"**
 > in einem **A-Head**-Rad – dieses Rad hat aber **Gewindesteuersatz + Quill-Vorbau**.
-> ⛔ **Glatter Schaft (Ahead)** oder ⛔ **Alu ohne Gewinde** → **Dichtungssatz und Öl sind
-> rausgeworfenes Geld**, weil die Gabel nicht in den Rahmen passt bzw. der Quill-Vorbau
-> den Schaft aufspreizen kann. → [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0**
+> 🔴 **Geändert 2026-09-05 – PLANWECHSEL.** Der Besitzer antwortet auf Prüfung **0c**: der
+> Originalvorbau war **„fast sicher ein A-Head-Vorbau"** und ist **noch vorhanden**.
+> Damit ist **ein glatter Ahead-Schaft an der RST jetzt das ERWARTETE Ergebnis** – und
+> **kein** Grund mehr, Dichtungssatz und Öl als „rausgeworfenes Geld" zu betrachten.
+> 🟢 **Führender Weg ist jetzt „Plan A-Head": Rückrüstung auf den Originalzustand.**
+> Der **Dichtungssatz wird trotzdem gebraucht** – die Gabel muss so oder so instand gesetzt
+> werden. ⛔ **Nur der Fingernageltest bleibt ein Ausschlusskriterium** (Grübchen = unrettbar).
+> → [`../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md`](../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md)
+> · [`../04-diagnose/rst-vogue-tnl-federgabel.md`](../04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 5**
 
 | # | Teil | 🔴 EXAKTE Bestellung | Warum | 💰 |
 |---|---|---|---|---|
 | 1 | **RST Dust Seal Kit** | **„RST Dust Seal Kit – Pair"**, bike24, **14,28 €** · ⛔ **Version erst nach Messung:** **28,6 mm** (Vogue/VIVair/F1RST) oder **30 mm** (Omega/Blaze). Nach Katalog hat die Vogue **25,4-mm-Standrohre** → 🔴 **messen!** Alternative: **Paul Lange & Co.** (RST-Vertrieb DE) | 🔴 **Baustelle #14** – und damit **auch #1, #5, #6** | **14,28 €** |
-| 2 | **M8-Cantistifte** | **„brake-stuff.de CS-M8-VA Cantilever-/V-Brake-Sockel M8"**, **14,90 €/Paar** – M8, Ø8, **M6-Innengewinde**, **Einschraublänge 10 mm**, **5–6 Nm**, **listet ausdrücklich Staiger**. Alternative **CS-M8-RST** (16 €, verl. Gewinde + Zusatzflansch). 🔴 **Gesamtlänge im Datenblatt-PDF vergleichen!** | 🔴 **Baustelle #5** – die Stifte der Bergamont-Gabel sind **zu kurz** | **15–16 €** |
+| 2 | 🟡 **M8-Cantistifte** – **nur noch bedingt** | **„brake-stuff.de CS-M8-VA Cantilever-/V-Brake-Sockel M8"**, **14,90 €/Paar** – M8, Ø8, **M6-Innengewinde**, **Einschraublänge 10 mm**, **5–6 Nm**, **listet ausdrücklich Staiger**. Alternative **CS-M8-RST** (16 €, verl. Gewinde + Zusatzflansch). 🔴 **Gesamtlänge im Datenblatt-PDF vergleichen!** | 🟡 **Baustelle #5 wird bei Plan A-Head wahrscheinlich gegenstandslos:** Die **originalen weißen Deore-Bremsarme** kommen an die **originalen RST-Cantistifte** – das ist die Paarung, mit der das Rad **ausgeliefert** wurde. Zu kurz waren nur die Stifte der **Bergamont**-Gabel. 🔴 **Erst messen, dann kaufen!** | **15–16 €** – **evtl. 0 €** |
 | 3 | **Gabelöl + Politur** | **„Federgabelöl 5W–10W, 100 ml"** + **„Chrompolitur"** oder **Stahlwolle 0000** | 🔴 **Baustelle #14** – Dämpfungsbein der RST wieder befüllen, Standrohre entrosten | **13–17 €** |
 | 4 | **Kette** | **„Shimano CN-HG53 Kette 9-fach, 116 Glieder"** | ✅ **Original-Spec zur Kurbelgarnitur FC-M530**. Baustelle #7 | 12–18 € |
 | 5 | **Loctite 243 + Konusschlüssel** | **„Loctite 243 mittelfest, 10 ml"** + **„Konusschlüssel-Set 13/14/15/16/17 mm"** | 🔴 für die **neuen Cantistifte** (Alu-Gewinde!), die Steuersatz-Mutter, beide Konuslager | 16–28 € |
@@ -53,7 +59,7 @@ Stand: **2026-09-04** · 🎯 **aktualisiert nach der Korrektur-Runde**
 | 3 | 🔴 **Steuerrohrlänge STAIGER + Bergamont** (Soll Δ 20–30 mm) + **Schaftlänge NEX und RST** | ob der **225-mm-Schaft** reicht oder ein **Ahead-Umbau** nötig ist |
 | 4 | 🔴 **Cantistift-Gesamtlänge + Überstand** (NEX vs. RST) + Schlüsselweite der Abflachungen | **welche M8-Ersatzstifte** |
 | 5 | **Lenker-Klemm-Ø** (25,4 / 26,0 / 31,8 mm) | welcher **Ahead-Vorbau** (nur bei Variante D) |
-| 6 | **Konusschlüssel-Größen** (Nabendynamo links, FH-M530 links) · **Umwerfer-Schellen-Ø** | welche **Konusschlüssel** · nur falls **FD**-Ersatz |
+| 6 | **Konusschlüssel-Größen** (Nabendynamo links, FH-M530 links) · ~~**Umwerfer-Schellen-Ø**~~ ✅ **31,8 mm** (Katalog 2008 – nur noch gegenmessen) | welche **Konusschlüssel** |
 | 7 | 🆕 **Sattel ablesen** (Aufdruck unter der Decke / an der Strebe) | 🔴 **Baustelle #9:** Der **Original-Sattel war ein Fizi:k Pave Sport** („super unbequemes, kleines Sado-Maso-Foltergerät") und ist **längst getauscht**. ❓ **Welcher ist es jetzt – und ist der originale noch da?** |
 | 8 | 🆕 **Schaltauge optisch prüfen** – steht das Schaltwerk **senkrecht** unter der Kassette? | 🔴 **Baustelle #15** (Sturz-Folge). Nur bei Schiefstand: Lehre kaufen oder Werkstatt-Check |
 
@@ -97,10 +103,12 @@ Stand: **2026-09-04** · 🎯 **aktualisiert nach der Korrektur-Runde**
 | ☐ | Kettenpeitsche + Kassettenabzieher | Shimano HG 12-Spline | Baustelle #11: Kassette lösen (war ohne Kettenpeitsche unmöglich) | 18–27 € | ✅ |
 | ☐ | Messschieber | digital, 150 mm | **das wichtigste Werkzeug für dieses Projekt** | 12–25 € | ✅ |
 | ☐ | **Gebrauchte Gabel** mit langem Gewindeschaft | ✅ **Suchkriterien exakt:** 700C/28″ · Gewindeschaft **1⅛″ = 28,6 mm** · **24 tpi** · Schaftlänge **≥ Steuerrohr + 30 mm + Einstecktiefe** · Federweg 50–63 mm · axle-to-crown **445–477 mm** · Offset **42 mm** · V-Brake-Sockel (Höhe **283 mm**) · Schutzblech-Öse M5 · **100 mm QR** · 9-mm-Achse · crown-race-Sitz ❓ **26,4 oder 30 mm** | 💡 billigere Alternative zu einer neuen NEX | 20–60 € | ⚠️ erst Steuerrohrlänge messen |
-| ☐ | 🔴 **Ahead-Umbau-Set** (nur Variante D) | **NEX Ahead-Gabel 1⅛″ threadless, Schaft 255 mm, 63 mm** + **Ahead-Steuersatz 1⅛″ EC34/28,6 – EC34/30** + **Ahead-Vorbau** (Klemmung ❓ mm) + **Spacer-Set 1⅛″** · 💡 **die EC34-Lagerschalen im Rahmen können weiterverwendet werden!** | dauerhafteste Lösung für Baustelle #6 | 70–130 € | ⚠️ Lenker-Ø messen |
+| ☐ | 🟢 **A-Head-Steuersatz** – **Plan A-Head, jetzt der führende Weg** | 🔴 **„A-Head-Steuersatz 1⅛″, EC34/28,6 – EC34/30"** + **Ahead-Kralle + Kappe** (meist dabei) + **Spacer-Set 1⅛″** · ✅ **KEINE neue Gabel nötig** – die **RST Vogue TNL** kommt zurück · ✅ **KEIN neuer Vorbau** – der **originale XLC Comp A-Head ist vorhanden** · ⚠️ der Rahmen ist **EC34** (33,9 mm); Gewinde- und Ahead-Schalen teilen sich dieses Maß, sind aber **nicht** gegeneinander austauschbar → **alte Schalen auspressen** | 🟢 **Rückrüstung auf den Originalzustand** – macht **#1, #5 und #6 gegenstandslos** | 💰 **10–25 €** | ⚠️ **0d prüfen + RST-Schaftlänge messen** |
+| ☐ | ~~Ahead-Umbau-Set mit neuer NEX-Gabel~~ | ⛔ **überholt** – war für „Variante D" mit **neuer Gabel** gedacht. Bei Plan A-Head wird die **vorhandene RST** zurückgebaut, es wird **nur der Steuersatz** gebraucht (Zeile darüber) | – | ~~70–130 €~~ **10–25 €** | ✅ erledigt |
+| ☐ | **Steuersatz-Presse** bzw. Pressarbeit | 🔴 **Schalen aus- und einpressen braucht eine Presse.** 💡 **→ Dirk / Radmobil fragen** – er hat inzwischen eine **feste Werkstatt** und kann das vermutlich **gleich mitmachen** | Plan A-Head | 20–40 € Werkzeug **oder** Werkstatt | ✅ → [`fragen-an-dirk.md`](fragen-an-dirk.md) **Frage 3** |
 | ☐ | **Steuersatz-Einpresswerkzeug** (nur Variante D) | oder Werkstatt machen lassen (30–60 €) | Ahead-Umbau | 20–40 € | ✅ |
 | ☐ | **Kronenring-Abzieher / -Aufsetzer** | für den Gabeltausch (crown race umsetzen) | Baustelle #6/#14, Variante A+/A0/D | 10–25 € | ✅ |
-| ☐ | **Umwerfer-Ersatz** | 🔴 **„Shimano Deore FD-M530 oder FD-M591, 9-fach, Top Swing, Schelle ❓ mm"** | nur falls der **FD-C050** unpräzise schaltet (er ist offiziell eher für 6/7-fach) | 20–35 € | ⚠️ Schellen-Ø messen |
+| ☐ | **Umwerfer-Ersatz** | 🟢 **„Shimano Deore FD-M530, 9-fach, Dual Pull, Top Swing, Schelle 31,8 mm"** – ✅ **Spec bekannt** (Katalog 2008), Kapazität **22 Zähne**, max. **48 Zähne** = exakt die vorhandene **48-36-26**-Kurbel | 🔴 **Erst Dirk / Radmobil fragen – er gibt einen aus dem Lager** (Auskunft des Besitzers 2026-09-05). Nur falls der **FD-C050** unpräzise schaltet (offiziell eher 6/7-fach) | 💡 **0 €** von Dirk · sonst 16–28 € | ✅ → [`fragen-an-dirk.md`](fragen-an-dirk.md) **Frage 7** |
 | ☐ | **Innenlager-Ersatz** | 🔴 **„Shimano BB-ES25 Octalink, BSA 68 mm (1,37″ × 24 tpi), Achslänge ❓ mm (113/118/121/126)"** | nur falls das Lager Spiel hat – gehört original zur Kurbelgarnitur **FC-M530** | 25–40 € | ⚠️ Achslänge messen |
 
 ## 🟢 Falls nötig / bei Verschleiß
@@ -115,11 +123,11 @@ Stand: **2026-09-04** · 🎯 **aktualisiert nach der Korrektur-Runde**
 | ☐ | **Felgenband** | **„Felgenband 622 mm, Breite 21 mm"** (= Innenbreite 19 mm + 2 mm) | bei Rad-/Reifenwechsel | 3–6 € | ✅ **ja – exakt** |
 | ☐ | **Reifen vorne** | 💡 **„Schwalbe Marathon Plus 47-622"** – dann vorne/hinten **einheitlich** und bester Pannenschutz (aktuell vorne **Active Line K-Guard 42-622** = der Serienreifen des Bergamont-Spenderrads) | Profil/Verschleiß, Einheitlichkeit | 25–40 € | ✅ **ja – exakt** |
 | ☐ | **Reifen hinten** | ✅ aktuell **Schwalbe Marathon Plus 47-622**, 3,0–5,0 bar | bei Verschleiß | 25–40 € | ✅ **ja – exakt** |
-| ☐ | **Schlauch** | ❓ Ventil (Sclaverand/Schrader/Dunlop) + **ETRTO 42/47-622** | – | 5–10 € | ⚠️ Ventil prüfen |
-| ☐ | **Sattelstütze** | 🔴 ❓ **Ø nochmal ablesen – unter der Klemme!** Das originale Daytona hatte **XLC Comp 27,2 mm**. Deine Notiz „31,35 mm AD" ist fast sicher der **Sitzrohr-Außendurchmesser oder die Klemme** | falls die Stütze klemmt/fehlt | 15–40 € | ❌ **unbedingt neu ablesen** |
+| ☐ | **Schlauch** | ✅ **Sclaverand (SV/Presta), ETRTO 42/47-622, 6,5-mm-Bohrung** – z. B. **„Schwalbe SV13"** · der **Katalog 2008** nennt für das Daytona **„Conti Double Fighter II Lite 42-622 Reflex SV Ventil"** | – | 5–10 € | ✅ **SV erwartet** (🔴 am Rad gegenprüfen) |
+| ☐ | ~~**Sattelstütze**~~ | 🟢 **erledigt – kein Kauf nötig.** Die **originale XLC Comp 27,2 mm steckt noch am Rad**: *„ich hab ja auch nur das obere getauscht und das Rohr behalten"* (Besitzer 2026-09-05). Getauscht wurde nur der **Sattel**. Die Notiz **„31,35 mm AD"** ist **Sitzrohr außen / Sattelklemme**, nicht die Stütze. 💡 **10-Sekunden-Bestätigung:** Stempel **unter** der Klemme ablesen → **27,2** erwartet | – | **0 €** | ✅ **geklaert** |
 | ☐ | 🆕 **Schaltauge-Lehre** (hanger alignment gauge) | **„Schaltauge Richtlehre / derailleur hanger alignment gauge"** | 🆕 **Baustelle #15:** nach dem Sturz vor Jahren war **„hinten was verbogen"**, behoben wurde aber **vorne**. 🔴 **Erst optisch prüfen** – die Lehre braucht man nur, wenn das Schaltwerk von hinten betrachtet **nicht senkrecht** unter der Kassette steht. **Alternative: für wenige Euro in der Werkstatt prüfen lassen** | 10–15 € (oder **0 €** Werkstatt-Check) | ✅ |
 | ☐ | 🆕 **Schaltauge (derailleur hanger) Ersatz** | 🔴 ❓ **modellspezifisch!** Nur nach Rahmennummer/Modell beim Händler oder über **„Schaltauge STAIGER Daytona"** + Foto-Abgleich | 🆕 **Baustelle #15:** falls das Schaltauge **verbogen und nicht richtbar** ist. ⚠️ **Alu-Schaltaugen sind oft nicht dauerhaft richtbar** → dann tauschen | 8–20 € | ❌ **muss ermittelt werden** |
-| ☐ | 🆕 **Umwerfer auf Original-Spec** (optional) | 🔴 **„Shimano Deore FD-M530"**, **Top Swing**, **9-fach**, Kapazität **22 Zähne**, max. **48 Zähne**, Schelle ❓ **28,6 / 31,8 mm messen!** | 🆕 Der verbaute **FD-C050 ist ein Fremdteil** (Behelfsreparatur nach dem Sturz, **nie zurückgetauscht**). Er hat nur **20 Zähne** Kapazität bei **22** Bedarf (48−26) und einen **6/7-fach-Käfig** an einer **9-fach-Kette**. 🟢 **Aktuell „läuft top" → nicht dringend.** Erst kaufen, wenn vorne das Schalten schlechter wird | **16–28 €** | ⚠️ **Schellen-Ø messen** |
+| ☐ | 🆕 **Umwerfer auf Original-Spec** (optional) | ✅ **„Shimano Deore FD-M530"**, **Dual Pull**, **Top Swing**, **9-fach**, Kapazität **22 Zähne**, max. **48 Zähne**, **Schelle 31,8 mm** (Katalog 2008) | 🆕 Der verbaute **FD-C050 ist ein Fremdteil** (Behelfsreparatur nach dem Sturz, **nie zurückgetauscht**). Er hat nur **20 Zähne** Kapazität bei **22** Bedarf (48−26) und einen **6/7-fach-Käfig** an einer **9-fach-Kette**. 🟢 **Aktuell „läuft top" → nicht dringend.** 🔴 **Und: Dirk gibt einen aus dem Lager → erst fragen, nicht kaufen** | 💡 **0 €** von Dirk · sonst **16–28 €** | ✅ **Schelle = 31,8 mm** (🔴 am Rad gegenmessen) |
 | ☐ | Ständer verstellbar | ❓ Aufnahme-Typ + Lochabstand | Baustelle #8, falls Scheiben nicht reichen | 15–35 € | ❌ |
 | ☐ | Sicherheits-Auslösekupplung Schutzblech | SKS Break-Away o. ä. | Sicherheit | 5–10 € | ✅ |
 | ☐ | Multimeter | mit AC-Volt + Durchgangsprüfung | Licht-Elektrik | 15–30 € | ✅ |

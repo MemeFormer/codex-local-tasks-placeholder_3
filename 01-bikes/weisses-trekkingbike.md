@@ -42,11 +42,15 @@
 | **Scheibenbremse abgelehnt** | Der Freund bot **vorne eine günstige Scheibenbremse** an – **abgelehnt**, weil die V-Brakes extrem stark verzögerten und Disc als **empfindlich/wartungsanfällig** galt | 🔴 **Dauerhafte Festlegung:** Rad ist konsequent **Felgenbremse**. **Keinen Disc-Umbau einplanen** – eine Ersatzgabel braucht **V-Brake-/Canti-Sockel**, keine IS-/PM-Aufnahme |
 | **Sturz + Behelfsreparatur** | Jahre später: **hinten etwas verbogen**, Schaltung funktionierte nicht richtig. Der Freund (inzwischen **mobil, ohne Lager**) hatte das passende Teil nicht → baute **seinen eigenen Umwerfer FD-C050** ein, „müssen wir irgendwann zurücktauschen" | ⛔ **Der FD-C050 ist NICHT original** (original wäre **Deore FD-M530**). ⛔ **„Der ist teurer" stimmt nicht** (FD-C050 ca. **8–15 €**, FD-M530 ca. **16–28 €**). 🔴 **Nie zurückgetauscht** – die beiden haben sich seit Jahren nicht gesehen. 🆕 **Baustelle #15: Schaltauge prüfen!** |
 | **Anbauten über die Jahre** | Nach und nach dazu gekommen, zuletzt der **große Teile-Swap** vom Bergamont-Spenderrad | 🔴 **„Original" heißt bei diesem Rad: Stand beim Kauf + Spezialwünsche des Freundes.** Nicht der Katalog |
+| 🆕 **Umbau A-Head → Gewinde** | 🔴 **Beim Gabel-/Steuersatz-Tausch mit dem Bergamont** kam die schwarze **Gewinde**-NEX in den weißen Rahmen – dazu ein **Gewindesteuersatz** und der **BGM-Quill-Vorbau**. Der **originale XLC-Comp-A-Head-Vorbau** wurde ausgebaut und **aufgehoben** | 🟢 **Das löst den Katalog-Widerspruch ohne ein anderes Baujahr.** Der Rahmen ist **EC34 (33,9 mm)** – und **EC34 kann beides**: Gewinde- **und** A-Head-Steuersatz teilen sich dasselbe Steuerrohr. ⇒ **Der Umbau ist umkehrbar** = **Plan A-Head** (Rückrüstung auf Original, **Vorbau kostet 0 €**). Nachrecherche über **vier Modelljahre (2007/2008/2012/2016): alle A-Head** → [`../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md`](../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md) |
 
 > 🔴 **Merksatz für alle künftigen Recherchen:**
 > **Der Staiger-Katalog beschreibt das MODELL – nicht DIESES Rad.**
-> Drei unabhängige Gründe sprechen dagegen: **Baujahr/Modellvariante**, **Spezialwünsche des
+> Drei unabhängige Gründe sprechen dagegen: **Modellvariante/Bauart**, **Spezialwünsche des
 > Händlers beim Kauf**, und **Reparaturen/Umbauten über 15+ Jahre**.
+> 🟢 **Wichtig (2026-09-05):** Für den **Lenkkopf** ist die Baujahr-These **hinfällig** –
+> **vier Modelljahre (2007/2008/2012/2016) nennen alle A-Head.** Die Abweichung ist ein
+> **späterer Umbau**, kein anderes Baujahr.
 > → [`../02-teile/00-teil-identifizieren.md`](../02-teile/00-teil-identifizieren.md) Abs. 4a
 
 ---
@@ -59,7 +63,7 @@
 | **Modell** | ✅ **Daytona Sportline** |
 | **Rahmennummer** | ✅ **AWO7230329** |
 | **Rahmen** | ✅ **Alloy 6061, Double Butted** (Aluminium, doppelt konifiziert) |
-| Baujahr | ❓ **Hypothese: 2007, KW 23** – `AWO` + `7 23` + `0329`. Passt zur Komponenten-Ära (Deore LX M570/M580 ≈ 2004–2008). Bitte gegenprüfen |
+| Baujahr | 🟢 **Hypothese: 2007, KW 23** – `AWO` + `7 23` + `0329`. Passt zur Komponenten-Ära (Deore LX M570/M580 ≈ 2004–2008). 🟢 **Gestützt (2026-09-05):** der Antrieb entspricht **exakt dem 2007er/2008er Daytona-Spec**, und der Rahmen ist **EC34** – **dasselbe Steuerrohr**, das der Katalog mit **A-Head** beschreibt. 🔴 Die frühere Gegen-These („älter als 2007") ist **widerlegt**: **EC34 kann Gewinde *und* A-Head** |
 | Radstand / Laufradgröße | ✅ **28 Zoll / 700C / ETRTO 622** |
 | Gänge | ✅ **27 (3×9)** |
 | Bremssystem | ✅ **V-Brake** (Felgenbremse, long pull) |
@@ -522,7 +526,7 @@ ca. 50 mm**, keine Suntour. Die NEX ist damit ca. **0–20 mm höher** in der Ei
 
 | Komponente | Verbaut | Daten |
 |---|---|---|
-| **Sattelstütze** | ✅ **XLC Comp** (Original-Daytona-Teil) | 🔴 **Durchmesser klären!** Original-Daytona-Spec: **XLC Comp 27,2 mm Alu**. Deine Messung „31,35 mm AD" passt **nicht** zu 27,2 mm – vermutlich hast du das **Sitzrohr außen** oder die **Sattelklemme** gemessen (31,35 mm Außendurchmesser ist plausibel für ein Sitzrohr, das eine 27,2-mm-Stütze aufnimmt). **→ Die Zahl unter der Stütze ablesen!** |
+| **Sattelstütze** | ✅ **XLC Comp 27,2 mm – ORIGINAL, noch am Rad** | 🟢 **GEKLÄRT (2026-09-05).** Besitzer: *„ich hab ja auch nur das obere getauscht und das Rohr behalten logischerweise"* → getauscht wurde nur der **Sattel**, die **Stütze blieb**. **Zwei unabhängige Katalogjahrgänge (2007 und 2008)** nennen **XLC Comp 27,2 mm Alu** → ✅ **27,2 mm**. Die Notiz **„31,35 mm AD"** ist damit **erklärt**: das ist **Sitzrohr außen** oder **Sattelklemme**, nicht die Stütze (31,35 mm Außendurchmesser ist plausibel für ein Sitzrohr, das eine 27,2-mm-Stütze aufnimmt). 💡 **10-Sekunden-Bestätigung:** Stempel **unter** der Klemme ablesen → **27,2** erwartet |
 | **Schnellspanner** | ✅ **XLC Comp** | vorne 9 oder 10 mm, hinten ❓ – **Federn prüfen** (schmale Seite nach innen) |
 | **Sattel** | ❓ Original Daytona: **Selle Italia X2** | ❓ prüfen |
 | **Griffe** | ❓ Original Daytona: **XLC Neopren Schraubgriffe** | ❓ |
@@ -540,7 +544,7 @@ ca. 50 mm**, keine Suntour. Die NEX ist damit ca. **0–20 mm höher** in der Ei
 |---|---|---|
 | 1 | 🔴 Zähne der drei Kettenblätter (48-36-26 oder 44-32-22?) | ____/____/____ |
 | 2 | 🔴 Kassette: Modellnummer + kleinstes/größtes Ritzel | ____-____ |
-| 3 | 🔴 **Sattelstützen-Ø** – Zahl **unter** der Stütze (27,2 erwartet) | ____ mm |
+| 3 | 🟢 **Sattelstützen-Ø** – Stempel **unter** der Klemme ablesen. ✅ **nur noch Bestätigung**: die originale Stütze **steckt noch am Rad**, erwartet **27,2 mm** | ____ mm |
 | 4 | 🔴 **Quill-Vorbau**: liegt die MIN-INSERTION-Markierung **im** Schaftrohr? | ja/nein |
 | 5 | 🔴 Liegt der Innenkeil des Vorbaus **unterhalb** des Gewindebereichs? | ja/nein |
 | 6 | 🔴 Felgen-Bremsflanke v/h: Verschleißindikator + Muldentiefe | ____ / ____ mm |

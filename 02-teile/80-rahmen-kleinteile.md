@@ -49,9 +49,10 @@ Federringe · Unterlegscheiben
 | Steuerrohr-Ø innen (Lagerschalen) | 💡 bei 1⅛″: **EC34/28,6 – EC34/30** |
 | Tretlagergehäusebreite | ✅ **68 mm** (BSA-Standard, passend zum **BB-ES25**) |
 | Tretlagergewinde | ✅ **BSA 1,37" × 24 tpi** (links = Linksgewinde) |
+| 🔴 **Steuerrohr-Standard** | 🟢 **EC34 (Innen-Ø 33,9 mm)** – **abgeleitet, nicht gemessen:** am Rad läuft ein **Gewindesteuersatz 1⅛″**, und der ist **bauartbedingt EC34**. In ein **ZS44**-Rohr (44 mm) ließen sich EC34-Schalen **nicht** einpressen. 💡 **EC34 kann beides** – Gewinde **und** A-Head teilen sich dieses Steuerrohr → **Plan A-Head möglich.** 🔴 **Prüfung 0d**: stehen die Lagerschalen **außen vor**? → [`../04-messdaten/messdatenblatt.md`](../04-messdaten/messdatenblatt.md) |
 | Zustand (Rost, Dellen, Risse) | ❓ 🔴 **Riss-Prüfung am Steuerrohr** (wurde mit fremder Gabel + Loctite-Provisorium gefahren) |
 | Lack / Aufkleber | weiß |
-| Rahmennummer | ✅ **AWO7230329** (Baujahr-Hypothese **2007, KW 23**) |
+| Rahmennummer | ✅ **AWO7230329** (Baujahr-Hypothese **2007, KW 23** – 🟢 **gestützt 2026-09-05**: der Antrieb entspricht **exakt dem 2007er/2008er Daytona-Spec**, und das Steuerrohr ist **EC34**, dasselbe Maß, das der Katalog mit **A-Head** beschreibt. 🔴 Die Gegen-These „älter als 2007" ist **widerlegt** – **EC34 kann Gewinde *und* A-Head**) |
 
 ### 🔴 Riss-Prüfung (wichtig nach einem Umbau mit Press-/Ziehkräften)
 
@@ -77,7 +78,7 @@ Bei **Stahl**: Roststellen prüfen, ob es Oberflächen- oder Durchrostung ist.
 |---|---|
 | Vorhanden? | ❓ ja / **angeformt** (bei Stahlrahmen oft Teil des Ausfallendes) / **angeschraubt** |
 | Material | ❓ Alu (meist) |
-| 🔴 **Zustand – gerade?** | 🔴 **UNGEPRÜFT UND VERDÄCHTIG** → **Baustelle #15**. Sicht von hinten: Schaltwerkskäfig muss **parallel** zu den Ritzeln stehen |
+| 🟢 **Zustand – gerade?** | 🟢 **Herabgestuft (2026-09-05)** – **Baustelle #15** von 🔴 auf 🟢. **Grund:** Der Besitzer klärt, dass beim Sturz **das Schaltwerk selbst** den Schlag abbekam, Dirk es **gangbar gemacht und frisch eingestellt** hat und es danach **„alles einwandfrei"** lief – **bis heute**, mit einer kleinen Nachstellung nach Jahren. 🔴 **Ein krummes Schaltauge richtet sich nicht von selbst** – jahrelang einwandfreies Schalten spricht **dagegen**. ✅ **Es bleibt eine billige Sichtprüfung:** von hinten muss der **Schaltwerkskäfig parallel zu den Ritzeln** stehen. **Keine Richtlehre nötig.** ❓ **Offen:** Warum wurde *vorne* ein Umwerfer getauscht, wenn der Schaden *hinten* war? → [`fragen-an-dirk.md`](../03-todos/fragen-an-dirk.md) **Frage 4** |
 | Gewinde M10 × 1,0 für Schaltwerk | ❓ intakt? |
 | Ersatz verfügbar? | ❓ 💰 **rahmenspezifisch**, 10–25 € |
 
@@ -209,7 +210,7 @@ Muttern und Distanzhülsen kaufen. Damit lassen sich 90 % der Winkel-/Abstandspr
 | 4 | Kettenstrebenlänge | ____ mm |
 | 5 | Radstand | ____ mm |
 | 6 | Ausfallende horizontal/vertikal + Einbaubreite | |
-| 7 | 🔴 Schaltauge: vorhanden, **gerade**? (Baustelle **#15** – Sturz-Folge ungeprüft) | |
+| 7 | 🟢 Schaltauge: vorhanden, **gerade**? (Baustelle **#15** – **herabgestuft**: Schaden war am **Schaltwerk**, behoben, Schalten lief jahrelang einwandfrei → **nur Sichtprüfung**) | |
 | 8 | Riss-Prüfung (Abschnitt 2) | |
 | 9 | Zuganschläge: Zustand | |
 | 10 | Ösen-Liste: wo sind Gewindeösen (Größe M5/M6)? | |
@@ -219,6 +220,6 @@ Muttern und Distanzhülsen kaufen. Damit lassen sich 90 % der Winkel-/Abstandspr
 | Teil | Spec | Prio | ca. Preis | bestellt? |
 |---|---|---|---|---|
 | Kleinteile-Sortiment | M5/M6 Schrauben, Scheiben, Muttern, Hülsen | 🟡 | 10–20 € | ☐ |
-| 🔴 **Schaltauge** (falls krumm/gebrochen) | **rahmenspezifisch** – Hersteller + Modell nötig. 🔴 **Baustelle #15:** nach dem Sturz vor Jahren ungeprüft. 💡 **Alu-Schaltaugen lassen sich max. 1–2× richten**, dann tauschen | 🟡 | 10–25 € | ☐ |
+| 🟢 **Schaltauge** (nur falls die Sichtprüfung etwas zeigt) | **rahmenspezifisch** – Hersteller + Modell nötig. 🟢 **Baustelle #15 herabgestuft:** der Schlag traf das **Schaltwerk**, Dirk hat es **gerichtet und eingestellt**, das Schalten lief **jahrelang einwandfrei**. 💡 **Alu-Schaltaugen lassen sich max. 1–2× richten**, dann tauschen | 🟢 | 10–25 € | ☐ |
 | Kabeldurchführungstüllen | 5–8 mm | 🟢 | 2–5 € | ☐ |
 | Drehmomentschlüssel | 2–25 Nm, mit Inbus-Bits | 🟢 | 30–60 € | ☐ |

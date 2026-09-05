@@ -88,20 +88,23 @@ Fall B  Kurbel 44-32-22 + Kassette 11-34:
 |---|---|
 | Modell | **Shimano FD-C050** (City/Trekking, Nachfolger FD-C051) |
 | Bauart | **Top Swing** („OP Swing"), **SIS**-indexiert |
-| Befestigung | **Schelle** (clamp mount), ❓ **28,6 mm oder 31,8 mm** – 🔴 **messen!** |
+| Befestigung | **Schelle** (clamp mount) · **28,6 / 31,8 mm** – ✅ **Erwartung: 31,8 mm** (Katalog 2008 nennt den FD-M530 mit **31,8-mm-Schelle**). 🔴 **Gegenmessen**, denn der Rahmen kann abweichen |
 | Gänge | 3-fach |
 | Max. großes Kettenblatt | **48 Zähne** |
 | Gesamtkapazität | **ca. 20 Zähne** → ⚠️ bei 48-36-26 = 22 Zähne Differenz **knapp über** Spec. Prüfen, ob es in der Praxis trotzdem sauber schaltet |
 | Passende Kurbel | Octalink / Spline |
 | Kettenlinie | **46–52,5 mm** |
 | Anzugsmoment Schelle | **5–7 Nm**, **5-mm-Inbus** |
-| Zugansteuerung | ❓ Top Pull / Bottom Pull prüfen (C050 meist **Dual Pull**) |
+| Zugansteuerung | ✅ **Dual Pull** (der FD-C050 ist Dual Pull; der Original-**FD-M530** laut Katalog 2008 ebenfalls **Dual Pull**) → Zugführung oben **oder** unten möglich |
 
 > 💡 **Praxis-Hinweis:** Der FD-C050 stammt aus der City/Trekking-Linie und ist laut
 > Shimano-Angaben eher für 6/7-fach-Systeme freigegeben. Dass er mit deiner 9-fach-Kette
 > „top läuft", ist ein gutes Zeichen – **aber:** Falls er irgendwann unpräzise schaltet,
-> ist ein **Shimano Deore FD-M530 / FD-M591** (9-fach, **Top Swing**, Schelle) der
-> sauberere Ersatz (💰 20–35 €).
+> ist ein **Shimano Deore FD-M530** der sauberere Ersatz – ✅ **Spec jetzt bekannt**
+> (Katalog 2008): **9-fach, Dual Pull, Top Swing, Schelle 31,8 mm, Kapazität 22 Zähne,
+> max. 48 Zähne** → passt exakt zur vorhandenen **48-36-26**-Kurbel (💰 16–28 €).
+> 🟢 **Und: Der Umwerfer kommt von Dirk / Radmobil aus dem Lager** →
+> [`../03-todos/fragen-an-dirk.md`](../03-todos/fragen-an-dirk.md) **Frage 7**
 
 ### 🔴 Herkunft des FD-C050: **nicht original** – Behelfsreparatur nach einem Sturz
 
@@ -118,7 +121,7 @@ Abmachung, ihn **„irgendwann zurückzutauschen, der ist teurer als deiner"**.
 | Frage | Antwort |
 |---|---|
 | War der FD-C050 original? | ⛔ **Nein.** Er ist ein **Fremdteil aus dem Fundus des Freundes** |
-| Was war original? | Laut **Staiger-Katalog 2007**: **Deore FD-M530** (Daytona) bzw. **Deore LX FD-M580** (Idaho). Da der übrige Antrieb **exakt Daytona-Spec** ist → **sehr wahrscheinlich FD-M530** |
+| Was war original? | ✅ **Deore FD-M530** – **zwei unabhängige Katalogjahrgänge** belegen es: **2007** (Daytona-Spec) und **2008** (**„FD-M530, Dual Pull, Top Swing, 31,8 mm"**). Der übrige Antrieb ist **exakt Daytona-Spec** → **FD-M530** (nicht der LX FD-M580 des Idaho) |
 | 🔴 Stimmt „der ist teurer als deiner"? | ⛔ **Nein.** **FD-C050 = Non-Series/Einsteiger, ca. 8–15 €** · **FD-M530 = Deore, ca. 16–28 €** · **FD-M580 = LX, ca. 25–45 €**. Der verbaute Umwerfer ist das **billigste** der drei |
 | Muss er zurückgetauscht werden? | 🟢 **Nein.** Die Abmachung ist **hinfällig** – der originale Umwerfer ist nicht mehr greifbar, und der FD-C050 **funktioniert** |
 | Ist er unterdimensioniert? | 🔴 **Ja, leicht:** Kapazität **20 Zähne** bei **22** Bedarf (48−26), und für **6/7-fach** ausgelegt statt **9-fach** → **Käfig zu breit** |

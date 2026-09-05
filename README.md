@@ -25,21 +25,41 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 >
 > 🔴🔴 **Der nächste Schritt ist NICHT der Fingernageltest, sondern ein 5-Sekunden-Check (0 €):**
 >
-> | ☐ | Prüfung | ⛔ Schlechtes Ergebnis |
+> 🔴🔴 **PLANWECHSEL 2026-09-05: „Plan A-Head" statt „Plan A+ mit Quill-Vorbau".**
+> Der Besitzer hat die entscheidende Frage beantwortet – **und die kippt den Plan:**
+>
+> | Antwort des Besitzers | Folge |
+> |---|---|
+> | Der Original-Vorbau war **„fast sicher ein A-Head-Vorbau"** | 🔴 **Plan A+ (RST mit Quill-Vorbau zurückbauen) ist der falsche Weg** – eine Ahead-Gabel mit **Aluschaft** darf nie einen Quill-Keil spreizen |
+> | **„ALLES"** Original-Zubehör ist noch da – auch der A-Head-Vorbau | 🟢 **Der Vorbau kostet 0 €** |
+>
+> 🟢 **Der bessere Weg: Rückrüstung auf den Originalzustand.** Der fehlende Baustein war
+> technisch: **EC34 kann beides.** Gewinde- und A-Head-Steuersatz teilen sich bei 1⅛″
+> **dasselbe 33,9-mm-Steuerrohr** – es wechseln nur Schalen, Lager und Oberteile.
+> **Der Rahmen legt sich auf kein System fest.** Der heutige Gewinde-Zustand ist eine
+> **Umrüstung – und sie ist umkehrbar.**
+>
+> | ☐ | Prüfung | Stand |
 > |---|---|---|
-> | **0a** | **Ist am RST-Schaft ein Außengewinde sichtbar?** | **glatt = Ahead-Gabel** → passt **nicht** in den Gewinderahmen → **Plan A+ entfällt** |
-> | **0b** | **MAGNET an den Schaft halten** – haftet er? | **haftet nicht = Aluschaft** → ein **Quill-Vorbau spreizt einen Keil** und kann den Schaft **aufreißen** |
-> | **0c** | **Vorbau-Typ des originalen XLC-Comp-Vorbaus** (A-Head = klemmt außen · Quill = Rohrstutzen + Keil) | **A-Head** → der Rahmen war nie für Gewinde gebaut |
+> | **0c** | Vorbau-Typ des originalen XLC-Comp-Vorbaus | 🟢 **„fast sicher A-Head"** – 🔴 **Fotos stehen aus** |
+> | **0d** | **Stehen die Lagerschalen außen vor dem Steuerrohr?** (EC = 33,9 mm / ZS = 44 mm) | ❓ **2 Sekunden** – fast sicher ✅, denn das Rad **fährt** mit Gewindesatz |
+> | **0a** | Außengewinde am RST-Schaft sichtbar? | ❓ offen – **bei Plan A-Head wird ein *glatter* Schaft erwartet** ✅ |
+> | **0b** | Magnet-Test | ❓ **nur noch Gegenprobe** – RST baut Gewindeschäfte **nur in CrMo**, Alu **nur für Ahead** |
 >
-> ⚠️ **Warum:** Ein **Staiger-Katalogauszug von 2007** nennt die Vogue TNL **„mit Aluschaft"**
-> in einem Rad mit **A-Head semi-integriert**-Steuersatz – **dieses Rad hat aber
-> Gewindesteuersatz + Quill-Vorbau.** Wahrscheinlich ein anderes Baujahr, aber
-> 🔴 **prüfen, nicht annehmen.** Ein Kühlschrankmagnet genügt.
+> 🟢 **Was Plan A-Head bringt:** ✅ Originalzustand · ✅ **Aluschaft-Risiko entfällt**
+> (A-Head klemmt außen) · 🟢 **Baustellen #1, #5 und #6 werden *gegenstandslos*** statt
+> repariert · ✅ Vorbauhöhe frei über Spacer · ✅ Geometrie wieder original (RST ~50 mm
+> statt NEX 63 mm) · 💰 neu nur **EC34-A-Head-Steuersatz 10–25 €** + Presse
 >
-> 💡 **Erst danach: Fingernageltest an den RST-Standrohren (5 min, 0 €).**
-> Keine Grübchen → Dichtungen (**14,28 €**) + Öl → Gabel zurückbauen → drei Baustellen weg.
-> Grübchen → Gabel unrettbar → Plan B (NEX 225 mm oder Ahead-Umbau).
-> → [`04-diagnose/rst-vogue-tnl-federgabel.md`](04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 3.0**
+> 💡 **Unverändert Pflicht: Fingernageltest an den RST-Standrohren (5 min, 0 €).**
+> Die Gabel muss **so oder so** instand gesetzt werden (Öl ausgetreten, Staubschabring,
+> Rost). **Grübchen = unrettbar, dann ist auch Plan A-Head tot.**
+> → [`06-logbuch/2026-09-05-vier-antworten-ahead-wende.md`](06-logbuch/2026-09-05-vier-antworten-ahead-wende.md) ·
+> [`04-diagnose/rst-vogue-tnl-federgabel.md`](04-diagnose/rst-vogue-tnl-federgabel.md) **Abs. 5**
+>
+> 📞 **Neu: [`03-todos/fragen-an-dirk.md`](03-todos/fragen-an-dirk.md)** – Dirk (der
+> Händler-Freund) hat jetzt eine **feste Werkstatt (Radmobil)** und kann **Schalen pressen**.
+> **11 Fragen, nach Wert sortiert** – die ersten drei entscheiden über ~100 €.
 
 **Die entschlüsselten Teile:**
 
@@ -92,7 +112,7 @@ wissen, wie das Ding heißt oder welche Größe man bestellen muss.
 >
 > | Grund | Befund |
 > |---|---|
-> | **1 – Baujahr/Variante** | Andere Serien-Recherche nennt eine **Suntour NCX-D LO 63 mm**-Gabel; der **Katalog 2007** nennt dagegen **RST Vogue TNL** ✅ = **dein Rad**. Und: der Katalog nennt **„A-Head semi-integriert"** – **dein Rad hat Gewindesteuersatz + Quill-Vorbau** → 🔴 **anderes Baujahr** |
+**dein Rad hat Gewindesteuersatz + Quill-Vorbau.** 🔴 **Nachrecherche über vier Modelljahre (2007/2008/2012/2016): *alle* A-Head** → die Baujahr-These ist **hinfällig**. ✅ **Echte Erklärung: EC34 kann beides** – Gewinde- **und** A-Head-Steuersatz teilen sich dasselbe **33,9-mm-Steuerrohr** ⇒ das Rad war **original A-Head** und wurde beim **Bergamont-Gabeltausch auf Gewinde umgebaut** ⇒ 🔴 **Plan A-Head** (Rückrüstung, **Vorbau schon vorhanden**) |
 > | **2 – Spezialwünsche des Händlers** | ✅ **BELEGT.** Zehn Bauteile = **exakt Daytona-Spec**. **Genau zwei** weichen ab – **beide zum teureren Idaho-Spec, beide am Lenker**: Schalthebel **SL-M580** + Bremshebel **BL-M571** (**Deore LX**). Der Besitzer erinnerte **„es ging um die Schaltarmaturen"** → 🔴 **Treffer.** Ein **Upgrade**, kein Mangel |
 > | **3 – Umbauten über die Jahre** | ⛔ **Umwerfer FD-C050 ist NICHT original** (Behelf nach einem Sturz, original wäre **Deore FD-M530**) · Anbauten (Schutzblech/Träger/Licht) kamen später · zuletzt der **Teile-Swap** vom Bergamont |
 >

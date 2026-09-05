@@ -26,7 +26,10 @@ Legende: `☐` = noch offen · `☑` = erfasst
 > ⚠️ **Warum das neu ist:** Ein **Staiger-Katalogauszug 2007** nennt die Vogue TNL
 > **„mit Aluschaft"** in einem Rad mit **„A-Head semi-integriert"**-Steuersatz und
 > **A-Head-Vorbau**. Dieses Rad hat aber **Gewindesteuersatz + Quill-Vorbau**.
-> Wahrscheinlich anderes Baujahr – aber 🔴 **prüfen, nicht annehmen.** Ein Kühlschrankmagnet
+> 🟢 **Geklärt (2026-09-05): *kein* anderes Baujahr.** Nachrecherche über **vier Modelljahre
+> (2007/2008/2012/2016) – alle A-Head.** Die Erklärung ist **EC34 kann beides**: Gewinde- und
+> A-Head-Steuersatz teilen sich dasselbe **33,9-mm-Steuerrohr** → **Plan A-Head** (Rückrüstung).
+> 🔴 **Trotzdem prüfen, nicht annehmen.** Ein Kühlschrankmagnet
 > genügt. → [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md)
 >
 > 🔴 **Die 6 wichtigsten Messungen – NEU (damit ist fast alles bestellbar):**
@@ -69,7 +72,11 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☑ | Gabelschaft-Ø **außen** am Gewinde | ❓ **28,6 mm (1⅛″)** oder **25,4 mm (1″)** CroMo – 🔴 **messen!** | ✅ **1⅛″ = 28,6 mm** (Gewinde **24 tpi**) |
 | 🔴 | **Standrohr-Ø** | 🔴 ❓ ____ mm (**25,4** laut Katalog 2008, **28,6** laut Ersatzteil-Liste) → **entscheidet den Dichtungssatz!** | ❓ ____ mm (Stahl) |
 | 🔴🔴 | **SCHRITT 0a – Außengewinde am Schaft sichtbar?** | ❓ **Gewinde** ✅ / **glatt** ⛔ (= Ahead-Gabel, passt nicht!) | – |
-| 🔴🔴 | **SCHRITT 0b – MAGNET-TEST am Schaft** | ❓ **haftet** = Stahl ✅ / **haftet nicht** = **Alu** ⛔ (Quill-Vorbau riskant!) | – |
+| 🔴🔴 | **SCHRITT 0b – MAGNET-TEST am Schaft** *(nur noch Gegenprobe)* | ❓ **haftet** = Stahl ✅ / **haftet nicht** = **Alu** ⛔ · 🟢 **Bei Plan A-Head wird Alu *erwartet* und ist unbedenklich** – ein A-Head-Vorbau klemmt außen, kein Keil spreizt den Schaft | – |
+| 🆕🔴 | **SCHRITT 0d – Stehen die Lagerschalen AUẞEN vor dem Steuerrohr?** | ❓ **EC** (vorstehend) ✅ = **33,9 mm** → A-Head-Rückrüstung möglich / **ZS** (bündig innen) ⛔ = **44 mm** | – |
+| 🆕🔴 | **Steuerrohr-Ø STAIGER** (Messschieber) | ❓ ____ mm – **EC34 ≈ 33,9 innen / ~40 außen**, **ZS44 ≈ 44 innen / ~50 außen** | ❓ ____ mm |
+| 🆕🔴 | **RST-Schaftlänge für A-Head** | 🔴 nötig: **Steuerrohrlänge + Einbauhöhe Steuersatz + Klemmhöhe Vorbau + 5 mm** · ❓ ____ mm | – |
+| 🆕 | **XLC-Comp-A-Head-Vorbau: Klemm-Ø** | ❓ ____ mm (**25,4 / 26,0 / 31,8**) – muss zum Lenker passen | – |
 | 🔴 | **Fingernageltest an den Standrohren** | 🔴 ❓ **Grübchen (Pitting) ja/nein** – ⛔ **bei ja: Gabel unrettbar** | ❓ |
 | 🔴 | **Schaftlänge gesamt** (Krone → Schaftspitze) | ❓ ____ mm | ❓ ____ mm (ab Werk **210** oder **225 mm**) |
 | 🔴 | **Gewindelänge am Schaft** | ❓ ____ mm | ❓ ____ mm (NEX ab Werk ca. **55 mm** oben!) |
@@ -261,7 +268,7 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | ☐ | **In welche Richtung kippt das Rad?** | |
 | ☐ | Neigungswinkel des Rads im Stand (°) | |
 | ☐ | Gepäckträger vorhanden? Lochabstände? | |
-| 🔴 | **Sattelstützen-Ø** – 🔴 **bitte UNTER der Klemme neu ablesen!** (Original-Daytona: **XLC Comp 27,2 mm**. Deine Notiz „31,35 mm AD" ist fast sicher das **Sitzrohr außen** oder die **Klemme**) | ❓ ____ mm |
+| ✅ | **Sattelstützen-Ø** – **logisch geklärt** (2026-09-05). Besitzer: *„ich hab ja auch nur das obere getauscht und das Rohr behalten"* → **die Stütze am Rad ist die ORIGINALE XLC Comp.** Zwei Katalogjahrgänge nennen **27,2 mm**. Damit ist **„31,35 mm AD" nicht die Stütze**, sondern Sitzrohr außen oder Klemme. 💡 **10-Sekunden-Bestätigung:** Stempel unter der Klemme ablesen | ✅ **27,2 mm** erwartet · ❓ ____ mm |
 | ☐ | Sattelklemmen-Ø / Typ | ❓ **31,35 mm?** |
 | ☐ | Sattel: Modell | |
 | ☐ | Zuganschläge: Zustand, Ø | |
@@ -304,7 +311,7 @@ Legende: `☐` = noch offen · `☑` = erfasst
 | 🔴 | **RST Vogue TNL: Schaftende mit Gewinde** | 🔴 Schaftlänge/Gewindelänge → Baustelle 6 |
 | 🔴 | **Bergamont-Rahmenprägung `52 T4/T6 Heat Treated 6061 Lite Alloy`** | ✅ Spenderrad-Identifikation belegen |
 | 🔴 | **Bremshebel am Lenker, beide Klemmschellen im Bild** | ✅ Ursache von Baustelle 3 dokumentieren |
-| ☐ | **Sattelstützen-Stempel unter der Klemme** | 🔴 27,2 mm? |
+| ☐ | **Sattelstützen-Stempel unter der Klemme** | ✅ **27,2 mm** erwartet (original XLC Comp, **noch am Rad**) – reine Bestätigung |
 | ☐ | **Umwerfer-Schelle mit Maßband** | 🔴 28,6 oder 31,8 mm |
 | ☐ | **Innenlager nach Ausbau (Abdruck BB-ES25 + Achslänge)** | 🔴 113/118/121/126 mm |
 | ☐ | Felgen-Bremsflanke v/h, Nahansicht mit Verschleißindikator | 🔴 Verschleiß |

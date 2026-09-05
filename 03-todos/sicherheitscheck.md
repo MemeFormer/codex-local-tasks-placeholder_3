@@ -40,7 +40,7 @@ bevor du längere Strecken fährst.** Dauer: 3 Minuten.
 | ☐ | Leichtgängigkeit Steuersatz | Rad vorne anheben, Lenker einschlagen → fällt leicht zur Seite, **rastet nicht** in der Mitte ein |
 | ☐ | Lagerspiel Vorderrad (Nabendynamo) | Rad in der Hand, Achse seitlich wackeln → kein Spiel. ✅ **#13 erledigt** – nur Nachkontrolle |
 | ☐ | Lagerspiel Hinterrad | dito. ✅ **#4 erledigt** („hat sich eingespielt") – **Nachkontrolle nach ca. 100 km** |
-| ☐ | 🔴 **Federgabel** | Auf Last drücken: federt **und dämpft** sie? Kein Öl an den Tauchrohren? Standrohre sauber? | 🔴 **Baustelle #14**: RST Vogue TNL ist **ohne Dämpfung** – aktuell ist die NEX verbaut |
+| ☐ | 🔴 **Federgabel** | Auf Last drücken: federt **und dämpft** sie? Kein Öl an den Tauchrohren? Standrohre sauber? 🔴 **Baustelle #14:** die RST Vogue TNL ist **ohne Dämpfung** – aktuell ist die NEX verbaut. 🟢 **Bei Plan A-Head kommt die RST zurück** |
 | ☐ | Speichenspannung | Alle Speichen mit Daumen/Zeigefinger drücken → keine lose |
 | ☐ | Rundlauf | Felge beobachten beim Drehen → kein Schleifen an Belag/Schutzblech |
 | ☐ | Schutzblech-Schrauben | fest, Streben berühren keine Speichen |

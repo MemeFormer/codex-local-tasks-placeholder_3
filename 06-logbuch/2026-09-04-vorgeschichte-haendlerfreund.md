@@ -207,15 +207,32 @@ semi-integrierte Schalen kann **keine** externen Gewindeschalen aufnehmen.
 
 ### 4.2 Drei mögliche Erklärungen
 
+> ⛔ **ÜBERHOLT (2026-09-05).** Die Erklärungen **1 und 2** unten sind **widerlegt** –
+> sie standen unter der Annahme, ein Gewindesteuersatz sei in einem A-Head-Rahmen
+> **nicht** möglich. Das ist falsch: **EC34 kann beides.** Eine Nachrecherche über
+> **vier Modelljahre (2007/2008/2012/2016)** zeigt außerdem **alle A-Head** – es gibt
+> **kein** Daytona-Jahr mit Gewindesteuersatz, Erklärung 1 hätte also nichts erklärt.
+> 🟢 **Die richtige Erklärung steht in Abs. 7** (und im Folgeeintrag
+> [`2026-09-05-vier-antworten-ahead-wende.md`](2026-09-05-vier-antworten-ahead-wende.md)):
+> **das Rad war original A-Head und wurde beim Bergamont-Gabeltausch auf Gewinde
+> umgebaut – umkehrbar = Plan A-Head.** Erklärung **3** war der Richtung nach richtig,
+> nur beim **Zeitpunkt** zu früh angesetzt (nicht beim Kauf, sondern **später**).
+> Der Befund aus Abs. 4.1 bleibt **unverändert gültig**.
+
 1. **Das Rad ist ein anderes Modelljahr.** Die Staiger Daytona Sport Line lief über mehrere
    Jahre; **2007** war sie laut Katalog **A-Head**. Ein **früheres Baujahr** (ca. 2004–2006)
    mit **Gewindesteuersatz 1⅛″ + Quill-Vorbau** wäre für ein Trekkingrad dieser Klasse
-   **völlig üblich**. 🔴 **Das ist die wahrscheinlichste Erklärung**, weil der **gesamte
-   Antrieb exakt dem 2007er Daytona-Spec entspricht** und ein Umbau des Steuerrohrs
-   praktisch ausgeschlossen ist.
+   **völlig üblich**. ~~🔴 **Das ist die wahrscheinlichste Erklärung**~~ ⛔ **WIDERLEGT:**
+   die Nachrecherche über **vier Modelljahre** zeigt **alle A-Head** – ein Gewinde-Jahrgang
+   existiert **nicht**. Und „ein Umbau des Steuerrohrs ist praktisch ausgeschlossen" war
+   **der Denkfehler**: umgebaut wurde **nicht das Steuerrohr**, sondern nur **Schalen,
+   Lager und Oberteile** → **Abs. 7.1**.
 2. **Die RST Vogue TNL gab es in beiden Ausführungen.** Der RST-Katalog 2008 listet
    **CroMo-Schäfte 28,6 mm (1⅛″) und 25,4 mm (1″)** – also **Stahl, mit Gewinde** –
-   **neben** Ahead-Versionen. 🔴 **Ein Gewinde-Schaft ist bei RST Standard, kein Exot.**
+   **neben** Ahead-Versionen. ~~🔴 **Ein Gewinde-Schaft ist bei RST Standard, kein Exot.**~~
+   ⛔ **überholt:** RST baut **Gewindeschäfte nur in CrMo** und **Aluschäfte nur für Ahead**
+   → **Gewinde ⇒ Stahl, Alu ⇒ glatter Ahead-Schaft.** Da der Vorbau **A-Head** war, ist die
+   RST die **Ahead-Ausführung mit Aluschaft** → **Abs. 3.0.1 der RST-Diagnose**.
 3. **Der Freund hat auch hier getauscht.** Bei einem Händler, der auf Wunsch abweichende
    Teile montiert, ist auch ein **abweichender Steuersatz/Vorbau** denkbar.
 
@@ -294,7 +311,70 @@ neu lösen** (die NEX hatte die Ösen, die RST evtl. nicht) → Universal-/P-Sch
 
 ---
 
-## 7. Was sich in der Dokumentation geändert hat
+## 7. 🆕 Nachrecherche über vier Modelljahre (2026-09-05 ergänzt)
+
+Der Widerspruch aus Abs. 4 (Katalog: **A-Head + Aluschaft** · dieses Rad: **Gewinde +
+Quill-Vorbau**) wurde zunächst mit **„anderes Baujahr"** erklärt. Eine Nachrecherche über
+**vier Modelljahre** hat diese These **widerlegt**:
+
+| Jahr | Quelle | Gabel | Steuersatz | System |
+|---|---|---|---|---|
+| **2007** | MTB-News-Thread 275745 | **RST Vogue TNL, lockout, mit Aluschaft** | **VP A45AC A-Head semi-integriert 1⅛″** | 🔴 **A-Head** |
+| **2008** | fahrrad-blaschke.de (idbike=22927) | **RST Vita TNL** | **VP A45AC A-Head semi-integriert** | 🔴 **A-Head** |
+| **2012** | radforum.de 390360 | – | **VP A77CKT Ahead 1⅛″** | 🔴 **A-Head** |
+| **2016** | marktplatz.bike / bicis-sancho | **Suntour NEX HLO 75 mm** | **VP-B307AC A-Head IS41/IS52** | 🔴 **A-Head** |
+
+➡️ 🔴 **Alle vier Jahrgänge: A-Head.** Es gibt **kein** Daytona-Modelljahr mit
+Gewindesteuersatz. Die Baujahr-These hätte den Widerspruch also nur **verschoben**.
+
+### 7.1 Die bessere Erklärung: **EC34 kann beides**
+
+| Standard | Steuerrohr-Ø | Gabelschaft | System |
+|---|---|---|---|
+| **EC34/28,6 – EC34/26,4** | **33,9 mm** | 1⅛″ **mit Gewinde** | Gewindesteuersatz |
+| **EC34/28,6 – EC34/30** | **33,9 mm** | 1⅛″ **glatt** | **A-Head** |
+
+**Beide Zeilen haben *dasselbe* Steuerrohr.** Es wechseln nur **Lagerschalen, Lager und
+Oberteile** – der Rahmen bleibt derselbe. Und: am Rad ist ein **Gewindesteuersatz
+eingebaut, und das Rad fährt** ⇒ das Steuerrohr ist **33,9 mm = EC34** (in ein ZS44-Rohr
+mit 44 mm ließen sich EC34-Schalen nicht einpressen).
+
+➡️ 🟢 **Der Rahmen legt sich auf kein System fest.** Der Gewinde-Zustand ist eine
+**Umrüstung** – naheliegend beim **Gabeltausch mit dem Bergamont** – und sie ist
+**umkehrbar**. **Der Katalog hatte beim System recht (A-Head) und bei der Bauart unrecht
+(semi-integriert = ZS44; tatsächlich EC34).**
+
+### 7.2 🔴 Konsequenz: Planwechsel zu **„Plan A-Head"**
+
+Gestützt durch die Antwort des Besitzers auf **Prüfung 0c** (der Originalvorbau war
+**„fast sicher ein A-Head-Vorbau"** und ist **noch vorhanden**) ist nicht mehr
+**Plan A+** (RST + Quill-Vorbau) der führende Weg, sondern die **Rückrüstung auf A-Head**.
+⛔ **Eine Ahead-Gabel mit Aluschaft darf nie einen Quill-Keil spreizen.**
+
+➡️ **Vollständig begründet im nächsten Eintrag:**
+[`2026-09-05-vier-antworten-ahead-wende.md`](2026-09-05-vier-antworten-ahead-wende.md)
+
+### 7.3 Zwei weitere TODOs sind durch die Kataloge geschlossen
+
+| TODO | ✅ Auflösung | Beleg |
+|---|---|---|
+| **Umwerfer-Schellen-Ø** | **31,8 mm** – **FD-M530, Dual Pull, Top Swing, 9-fach, 22 Zähne Kapazität, max. 48 Zähne** = exakt die vorhandene **48-36-26**-Kurbel | Katalog **2008** |
+| **Schlauch-Ventil** | **Sclaverand (SV / Presta)** | Katalog **2008**: *„Conti Double Fighter II Lite **42-622** Reflex **SV Ventil**"* – **42-622 ist die Größe vorne am Rad** |
+
+🔴 **Beides am Rad gegenprüfen** – Prospekt ≠ dein Rad.
+
+### 7.4 ⚠️ Was an Abs. 4 dadurch **überholt** ist
+
+| Aussage in Abs. 4 | Status |
+|---|---|
+| „Katalog nennt **A-Head semi-integriert**, dieses Rad hat **Gewinde** → passt nicht" | ✅ **Befund bleibt richtig** |
+| „⇒ **anderes Baujahr** als 2007" | ⛔ **WIDERLEGT** – vier Jahrgänge, alle A-Head; **EC34 kann beides** |
+| „⇒ die RST Vogue TNL wäre die **Gewinde**-Variante mit **CroMo-Schaft**" | ⛔ **überholt** – bei A-Head-Originalzustand ist die RST die **Ahead-Ausführung mit Aluschaft**. **Plan A-Head** statt Plan A+ |
+| 🔴 **Magnet-Test + Gewinde-Prüfung (0a/0b) bleiben nötig** | ✅ **unverändert gültig** – sie sind jetzt die **Gegenprobe** zu 0c |
+
+---
+
+## 8. Was sich in der Dokumentation geändert hat
 
 | Datei | Änderung |
 |---|---|
@@ -306,4 +386,7 @@ neu lösen** (die NEX hatte die Ösen, die RST evtl. nicht) → Universal-/P-Sch
 | [`../02-teile/00-teil-identifizieren.md`](../02-teile/00-teil-identifizieren.md) | 🔴 **„Prospekt ≠ dein Rad"** bekommt eine **zweite, belegte Ursache**: **Händler-Spezialwünsche** |
 | [`../README.md`](../README.md) | Baustellen-Tabelle um **#15** erweitert, **#14**-Entscheidung vermerkt |
 
-**Baustellen:** #9 #14 **#15** · **Nächster Schritt:** 🔴 **Magnet an den RST-Schaft halten**
+⚠️ **Abs. 4 und 7 sind teilweise überholt** – siehe **Abs. 7.4** und den Folgeeintrag
+[`2026-09-05-vier-antworten-ahead-wende.md`](2026-09-05-vier-antworten-ahead-wende.md).
+
+**Baustellen:** #9 #14 **#15** · **Nächster Schritt:** 🔴 **Fotos vom Vorbau (0c)** + **Prüfung 0d**

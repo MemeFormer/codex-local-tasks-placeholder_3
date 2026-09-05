@@ -103,12 +103,19 @@ prüft, ob das Tauchrohr Riefen oder Rostpickel hat. **Dasselbe Prinzip hier.**
 > **„XLC Comp Alu A-Head"**-Vorbau.
 > **Dieses Rad läuft aber mit einem Gewindesteuersatz 1⅛″ × 24 tpi und einem Quill-Vorbau.**
 > **Beides zusammen passt nicht.** → [`../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md`](../06-logbuch/2026-09-04-vorgeschichte-haendlerfreund.md) Abs. 4
+>
+> 🟢 **Auflösung (2026-09-05):** Der Widerspruch ist **kein** Beleg für ein anderes Baujahr.
+> **EC34 kann beides** – Gewinde- **und** A-Head-Steuersatz teilen sich dasselbe
+> **33,9-mm-Steuerrohr**. Der Katalog hatte **beim System recht (A-Head)** und **bei der
+> Bauart unrecht (semi-integriert = ZS44)**. → **Abs. 3.0.3** und
+> [`../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md`](../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md)
 
 | ☐ | Prüfung | Wie | 🔴 Konsequenz |
 |---|---|---|---|
 | ☐ | **0a – Hat der RST-Schaft ein Außengewinde?** | Anschauen: **Gewinde sichtbar** oder **glatter Schaft**? | ⛔ **Glatt = Ahead-Gabel.** Die passt **nicht** in einen Gewinderahmen mit Quill-Vorbau → **Plan A+ ist gescheitert, bevor er begonnen hat.** Dann: Ahead-Umbau oder andere Gabel. |
 | ☐ | **0b – Ist der Schaft Stahl oder Aluminium?** | 🔴 **MAGNET-TEST** – Magnet haftet = **CroMo/Stahl** ✅, haftet **nicht** = **Aluminium** ⛔ | 🔴 **Bei Aluminium + Quill-Vorbau: kritisch.** Ein Quill-Vorbau **spreizt einen Keil im Schaft**. **Alu-Schäfte können dabei aufreißen.** → dann **Ahead-Umbau** oder eine Gabel mit **Stahlschaft** |
-| ☐ | **0c – Welchen Vorbau-Typ hat der ORIGINAL-Staiger-Vorbau (XLC Comp)?** | 🔴 **Der entscheidende Beweis, und er liegt vermutlich im Keller.** Ein **A-Head-Vorbau** klemmt **außen** um einen glatten Schaft (+ Kappe mit Inbus oben). Ein **Quill-/Schaftvorbau** hat einen **langen Rohrstutzen zum Reinstecken** + Keil + **MIN-INSERTION-Prägung**. Der Katalog 2007 nennt **„XLC Comp Alu A-Head"**. 🔴 **Ist der Originalvorbau ein A-Head-Vorbau, war der Rahmen nie für einen Gewindesteuersatz gebaut** – dann passt die heutige NEX-Konfiguration nicht zum Originalzustand, und die RST-Gabel wäre die **Ahead-Variante**. **Ist er ein Quill-Vorbau, ist die Sache klar: Gewinderahmen, anderes Baujahr als der Katalog.** |
+| ☐ | 🟢 **0c – Vorbau-Typ des ORIGINAL-XLC-Comp-Vorbaus** | ✅ **BEANTWORTET (2026-09-05):** Besitzer: *„bin mir nicht 100% sicher aber fast, das es ein A-Head vorbau war"* – **und der Vorbau ist noch vorhanden** (*„ALLES"*). 🔴 **Fotos stehen aus.** | 🟢 **A-Head-Vorbau ⇒ das Rad war original ein A-Head-Rad** ⇒ **Plan A-Head** (Abs. 3.0.3). Der Gewinde-Zustand ist eine **spätere Umrüstung** – und **umkehrbar**, denn **EC34 kann beides** |
+| ☐ | 🆕 **0d – Stehen die Lagerschalen außen vor dem Steuerrohr?** | **Anschauen:** Kontermutter + **sichtbar vorstehende Schalen** = **EC** (extern) · sitzt alles **bündig im Rohr** = **ZS** (semi-integriert) | ✅ **EC34 (33,9 mm)** → **A-Head-Rückrüstung möglich** · ⛔ **ZS44 (44 mm)** → der heutige Gewinde-Zustand wäre **unerklärlich** → neu untersuchen. 🔴 **Zwei Sekunden, und fast sicher ✅** – denn das Rad **fährt** mit Gewindesatz |
 
 > 💡 **Der Magnet-Test ist der billigste und wichtigste Test des ganzen Projekts.**
 > Ein **Kühlschrankmagnet** genügt, Dauer **5 Sekunden**, Kosten **0 €**.
@@ -130,11 +137,91 @@ definitionsgemäß in den Original-Rahmen". Das stimmt **nur**, wenn es **diesel
 ist, mit der das Rad ausgeliefert wurde. Der Katalog zeigt, dass **mindestens eine**
 Daytona-Variante **A-Head mit Aluschaft** hatte. 🔴 **Also prüfen, nicht annehmen.**
 
-💡 **Hinweis zur Einordnung:** Die wahrscheinlichste Erklärung ist, dass **dieses Rad ein
-anderes Baujahr** ist als der Katalog von 2007 – denn **der gesamte Antrieb entspricht exakt
-dem 2007er Daytona-Spec** (RD-M511, FC-M530, ES-Octalink, FH-M530, CN-HG53, Deore-M530-Bremsen,
-Mach1-210-Felgen), und ein Rahmen lässt sich **nicht** von semi-integriert (ZS44) auf extern
-(EC34) umrüsten. 🔴 **Der Magnet-Test klärt es in 5 Sekunden – er ist billiger als jede Theorie.**
+### 🔴 3.0.1 Was der Schaft über die Gabel verrät – RST baut Gewinde **nur** in Stahl
+
+> **Quelle:** RST-Ersatzteil **„Steerer Tube"** (Bike24 **Art. 26275, 6,97 €**) – für
+> RST-Gabeln **ohne** fest eingepressten Schaft. Die lieferbaren Varianten koppeln
+> **Schaft-Typ** und **Material** fest aneinander:
+
+| Schaft-Typ | Lieferbare Längen | Material |
+|---|---|---|
+| **1⅛″ Gewinde** | 160 / 200 / 225 mm (60 mm Gewinde) / 300 mm (100 mm Gewinde) | 🔴 **alle CrMo (Stahl)** |
+| **1⅛″ Ahead** | 240 / 300 mm | **CrMo** |
+| **1⅛″ Ahead** | 240 / 260 mm | ✅ **Aluminium** |
+
+➡️ **Zwei feste Kopplungen:**
+
+| Befund | Schluss |
+|---|---|
+| ✅ **Gewinde sichtbar** | ⇒ **CrMo/Stahl** – RST baut **keine** Gewindeschäfte in Alu ⇒ **der Magnet muss haften** |
+| ⛔ **Schaft glatt + Magnet haftet NICHT** | ⇒ **Ahead-Ausführung mit Aluschaft** ⇒ 🔴 **Plan A-Head** (Abs. 3.0.3), **nicht** Plan A+ |
+
+🟢 **Damit sind 0a und 0b keine zwei unabhängigen Fragen, sondern *eine*:** Sie bestätigen
+sich gegenseitig. **Widersprechen** sie sich (Gewinde **und** Alu), ist etwas faul → neu prüfen.
+
+⚠️ **Offen:** Die **moderne RST Vogue RL** hat einen **„fest eingepressten Alu-Gabelschaft"**.
+Ob der Schaft der **Vogue TNL** auspressbar ist, ist unklar → **Dirk / Paul Lange fragen**
+([`../03-todos/fragen-an-dirk.md`](../03-todos/fragen-an-dirk.md) **Frage 2**).
+
+### 🔴 3.0.2 Plan C – neuer Schaft, falls die Gabel sonst gut ist
+
+Falls die RST **mechanisch gesund** ist (Standrohre bestehen den Fingernageltest), aber der
+**Schaft zu kurz** oder beschädigt ist:
+
+| ☐ | Teil | Spec | Preis | Quelle |
+|---|---|---|---|---|
+| ☐ | **RST „Steerer Tube"** | 🔴 **1⅛″ Ahead, Alu, 240 oder 260 mm** · alternativ **1⅛″ Gewinde, CrMo, 225/300 mm** | ✅ **6,97 €** | **Bike24, Art. 26275** |
+
+🔴 **Voraussetzung:** Der Schaft muss **auspressbar** sein (siehe Abs. 3.0.1, ⚠️). Ist er
+**fest eingepresst**, ist Plan C **nicht** umsetzbar → dann Plan B (andere Gabel).
+💡 **Arbeit:** Krone umsetzen + Schaft einpressen = **Werkstatt** → **Dirk / Radmobil**.
+
+### 🟢 3.0.3 PLAN A-HEAD – Rückrüstung auf den Originalzustand (führender Weg)
+
+> 🔴 **Neu seit 2026-09-05.** Prüfung **0c** ist beantwortet: der Originalvorbau war
+> **„fast sicher ein A-Head-Vorbau"** – **und er ist noch vorhanden.** Damit ist **nicht**
+> Plan A+ (Gewinde + Quill) der führende Weg, sondern **Plan A-Head**.
+
+**Der Schlüssel: EC34 kann beides.**
+
+| Standard | Steuerrohr-Ø | Gabelschaft | System |
+|---|---|---|---|
+| **EC34/28,6 – EC34/26,4** | **33,9 mm** | 1⅛″ **mit Gewinde** | Gewindesteuersatz |
+| **EC34/28,6 – EC34/30** | **33,9 mm** | 1⅛″ **glatt** | **A-Head** |
+
+Am Rad ist ein **Gewindesteuersatz eingebaut, und das Rad fährt** ⇒ das Steuerrohr ist
+**33,9 mm = EC34** (in ein ZS44-Rohr mit 44 mm ließen sich EC34-Schalen **nicht** einpressen).
+➡️ **Derselbe Rahmen nimmt auch ein A-Head-System auf.** Der Gewinde-Zustand ist eine
+**Umrüstung** – und sie ist **umkehrbar**.
+
+| | 🔴 Plan A+ (Quill, bisher) | 🟢 **Plan A-Head (führend)** |
+|---|---|---|
+| Originalzustand? | ❌ nein – Umbau | ✅ **ja – Rückrüstung** |
+| **Baustelle #1** (MIN-INSERTION) | 🔴 bleibt | 🟢 **gegenstandslos** |
+| **Baustelle #6** (Gewinde zu kurz) | 🔴 bleibt | 🟢 **gegenstandslos** |
+| **Baustelle #5** (Cantistifte) | 🔴 längere M8-Stifte, 14,90 € | 🟢 **wahrscheinlich gegenstandslos** (🔴 messen) |
+| **Aluschaft-Risiko** | ⛔ Quill-Keil spreizt Alu | ✅ **entfällt** – A-Head klemmt **außen** |
+| Vorbauhöhe | 🔴 über Gewinde begrenzt | ✅ **frei über Spacer** |
+| Geometrie | NEX 63 mm = **fremd** | ✅ **RST ca. 50 mm = original** |
+| **Vorbau** | BGM-Quill (fremd) | ✅ **original XLC Comp – vorhanden, 0 €** |
+| Neue Teile | längere Cantistifte | **EC34-A-Head-Steuersatz 10–25 €** |
+
+**Was sich *nicht* ändert:** Die RST muss **trotzdem instand gesetzt** werden (Öl
+ausgetreten, Staubschabring, Flugrost). 🔴 **Der Fingernageltest bleibt das
+Ausschlusskriterium** – Grübchen = unrettbar, dann ist **auch Plan A-Head tot**.
+
+**Vor dem Kauf messen:**
+
+- 🔴 **RST-Schaftlänge** – nötig: **Steuerrohrlänge + Einbauhöhe Steuersatz + Klemmhöhe
+  Vorbau + ca. 5 mm**. War die Gabel original an diesem Rahmen, ist der Schaft
+  **wahrscheinlich bereits passend gekürzt** → ✅ vermutlich unkritisch. **Trotzdem messen.**
+- 🔴 **RST-Cantistifte vs. originale Deore-Bremsarme** – passen die **weißen** Arme auf die
+  RST-Sockel? (Am Bergamont passten sie **nicht**, weil dessen Stifte **kürzer** sind.)
+- ⚠️ **Schutzblech + Lichthalter** sitzen aktuell an der NEX → an der RST **neu befestigen**.
+  Der Besitzer hat diese Bastelei **ausdrücklich in Kauf genommen**.
+
+➡️ **Begründung im Wortlaut:**
+[`../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md`](../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md)
 
 ---
 
@@ -197,6 +284,7 @@ Mach1-210-Felgen), und ein Rahmen lässt sich **nicht** von semi-integriert (ZS4
 | ☐ | **MCU-Elastomer** (Anschlagpuffer, falls ausgehärtet) | ❓ RST-Ersatzteil über **Paul Lange** | ❓ | Paul Lange (RST-Vertrieb DE) |
 | ☐ | **Chrompolitur / Stahlwolle 0000** | zum Entfernen des Flugrosts auf den Standrohren | 5–10 € | Autoteile-/Politurbedarf |
 | ☐ | **Dichtring-Satz komplett** (falls nur die Abstreifdichtung nicht reicht) | ❓ über **Paul Lange** mit Modellangabe | 15–40 € | Paul Lange |
+| ☐ | 🆕 **RST „Steerer Tube"** (nur **Plan C**, falls der Schaft zu kurz ist) | 🔴 **1⅛″ Ahead, Alu, 240/260 mm** · oder **1⅛″ Gewinde, CrMo, 225/300 mm** → **Abs. 3.0.2** | ✅ **6,97 €** | **Bike24, Art. 26275** |
 
 💰 **Summe für die Rettung: ca. 25–50 €** bei Eigenarbeit.
 
@@ -232,40 +320,71 @@ Mach1-210-Felgen), und ein Rahmen lässt sich **nicht** von semi-integriert (ZS4
 
 ## 5. 🎯 Entscheidungsbaum
 
-```
-🔴🔴 SCHRITT 0 (5 Sekunden, 0 €): MAGNET + GEWINDE am Schaft
-   │
-   ├─► glatter Schaft (Ahead) ─► ⛔ FALSCHE VARIANTE für diesen Rahmen
-   │        └─► Plan A+ ENTFÄLLT ─► direkt zu „Gabel unbrauchbar" unten
-   │
-   ├─► Gewinde + Magnet haftet NICHT (Alu) ─► ⚠️ Quill-Vorbau nur mit Vorsicht
-   │        └─► Keil nicht stark spreizen · besser: Ahead-Umbau (Variante D)
-   │
-   └─► ✅ Gewinde + Magnet haftet (Stahl) ─► WEITER zu Schritt 1 👇
+> 🔴 **Überarbeitet 2026-09-05.** Der Besitzer hat Prüfung **0c** beantwortet: der
+> Originalvorbau war **„fast sicher ein A-Head-Vorbau"** – **und er ist noch vorhanden.**
+> Damit ist **nicht mehr Plan A+ (Gewinde + Quill) der führende Weg, sondern Plan A-Head**
+> (Rückrüstung auf den Originalzustand). Begründung: [`../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md`](../06-logbuch/2026-09-05-vier-antworten-ahead-wende.md)
 
-Standrohre: nur Flugrost, keine Pickel?
+```
+🔴🔴 SCHRITT 0 (Sekunden, 0 €): 0a GEWINDE am Schaft · 0c VORBAU-Typ · 0d LAGERSCHALEN außen?
    │
-   ├─► JA ──► 🔴 RST Vogue TNL RETTEN (25–50 €, 2 h)
-   │            ├─► Baustelle #6 GELÖST  (Original-Schaftlänge = genug Gewinde)
-   │            ├─► Baustelle #1 GELÖST  (Vorbau-Einstecktiefe erreichbar)
-   │            ├─► Baustelle #5 GELÖST  (Original-Bremssockel passen zu den Deore-Armen)
-   │            ├─► Lock-out + Preload wieder nutzbar
-   │            └─► ⚠️ NEU zu lösen: Schutzblech-Öse an der RST-Gabel?
-   │                     ├─ ja → Schutzblech passt direkt
-   │                     └─ nein → Universal-/P-Schellen, 3–8 €
+   ├─► 0c = A-Head-Vorbau (🟢 Besitzer: „fast sicher") ─► 🔴 PLAN A-HEAD 👇 (führender Weg)
+   │        Rahmen ist EC34 → Gewinde UND A-Head passen → Rückrüstung auf Original
+   │
+   └─► 0c = Quill-Vorbau (oder Foto widerlegt) ─► PLAN A+ 👇 (bisheriger Weg)
+
+──────────────────── 🔴 PLAN A-HEAD (führend) ────────────────────
+0d: Lagerschalen stehen außen vor? (= EC34, 33,9 mm)
+   │
+   ├─► NEIN (bündig/innen = ZS44, 44 mm) ─► ⛔ Stopp: der heutige Gewinde-Zustand
+   │        wäre unerklärlich → neu untersuchen
+   │
+   └─► JA (EC34) ─► RST-Schaftlänge reicht für Steuerrohr + Steuersatz + Vorbau + 5 mm?
+            │
+            ├─► JA ─► 🟢 RST RETTEN + A-Head-Steuersatz (10–25 €) + ORIGINALER
+            │           XLC-Comp-A-Head-Vorbau (0 €)
+            │            ├─► Baustelle #6 GEGENSTANDSLOS (kein Gewinde mehr)
+            │            ├─► Baustelle #1 GEGENSTANDSLOS (kein Quill-Vorbau mehr)
+            │            ├─► Baustelle #5 wahrscheinlich GEGENSTANDSLOS (🔴 messen)
+            │            ├─► Aluschaft-Risiko ENTFÄLLT (A-Head klemmt außen)
+            │            ├─► Vorbauhöhe frei über Spacer
+            │            ├─► Geometrie wieder original (RST ~50 mm statt NEX 63 mm)
+            │            └─► ⚠️ NEU: Schutzblech + Lichthalter an der RST befestigen
+            │
+            └─► NEIN ─► Schaft zu kurz → Plan C (RST-Ersatzschaft 6,97 €, Abs. 3.0.2)
+                          oder andere Gabel
+
+──────────────────── PLAN A+ (nur falls 0c = Quill) ────────────────────
+0a GEWINDE am Schaft? · 0b MAGNET (Gegenprobe)
+   │
+   ├─► glatter Schaft (Ahead) ─► ⛔ passt nicht zum Quill-Vorbau
+   │        └─► dann trotzdem PLAN A-HEAD (s. o.) oder Plan C
+   │
+   └─► ✅ Gewinde sichtbar ─► = CroMo (RST baut Gewinde nur in CrMo, Abs. 3.0.1)
+            └─► WEITER zu Schritt 1 👇
+
+──────────────────── BEIDE PLÄNE: Schritt 1 ────────────────────
+Standrohre: nur Flugrost, keine Pickel?  (Fingernageltest)
+   │
+   ├─► JA ──► 🔴 RST Vogue TNL RETTEN (25–50 €, 2 h) + Lock-out/Preload wieder nutzbar
    │
    └─► NEIN ─► Gabel ist Schrott. Dann:
                  ├─► Variante A0: NEX-Gabel mit 225-mm-Schaft (50–90 €)
-                 │     └─► 🔴 Baustelle #5 bleibt: längere M8-Cantisockel nötig (15–16 €)
-                 └─► Variante D: Ahead-Umbau (70–130 €)
-                       └─► 🔴 Baustelle #5 bleibt ebenfalls
+                 │     └─► 🔴 Baustelle #5 bleibt: längere M8-Cantisockel (15–16 €)
+                 └─► 🔴 PLAN A-HEAD mit einer anderen Ahead-Gabel
+                       └─► #5 entfällt nur, wenn die neue Gabel passende Sockel hat
 ```
 
-🔴 **Variante D (Ahead-Umbau) ist auch der Weg, falls Schritt 0 ergibt, dass die RST-Gabel
-einen glatten Ahead-Schaft hat** – dann bleibt sie als Gabel nutzbar, aber Rahmen und
-Vorbau müssen auf Ahead umgestellt werden. ⚠️ **Vorher prüfen, ob das Steuerrohr
-semi-integriert (ZS44, 44 mm) oder extern (EC34, 33,9 mm) ist – die Standards sind
-nicht austauschbar!**
+🟢 **Der Ahead-Umbau ist hier keine Notlösung mehr, sondern die Rückrüstung auf den
+Originalzustand.** Der Rahmen ist **EC34** – und EC34 ist der eine 1⅛″-Standard, der
+**sowohl Gewinde als auch A-Head** aufnimmt: **dasselbe 33,9-mm-Steuerrohr**, es wechseln
+nur **Schalen, Lager und Oberteile**. Der heutige Gewinde-Zustand ist damit eine
+**Umrüstung** – und sie ist **umkehrbar**.
+
+⚠️ 🔴 **Prüfung 0d bleibt Pflicht, auch wenn sie fast sicher ✅ ausgeht:** Am Rad ist ein
+Gewindesteuersatz **eingebaut und das Rad fährt**. Gewinde 1⅛″ ist bauartbedingt **EC34**.
+In ein **semi-integriertes ZS44-Steuerrohr (44 mm)** ließen sich diese Schalen **nicht**
+einpressen. **Trotzdem hinschauen** – zwei Sekunden: **stehen die Schalen außen vor?**
 
 **💡 Wichtiger Nebeneffekt:** Wenn du die **RST-Gabel rettest**, brauchst du **keine**
 neuen Bremssockel, **keinen** Ahead-Umbau und **keine** neue Gabel – und du kannst wieder
